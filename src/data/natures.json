@@ -1,0 +1,127 @@
+[
+  {
+    "name": "怕寂寞",
+    "up": "help",
+    "down": "energy"
+  },
+  {
+    "name": "固执",
+    "up": "help",
+    "down": "ingredient"
+  },
+  {
+    "name": "顽皮",
+    "up": "help",
+    "down": "skill"
+  },
+  {
+    "name": "勇敢",
+    "up": "help",
+    "down": "exp"
+  },
+  {
+    "name": "大胆",
+    "up": "energy",
+    "down": "help"
+  },
+  {
+    "name": "淘气",
+    "up": "energy",
+    "down": "ingredient"
+  },
+  {
+    "name": "乐天",
+    "up": "energy",
+    "down": "skill"
+  },
+  {
+    "name": "悠闲",
+    "up": "energy",
+    "down": "exp"
+  },
+  {
+    "name": "内敛",
+    "up": "ingredient",
+    "down": "help"
+  },
+  {
+    "name": "慢吞吞",
+    "up": "ingredient",
+    "down": "energy"
+  },
+  {
+    "name": "马虎",
+    "up": "ingredient",
+    "down": "skill"
+  },
+  {
+    "name": "冷静",
+    "up": "ingredient",
+    "down": "exp"
+  },
+  {
+    "name": "温和",
+    "up": "skill",
+    "down": "help"
+  },
+  {
+    "name": "温顺",
+    "up": "skill",
+    "down": "energy"
+  },
+  {
+    "name": "慎重",
+    "up": "skill",
+    "down": "ingredient"
+  },
+  {
+    "name": "自大",
+    "up": "skill",
+    "down": "exp"
+  },
+  {
+    "name": "胆小",
+    "up": "exp",
+    "down": "help"
+  },
+  {
+    "name": "急躁",
+    "up": "exp",
+    "down": "energy"
+  },
+  {
+    "name": "爽朗",
+    "up": "exp",
+    "down": "ingredient"
+  },
+  {
+    "name": "天真",
+    "up": "exp",
+    "down": "skill"
+  },
+  {
+    "name": "害羞",
+    "up": null,
+    "down": null
+  },
+  {
+    "name": "勤奋",
+    "up": null,
+    "down": null
+  },
+  {
+    "name": "坦率",
+    "up": null,
+    "down": null
+  },
+  {
+    "name": "浮躁",
+    "up": null,
+    "down": null
+  },
+  {
+    "name": "认真",
+    "up": null,
+    "down": null
+  }
+]

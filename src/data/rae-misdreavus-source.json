@@ -1,0 +1,946 @@
+{
+  "verifiedAt": "2026-10-26",
+  "sources": [
+    "https://pks.raenonx.cc/zh/pokedex/200",
+    "https://pks.raenonx.cc/zh/pokedex/429",
+    "https://pks.raenonx.cc/zh/mainskill/info",
+    "https://pks.raenonx.cc/api/data/global-master"
+  ],
+  "baselineCapturedAt": "2026-10-26T00:42:19.052Z",
+  "actualChecks": 5,
+  "observations": [
+    {
+      "captureStartedAt": "2026-10-26T01:46:53Z",
+      "type": "manual-recovery",
+      "snapshot": "20261026T014653Z-snapshot.json"
+    },
+    {
+      "scheduledAt": "2026-10-26T10:00:00+08:00",
+      "captureStartedAt": "2026-10-26T02:00:29Z",
+      "type": "automated",
+      "snapshot": "20261026T020029Z-snapshot.json"
+    },
+    {
+      "scheduledAt": "2026-10-26T10:15:00+08:00",
+      "captureStartedAt": "2026-10-26T02:15:51.001Z",
+      "type": "automated",
+      "snapshot": "20261026T021549Z-snapshot.json"
+    },
+    {
+      "scheduledAt": "2026-10-26T10:30:00+08:00",
+      "captureStartedAt": "2026-10-26T02:31:21.277Z",
+      "type": "automated",
+      "snapshot": "20261026T023119Z-snapshot.json"
+    },
+    {
+      "scheduledAt": "2026-10-26T10:45:00+08:00",
+      "captureStartedAt": "2026-10-26T02:47:12.186Z",
+      "type": "automated",
+      "snapshot": "20261026T024710Z-snapshot.json"
+    }
+  ],
+  "confirmationPolicy": "Species production fields: three actual consecutive equal observations differing from the fixed initial RAE baseline; RAE settled is recorded separately. New skill effect table is a current-source definition verified at integration time, not a claim of three independent table reads.",
+  "production": [
+    {
+      "pokemon": {
+        "id": 200,
+        "name": "夢妖",
+        "specialty": "技能型",
+        "sleepType": "淺淺入夢",
+        "berry": "墨莓果",
+        "berryType": "幽灵",
+        "interval": 2800,
+        "carry": 13,
+        "ingredientRate": 0.15,
+        "skillRate": 0.047,
+        "mainSkill": "料理強化S",
+        "friendship": 16,
+        "medalGroup": 3,
+        "ingredients": [
+          {
+            "id": 4,
+            "name": "窝心洋芋",
+            "amounts": [
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "id": 17,
+            "name": "醒脑咖啡豆",
+            "amounts": [
+              2,
+              3
+            ]
+          },
+          {
+            "id": 12,
+            "name": "好眠番茄",
+            "amounts": [
+              4
+            ]
+          }
+        ],
+        "formKey": "夢妖"
+      },
+      "mainSkillId": 11,
+      "confirmedFields": {
+        "200.helpFrequencyBaseSec": {
+          "baseline": null,
+          "value": 2800,
+          "valid": true,
+          "consecutive": 5,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T01:46:55.304Z",
+            "2026-10-26T02:00:31.036Z",
+            "2026-10-26T02:15:51.001Z",
+            "2026-10-26T02:31:21.277Z",
+            "2026-10-26T02:47:12.186Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.186Z"
+        },
+        "200.ingredients": {
+          "baseline": null,
+          "value": {
+            "1": [
+              {
+                "id": 4,
+                "qty": 1,
+                "codeName": "A",
+                "probabilityAtLevel": 1
+              }
+            ],
+            "30": [
+              {
+                "id": 4,
+                "qty": 2,
+                "codeName": "A",
+                "probabilityAtLevel": 0.3333333333333333
+              },
+              {
+                "id": 17,
+                "qty": 2,
+                "codeName": "B",
+                "probabilityAtLevel": 0.6666666666666666
+              }
+            ],
+            "60": [
+              {
+                "id": 4,
+                "qty": 4,
+                "codeName": "A",
+                "probabilityAtLevel": 0.3333333333333333
+              },
+              {
+                "id": 17,
+                "qty": 3,
+                "codeName": "B",
+                "probabilityAtLevel": 0.3333333333333333
+              },
+              {
+                "id": 12,
+                "qty": 4,
+                "codeName": "C",
+                "probabilityAtLevel": 0.3333333333333333
+              }
+            ]
+          },
+          "valid": true,
+          "consecutive": 5,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T01:46:55.304Z",
+            "2026-10-26T02:00:31.036Z",
+            "2026-10-26T02:15:51.001Z",
+            "2026-10-26T02:31:21.277Z",
+            "2026-10-26T02:47:12.186Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.186Z"
+        },
+        "200.mainSkillId": {
+          "baseline": null,
+          "value": 11,
+          "valid": true,
+          "consecutive": 5,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T01:46:55.304Z",
+            "2026-10-26T02:00:31.036Z",
+            "2026-10-26T02:15:51.001Z",
+            "2026-10-26T02:31:21.277Z",
+            "2026-10-26T02:47:12.186Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.186Z"
+        },
+        "200.specialty": {
+          "baseline": null,
+          "value": "skill",
+          "valid": true,
+          "consecutive": 5,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T01:46:55.304Z",
+            "2026-10-26T02:00:31.036Z",
+            "2026-10-26T02:15:51.001Z",
+            "2026-10-26T02:31:21.277Z",
+            "2026-10-26T02:47:12.186Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.186Z"
+        },
+        "200.ingredientRate": {
+          "baseline": 0.2,
+          "value": 0.15,
+          "valid": true,
+          "consecutive": 4,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T02:00:31.036Z",
+            "2026-10-26T02:15:51.001Z",
+            "2026-10-26T02:31:21.277Z",
+            "2026-10-26T02:47:12.186Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.186Z",
+          "raeSettled": true
+        },
+        "200.skillPercent": {
+          "baseline": 0,
+          "value": 4.7,
+          "valid": true,
+          "consecutive": 4,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T02:00:31.036Z",
+            "2026-10-26T02:15:51.001Z",
+            "2026-10-26T02:31:21.277Z",
+            "2026-10-26T02:47:12.186Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.186Z",
+          "raeSettled": true
+        }
+      }
+    },
+    {
+      "pokemon": {
+        "id": 429,
+        "name": "夢妖魔",
+        "specialty": "技能型",
+        "sleepType": "淺淺入夢",
+        "berry": "墨莓果",
+        "berryType": "幽灵",
+        "interval": 2400,
+        "carry": 17,
+        "ingredientRate": 0.142,
+        "skillRate": 0.036,
+        "mainSkill": "魔法火焰（料理跃进S）",
+        "friendship": 20,
+        "medalGroup": 4,
+        "ingredients": [
+          {
+            "id": 4,
+            "name": "窝心洋芋",
+            "amounts": [
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "id": 17,
+            "name": "醒脑咖啡豆",
+            "amounts": [
+              2,
+              3
+            ]
+          },
+          {
+            "id": 12,
+            "name": "好眠番茄",
+            "amounts": [
+              4
+            ]
+          }
+        ],
+        "formKey": "夢妖魔"
+      },
+      "mainSkillId": 41,
+      "confirmedFields": {
+        "429.helpFrequencyBaseSec": {
+          "baseline": null,
+          "value": 2400,
+          "valid": true,
+          "consecutive": 5,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T01:46:56.238Z",
+            "2026-10-26T02:00:31.843Z",
+            "2026-10-26T02:15:51.698Z",
+            "2026-10-26T02:31:23.422Z",
+            "2026-10-26T02:47:12.841Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.841Z"
+        },
+        "429.ingredients": {
+          "baseline": null,
+          "value": {
+            "1": [
+              {
+                "id": 4,
+                "qty": 1,
+                "codeName": "A",
+                "probabilityAtLevel": 1
+              }
+            ],
+            "30": [
+              {
+                "id": 4,
+                "qty": 2,
+                "codeName": "A",
+                "probabilityAtLevel": 0.3333333333333333
+              },
+              {
+                "id": 17,
+                "qty": 2,
+                "codeName": "B",
+                "probabilityAtLevel": 0.6666666666666666
+              }
+            ],
+            "60": [
+              {
+                "id": 4,
+                "qty": 4,
+                "codeName": "A",
+                "probabilityAtLevel": 0.3333333333333333
+              },
+              {
+                "id": 17,
+                "qty": 3,
+                "codeName": "B",
+                "probabilityAtLevel": 0.3333333333333333
+              },
+              {
+                "id": 12,
+                "qty": 4,
+                "codeName": "C",
+                "probabilityAtLevel": 0.3333333333333333
+              }
+            ]
+          },
+          "valid": true,
+          "consecutive": 5,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T01:46:56.238Z",
+            "2026-10-26T02:00:31.843Z",
+            "2026-10-26T02:15:51.698Z",
+            "2026-10-26T02:31:23.422Z",
+            "2026-10-26T02:47:12.841Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.841Z"
+        },
+        "429.mainSkillId": {
+          "baseline": null,
+          "value": 41,
+          "valid": true,
+          "consecutive": 5,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T01:46:56.238Z",
+            "2026-10-26T02:00:31.843Z",
+            "2026-10-26T02:15:51.698Z",
+            "2026-10-26T02:31:23.422Z",
+            "2026-10-26T02:47:12.841Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.841Z"
+        },
+        "429.specialty": {
+          "baseline": null,
+          "value": "skill",
+          "valid": true,
+          "consecutive": 5,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T01:46:56.238Z",
+            "2026-10-26T02:00:31.843Z",
+            "2026-10-26T02:15:51.698Z",
+            "2026-10-26T02:31:23.422Z",
+            "2026-10-26T02:47:12.841Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.841Z"
+        },
+        "429.ingredientRate": {
+          "baseline": 0.2,
+          "value": 0.142,
+          "valid": true,
+          "consecutive": 3,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T02:15:51.698Z",
+            "2026-10-26T02:31:23.422Z",
+            "2026-10-26T02:47:12.841Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.841Z",
+          "raeSettled": true
+        },
+        "429.skillPercent": {
+          "baseline": 0,
+          "value": 3.6,
+          "valid": true,
+          "consecutive": 4,
+          "confirmed": true,
+          "observationTimes": [
+            "2026-10-26T02:00:31.843Z",
+            "2026-10-26T02:15:51.698Z",
+            "2026-10-26T02:31:23.422Z",
+            "2026-10-26T02:47:12.841Z"
+          ],
+          "lastObservedAt": "2026-10-26T02:47:12.841Z",
+          "raeSettled": true
+        }
+      }
+    }
+  ],
+  "mainSkills": {
+    "11": {
+      "id": 11,
+      "effectTypeId": 10,
+      "releaseEpochSec": 1722470400,
+      "i18nKey": {
+        "name": "11",
+        "desc": "11"
+      },
+      "maxLevel": 7,
+      "skillValue": {
+        "byLevel": [
+          {
+            "level": 1,
+            "data": 880
+          },
+          {
+            "level": 2,
+            "data": 1251
+          },
+          {
+            "level": 3,
+            "data": 1726
+          },
+          {
+            "level": 4,
+            "data": 2383
+          },
+          {
+            "level": 5,
+            "data": 3290
+          },
+          {
+            "level": 6,
+            "data": 4546
+          },
+          {
+            "level": 7,
+            "data": 5843
+          }
+        ]
+      },
+      "effect": {
+        "cookingPotExpansion": {
+          "byLevel": [
+            {
+              "level": 1,
+              "data": {
+                "capacity": 7
+              }
+            },
+            {
+              "level": 2,
+              "data": {
+                "capacity": 10
+              }
+            },
+            {
+              "level": 3,
+              "data": {
+                "capacity": 12
+              }
+            },
+            {
+              "level": 4,
+              "data": {
+                "capacity": 17
+              }
+            },
+            {
+              "level": 5,
+              "data": {
+                "capacity": 22
+              }
+            },
+            {
+              "level": 6,
+              "data": {
+                "capacity": 27
+              }
+            },
+            {
+              "level": 7,
+              "data": {
+                "capacity": 31
+              }
+            }
+          ]
+        }
+      }
+    },
+    "41": {
+      "id": 41,
+      "effectTypeId": 33,
+      "releaseEpochSec": 1793026800,
+      "i18nKey": {
+        "name": "38",
+        "desc": "38"
+      },
+      "maxLevel": 7,
+      "skillValue": {
+        "byLevel": [
+          {
+            "level": 1,
+            "data": 1144
+          },
+          {
+            "level": 2,
+            "data": 1626
+          },
+          {
+            "level": 3,
+            "data": 2244
+          },
+          {
+            "level": 4,
+            "data": 3098
+          },
+          {
+            "level": 5,
+            "data": 4277
+          },
+          {
+            "level": 6,
+            "data": 5910
+          },
+          {
+            "level": 7,
+            "data": 7596
+          }
+        ]
+      },
+      "effect": {
+        "cookingPotExpansion": {
+          "byLevel": [
+            {
+              "level": 1,
+              "data": {
+                "capacity": 7
+              }
+            },
+            {
+              "level": 2,
+              "data": {
+                "capacity": 10
+              }
+            },
+            {
+              "level": 3,
+              "data": {
+                "capacity": 12
+              }
+            },
+            {
+              "level": 4,
+              "data": {
+                "capacity": 17
+              }
+            },
+            {
+              "level": 5,
+              "data": {
+                "capacity": 22
+              }
+            },
+            {
+              "level": 6,
+              "data": {
+                "capacity": 27
+              }
+            },
+            {
+              "level": 7,
+              "data": {
+                "capacity": 31
+              }
+            }
+          ]
+        },
+        "cookingCritRate": {
+          "byLevel": [
+            {
+              "level": 1,
+              "data": {
+                "successRate": 0.01
+              }
+            },
+            {
+              "level": 2,
+              "data": {
+                "successRate": 0.02
+              }
+            },
+            {
+              "level": 3,
+              "data": {
+                "successRate": 0.02
+              }
+            },
+            {
+              "level": 4,
+              "data": {
+                "successRate": 0.03
+              }
+            },
+            {
+              "level": 5,
+              "data": {
+                "successRate": 0.03
+              }
+            },
+            {
+              "level": 6,
+              "data": {
+                "successRate": 0.04
+              }
+            },
+            {
+              "level": 7,
+              "data": {
+                "successRate": 0.05
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "sleepDpr": {
+    "status": "integrated-regular-settled-ex-estimated",
+    "verifiedAt": "2026-10-26",
+    "userPolicy": "用户确认：EX使用预估数据，并将梦妖一家加入睡姿抽选。",
+    "sources": [
+      "https://pks.raenonx.cc/zh/pokedex/200",
+      "https://pks.raenonx.cc/zh/pokedex/429"
+    ],
+    "addedSleepStyles": true,
+    "regularRows": 16,
+    "estimatedExRows": 6,
+    "entries": [
+      {
+        "pokeId": 200,
+        "island": "greengrass",
+        "stars": 1,
+        "internalId": 948,
+        "spoId": 21,
+        "dpr": 6004000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 11
+      },
+      {
+        "pokeId": 200,
+        "island": "greengrass",
+        "stars": 2,
+        "internalId": 949,
+        "spoId": 43,
+        "dpr": 30476000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 15
+      },
+      {
+        "pokeId": 200,
+        "island": "snowdrop",
+        "stars": 1,
+        "internalId": 948,
+        "spoId": 21,
+        "dpr": 6004000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 6
+      },
+      {
+        "pokeId": 200,
+        "island": "snowdrop",
+        "stars": 2,
+        "internalId": 949,
+        "spoId": 43,
+        "dpr": 30476000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 10
+      },
+      {
+        "pokeId": 200,
+        "island": "snowdrop",
+        "stars": 3,
+        "internalId": 950,
+        "spoId": 57,
+        "dpr": 65702000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 16
+      },
+      {
+        "pokeId": 200,
+        "island": "powerplant",
+        "stars": 1,
+        "internalId": 948,
+        "spoId": 21,
+        "dpr": 6004000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 4
+      },
+      {
+        "pokeId": 200,
+        "island": "powerplant",
+        "stars": 2,
+        "internalId": 949,
+        "spoId": 43,
+        "dpr": 30476000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 8
+      },
+      {
+        "pokeId": 200,
+        "island": "powerplant",
+        "stars": 3,
+        "internalId": 950,
+        "spoId": 57,
+        "dpr": 65702000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 14
+      },
+      {
+        "pokeId": 200,
+        "island": "greenex",
+        "stars": 1,
+        "internalId": 948,
+        "spoId": 21,
+        "dpr": 37810000,
+        "raeSettled": false,
+        "estimated": true,
+        "unlockIndex": 5
+      },
+      {
+        "pokeId": 200,
+        "island": "greenex",
+        "stars": 2,
+        "internalId": 949,
+        "spoId": 43,
+        "dpr": 106096000,
+        "raeSettled": false,
+        "estimated": true,
+        "unlockIndex": 11
+      },
+      {
+        "pokeId": 200,
+        "island": "greenex",
+        "stars": 3,
+        "internalId": 950,
+        "spoId": 57,
+        "dpr": 194522000,
+        "raeSettled": false,
+        "estimated": true,
+        "unlockIndex": 15
+      },
+      {
+        "pokeId": 429,
+        "island": "greengrass",
+        "stars": 1,
+        "internalId": 951,
+        "spoId": 45,
+        "dpr": 33478000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 22
+      },
+      {
+        "pokeId": 429,
+        "island": "greengrass",
+        "stars": 2,
+        "internalId": 952,
+        "spoId": 62,
+        "dpr": 85614000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 26
+      },
+      {
+        "pokeId": 429,
+        "island": "snowdrop",
+        "stars": 1,
+        "internalId": 951,
+        "spoId": 45,
+        "dpr": 33478000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 17
+      },
+      {
+        "pokeId": 429,
+        "island": "snowdrop",
+        "stars": 2,
+        "internalId": 952,
+        "spoId": 62,
+        "dpr": 85614000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 21
+      },
+      {
+        "pokeId": 429,
+        "island": "snowdrop",
+        "stars": 3,
+        "internalId": 953,
+        "spoId": 80,
+        "dpr": 205884000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 27
+      },
+      {
+        "pokeId": 429,
+        "island": "powerplant",
+        "stars": 1,
+        "internalId": 951,
+        "spoId": 45,
+        "dpr": 33478000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 15
+      },
+      {
+        "pokeId": 429,
+        "island": "powerplant",
+        "stars": 2,
+        "internalId": 952,
+        "spoId": 62,
+        "dpr": 85614000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 19
+      },
+      {
+        "pokeId": 429,
+        "island": "powerplant",
+        "stars": 3,
+        "internalId": 953,
+        "spoId": 80,
+        "dpr": 205884000,
+        "raeSettled": true,
+        "estimated": false,
+        "unlockIndex": 25
+      },
+      {
+        "pokeId": 429,
+        "island": "greenex",
+        "stars": 1,
+        "internalId": 951,
+        "spoId": 45,
+        "dpr": 116546000,
+        "raeSettled": false,
+        "estimated": true,
+        "unlockIndex": 11
+      },
+      {
+        "pokeId": 429,
+        "island": "greenex",
+        "stars": 2,
+        "internalId": 952,
+        "spoId": 62,
+        "dpr": 245898000,
+        "raeSettled": false,
+        "estimated": true,
+        "unlockIndex": 17
+      },
+      {
+        "pokeId": 429,
+        "island": "greenex",
+        "stars": 3,
+        "internalId": 953,
+        "spoId": 80,
+        "dpr": 535382000,
+        "raeSettled": false,
+        "estimated": true,
+        "unlockIndex": 25
+      }
+    ],
+    "evidence": "docs/rae-monitor-20261026/sleep-integration",
+    "previousDeferralCorrection": "All six regular references were already RAE isSettled=true in the initial baseline. Unchanged baseline values do not imply unsettled data.",
+    "validation": {
+      "completedAt": "2026-10-26T05:38:53.242Z",
+      "node": "v24.14.1",
+      "testFiles": 10,
+      "testsPassed": 108,
+      "runSummary": "Nine unchanged related suites passed 80 tests; the new 28-case sleep integration suite passed after correcting its two lexical-sort expectations.",
+      "existingStyleRowsPreserved": 2767,
+      "existingResearchRewardRowsPreserved": 943,
+      "existingDprCalibrationRowsPreserved": 2731,
+      "whitespaceCheckPassed": true,
+      "buildRun": false,
+      "reason": "Game data/settings update; AGENTS.md defaults to no build."
+    }
+  },
+  "implementation": {
+    "sharedPlatforms": [
+      "App",
+      "WeChat"
+    ],
+    "skill41": "Reuse existing pot expansion and cooking crit state; no new metronome pool assumptions.",
+    "build": "Not run: game data/settings correction under AGENTS.md."
+  },
+  "validation": {
+    "completedAt": "2026-10-26T02:58:52.986Z",
+    "node": "v24.14.1",
+    "testFiles": 6,
+    "testsPassed": 94,
+    "command": "node node_modules/vitest/vitest.mjs run src/calc/misdreavusData.test.ts src/calc/raeUpdate.test.ts src/calc/skillCopy.test.ts src/calc/specialSkills.test.ts src/calc/calc.test.ts src/calc/helpSpeedAudit.test.ts",
+    "existingPokemonPreserved": 249,
+    "unrelatedMetadataPreserved": true,
+    "whitespaceCheckPassed": true,
+    "buildRun": false,
+    "reason": "Game data/settings correction; AGENTS.md defaults to no build."
+  },
+  "assets": {
+    "added": [
+      "pokemon/icons/200.webp",
+      "pokemon/icons/shiny/200.webp",
+      "pokemon/portrait/200.webp",
+      "pokemon/portrait/shiny/200.webp",
+      "pokemon/icons/429.webp",
+      "pokemon/icons/shiny/429.webp",
+      "pokemon/portrait/429.webp",
+      "pokemon/portrait/shiny/429.webp"
+    ],
+    "source": "https://cdn.raenonx.cc/api/content/pks?src=/images/...png",
+    "newMainSkillIcon": {
+      "id": 41,
+      "status": "unavailable-at-source",
+      "httpStatus": 404,
+      "attemptedPaths": [
+        "/images/mainSkill/41.png",
+        "/images/mainSkill/icon/41.png"
+      ],
+      "policy": "Do not substitute a different skill icon."
+    }
+  }
+}

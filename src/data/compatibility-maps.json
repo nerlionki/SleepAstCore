@@ -1,0 +1,1275 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-27",
+  "modules": {
+    "boxio": {
+      "NATURE_EN": {
+        "lonely": "怕寂寞",
+        "adamant": "固执",
+        "naughty": "顽皮",
+        "brave": "勇敢",
+        "bold": "大胆",
+        "impish": "淘气",
+        "lax": "乐天",
+        "relaxed": "悠闲",
+        "modest": "内敛",
+        "mild": "慢吞吞",
+        "rash": "马虎",
+        "quiet": "冷静",
+        "calm": "温和",
+        "gentle": "温顺",
+        "careful": "慎重",
+        "sassy": "自大",
+        "timid": "胆小",
+        "hasty": "急躁",
+        "jolly": "爽朗",
+        "naive": "天真",
+        "bashful": "害羞",
+        "hardy": "勤奋",
+        "docile": "坦率",
+        "quirky": "浮躁",
+        "serious": "认真"
+      },
+      "NATURE_ID": {
+        "1": "怕寂寞",
+        "2": "固执",
+        "3": "顽皮",
+        "4": "勇敢",
+        "5": "大胆",
+        "6": "淘气",
+        "7": "乐天",
+        "8": "悠闲",
+        "9": "内敛",
+        "10": "慢吞吞",
+        "11": "马虎",
+        "12": "冷静",
+        "13": "温和",
+        "14": "温顺",
+        "15": "慎重",
+        "16": "自大",
+        "17": "胆小",
+        "18": "急躁",
+        "19": "爽朗",
+        "20": "天真",
+        "21": "害羞",
+        "22": "勤奋",
+        "23": "坦率",
+        "24": "浮躁",
+        "25": "认真"
+      },
+      "SUB_ALIAS": {
+        "hs": "helpS",
+        "helpingspeeds": "helpS",
+        "helpingspeed_s": "helpS",
+        "帮忙速度s": "helpS",
+        "帮忙s": "helpS",
+        "hm": "helpM",
+        "helpingspeedm": "helpM",
+        "helpingspeed_m": "helpM",
+        "帮忙速度m": "helpM",
+        "帮忙m": "helpM",
+        "fs": "ingS",
+        "ingredientfinders": "ingS",
+        "ingredientfinder_s": "ingS",
+        "食材概率提升s": "ingS",
+        "食材s": "ingS",
+        "fm": "ingM",
+        "ingredientfinderm": "ingM",
+        "ingredientfinder_m": "ingM",
+        "食材概率提升m": "ingM",
+        "食材m": "ingM",
+        "ss": "skillS",
+        "skilltriggers": "skillS",
+        "skilltrigger_s": "skillS",
+        "技能概率提升s": "skillS",
+        "技能s": "skillS",
+        "sm": "skillM",
+        "skilltriggerm": "skillM",
+        "skilltrigger_m": "skillM",
+        "技能概率提升m": "skillM",
+        "技能m": "skillM",
+        "cs": "invS",
+        "inventoryups": "invS",
+        "inventoryup_s": "invS",
+        "持有上限提升s": "invS",
+        "cm": "invM",
+        "inventoryupm": "invM",
+        "inventoryup_m": "invM",
+        "持有上限提升m": "invM",
+        "cl": "invL",
+        "inventoryupl": "invL",
+        "inventoryup_l": "invL",
+        "持有上限提升l": "invL",
+        "sls": "skillLevelS",
+        "skilllevelups": "skillLevelS",
+        "skilllevelup_s": "skillLevelS",
+        "技能等级提升s": "skillLevelS",
+        "slm": "skillLevelM",
+        "skilllevelupm": "skillLevelM",
+        "skilllevelup_m": "skillLevelM",
+        "技能等级提升m": "skillLevelM",
+        "hg1": "helpingBonus",
+        "hg2": "helpingBonus",
+        "hg3": "helpingBonus",
+        "hg4": "helpingBonus",
+        "hg5": "helpingBonus",
+        "helpingbonus": "helpingBonus",
+        "帮手奖励": "helpingBonus",
+        "帮手": "helpingBonus",
+        "berrys": "berryS",
+        "bfs": "berryS",
+        "berryfindings": "berryS",
+        "berryfinding_s": "berryS",
+        "树果数量s": "berryS",
+        "energyrecover": "energyRecover",
+        "energyrecoverybonus": "energyRecover",
+        "erb": "energyRecover",
+        "活力回复奖励": "energyRecover",
+        "sleepexp": "sleepExp",
+        "sleepexpbonus": "sleepExp",
+        "seb": "sleepExp",
+        "睡眠exp奖励": "sleepExp",
+        "researchexp": "researchExp",
+        "researchexpbonus": "researchExp",
+        "reb": "researchExp",
+        "研究exp奖励": "researchExp",
+        "shardbonus": "shardBonus",
+        "dreamshardbonus": "shardBonus",
+        "dsb": "shardBonus",
+        "梦之碎片奖励": "shardBonus"
+      },
+      "ING_ALIAS": {
+        "largeleek": 1,
+        "粗枝大葱": 1,
+        "tastymushroom": 2,
+        "品鲜蘑菇": 2,
+        "fancyegg": 3,
+        "特选蛋": 3,
+        "softeningpotato": 4,
+        "窝心洋芋": 4,
+        "fancyapple": 5,
+        "特选苹果": 5,
+        "fieryherb": 6,
+        "火辣香草": 6,
+        "beansausage": 7,
+        "豆制肉": 7,
+        "moomoamilk": 8,
+        "哞哞鲜奶": 8,
+        "honey": 9,
+        "甜甜蜜": 9,
+        "pureoil": 10,
+        "纯粹油": 10,
+        "warmingginger": 11,
+        "暖暖姜": 11,
+        "snoozytomato": 12,
+        "好眠番茄": 12,
+        "soothingcacao": 13,
+        "放松可可": 13,
+        "slowpoketail": 14,
+        "美味尾巴": 14,
+        "greengrasssoybeans": 15,
+        "萌绿大豆": 15,
+        "greengrasscorn": 16,
+        "萌绿玉米": 16,
+        "refreshingcoffee": 17,
+        "醒脑咖啡豆": 17,
+        "plumpumpkin": 18,
+        "沉甸甸南瓜": 18,
+        "glossyavocado": 19,
+        "嫩亮酪梨": 19
+      },
+      "EN_NAME": {
+        "1": "bulbasaur",
+        "2": "ivysaur",
+        "3": "venusaur",
+        "4": "charmander",
+        "5": "charmeleon",
+        "6": "charizard",
+        "7": "squirtle",
+        "8": "wartortle",
+        "9": "blastoise",
+        "10": "caterpie",
+        "11": "metapod",
+        "12": "butterfree",
+        "19": "rattata",
+        "20": "raticate",
+        "23": "ekans",
+        "24": "arbok",
+        "25": "pikachu",
+        "26": "raichu",
+        "27": "sandshrew",
+        "28": "sandslash",
+        "35": "clefairy",
+        "36": "clefable",
+        "37": "vulpix",
+        "38": "ninetales",
+        "39": "jigglypuff",
+        "40": "wigglytuff",
+        "50": "diglett",
+        "51": "dugtrio",
+        "52": "meowth",
+        "53": "persian",
+        "54": "psyduck",
+        "55": "golduck",
+        "56": "mankey",
+        "57": "primeape",
+        "58": "growlithe",
+        "59": "arcanine",
+        "69": "bellsprout",
+        "70": "weepinbell",
+        "71": "victreebel",
+        "74": "geodude",
+        "75": "graveler",
+        "76": "golem",
+        "79": "slowpoke",
+        "80": "slowbro",
+        "81": "magnemite",
+        "82": "magneton",
+        "83": "farfetchd",
+        "84": "doduo",
+        "85": "dodrio",
+        "92": "gastly",
+        "93": "haunter",
+        "94": "gengar",
+        "95": "onix",
+        "104": "cubone",
+        "105": "marowak",
+        "113": "chansey",
+        "115": "kangaskhan",
+        "122": "mrmime",
+        "127": "pinsir",
+        "132": "ditto",
+        "133": "eevee",
+        "134": "vaporeon",
+        "135": "jolteon",
+        "136": "flareon",
+        "147": "dratini",
+        "148": "dragonair",
+        "149": "dragonite",
+        "150": "mewtwo",
+        "151": "mew",
+        "152": "chikorita",
+        "153": "bayleef",
+        "154": "meganium",
+        "155": "cyndaquil",
+        "156": "quilava",
+        "157": "typhlosion",
+        "158": "totodile",
+        "159": "croconaw",
+        "160": "feraligatr",
+        "172": "pichu",
+        "173": "cleffa",
+        "174": "igglybuff",
+        "175": "togepi",
+        "176": "togetic",
+        "177": "natu",
+        "178": "xatu",
+        "179": "mareep",
+        "180": "flaaffy",
+        "181": "ampharos",
+        "185": "sudowoodo",
+        "194": "wooper",
+        "195": "quagsire",
+        "196": "espeon",
+        "197": "umbreon",
+        "198": "murkrow",
+        "199": "slowking",
+        "202": "wobbuffet",
+        "208": "steelix",
+        "213": "shuckle",
+        "214": "heracross",
+        "215": "sneasel",
+        "225": "delibird",
+        "228": "houndour",
+        "229": "houndoom",
+        "242": "blissey",
+        "243": "raikou",
+        "244": "entei",
+        "245": "suicune",
+        "246": "larvitar",
+        "247": "pupitar",
+        "248": "tyranitar",
+        "252": "treecko",
+        "253": "grovyle",
+        "254": "sceptile",
+        "255": "torchic",
+        "256": "combusken",
+        "257": "blaziken",
+        "258": "mudkip",
+        "259": "marshtomp",
+        "260": "swampert",
+        "280": "ralts",
+        "281": "kirlia",
+        "282": "gardevoir",
+        "287": "slakoth",
+        "288": "vigoroth",
+        "289": "slaking",
+        "302": "sableye",
+        "303": "mawile",
+        "304": "aron",
+        "305": "lairon",
+        "306": "aggron",
+        "311": "plusle",
+        "312": "minun",
+        "316": "gulpin",
+        "317": "swalot",
+        "328": "trapinch",
+        "329": "vibrava",
+        "330": "flygon",
+        "333": "swablu",
+        "334": "altaria",
+        "353": "shuppet",
+        "354": "banette",
+        "359": "absol",
+        "360": "wynaut",
+        "363": "spheal",
+        "364": "sealeo",
+        "365": "walrein",
+        "371": "bagon",
+        "372": "shelgon",
+        "373": "salamence",
+        "380": "latias",
+        "381": "latios",
+        "387": "turtwig",
+        "388": "grotle",
+        "389": "torterra",
+        "390": "chimchar",
+        "391": "monferno",
+        "392": "infernape",
+        "393": "piplup",
+        "394": "prinplup",
+        "395": "empoleon",
+        "403": "shinx",
+        "404": "luxio",
+        "405": "luxray",
+        "425": "drifloon",
+        "426": "drifblim",
+        "430": "honchkrow",
+        "438": "bonsly",
+        "439": "mimejr",
+        "440": "happiny",
+        "442": "spiritomb",
+        "447": "riolu",
+        "448": "lucario",
+        "453": "croagunk",
+        "454": "toxicroak",
+        "459": "snover",
+        "460": "abomasnow",
+        "461": "weavile",
+        "462": "magnezone",
+        "468": "togekiss",
+        "470": "leafeon",
+        "471": "glaceon",
+        "475": "gallade",
+        "488": "cresselia",
+        "491": "darkrai",
+        "517": "munna",
+        "518": "musharna",
+        "557": "dwebble",
+        "558": "crustle",
+        "627": "rufflet",
+        "628": "braviary",
+        "696": "tyrunt",
+        "697": "tyrantrum",
+        "700": "sylveon",
+        "701": "hawlucha",
+        "702": "dedenne",
+        "710": "pumpkaboo",
+        "711": "gourgeist",
+        "714": "noibat",
+        "715": "noivern",
+        "736": "grubbin",
+        "737": "charjabug",
+        "738": "vikavolt",
+        "742": "cutiefly",
+        "743": "ribombee",
+        "759": "stufful",
+        "760": "bewear",
+        "764": "comfey",
+        "777": "togedemaru",
+        "778": "mimikyu",
+        "780": "drampa",
+        "845": "cramorant",
+        "848": "toxel",
+        "849": "toxtricity",
+        "906": "sprigatito",
+        "907": "floragato",
+        "908": "meowscarada",
+        "909": "fuecoco",
+        "910": "crocalor",
+        "911": "skeledirge",
+        "912": "quaxly",
+        "913": "quaxwell",
+        "914": "quaquaval",
+        "921": "pawmi",
+        "922": "pawmo",
+        "923": "pawmot",
+        "957": "tinkatink",
+        "958": "tinkatuff",
+        "959": "tinkaton",
+        "974": "cetoddle",
+        "975": "cetitan",
+        "980": "clodsire",
+        "7006": "vulpixalola",
+        "7007": "ninetalesalola"
+      }
+    },
+    "evolution": {
+      "ITEM_NAME": {
+        "21": "聯繫繩",
+        "22": "火之石",
+        "23": "水之石",
+        "24": "雷之石",
+        "25": "葉之石",
+        "26": "冰之石",
+        "27": "月之石",
+        "28": "光之石",
+        "29": "金屬膜",
+        "30": "渾圓之石",
+        "31": "王者之證",
+        "35": "覺醒之石",
+        "97": "銳利之爪",
+        "102": "暗之石"
+      }
+    },
+    "iqdoohBox": {
+      "FORMS": {
+        "25-1": 9001,
+        "25-2": 9002,
+        "25-3": 9007,
+        "37-1": 7006,
+        "38-1": 7007,
+        "194-1": 7054,
+        "133-1": 9004,
+        "133-2": 9005,
+        "363-1": 9006,
+        "710-1": 71002,
+        "710-2": 71003,
+        "710-3": 71004,
+        "711-1": 71102,
+        "711-2": 71103,
+        "711-3": 71104
+      },
+      "ATTRS": {
+        "H": "help",
+        "F": "ingredient",
+        "S": "skill",
+        "E": "exp",
+        "V": "energy"
+      },
+      "SKILLS": {
+        "fruitS": "berryS",
+        "helperBonus": "helpingBonus",
+        "speedS": "helpS",
+        "speedM": "helpM",
+        "ingS": "ingS",
+        "ingM": "ingM",
+        "invS": "invS",
+        "invM": "invM",
+        "invL": "invL",
+        "skillS": "skillS",
+        "skillM": "skillM",
+        "lvS": "skillLevelS",
+        "lvM": "skillLevelM",
+        "expR": "researchExp",
+        "expSleep": "sleepExp",
+        "energy": "energyRecover",
+        "dream": "shardBonus"
+      }
+    },
+    "ocrCompletion": {
+      "OCR_FIELD_LABELS": {
+        "level": "宝可梦等级",
+        "nature": "性格",
+        "skillLevel": "主技能等级",
+        "ingredient0": "第 1 槽食材",
+        "ingredient1": "第 2 槽食材（Lv.30）",
+        "ingredient2": "第 3 槽食材（Lv.60）",
+        "subskill0": "第 1 个副技能",
+        "subskill1": "第 2 个副技能",
+        "subskill2": "第 3 个副技能",
+        "subskill3": "第 4 个副技能",
+        "subskill4": "第 5 个副技能"
+      }
+    },
+    "pokedexOrder": {
+      "FORM_DEX": {
+        "7006": 37,
+        "7007": 38,
+        "7054": 194,
+        "8001": 849,
+        "9001": 25,
+        "9002": 25,
+        "9004": 133,
+        "9005": 133,
+        "9006": 363,
+        "9007": 25,
+        "71002": 710,
+        "71003": 710,
+        "71004": 710,
+        "71102": 711,
+        "71103": 711,
+        "71104": 711
+      }
+    },
+    "raeImage": {
+      "SUBSKILL_IMAGE": {
+        "sleepExp": 1,
+        "helpingBonus": 2,
+        "energyRecover": 3,
+        "shardBonus": 4,
+        "researchExp": 5,
+        "helpS": 6,
+        "helpM": 7,
+        "berryS": 8,
+        "invS": 9,
+        "invM": 10,
+        "skillLevelS": 11,
+        "ingS": 12,
+        "ingM": 13,
+        "skillS": 14,
+        "skillM": 15,
+        "skillLevelM": 18,
+        "invL": 19
+      },
+      "POKEMON_FILE": {
+        "71002": "710-A2",
+        "71003": "710-A3",
+        "71004": "710-A4",
+        "71102": "711-A2",
+        "71103": "711-A3",
+        "71104": "711-A4"
+      },
+      "MEAL_ID": {
+        "拌拌咖哩": 1000,
+        "特選蘋果咖哩": 1001,
+        "炙燒尾肉咖哩": 1002,
+        "太陽之力番茄咖哩": 1003,
+        "絕對睡眠奶油咖哩": 1004,
+        "辣味蔥勁十足咖哩": 1005,
+        "蘑菇孢子咖哩": 1006,
+        "親子愛咖哩": 1007,
+        "吃飽飽起司肉排咖哩": 1008,
+        "窩心白醬濃湯": 1009,
+        "單純白醬濃湯": 1010,
+        "豆製肉排咖哩": 1011,
+        "寶寶甜蜜咖哩": 1012,
+        "忍者咖哩": 1013,
+        "日照炸肉排咖哩": 1014,
+        "入口即化蛋捲咖哩": 1015,
+        "健美豆子咖哩": 1016,
+        "柔軟玉米濃湯": 1017,
+        "煉獄玉米乾咖哩": 1018,
+        "迷昏拳辣味咖哩": 1019,
+        "覺醒力量濃湯": 1020,
+        "居合斬壽喜燒咖哩": 1021,
+        "扮演南瓜精濃湯": 1022,
+        "茂盛焗烤酪梨": 1023,
+        "萌綠咖哩麵包": 1024,
+        "彈跳咖哩烏龍麵": 1025,
+        "拌拌沙拉": 2000,
+        "呆呆獸尾巴的胡椒沙拉": 2001,
+        "蘑菇孢子沙拉": 2002,
+        "撥雪凱撒沙拉": 2003,
+        "貪吃鬼洋芋沙拉": 2004,
+        "濕潤豆腐沙拉": 2005,
+        "蠻力豪邁沙拉": 2006,
+        "豆製火腿沙拉": 2007,
+        "好眠番茄沙拉": 2008,
+        "哞哞起司番茄沙拉": 2009,
+        "心情不定肉沙拉淋巧克力醬": 2010,
+        "過熱沙拉": 2011,
+        "特選蘋果沙拉": 2012,
+        "免疫蔥花沙拉": 2013,
+        "迷人蘋果起司沙拉": 2014,
+        "忍者沙拉": 2015,
+        "熱風豆腐沙拉": 2016,
+        "萌綠沙拉": 2017,
+        "冥想香甜沙拉": 2018,
+        "亂擊玉米沙拉": 2019,
+        "十字切碎丁沙拉": 2020,
+        "不服輸咖啡沙拉": 2021,
+        "落英繽紛含羞草蛋沙拉": 2022,
+        "蘋果酸優格沙拉": 2023,
+        "碎裂酪梨沙拉": 2024,
+        "重踏酪梨醬脆片": 2025,
+        "大塊滿滿熱水沙拉": 2026,
+        "拌拌果汁": 3000,
+        "熟成甜薯燒": 3001,
+        "不屈薑餅": 3002,
+        "特選蘋果汁": 3003,
+        "手製勁爽汽水": 3004,
+        "火花薑茶": 3005,
+        "胖丁百匯布丁": 3006,
+        "惡魔之吻水果牛奶": 3007,
+        "祈願蘋果派": 3008,
+        "橙夢的排毒茶": 3009,
+        "甜甜香氣巧克力蛋糕": 3010,
+        "哞哞熱鮮奶": 3011,
+        "輕裝豆香蛋糕": 3012,
+        "活力蛋白飲": 3013,
+        "我行我素蔬菜汁": 3014,
+        "大馬拉薩達": 3015,
+        "大力士豆香甜甜圈": 3016,
+        "大爆炸爆米花": 3017,
+        "茶會玉米司康": 3018,
+        "花瓣舞巧克力塔": 3019,
+        "花之禮馬卡龍": 3020,
+        "早起咖啡凍": 3021,
+        "電光香料可樂": 3022,
+        "破格玉米香提拉米蘇": 3023,
+        "土王閃電泡芙": 3024,
+        "心跳加速鬼面鬆餅": 3025,
+        "青草攪拌器冰沙": 3026,
+        "採蜜巧克力格子鬆餅": 3027
+      }
+    },
+    "text": {
+      "PAIR": [
+        [
+          "靜",
+          "静"
+        ],
+        [
+          "馬",
+          "马"
+        ],
+        [
+          "種",
+          "种"
+        ],
+        [
+          "夢",
+          "梦"
+        ],
+        [
+          "蟲",
+          "虫"
+        ],
+        [
+          "鳥",
+          "鸟"
+        ],
+        [
+          "魚",
+          "鱼"
+        ],
+        [
+          "貓",
+          "猫"
+        ],
+        [
+          "鴨",
+          "鸭"
+        ],
+        [
+          "龜",
+          "龟"
+        ],
+        [
+          "龍",
+          "龙"
+        ],
+        [
+          "獸",
+          "兽"
+        ],
+        [
+          "齒",
+          "齿"
+        ],
+        [
+          "齒",
+          "齿"
+        ],
+        [
+          "髮",
+          "发"
+        ],
+        [
+          "聲",
+          "声"
+        ],
+        [
+          "電",
+          "电"
+        ],
+        [
+          "氣",
+          "气"
+        ],
+        [
+          "風",
+          "风"
+        ],
+        [
+          "飛",
+          "飞"
+        ],
+        [
+          "麗",
+          "丽"
+        ],
+        [
+          "兒",
+          "儿"
+        ],
+        [
+          "們",
+          "们"
+        ],
+        [
+          "個",
+          "个"
+        ],
+        [
+          "國",
+          "国"
+        ],
+        [
+          "學",
+          "学"
+        ],
+        [
+          "對",
+          "对"
+        ],
+        [
+          "無",
+          "无"
+        ],
+        [
+          "與",
+          "与"
+        ],
+        [
+          "為",
+          "为"
+        ],
+        [
+          "從",
+          "从"
+        ],
+        [
+          "這",
+          "这"
+        ],
+        [
+          "進",
+          "进"
+        ],
+        [
+          "過",
+          "过"
+        ],
+        [
+          "還",
+          "还"
+        ],
+        [
+          "開",
+          "开"
+        ],
+        [
+          "關",
+          "关"
+        ],
+        [
+          "點",
+          "点"
+        ],
+        [
+          "擊",
+          "击"
+        ],
+        [
+          "術",
+          "术"
+        ],
+        [
+          "體",
+          "体"
+        ],
+        [
+          "靈",
+          "灵"
+        ],
+        [
+          "變",
+          "变"
+        ],
+        [
+          "雙",
+          "双"
+        ],
+        [
+          "寶",
+          "宝"
+        ],
+        [
+          "蘋",
+          "苹"
+        ],
+        [
+          "蔥",
+          "葱"
+        ],
+        [
+          "純",
+          "纯"
+        ],
+        [
+          "鮮",
+          "鲜"
+        ],
+        [
+          "選",
+          "选"
+        ],
+        [
+          "綠",
+          "绿"
+        ],
+        [
+          "黃",
+          "黄"
+        ],
+        [
+          "紅",
+          "红"
+        ],
+        [
+          "藍",
+          "蓝"
+        ],
+        [
+          "貓",
+          "猫"
+        ],
+        [
+          "獸",
+          "兽"
+        ],
+        [
+          "療",
+          "疗"
+        ],
+        [
+          "癒",
+          "愈"
+        ],
+        [
+          "幫",
+          "帮"
+        ],
+        [
+          "獲",
+          "获"
+        ],
+        [
+          "屬",
+          "属"
+        ],
+        [
+          "淺",
+          "浅"
+        ],
+        [
+          "態",
+          "态"
+        ],
+        [
+          "樣",
+          "样"
+        ],
+        [
+          "亞",
+          "亚"
+        ],
+        [
+          "羅",
+          "罗"
+        ],
+        [
+          "爾",
+          "尔"
+        ],
+        [
+          "爾",
+          "尔"
+        ],
+        [
+          "異",
+          "异"
+        ],
+        [
+          "櫻",
+          "樱"
+        ],
+        [
+          "漿",
+          "浆"
+        ],
+        [
+          "醬",
+          "酱"
+        ],
+        [
+          "濃",
+          "浓"
+        ],
+        [
+          "湯",
+          "汤"
+        ],
+        [
+          "點",
+          "点"
+        ],
+        [
+          "飲",
+          "饮"
+        ],
+        [
+          "料",
+          "料"
+        ],
+        [
+          "鬆",
+          "松"
+        ],
+        [
+          "廳",
+          "厅"
+        ],
+        [
+          "園",
+          "园"
+        ],
+        [
+          "噴",
+          "喷"
+        ],
+        [
+          "傑",
+          "杰"
+        ],
+        [
+          "鐵",
+          "铁"
+        ],
+        [
+          "達",
+          "达"
+        ],
+        [
+          "萊",
+          "莱"
+        ],
+        [
+          "殼",
+          "壳"
+        ],
+        [
+          "牆",
+          "墙"
+        ],
+        [
+          "凱",
+          "凯"
+        ],
+        [
+          "葉",
+          "叶"
+        ],
+        [
+          "鋸",
+          "锯"
+        ],
+        [
+          "鱷",
+          "鳄"
+        ],
+        [
+          "樹",
+          "树"
+        ],
+        [
+          "烏",
+          "乌"
+        ],
+        [
+          "陽",
+          "阳"
+        ],
+        [
+          "鴉",
+          "鸦"
+        ],
+        [
+          "鋼",
+          "钢"
+        ],
+        [
+          "壺",
+          "壶"
+        ],
+        [
+          "勞",
+          "劳"
+        ],
+        [
+          "魯",
+          "鲁"
+        ],
+        [
+          "宮",
+          "宫"
+        ],
+        [
+          "雞",
+          "鸡"
+        ],
+        [
+          "壯",
+          "壮"
+        ],
+        [
+          "躍",
+          "跃"
+        ],
+        [
+          "絲",
+          "丝"
+        ],
+        [
+          "懶",
+          "懒"
+        ],
+        [
+          "動",
+          "动"
+        ],
+        [
+          "請",
+          "请"
+        ],
+        [
+          "顎",
+          "颚"
+        ],
+        [
+          "負",
+          "负"
+        ],
+        [
+          "綿",
+          "绵"
+        ],
+        [
+          "詛",
+          "诅"
+        ],
+        [
+          "獅",
+          "狮"
+        ],
+        [
+          "貝",
+          "贝"
+        ],
+        [
+          "歐",
+          "欧"
+        ],
+        [
+          "倫",
+          "伦"
+        ],
+        [
+          "飄",
+          "飘"
+        ],
+        [
+          "隨",
+          "随"
+        ],
+        [
+          "頭",
+          "头"
+        ],
+        [
+          "瑪",
+          "玛"
+        ],
+        [
+          "蝕",
+          "蚀"
+        ],
+        [
+          "鷹",
+          "鹰"
+        ],
+        [
+          "顆",
+          "颗"
+        ],
+        [
+          "強",
+          "强"
+        ],
+        [
+          "鍬",
+          "锹"
+        ],
+        [
+          "農",
+          "农"
+        ],
+        [
+          "結",
+          "结"
+        ],
+        [
+          "著",
+          "着"
+        ],
+        [
+          "環",
+          "环"
+        ],
+        [
+          "謎",
+          "谜"
+        ],
+        [
+          "擬",
+          "拟"
+        ],
+        [
+          "嬰",
+          "婴"
+        ],
+        [
+          "顫",
+          "颤"
+        ],
+        [
+          "蠑",
+          "蝾"
+        ],
+        [
+          "調",
+          "调"
+        ],
+        [
+          "燙",
+          "烫"
+        ],
+        [
+          "紋",
+          "纹"
+        ],
+        [
+          "潤",
+          "润"
+        ],
+        [
+          "湧",
+          "涌"
+        ],
+        [
+          "歡",
+          "欢"
+        ],
+        [
+          "撥",
+          "拨"
+        ],
+        [
+          "鍛",
+          "锻"
+        ],
+        [
+          "鯨",
+          "鲸"
+        ],
+        [
+          "萬",
+          "万"
+        ],
+        [
+          "聖",
+          "圣"
+        ],
+        [
+          "節",
+          "节"
+        ],
+        [
+          "長",
+          "长"
+        ],
+        [
+          "溫",
+          "温"
+        ],
+        [
+          "順",
+          "顺"
+        ],
+        [
+          "頑",
+          "顽"
+        ],
+        [
+          "認",
+          "认"
+        ],
+        [
+          "獎",
+          "奖"
+        ],
+        [
+          "數",
+          "数"
+        ],
+        [
+          "復",
+          "复"
+        ],
+        [
+          "級",
+          "级"
+        ],
+        [
+          "時",
+          "时"
+        ],
+        [
+          "餘",
+          "余"
+        ],
+        [
+          "勵",
+          "励"
+        ]
+      ]
+    },
+    "mainSkills": {
+      "selectAlias": "食材精選S",
+      "selectByPokemon": {
+        "27": 36,
+        "28": 36,
+        "742": 33,
+        "743": 33,
+        "701": 38
+      },
+      "selectDefault": 28,
+      "plusAlias": "正電（食材獲取S）",
+      "plusPokemon": 849,
+      "plusSkill": 27,
+      "unknownSkillMaxLevel": 6
+    }
+  }
+}

@@ -1,0 +1,995 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-27",
+  "modules": {
+    "babyEfficiency": {
+      "MAX_EFFICIENCY_DROWSY_POWER": 5000000000,
+      "DEFAULT_BABY_EFFICIENCY": {
+        "pokeId": 1,
+        "island": "all",
+        "sleepType": "all",
+        "splitSleep": true,
+        "eventMult": 1,
+        "eventMix": false,
+        "iterations": 4000,
+        "precision": "medium"
+      },
+      "DEFAULT_COMPLETION_EFFICIENCY": {
+        "pokeId": 0,
+        "completionTarget": ""
+      }
+    },
+    "boxFilter": {
+      "EMPTY_BOX_QUERY": {
+        "text": "",
+        "berryType": "",
+        "specialty": "",
+        "mainSkill": "",
+        "ingredients": [],
+        "ingredientLock": "unlocked",
+        "subskills": [],
+        "subskillLock": "unlocked",
+        "subskillCombine": "and"
+      }
+    },
+    "candyPlan": {
+      "MAX_LEVEL": 70,
+      "CANDY_PRESETS": [
+        25,
+        30,
+        50,
+        60,
+        70
+      ]
+    },
+    "catch": {
+      "SLEEP_ORDER": [
+        "淺淺入夢",
+        "安然入睡",
+        "深深入眠"
+      ],
+      "CATCH_MODES": [
+        {
+          "id": "all",
+          "name": "捕捉＋睡姿＋刷糖",
+          "purposes": [
+            "catch",
+            "sleep",
+            "candy"
+          ],
+          "weights": {
+            "catch": 1.2,
+            "candy": 1
+          }
+        },
+        {
+          "id": "catch-candy",
+          "name": "捕捉＋刷糖",
+          "purposes": [
+            "catch",
+            "candy"
+          ],
+          "weights": {}
+        },
+        {
+          "id": "sleep",
+          "name": "仅睡姿",
+          "purposes": [
+            "sleep"
+          ],
+          "weights": {}
+        }
+      ]
+    },
+    "ingredients": {
+      "TONES": [
+        "copper",
+        "silver",
+        "gold"
+      ]
+    },
+    "items": {
+      "BASE": "https://pks.raenonx.cc/zh/item/source/"
+    },
+    "natureLabels": {
+      "STAT_LABEL": {
+        "help": "帮忙速度",
+        "energy": "活力回复量",
+        "ingredient": "食材发现率",
+        "skill": "主技能发动率",
+        "exp": "EXP获得量"
+      },
+      "STAT_UP": {
+        "help": "+10%",
+        "energy": "+20%",
+        "ingredient": "+20%",
+        "skill": "+20%",
+        "exp": "+18%"
+      },
+      "STAT_DOWN": {
+        "help": "-7.5%",
+        "energy": "-12%",
+        "ingredient": "-20%",
+        "skill": "-20%",
+        "exp": "-18%"
+      }
+    },
+    "recipes": {
+      "MEAL_CATEGORIES": [
+        {
+          "id": "curry",
+          "label": "咖喱、浓汤"
+        },
+        {
+          "id": "salad",
+          "label": "沙拉"
+        },
+        {
+          "id": "dessert",
+          "label": "点心、饮料"
+        }
+      ],
+      "RECIPE_LEVELS": [
+        1,
+        10,
+        20,
+        30,
+        40,
+        50,
+        60
+      ]
+    },
+    "scorePlan": {
+      "SCORE_RULE_VERSION": 3
+    },
+    "scoreSimulation": {
+      "SCORE_ASSUMPTIONS": [
+        "近似搜索，未穷举整个 Box；操作表是一条固定种子的执行示例，统计收益来自多次模拟。",
+        "技能保底：树果／食材型采用 78 次，技能型采用基准间隔推算；全能型暂按技能型模型，换队回退采用 1／3／10 次复核。",
+        "树果汁获取率暂沿用共享模型 18.5%；使用限制为活力低于 100、只对当前上场成员使用，恢复 20 并仅应用正向性格修正。",
+        "随机恢复目标沿用共享资料的验证概率并近似抽选；画皮资格在对应睡眠研究时为该段生产成员恢复。",
+        "未上场个体暂停活力衰减；睡眠结算时未参加生产且未结算的 Box 成员按睡眠分数 5% 恢复。"
+      ]
+    },
+    "skills": {
+      "RARITY_LABEL": {
+        "gold": "金",
+        "blue": "蓝",
+        "white": "白"
+      }
+    },
+    "specialty": {
+      "ALL_ROUNDER": "全部"
+    },
+    "whistle": {
+      "DEFAULT_WHISTLE": {
+        "currentEnergy": 0,
+        "targetEnergy": 0
+      }
+    },
+    "components_data_BerryPane": {
+      "openInitial": ""
+    },
+    "components_data_IngredientPane": {
+      "openIdInitial": 0
+    },
+    "components_data_IslandPane": {
+      "openIdInitial": "",
+      "viewInitial": "band",
+      "SLEEP_ORDER": [
+        "淺淺入夢",
+        "安然入睡",
+        "深深入眠",
+        "没有特征"
+      ]
+    },
+    "components_data_ItemPane": {
+      "categoryInitial": "进化道具",
+      "openInitial": null
+    },
+    "components_data_PotPane": {
+      "indexInitial": 0,
+      "categoryInitial": "curry",
+      "openedInitial": null
+    },
+    "components_data_RecipePane": {
+      "categoryInitial": "curry",
+      "levelInitial": 1,
+      "sortInitial": "energy",
+      "openedInitial": null
+    },
+    "components_data_SkillPane": {
+      "partInitial": "main",
+      "openInitial": 0
+    },
+    "components_plan_BabyEfficiencyResult": {
+      "visibleCountInitial": 20
+    },
+    "components_plan_CandyPane": {
+      "modeInitial": "christmas",
+      "importingInitial": false
+    },
+    "components_plan_CatchPane": {
+      "columnsInitial": null,
+      "stampedInitial": "",
+      "selectedModeInitial": "all"
+    },
+    "components_plan_SleepGallery": {
+      "nameQueryInitial": "",
+      "starsInitial": 0,
+      "viewInitial": "all",
+      "berryTypeInitial": "",
+      "specialtyInitial": "",
+      "sleepTypeInitial": "",
+      "panelInitial": "none",
+      "pageInitial": 0,
+      "PAGE": 48
+    },
+    "components_plan_SleepPane": {
+      "focusIncenseInitial": false,
+      "luckIncenseInitial": false,
+      "incenseSessionInitial": 0,
+      "manualWholeInitial": null,
+      "BATCH": 4000,
+      "researchedBeforeInitial": 0,
+      "specialEncounteredInitial": false,
+      "firstResearchExtrasInitial": 0,
+      "resultTabInitial": "encounters",
+      "drawSeed": 1
+    },
+    "components_plan_SplitRecommendation": {
+      "visibleInitial": 5,
+      "expandedInitial": {}
+    },
+    "components_plan_SplitSleepPane": {
+      "kindInitial": "baby",
+      "pokeIdInitial": 1,
+      "faceInitial": "",
+      "advancedInitial": false,
+      "formErrorInitial": ""
+    },
+    "components_plan_TrainPane": {
+      "uidInitial": "",
+      "fromInitial": 1,
+      "toInitial": 30,
+      "remainingInitial": 0,
+      "natureInitial": "勤奋",
+      "sleepOnTeamInitial": true,
+      "nappingInitial": false,
+      "napDaysInitial": 7,
+      "relaxInitial": false,
+      "sleepExpBonusInitial": 0,
+      "sleepIncenseInitial": false,
+      "ownedInitial": 0,
+      "reserveInitial": 0,
+      "dailyCandyInitial": 0,
+      "boostInitial": "none",
+      "boostCandyInitial": 0,
+      "groupInitial": "normal"
+    },
+    "components_pokemon_BoxOverview": {
+      "tabInitial": "berries",
+      "loadedInitial": false,
+      "adjustingInitial": false,
+      "ingredientIdInitial": null,
+      "visibleRanksInitial": 20
+    },
+    "components_pokemon_BoxPane": {
+      "pickingInitial": false,
+      "ocrBusyInitial": false,
+      "ocrMsgInitial": "",
+      "ocrProgressInitial": {
+        "stage": "请选择截图",
+        "completed": 0,
+        "total": 0,
+        "percent": 0
+      },
+      "filteringInitial": false,
+      "editingInitial": null,
+      "completionQueueInitial": []
+    },
+    "components_pokemon_OcrCompletionDialog": {
+      "selectionsInitial": {}
+    },
+    "components_pokemon_PokedexPane": {
+      "qInitial": "",
+      "specInitial": "全部",
+      "panelInitial": "none",
+      "sleepInitial": "全部",
+      "berryInitial": "全部",
+      "skillInitial": "全部",
+      "selectedInitial": null
+    },
+    "components_profile_AppearancePane": {
+      "messageInitial": "",
+      "activeColorInitial": null
+    },
+    "components_profile_BackupPane": {
+      "msgInitial": "",
+      "incomingInitial": "",
+      "modeInitial": "native"
+    },
+    "components_profile_CreditsPane": {
+      "SOURCES": [
+        {
+          "name": "miku佬",
+          "note": "感谢miku佬提供域名支持",
+          "links": []
+        },
+        {
+          "name": "金属佬",
+          "note": "感谢金属佬对宝宝效率 tab 和各个岛屿保底睡姿的校对。",
+          "links": []
+        },
+        {
+          "name": "RaenonX",
+          "note": "资料与研究来源：RaenonX Pokémon Sleep 攻略及其研究团队。引用图鉴、树果与食材能量、食谱、主副技能、十项全能、性格、经验、活力、睡姿与地图资料，以及 DPR 和睡姿抽选规则；道具分类、进化道具获取途径与活动资料亦参考该站。食材率与技能率原始研究来自 RP Model。",
+          "links": [
+            {
+              "label": "来源署名说明",
+              "href": "https://pks.raenonx.cc/zh/docs/view/site/credits"
+            },
+            {
+              "label": "资料站",
+              "href": "https://pks.raenonx.cc/zh"
+            },
+            {
+              "label": "图鉴",
+              "href": "https://pks.raenonx.cc/zh/pokedex"
+            },
+            {
+              "label": "树果",
+              "href": "https://pks.raenonx.cc/zh/berry/info"
+            },
+            {
+              "label": "食材",
+              "href": "https://pks.raenonx.cc/zh/ingredient/info"
+            },
+            {
+              "label": "食谱",
+              "href": "https://pks.raenonx.cc/zh/meal"
+            },
+            {
+              "label": "主技能",
+              "href": "https://pks.raenonx.cc/zh/mainskill/info"
+            },
+            {
+              "label": "副技能",
+              "href": "https://pks.raenonx.cc/zh/stats/subskill"
+            },
+            {
+              "label": "副技能抽选概率（研究推定）",
+              "href": "https://pks.raenonx.cc/zh/docs/view/mechanics/subskill-probability"
+            },
+            {
+              "label": "十项全能",
+              "href": "https://pks.raenonx.cc/zh/mainskill/info/34"
+            },
+            {
+              "label": "进化道具来源",
+              "href": "https://pks.raenonx.cc/zh/item/source/21"
+            },
+            {
+              "label": "三周年活动资料",
+              "href": "https://pks.raenonx.cc/zh/event/list/3rdAnniv"
+            },
+            {
+              "label": "性格",
+              "href": "https://pks.raenonx.cc/zh/stats/nature"
+            },
+            {
+              "label": "经验",
+              "href": "https://pks.raenonx.cc/zh/xp"
+            },
+            {
+              "label": "活力",
+              "href": "https://pks.raenonx.cc/zh/energy"
+            },
+            {
+              "label": "睡姿名称",
+              "href": "https://pks.raenonx.cc/zh/sleepdex/lookup"
+            },
+            {
+              "label": "各地图睡姿",
+              "href": "https://pks.raenonx.cc/zh/map"
+            },
+            {
+              "label": "睡意之力说明",
+              "href": "https://pks.raenonx.cc/zh/docs/view/help/sleep-styles"
+            },
+            {
+              "label": "公式备忘",
+              "href": "https://hackmd.io/@raenonx-pokemon-sleep/ByCr_TEebx"
+            }
+          ]
+        },
+        {
+          "name": "日文 Wiki",
+          "note": "副技能、养成经验、活力与持有数、薰香和哨子规则，以及末位与耗尽保底排序、跨睡眠类型抽选等机制参考。普通出现率尚未完全确定；哨子产物在取整边界附近可能与实测存在少量差异。",
+          "links": [
+            {
+              "label": "睡姿出现场景与保底",
+              "href": "https://wikiwiki.jp/poke_sleep/睡眠リサーチ/ねむけパワー/寝顔出現の法則"
+            },
+            {
+              "label": "EX 营地效果与研究",
+              "href": "https://wikiwiki.jp/poke_sleep/リサーチフィールド/EXモード"
+            },
+            {
+              "label": "跨睡眠类型验证",
+              "href": "https://wikiwiki.jp/poke_sleep/検証/他の睡眠タイプのポケモンの出現確率"
+            },
+            {
+              "label": "睡姿图鉴",
+              "href": "https://wikiwiki.jp/poke_sleep/寝顔図鑑"
+            },
+            {
+              "label": "副技能",
+              "href": "https://wikiwiki.jp/poke_sleep/サブスキル"
+            },
+            {
+              "label": "等级与经验",
+              "href": "https://wikiwiki.jp/poke_sleep/育成/レベル"
+            },
+            {
+              "label": "活力",
+              "href": "https://wikiwiki.jp/poke_sleep/げんき"
+            },
+            {
+              "label": "持有上限",
+              "href": "https://wikiwiki.jp/poke_sleep/最大所持数"
+            },
+            {
+              "label": "薰香",
+              "href": "https://wikiwiki.jp/poke_sleep/どうぐ/おこう"
+            },
+            {
+              "label": "哨子规则与 EX 加成",
+              "href": "https://wikiwiki.jp/poke_sleep/どうぐ/おてつだいホイッスル"
+            }
+          ]
+        },
+        {
+          "name": "PokeSleepCalc",
+          "note": "帮忙间隔、持有上限、遇见只数与实现参考。经该站整理的食材率、技能率，原始来源为 RaenonX / RP Model。",
+          "links": [
+            {
+              "label": "睡眠计算",
+              "href": "https://sdrice.name/pokesleepcalc/zh/sleepcalc"
+            },
+            {
+              "label": "抽取实现",
+              "href": "https://github.com/bennyhe/pokeSleepCalc"
+            }
+          ]
+        },
+        {
+          "name": "喵喵",
+          "note": "捕捉刷糖和糖果增强的规划对照。",
+          "links": [
+            {
+              "label": "数据汇",
+              "href": "https://miaomiao-sleep.pages.dev/?version=3.8.2"
+            },
+            {
+              "label": "捕捉刷糖",
+              "href": "https://miaomiao-sleep.pages.dev/catch-planner"
+            },
+            {
+              "label": "糖果增强",
+              "href": "https://miaomiao-sleep.pages.dev/candy-planner"
+            }
+          ]
+        },
+        {
+          "name": "PokéSleep Super Wiki",
+          "note": "进化道具的常驻兑换处资料参考。",
+          "links": [
+            {
+              "label": "常驻兑换处",
+              "href": "https://wiki.pokesleep.com/zht/shop"
+            }
+          ]
+        },
+        {
+          "name": "なまけもの的实测记录",
+          "note": "帮手哨子产物与取整方式的实测参考。",
+          "links": [
+            {
+              "label": "吹哨产物实测",
+              "href": "https://namakemono289.hatenablog.com/entry/2025/12/23/011054"
+            }
+          ]
+        },
+        {
+          "name": "官方",
+          "note": "游戏版本更新、机制调整与活动规则的优先参考，包括等级与糖果经验、技能种子、午睡岛及三周年彩庆花活动。资料存在冲突时，按官方公告、RaenonX、Wiki 的顺序采用。",
+          "links": [
+            {
+              "label": "游戏公告",
+              "href": "https://www.pokemonsleep.net/zh/news/"
+            },
+            {
+              "label": "友情徽章与金色副技能规则",
+              "href": "https://www.pokemonsleep.net/zh/news/323537323733323635393039363631363937/"
+            },
+            {
+              "label": "小卡比兽的午睡岛",
+              "href": "https://www.pokemonsleep.net/zh/news/343231333934393334303030353137313236/"
+            },
+            {
+              "label": "官方三周年活动说明",
+              "href": "https://www.pokemonsleep.net/news/343138353434383532363837333838363733/"
+            }
+          ]
+        }
+      ]
+    },
+    "components_shared_ActivitySettings": {
+      "expandedInitial": false
+    },
+    "components_shared_BerryIcon": {
+      "map": {
+        "一般": 40,
+        "火": 12,
+        "水": 210,
+        "电": 50,
+        "草": 130,
+        "冰": 190,
+        "格斗": 20,
+        "毒": 280,
+        "地面": 35,
+        "飞行": 220,
+        "超能": 300,
+        "虫": 80,
+        "岩石": 30,
+        "幽灵": 260,
+        "龙": 240,
+        "恶": 250,
+        "钢": 200,
+        "妖精": 330
+      }
+    },
+    "components_shared_FallbackImage": {
+      "failedInitial": false
+    },
+    "components_shared_PokePicker": {
+      "openInitial": false,
+      "qInitial": "",
+      "panelInitial": "none",
+      "specInitial": "",
+      "typeInitial": "",
+      "sleepInitial": "",
+      "ingInitial": ""
+    },
+    "components_shared_PokeSprite": {
+      "failedInitial": false,
+      "useIconInitial": false
+    },
+    "components_shared_SpeciesSheet": {
+      "qInitial": ""
+    },
+    "components_team_ComparePane": {
+      "LEVELS": [
+        1,
+        10,
+        25,
+        30,
+        50,
+        60,
+        70
+      ],
+      "selectedInitial": [],
+      "customsInitial": [],
+      "editingInitial": null,
+      "levelInitial": null,
+      "pickingInitial": false,
+      "addingInitial": false
+    },
+    "components_team_MemberCard": {
+      "STAT": {
+        "help": "帮忙",
+        "energy": "活力",
+        "ingredient": "食材",
+        "skill": "技能",
+        "exp": "经验"
+      }
+    },
+    "components_team_MemberEditor": {
+      "LEVELS": [
+        1,
+        10,
+        25,
+        30,
+        50,
+        60,
+        70,
+        80,
+        100
+      ],
+      "MODES": [
+        {
+          "id": "preset",
+          "label": "预设"
+        },
+        {
+          "id": "normal",
+          "label": "一般"
+        },
+        {
+          "id": "full",
+          "label": "全时满包"
+        },
+        {
+          "id": "unlimited",
+          "label": "持有无上限"
+        }
+      ],
+      "STAT": {
+        "help": "帮忙",
+        "energy": "活力",
+        "ingredient": "食材",
+        "skill": "技能",
+        "exp": "经验"
+      },
+      "natureOpenInitial": false,
+      "subPickInitial": null,
+      "silverOpenInitial": false
+    },
+    "components_team_ScorePlanPane": {
+      "readyInitial": false,
+      "advancedInitial": false,
+      "inventoryInitial": false,
+      "selectedInitial": 0,
+      "showActionsInitial": false,
+      "actionDayInitial": 0
+    },
+    "components_team_TeamRosterPane": {
+      "LEVELS": [
+        1,
+        10,
+        25,
+        30,
+        50,
+        60,
+        70
+      ],
+      "viewInitial": "overview",
+      "levelInitial": null,
+      "pickingInitial": null,
+      "addingInitial": null,
+      "editingInitial": null,
+      "cursor": 0
+    },
+    "composables_scorePlanTask": {
+      "busyInitial": false,
+      "errorInitial": "",
+      "noticeInitial": "",
+      "resultInitial": null,
+      "progressInitial": {
+        "completed": 0,
+        "total": 1
+      },
+      "generation": 0,
+      "lastFingerprint": ""
+    },
+    "composables_sleepSimulationTask": {
+      "busyInitial": false,
+      "errorInitial": "",
+      "noticeInitial": "",
+      "progressInitial": {
+        "completed": 0,
+        "total": 0
+      },
+      "resultInitial": [],
+      "generation": 0
+    },
+    "stores_appearance": {
+      "errorInitial": ""
+    },
+    "stores_box": {
+      "pokemonInitial": [],
+      "readyInitial": false
+    },
+    "stores_plans": {
+      "empty_snorlaxStrength": 0,
+      "empty_sleepScore": 100,
+      "empty_sleepType": "没有特征",
+      "empty_campTicket": false,
+      "empty_incense": false,
+      "empty_rank": "",
+      "empty_sleepdex": [],
+      "empty_sleepdexMode": "all",
+      "empty_sleepdexExcluded": [],
+      "empty_undiscoveredBoost": true,
+      "empty_rare": true,
+      "empty_shinyUp": false,
+      "empty_catchGoals": [],
+      "empty_candyRows": [],
+      "empty_candyStocks": {},
+      "readyInitial": false
+    },
+    "stores_roster": {
+      "slotsInitial": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "customsInitial": [],
+      "tunesInitial": {},
+      "readyInitial": false,
+      "errorInitial": ""
+    },
+    "stores_settings": {
+      "readyInitial": false
+    },
+    "ui_appearance": {
+      "colorFields": [
+        {
+          "key": "ink",
+          "label": "页面背景"
+        },
+        {
+          "key": "ink-2",
+          "label": "表单背景"
+        },
+        {
+          "key": "card",
+          "label": "卡片背景"
+        },
+        {
+          "key": "line",
+          "label": "边框"
+        },
+        {
+          "key": "text",
+          "label": "正文"
+        },
+        {
+          "key": "muted",
+          "label": "辅助文字"
+        },
+        {
+          "key": "amber",
+          "label": "主色"
+        },
+        {
+          "key": "sage",
+          "label": "强调色"
+        },
+        {
+          "key": "rose",
+          "label": "提醒色"
+        }
+      ],
+      "themes": [
+        {
+          "id": "night",
+          "name": "夜间营地",
+          "colors": {
+            "ink": "#081018",
+            "ink-2": "#101a26",
+            "card": "#152232",
+            "line": "#2a3d52",
+            "text": "#e7eef6",
+            "muted": "#93a4b5",
+            "amber": "#e4b15a",
+            "sage": "#7fcec0",
+            "rose": "#e0897a"
+          }
+        },
+        {
+          "id": "day",
+          "name": "晴日营地",
+          "colors": {
+            "ink": "#f5f3ed",
+            "ink-2": "#eeebe2",
+            "card": "#ffffff",
+            "line": "#c9c8bf",
+            "text": "#25322e",
+            "muted": "#59665f",
+            "amber": "#81551a",
+            "sage": "#236d60",
+            "rose": "#a33d38"
+          }
+        },
+        {
+          "id": "forest",
+          "name": "林间营地",
+          "colors": {
+            "ink": "#101c19",
+            "ink-2": "#172923",
+            "card": "#1d332b",
+            "line": "#3b5b4d",
+            "text": "#edf2df",
+            "muted": "#a9bdad",
+            "amber": "#e7c477",
+            "sage": "#93d4b1",
+            "rose": "#f0a59b"
+          }
+        }
+      ],
+      "fontSizes": [
+        {
+          "id": "small",
+          "name": "小",
+          "scale": 0.9
+        },
+        {
+          "id": "standard",
+          "name": "标准",
+          "scale": 1
+        },
+        {
+          "id": "large",
+          "name": "大",
+          "scale": 1.15
+        },
+        {
+          "id": "extra",
+          "name": "特大",
+          "scale": 1.3
+        }
+      ],
+      "fontSteps": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        22,
+        24,
+        28,
+        32,
+        40
+      ],
+      "vars": {}
+    },
+    "views_DataView": {
+      "qInitial": ""
+    },
+    "views_ProfileView": {
+      "userInfoInitial": null,
+      "titles": {
+        "home": "我的",
+        "backup": "导入 / 导出",
+        "settings": "全局设置",
+        "appearance": "外观设置",
+        "credits": "鸣谢",
+        "update": "检查更新"
+      }
+    },
+    "views_TeamView": {
+      "adjustingInitial": false
+    },
+    "factory_defaults": {
+      "defaultSettings": {
+        "island": "greengrass",
+        "berries": [
+          "金枕果",
+          "柿仔果",
+          "萄葡果"
+        ],
+        "areaBonus": 0,
+        "islandBonuses": {},
+        "exBuff": true,
+        "exDebuff": true,
+        "exWeeklyBonus": "none",
+        "sleepStart": "23:00",
+        "sleepEnd": "07:30",
+        "sleepScore": 100,
+        "meals": true,
+        "incense": false,
+        "dailySkillHeal": 0,
+        "goodCamp": false,
+        "helpingBonus": 0,
+        "mealCategory": "curry",
+        "potSize": 15,
+        "period": "day",
+        "eventMult": 1,
+        "sleepEventMix": "some",
+        "recipeLevels": {},
+        "whistleHelps": 0,
+        "shinyUp": false,
+        "sundayPot": false
+      },
+      "idealSettings_sleepStart": "21:30",
+      "idealSettings_sleepEnd": "08:00",
+      "idealSettings_sleepScore": 100,
+      "idealSettings_meals": true,
+      "idealSettings_goodCamp": true,
+      "work18Settings_sleepStart": "00:00",
+      "work18Settings_sleepEnd": "06:00",
+      "work18Settings_sleepScore": 88,
+      "work18Settings_meals": true,
+      "helpMaxSettings_helpingBonus": 5
+    },
+    "factory_splitSleep": {
+      "defaultSplitOptions": {
+        "island": "greengrass",
+        "strength": 0,
+        "targets": [],
+        "sleepType": "all",
+        "eventMult": 1,
+        "eventMix": false,
+        "iterations": 4000
+      },
+      "newSplitTarget": {
+        "countWeight": 1,
+        "candyWeight": 1,
+        "probabilityWeight": 1
+      }
+    },
+    "factory_boxOverview": {
+      "defaultOverviewBonuses": {
+        "island": "greengrass",
+        "exBuff": true,
+        "exDebuff": true,
+        "exWeeklyBonus": "none",
+        "areaBonus": 0,
+        "goodCamp": false,
+        "helpingBonus": 0,
+        "favoredBerries": []
+      }
+    },
+    "factory_scorePlan": {
+      "defaultScoreOptions_nested_classification": "auto",
+      "defaultScoreOptions_nested_extreme": "auto",
+      "defaultScoreOptions_nested_collectMinutes": 60,
+      "defaultScoreOptions_nested_settleDelay": 0,
+      "defaultScoreOptions_startDay": 0,
+      "defaultScoreOptions_startTime": "04:00",
+      "defaultScoreOptions_days": 7,
+      "defaultScoreOptions_initialStrength": 0,
+      "defaultScoreOptions_bag": {},
+      "defaultScoreOptions_meals": [
+        "08:00",
+        "12:00",
+        "18:00"
+      ],
+      "defaultScoreOptions_collectMinutes": 60,
+      "defaultScoreOptions_precision": "medium",
+      "defaultScoreOptions_seed": 20261012,
+      "defaultScoreOptions_initialDisguise": {},
+      "defaultScoreOptions_initialCrit": 0,
+      "defaultScoreOptions_initialPot": 0,
+      "defaultScoreOptions_initialZone": 0,
+      "defaultScoreOptions_initialJuice": 0,
+      "defaultScoreOptions_useJuice": true,
+      "defaultScoreOptions_splitSleep": false,
+      "defaultScoreOptions_device": false,
+      "defaultScoreOptions_dayStart": "08:00",
+      "defaultScoreOptions_dayEnd": "22:00"
+    },
+    "factory_candyPlan": {
+      "createCandyRowFromBox_method": "target",
+      "createCandyRowFromBox_use": 50,
+      "createCandyRowFromBox_useAll": false
+    },
+    "factory_appearance": {
+      "defaultAppearance": {
+        "theme": "night",
+        "fontSize": "standard",
+        "colors": {}
+      }
+    },
+    "factory_member": {
+      "defaultTune": {
+        "evolutions": 0,
+        "goldSeeds": 0,
+        "silverSeeds": 0,
+        "sleepHours": 0,
+        "carryMode": "preset",
+        "exp": 0,
+        "ribbonHours": 0
+      }
+    }
+  }
+}

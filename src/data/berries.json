@@ -1,0 +1,110 @@
+[
+  {
+    "name": "柿仔果",
+    "type": "一般",
+    "energyLv1": 28,
+    "energyHigh": 154
+  },
+  {
+    "name": "蘋野果",
+    "type": "火",
+    "energyLv1": 27,
+    "energyHigh": 148
+  },
+  {
+    "name": "橙橙果",
+    "type": "水",
+    "energyLv1": 31,
+    "energyHigh": 170
+  },
+  {
+    "name": "萄葡果",
+    "type": "电",
+    "energyLv1": 25,
+    "energyHigh": 137
+  },
+  {
+    "name": "金枕果",
+    "type": "草",
+    "energyLv1": 30,
+    "energyHigh": 165
+  },
+  {
+    "name": "莓莓果",
+    "type": "冰",
+    "energyLv1": 32,
+    "energyHigh": 176
+  },
+  {
+    "name": "樱子果",
+    "type": "格斗",
+    "energyLv1": 27,
+    "energyHigh": 148
+  },
+  {
+    "name": "零余果",
+    "type": "毒",
+    "energyLv1": 32,
+    "energyHigh": 176
+  },
+  {
+    "name": "勿花果",
+    "type": "地面",
+    "energyLv1": 29,
+    "energyHigh": 159
+  },
+  {
+    "name": "椰木果",
+    "type": "飞行",
+    "energyLv1": 24,
+    "energyHigh": 132
+  },
+  {
+    "name": "芒芒果",
+    "type": "超能",
+    "energyLv1": 26,
+    "energyHigh": 143
+  },
+  {
+    "name": "木子果",
+    "type": "虫",
+    "energyLv1": 24,
+    "energyHigh": 132
+  },
+  {
+    "name": "文柚果",
+    "type": "岩石",
+    "energyLv1": 30,
+    "energyHigh": 165
+  },
+  {
+    "name": "墨莓果",
+    "type": "幽灵",
+    "energyLv1": 26,
+    "energyHigh": 143
+  },
+  {
+    "name": "番荔果",
+    "type": "龙",
+    "energyLv1": 35,
+    "energyHigh": 192
+  },
+  {
+    "name": "异奇果",
+    "type": "恶",
+    "energyLv1": 31,
+    "energyHigh": 170
+  },
+  {
+    "name": "靛莓果",
+    "type": "钢",
+    "energyLv1": 33,
+    "energyHigh": 181
+  },
+  {
+    "name": "桃桃果",
+    "type": "妖精",
+    "energyLv1": 26,
+    "energyHigh": 143
+  }
+]

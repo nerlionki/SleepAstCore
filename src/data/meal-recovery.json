@@ -1,0 +1,11 @@
+[
+  { "min": 0, "max": 11, "recover": 9 },
+  { "min": 11, "max": 21, "recover": 8 },
+  { "min": 21, "max": 31, "recover": 7 },
+  { "min": 31, "max": 41, "recover": 6 },
+  { "min": 41, "max": 51, "recover": 5 },
+  { "min": 51, "max": 61, "recover": 4 },
+  { "min": 61, "max": 71, "recover": 3 },
+  { "min": 71, "max": 81, "recover": 2 },
+  { "min": 81, "max": 150, "recover": 1 }
+]

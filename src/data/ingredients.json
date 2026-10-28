@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "粗枝大葱",
+    "energy": 185,
+    "shards": 7
+  },
+  {
+    "id": 2,
+    "name": "品鲜蘑菇",
+    "energy": 167,
+    "shards": 7
+  },
+  {
+    "id": 3,
+    "name": "特选蛋",
+    "energy": 115,
+    "shards": 5
+  },
+  {
+    "id": 4,
+    "name": "窝心洋芋",
+    "energy": 124,
+    "shards": 5
+  },
+  {
+    "id": 5,
+    "name": "特选苹果",
+    "energy": 90,
+    "shards": 4
+  },
+  {
+    "id": 6,
+    "name": "火辣香草",
+    "energy": 130,
+    "shards": 5
+  },
+  {
+    "id": 7,
+    "name": "豆制肉",
+    "energy": 103,
+    "shards": 4
+  },
+  {
+    "id": 8,
+    "name": "哞哞鲜奶",
+    "energy": 98,
+    "shards": 4
+  },
+  {
+    "id": 9,
+    "name": "甜甜蜜",
+    "energy": 101,
+    "shards": 4
+  },
+  {
+    "id": 10,
+    "name": "纯粹油",
+    "energy": 121,
+    "shards": 5
+  },
+  {
+    "id": 11,
+    "name": "暖暖姜",
+    "energy": 109,
+    "shards": 4
+  },
+  {
+    "id": 12,
+    "name": "好眠番茄",
+    "energy": 110,
+    "shards": 4
+  },
+  {
+    "id": 13,
+    "name": "放松可可",
+    "energy": 151,
+    "shards": 6
+  },
+  {
+    "id": 14,
+    "name": "美味尾巴",
+    "energy": 342,
+    "shards": 14
+  },
+  {
+    "id": 15,
+    "name": "萌绿大豆",
+    "energy": 100,
+    "shards": 4
+  },
+  {
+    "id": 16,
+    "name": "萌绿玉米",
+    "energy": 140,
+    "shards": 6
+  },
+  {
+    "id": 17,
+    "name": "醒脑咖啡豆",
+    "energy": 153,
+    "shards": 6
+  },
+  {
+    "id": 18,
+    "name": "沉甸甸南瓜",
+    "energy": 250,
+    "shards": 10
+  },
+  {
+    "id": 19,
+    "name": "嫩亮酪梨",
+    "energy": 162,
+    "shards": 6
+  }
+]

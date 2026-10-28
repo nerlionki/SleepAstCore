@@ -1,0 +1,352 @@
+[
+  {
+    "level": 1,
+    "exp": 0,
+    "shards": 0
+  },
+  {
+    "level": 2,
+    "exp": 54,
+    "shards": 14
+  },
+  {
+    "level": 3,
+    "exp": 125,
+    "shards": 18
+  },
+  {
+    "level": 4,
+    "exp": 233,
+    "shards": 22
+  },
+  {
+    "level": 5,
+    "exp": 361,
+    "shards": 27
+  },
+  {
+    "level": 6,
+    "exp": 525,
+    "shards": 30
+  },
+  {
+    "level": 7,
+    "exp": 727,
+    "shards": 34
+  },
+  {
+    "level": 8,
+    "exp": 971,
+    "shards": 39
+  },
+  {
+    "level": 9,
+    "exp": 1245,
+    "shards": 44
+  },
+  {
+    "level": 10,
+    "exp": 1560,
+    "shards": 48
+  },
+  {
+    "level": 11,
+    "exp": 1905,
+    "shards": 50
+  },
+  {
+    "level": 12,
+    "exp": 2281,
+    "shards": 52
+  },
+  {
+    "level": 13,
+    "exp": 2688,
+    "shards": 53
+  },
+  {
+    "level": 14,
+    "exp": 3107,
+    "shards": 56
+  },
+  {
+    "level": 15,
+    "exp": 3536,
+    "shards": 59
+  },
+  {
+    "level": 16,
+    "exp": 3976,
+    "shards": 62
+  },
+  {
+    "level": 17,
+    "exp": 4430,
+    "shards": 66
+  },
+  {
+    "level": 18,
+    "exp": 4899,
+    "shards": 68
+  },
+  {
+    "level": 19,
+    "exp": 5382,
+    "shards": 71
+  },
+  {
+    "level": 20,
+    "exp": 5879,
+    "shards": 74
+  },
+  {
+    "level": 21,
+    "exp": 6394,
+    "shards": 78
+  },
+  {
+    "level": 22,
+    "exp": 6931,
+    "shards": 81
+  },
+  {
+    "level": 23,
+    "exp": 7489,
+    "shards": 85
+  },
+  {
+    "level": 24,
+    "exp": 8068,
+    "shards": 88
+  },
+  {
+    "level": 25,
+    "exp": 8668,
+    "shards": 92
+  },
+  {
+    "level": 26,
+    "exp": 9290,
+    "shards": 95
+  },
+  {
+    "level": 27,
+    "exp": 9933,
+    "shards": 100
+  },
+  {
+    "level": 28,
+    "exp": 10598,
+    "shards": 105
+  },
+  {
+    "level": 29,
+    "exp": 11284,
+    "shards": 111
+  },
+  {
+    "level": 30,
+    "exp": 11992,
+    "shards": 117
+  },
+  {
+    "level": 31,
+    "exp": 12721,
+    "shards": 122
+  },
+  {
+    "level": 32,
+    "exp": 13469,
+    "shards": 126
+  },
+  {
+    "level": 33,
+    "exp": 14235,
+    "shards": 130
+  },
+  {
+    "level": 34,
+    "exp": 15020,
+    "shards": 136
+  },
+  {
+    "level": 35,
+    "exp": 15823,
+    "shards": 143
+  },
+  {
+    "level": 36,
+    "exp": 16644,
+    "shards": 151
+  },
+  {
+    "level": 37,
+    "exp": 17483,
+    "shards": 160
+  },
+  {
+    "level": 38,
+    "exp": 18340,
+    "shards": 167
+  },
+  {
+    "level": 39,
+    "exp": 19215,
+    "shards": 174
+  },
+  {
+    "level": 40,
+    "exp": 20108,
+    "shards": 184
+  },
+  {
+    "level": 41,
+    "exp": 21018,
+    "shards": 192
+  },
+  {
+    "level": 42,
+    "exp": 21946,
+    "shards": 201
+  },
+  {
+    "level": 43,
+    "exp": 22891,
+    "shards": 211
+  },
+  {
+    "level": 44,
+    "exp": 23854,
+    "shards": 221
+  },
+  {
+    "level": 45,
+    "exp": 24834,
+    "shards": 227
+  },
+  {
+    "level": 46,
+    "exp": 25831,
+    "shards": 236
+  },
+  {
+    "level": 47,
+    "exp": 26846,
+    "shards": 250
+  },
+  {
+    "level": 48,
+    "exp": 27878,
+    "shards": 264
+  },
+  {
+    "level": 49,
+    "exp": 28927,
+    "shards": 279
+  },
+  {
+    "level": 50,
+    "exp": 29993,
+    "shards": 295
+  },
+  {
+    "level": 51,
+    "exp": 31355,
+    "shards": 309
+  },
+  {
+    "level": 52,
+    "exp": 32917,
+    "shards": 323
+  },
+  {
+    "level": 53,
+    "exp": 34664,
+    "shards": 338
+  },
+  {
+    "level": 54,
+    "exp": 36610,
+    "shards": 356
+  },
+  {
+    "level": 55,
+    "exp": 38805,
+    "shards": 372
+  },
+  {
+    "level": 56,
+    "exp": 41084,
+    "shards": 391
+  },
+  {
+    "level": 57,
+    "exp": 43488,
+    "shards": 437
+  },
+  {
+    "level": 58,
+    "exp": 46021,
+    "shards": 486
+  },
+  {
+    "level": 59,
+    "exp": 48687,
+    "shards": 538
+  },
+  {
+    "level": 60,
+    "exp": 51493,
+    "shards": 593
+  },
+  {
+    "level": 61,
+    "exp": 54358,
+    "shards": 651
+  },
+  {
+    "level": 62,
+    "exp": 57280,
+    "shards": 698
+  },
+  {
+    "level": 63,
+    "exp": 60257,
+    "shards": 750
+  },
+  {
+    "level": 64,
+    "exp": 63286,
+    "shards": 804
+  },
+  {
+    "level": 65,
+    "exp": 66363,
+    "shards": 866
+  },
+  {
+    "level": 66,
+    "exp": 69458,
+    "shards": 932
+  },
+  {
+    "level": 67,
+    "exp": 72574,
+    "shards": 1004
+  },
+  {
+    "level": 68,
+    "exp": 75718,
+    "shards": 1084
+  },
+  {
+    "level": 69,
+    "exp": 78907,
+    "shards": 1173
+  },
+  {
+    "level": 70,
+    "exp": 82162,
+    "shards": 1272
+  }
+]

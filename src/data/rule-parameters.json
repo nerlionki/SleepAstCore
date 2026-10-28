@@ -1,0 +1,420 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-27",
+  "source": "Exact numeric values lifted from the saved working-tree baseline; no mechanic corrections.",
+  "modules": {
+    "helpSpeed": {
+      "energyMultiplier": {
+        "highEnergyThreshold": 80,
+        "highEnergyInterval": 0.45,
+        "mediumEnergyThreshold": 60,
+        "mediumEnergyInterval": 0.52,
+        "lowEnergyThreshold": 40,
+        "lowEnergyInterval": 0.58,
+        "positiveEnergyInterval": 0.66
+      },
+      "natureHelpFactor": {
+        "fasterInterval": 0.9,
+        "slowerInterval": 1.075
+      },
+      "subskillSpeedCut": {
+        "helpS": 0.07,
+        "helpM": 0.14,
+        "maxHelpingBonuses": 5,
+        "helpingBonus": 0.05,
+        "maxReduction": 0.35
+      },
+      "intervalMultiplier": {
+        "levelNumerator": 501,
+        "levelDenominator": 500,
+        "maxRibbonReduction": 0.25
+      },
+      "instantInterval": {
+        "campSpeedFactor": 1.2
+      }
+    },
+    "berry": {
+      "berryEnergyAt": {
+        "unknownBerryEnergy": 30,
+        "compoundGrowth": 1.025
+      }
+    },
+    "exEffects": {
+      "exEffects": {
+        "weeklyBerryMultiplier": 2.4,
+        "favoredBerryMultiplier": 2,
+        "ingredientSpecialistExtra": 1.5,
+        "weeklySkillMultiplier": 1.25,
+        "cyanExCarryExtra": 5,
+        "normalIngredientExtra": 1,
+        "mainSkillLevelBonus": 1,
+        "carryIslandId": "cyanex",
+        "exIslandIds": [
+          "greenex",
+          "cyanex"
+        ]
+      }
+    },
+    "energy": {
+      "recoveryFactor": {
+        "energyRecoveryBonus": 0.14,
+        "maxRecoveryBonuses": 5,
+        "incenseMultiplier": 2
+      },
+      "sleepRecoveredEnergy": {
+        "recoveryBonusCap": 105,
+        "normalRecoveryCap": 100
+      },
+      "energyCurve": {
+        "ticksPerDay": 144,
+        "energyCap": 150,
+        "minutesPerTick": 10,
+        "previousTickOffset": 1430,
+        "breakfastHour": 8,
+        "lunchHour": 12,
+        "dinnerHour": 18
+      },
+      "energyDecay": {
+        "perTick": 1
+      }
+    },
+    "xp": {
+      "natureExpFactor": {
+        "expUp": 1.18,
+        "expDown": 0.82
+      },
+      "groupMult": {
+        "pseudo": 1.5,
+        "legendary": 1.8,
+        "mythical": 2.2
+      },
+      "candyExpAtLevel": {
+        "earlyExp": 40,
+        "secondThreshold": 30,
+        "middleExp": 35,
+        "firstLevelThreshold": 25,
+        "lateExp": 25
+      },
+      "candyExp": {
+        "defaultLevel": 30
+      }
+    },
+    "cookingSkillState": {
+      "addPot": {
+        "extraPotCap": 200
+      },
+      "addCrit": {
+        "skillCritCapPercent": 70
+      },
+      "potSize": {
+        "sundayPotMultiplier": 2,
+        "campPotMultiplier": 1.5
+      },
+      "cook": {
+        "sundayCritChance": 0.3,
+        "normalCritChance": 0.1,
+        "sundayCritMultiplier": 3,
+        "normalCritMultiplier": 2
+      }
+    },
+    "cook": {
+      "cookEnergy": {
+        "unknownIngredientEnergy": 30,
+        "sundayCritChance": 0.3,
+        "sundayCritMultiplier": 3,
+        "sundayNormalChance": 0.7,
+        "normalCritChance": 0.1,
+        "normalCritMultiplier": 2,
+        "normalChance": 0.9
+      },
+      "cookingContext": {
+        "campPotMultiplier": 1.5,
+        "sundayPotMultiplier": 2,
+        "sundayCritChance": 0.3,
+        "normalCritChance": 0.1,
+        "sundayCritMultiplier": 3,
+        "normalCritMultiplier": 2
+      },
+      "cookMealWithContext": {
+        "unknownIngredientEnergy": 30
+      },
+      "cookMeals": {
+        "defaultMeals": 3,
+        "weeklyMealLimit": 21
+      }
+    },
+    "train": {
+      "napDailyExp": {
+        "relaxDailyExp": 600,
+        "normalDailyExp": 150
+      },
+      "napTotalExp": {
+        "maxDays": 365,
+        "normalDailyExp": 150,
+        "relaxExtraExp": 450,
+        "relaxDays": 7,
+        "earlyRetrieveMultiplier": 0.5
+      },
+      "trainPlan": {
+        "maxNapDays": 365,
+        "defaultAndRelaxDays": 7,
+        "napDailyExp": 150,
+        "napRelaxExtraExp": 450,
+        "earlyRetrieveMultiplier": 0.5,
+        "sleepIncenseMultiplier": 2
+      }
+    },
+    "timeline": {
+      "teamHelpingBonus": {
+        "teamSize": 5
+      },
+      "carryLimit": {
+        "unlimitedCarry": 9999,
+        "inventoryS": 6,
+        "inventoryM": 12,
+        "inventoryL": 18,
+        "campCarryMultiplier": 1.2
+      },
+      "berryCount": {
+        "specialistBerries": 2,
+        "normalBerries": 1,
+        "berrySFruitBonus": 1
+      },
+      "simulateTeam": {
+        "weeklyDays": 7,
+        "energyCap": 150,
+        "findingS": 0.18,
+        "findingM": 0.36,
+        "energyDecayMinutes": 10,
+        "dailyRecoveryTicks": 144,
+        "breakfastMinute": 480,
+        "lunchMinute": 720,
+        "dinnerMinute": 1080,
+        "weeklyMealLimit": 21,
+        "sundayIndex": 6
+      },
+      "dispatchSkill": {
+        "maximumEligibleTargets": 5,
+        "staticRecoveryChance": 0.3,
+        "berryZoneCap": 0.24,
+        "energyCap": 150
+      },
+      "applyHelp": {
+        "fractionalExExtraChance": 0.5
+      },
+      "teamTimeline": {
+        "teamSize": 5
+      },
+      "energyDecay": {
+        "perTick": 1
+      }
+    },
+    "produce": {
+      "berryPerHelp": {
+        "specialistBerries": 2,
+        "normalBerries": 1,
+        "berrySFruitBonus": 1
+      },
+      "findingRate": {
+        "findingS": 0.18,
+        "findingM": 0.36
+      },
+      "produce": {
+        "fixedComparisonEnergy": 100,
+        "energyCap": 150
+      }
+    },
+    "skillEffects": {
+      "applyMainSkill": {
+        "energyCap": 150,
+        "berryJuiceChance": 0.185,
+        "lowestEnergyTargetWeight": 0.72,
+        "otherEnergyTargetWeight": 0.07,
+        "crescentRecoveryChance": 0.45,
+        "plusSuccessChance": 0.86,
+        "plusRareOneChance": 0.112,
+        "plusRareTwoChance": 0.028,
+        "latiasTargetWeight": 0.9265,
+        "latiosFirstTargetWeight": 0.61938,
+        "latiosOtherTargetWeight": 0.15137,
+        "disguiseCritBonus": 2
+      }
+    },
+    "scoreSkills": {
+      "scoreSkill": {
+        "berryJuiceChance": 0.185,
+        "crescentRecoveryChance": 0.45,
+        "lowestEnergyTargetChance": 0.72,
+        "plusRareChance": 0.14,
+        "minusIngredientMultiplier": 2,
+        "disguiseCritMultiplier": 3
+      }
+    },
+    "scoreSimulation": {
+      "simulateScore": {
+        "findingS": 0.18,
+        "findingM": 0.36,
+        "skillSpecialistPitySeconds": 144000,
+        "otherPityHelps": 78
+      },
+      "sellFor": {
+        "bagCapacity": 800
+      },
+      "creditFood": {
+        "bagCapacity": 800
+      },
+      "help": {
+        "fractionalExExtraChance": 0.5
+      },
+      "release": {
+        "energyCap": 150,
+        "extraPotCap": 200,
+        "skillCritCap": 0.7,
+        "berryZoneCap": 0.24
+      },
+      "settle": {
+        "sleepExpBonus": 0.14,
+        "inactiveRecoveryShare": 0.05
+      },
+      "cook": {
+        "sundayPotMultiplier": 2,
+        "campPotMultiplier": 1.5,
+        "sundayCritChance": 0.3,
+        "normalCritChance": 0.1,
+        "energyCap": 150,
+        "normalCritMultiplier": 2,
+        "sundayCritMultiplier": 3
+      },
+      "energyDecay": {
+        "perTick": 1
+      },
+      "berryCount": {
+        "specialist": 2,
+        "normal": 1,
+        "berryS": 1
+      }
+    },
+    "sleep": {
+      "sleepMinutes": {
+        "minutesPerScore": 5.1
+      },
+      "energyLost": {
+        "minutesPerEnergy": 10
+      },
+      "strengthToNext": {
+        "maxNaturalEncounters": 8
+      },
+      "encounterCount": {
+        "minNaturalEncounters": 3
+      },
+      "sleepExpectSteps": {
+        "defaultIterations": 4000
+      },
+      "sleepExpect": {
+        "defaultIterations": 4000
+      },
+      "maxEncounters": {
+        "campExtra": 1,
+        "incenseExtra": 1
+      }
+    },
+    "sleepRewards": {
+      "teamResearchBonuses": {
+        "teamSize": 5
+      },
+      "boostedResearchReward": {
+        "maxBonusHolders": 5,
+        "researchExpPerHolder": 0.09,
+        "incenseMultiplier": 2,
+        "shardsPerHolder": 0.06
+      },
+      "dailyResearchReward": {
+        "defaultFullRewardLimit": 10,
+        "reducedRewardDivisor": 2,
+        "reducedCandy": 1
+      }
+    },
+    "specialty": {
+      "skillStorageLimit": {
+        "dualStorageCapacity": 2,
+        "normalCapacity": 1
+      }
+    },
+    "member": {
+      "compareHelpingBonus": {
+        "teamSize": 5
+      },
+      "subskillLevelBonus": {
+        "skillLevelM": 2,
+        "skillLevelS": 1
+      },
+      "applySilverSeed": {
+        "legacySilverSeedCap": 9
+      },
+      "wakeFromHours": {
+        "energyCap": 150,
+        "minutesPerScore": 5.1
+      }
+    },
+    "boxOverview": {
+      "calculateBoxOverview": {
+        "areaBonusCap": 0.85,
+        "helpingBonusCap": 5,
+        "fixedComparisonEnergy": 100
+      }
+    },
+    "defaults": {
+      "mergeSettings": {
+        "areaBonusCap": 0.85
+      }
+    },
+    "whistle": {
+      "whistleMember": {
+        "rewardSeconds": 10800,
+        "findingS": 0.18,
+        "findingM": 0.36
+      },
+      "planWhistle": {
+        "areaBonusCap": 0.85,
+        "teamSize": 5
+      },
+      "berryCount": {
+        "berryS": 1
+      }
+    },
+    "babyEfficiency": {
+      "validateBabyEfficiency": {
+        "minIterations": 100,
+        "maxIterations": 100000,
+        "maxEventMultiplier": 10000
+      }
+    },
+    "splitSleep": {
+      "normalizeSplitOptions": {
+        "maxEventMultiplier": 10000,
+        "minIterations": 100,
+        "maxIterations": 100000,
+        "defaultIterations": 4000
+      },
+      "validateSplitOptions": {
+        "maxEventMultiplier": 10000,
+        "minIterations": 100,
+        "maxIterations": 100000
+      }
+    },
+    "sleepSimulation": {
+      "simulateSleep": {
+        "maxIterations": 100000
+      },
+      "sleepSimulationSteps": {
+        "maxIterations": 100000
+      }
+    },
+    "ingredients": {
+      "berryCount": {
+        "specialist": 2,
+        "normal": 1
+      }
+    }
+  }
+}

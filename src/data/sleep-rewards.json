@@ -1,0 +1,7594 @@
+[
+  {
+    "id": 1,
+    "pokeId": 25,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 5
+  },
+  {
+    "id": 2,
+    "pokeId": 25,
+    "stars": 2,
+    "researchExp": 82,
+    "shards": 242,
+    "candy": 7
+  },
+  {
+    "id": 3,
+    "pokeId": 25,
+    "stars": 3,
+    "researchExp": 328,
+    "shards": 975,
+    "candy": 10
+  },
+  {
+    "id": 4,
+    "pokeId": 133,
+    "stars": 1,
+    "researchExp": 24,
+    "shards": 43,
+    "candy": 4
+  },
+  {
+    "id": 5,
+    "pokeId": 133,
+    "stars": 2,
+    "researchExp": 132,
+    "shards": 237,
+    "candy": 6
+  },
+  {
+    "id": 6,
+    "pokeId": 133,
+    "stars": 3,
+    "researchExp": 520,
+    "shards": 931,
+    "candy": 9
+  },
+  {
+    "id": 7,
+    "pokeId": 19,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 4
+  },
+  {
+    "id": 8,
+    "pokeId": 19,
+    "stars": 2,
+    "researchExp": 58,
+    "shards": 167,
+    "candy": 6
+  },
+  {
+    "id": 9,
+    "pokeId": 19,
+    "stars": 3,
+    "researchExp": 260,
+    "shards": 771,
+    "candy": 9
+  },
+  {
+    "id": 10,
+    "pokeId": 52,
+    "stars": 1,
+    "researchExp": 12,
+    "shards": 24,
+    "candy": 4
+  },
+  {
+    "id": 11,
+    "pokeId": 52,
+    "stars": 2,
+    "researchExp": 100,
+    "shards": 210,
+    "candy": 6
+  },
+  {
+    "id": 12,
+    "pokeId": 52,
+    "stars": 3,
+    "researchExp": 402,
+    "shards": 843,
+    "candy": 9
+  },
+  {
+    "id": 13,
+    "pokeId": 172,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 4
+  },
+  {
+    "id": 14,
+    "pokeId": 172,
+    "stars": 2,
+    "researchExp": 58,
+    "shards": 167,
+    "candy": 6
+  },
+  {
+    "id": 15,
+    "pokeId": 172,
+    "stars": 3,
+    "researchExp": 260,
+    "shards": 771,
+    "candy": 9
+  },
+  {
+    "id": 16,
+    "pokeId": 1,
+    "stars": 1,
+    "researchExp": 23,
+    "shards": 46,
+    "candy": 4
+  },
+  {
+    "id": 17,
+    "pokeId": 1,
+    "stars": 2,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 18,
+    "pokeId": 1,
+    "stars": 3,
+    "researchExp": 479,
+    "shards": 1005,
+    "candy": 9
+  },
+  {
+    "id": 19,
+    "pokeId": 2,
+    "stars": 1,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 20,
+    "pokeId": 2,
+    "stars": 2,
+    "researchExp": 327,
+    "shards": 686,
+    "candy": 8
+  },
+  {
+    "id": 21,
+    "pokeId": 2,
+    "stars": 3,
+    "researchExp": 1063,
+    "shards": 2234,
+    "candy": 11
+  },
+  {
+    "id": 22,
+    "pokeId": 10,
+    "stars": 1,
+    "researchExp": 15,
+    "shards": 19,
+    "candy": 4
+  },
+  {
+    "id": 23,
+    "pokeId": 10,
+    "stars": 2,
+    "researchExp": 94,
+    "shards": 103,
+    "candy": 6
+  },
+  {
+    "id": 24,
+    "pokeId": 10,
+    "stars": 3,
+    "researchExp": 431,
+    "shards": 466,
+    "candy": 9
+  },
+  {
+    "id": 25,
+    "pokeId": 11,
+    "stars": 1,
+    "researchExp": 33,
+    "shards": 38,
+    "candy": 6
+  },
+  {
+    "id": 26,
+    "pokeId": 11,
+    "stars": 2,
+    "researchExp": 183,
+    "shards": 200,
+    "candy": 8
+  },
+  {
+    "id": 27,
+    "pokeId": 11,
+    "stars": 3,
+    "researchExp": 707,
+    "shards": 762,
+    "candy": 11
+  },
+  {
+    "id": 28,
+    "pokeId": 12,
+    "stars": 1,
+    "researchExp": 407,
+    "shards": 729,
+    "candy": 9
+  },
+  {
+    "id": 29,
+    "pokeId": 12,
+    "stars": 2,
+    "researchExp": 951,
+    "shards": 1703,
+    "candy": 11
+  },
+  {
+    "id": 30,
+    "pokeId": 12,
+    "stars": 3,
+    "researchExp": 2502,
+    "shards": 4481,
+    "candy": 14
+  },
+  {
+    "id": 31,
+    "pokeId": 39,
+    "stars": 1,
+    "researchExp": 27,
+    "shards": 31,
+    "candy": 5
+  },
+  {
+    "id": 32,
+    "pokeId": 39,
+    "stars": 2,
+    "researchExp": 148,
+    "shards": 161,
+    "candy": 7
+  },
+  {
+    "id": 33,
+    "pokeId": 39,
+    "stars": 3,
+    "researchExp": 595,
+    "shards": 642,
+    "candy": 10
+  },
+  {
+    "id": 34,
+    "pokeId": 7,
+    "stars": 1,
+    "researchExp": 23,
+    "shards": 46,
+    "candy": 4
+  },
+  {
+    "id": 35,
+    "pokeId": 7,
+    "stars": 2,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 36,
+    "pokeId": 7,
+    "stars": 3,
+    "researchExp": 479,
+    "shards": 1005,
+    "candy": 9
+  },
+  {
+    "id": 37,
+    "pokeId": 8,
+    "stars": 1,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 38,
+    "pokeId": 8,
+    "stars": 2,
+    "researchExp": 327,
+    "shards": 686,
+    "candy": 8
+  },
+  {
+    "id": 39,
+    "pokeId": 8,
+    "stars": 3,
+    "researchExp": 1063,
+    "shards": 2234,
+    "candy": 11
+  },
+  {
+    "id": 40,
+    "pokeId": 4,
+    "stars": 1,
+    "researchExp": 21,
+    "shards": 50,
+    "candy": 4
+  },
+  {
+    "id": 41,
+    "pokeId": 4,
+    "stars": 2,
+    "researchExp": 109,
+    "shards": 278,
+    "candy": 6
+  },
+  {
+    "id": 42,
+    "pokeId": 4,
+    "stars": 3,
+    "researchExp": 427,
+    "shards": 1098,
+    "candy": 9
+  },
+  {
+    "id": 43,
+    "pokeId": 5,
+    "stars": 1,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 44,
+    "pokeId": 5,
+    "stars": 2,
+    "researchExp": 327,
+    "shards": 686,
+    "candy": 8
+  },
+  {
+    "id": 45,
+    "pokeId": 5,
+    "stars": 3,
+    "researchExp": 1063,
+    "shards": 2234,
+    "candy": 11
+  },
+  {
+    "id": 46,
+    "pokeId": 79,
+    "stars": 1,
+    "researchExp": 15,
+    "shards": 19,
+    "candy": 4
+  },
+  {
+    "id": 47,
+    "pokeId": 79,
+    "stars": 2,
+    "researchExp": 122,
+    "shards": 133,
+    "candy": 6
+  },
+  {
+    "id": 48,
+    "pokeId": 79,
+    "stars": 3,
+    "researchExp": 506,
+    "shards": 546,
+    "candy": 9
+  },
+  {
+    "id": 49,
+    "pokeId": 158,
+    "stars": 1,
+    "researchExp": 24,
+    "shards": 43,
+    "candy": 4
+  },
+  {
+    "id": 50,
+    "pokeId": 158,
+    "stars": 2,
+    "researchExp": 132,
+    "shards": 237,
+    "candy": 6
+  },
+  {
+    "id": 51,
+    "pokeId": 158,
+    "stars": 3,
+    "researchExp": 520,
+    "shards": 931,
+    "candy": 9
+  },
+  {
+    "id": 52,
+    "pokeId": 159,
+    "stars": 1,
+    "researchExp": 132,
+    "shards": 236,
+    "candy": 6
+  },
+  {
+    "id": 53,
+    "pokeId": 159,
+    "stars": 2,
+    "researchExp": 355,
+    "shards": 636,
+    "candy": 8
+  },
+  {
+    "id": 54,
+    "pokeId": 159,
+    "stars": 3,
+    "researchExp": 1155,
+    "shards": 2069,
+    "candy": 11
+  },
+  {
+    "id": 55,
+    "pokeId": 50,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 4
+  },
+  {
+    "id": 56,
+    "pokeId": 50,
+    "stars": 2,
+    "researchExp": 58,
+    "shards": 167,
+    "candy": 6
+  },
+  {
+    "id": 57,
+    "pokeId": 50,
+    "stars": 3,
+    "researchExp": 260,
+    "shards": 771,
+    "candy": 9
+  },
+  {
+    "id": 58,
+    "pokeId": 51,
+    "stars": 1,
+    "researchExp": 100,
+    "shards": 294,
+    "candy": 6
+  },
+  {
+    "id": 59,
+    "pokeId": 51,
+    "stars": 2,
+    "researchExp": 267,
+    "shards": 793,
+    "candy": 8
+  },
+  {
+    "id": 60,
+    "pokeId": 51,
+    "stars": 3,
+    "researchExp": 867,
+    "shards": 2585,
+    "candy": 11
+  },
+  {
+    "id": 61,
+    "pokeId": 40,
+    "stars": 1,
+    "researchExp": 260,
+    "shards": 283,
+    "candy": 9
+  },
+  {
+    "id": 62,
+    "pokeId": 40,
+    "stars": 2,
+    "researchExp": 673,
+    "shards": 726,
+    "candy": 11
+  },
+  {
+    "id": 63,
+    "pokeId": 40,
+    "stars": 3,
+    "researchExp": 1985,
+    "shards": 2136,
+    "candy": 14
+  },
+  {
+    "id": 64,
+    "pokeId": 3,
+    "stars": 1,
+    "researchExp": 587,
+    "shards": 1050,
+    "candy": 9
+  },
+  {
+    "id": 65,
+    "pokeId": 3,
+    "stars": 2,
+    "researchExp": 1312,
+    "shards": 2351,
+    "candy": 11
+  },
+  {
+    "id": 66,
+    "pokeId": 3,
+    "stars": 3,
+    "researchExp": 3266,
+    "shards": 5850,
+    "candy": 14
+  },
+  {
+    "id": 67,
+    "pokeId": 175,
+    "stars": 1,
+    "researchExp": 23,
+    "shards": 46,
+    "candy": 4
+  },
+  {
+    "id": 68,
+    "pokeId": 175,
+    "stars": 2,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 69,
+    "pokeId": 175,
+    "stars": 3,
+    "researchExp": 479,
+    "shards": 1005,
+    "candy": 9
+  },
+  {
+    "id": 70,
+    "pokeId": 74,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 26,
+    "candy": 4
+  },
+  {
+    "id": 71,
+    "pokeId": 74,
+    "stars": 2,
+    "researchExp": 63,
+    "shards": 158,
+    "candy": 6
+  },
+  {
+    "id": 72,
+    "pokeId": 74,
+    "stars": 3,
+    "researchExp": 284,
+    "shards": 729,
+    "candy": 9
+  },
+  {
+    "id": 73,
+    "pokeId": 75,
+    "stars": 1,
+    "researchExp": 72,
+    "shards": 150,
+    "candy": 6
+  },
+  {
+    "id": 74,
+    "pokeId": 75,
+    "stars": 2,
+    "researchExp": 215,
+    "shards": 452,
+    "candy": 8
+  },
+  {
+    "id": 75,
+    "pokeId": 75,
+    "stars": 3,
+    "researchExp": 744,
+    "shards": 1562,
+    "candy": 11
+  },
+  {
+    "id": 76,
+    "pokeId": 23,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 26,
+    "candy": 4
+  },
+  {
+    "id": 77,
+    "pokeId": 23,
+    "stars": 2,
+    "researchExp": 63,
+    "shards": 158,
+    "candy": 6
+  },
+  {
+    "id": 78,
+    "pokeId": 23,
+    "stars": 3,
+    "researchExp": 284,
+    "shards": 729,
+    "candy": 9
+  },
+  {
+    "id": 79,
+    "pokeId": 24,
+    "stars": 1,
+    "researchExp": 109,
+    "shards": 278,
+    "candy": 6
+  },
+  {
+    "id": 80,
+    "pokeId": 24,
+    "stars": 2,
+    "researchExp": 292,
+    "shards": 749,
+    "candy": 8
+  },
+  {
+    "id": 81,
+    "pokeId": 24,
+    "stars": 3,
+    "researchExp": 948,
+    "shards": 2440,
+    "candy": 11
+  },
+  {
+    "id": 82,
+    "pokeId": 104,
+    "stars": 1,
+    "researchExp": 13,
+    "shards": 23,
+    "candy": 4
+  },
+  {
+    "id": 83,
+    "pokeId": 104,
+    "stars": 2,
+    "researchExp": 98,
+    "shards": 176,
+    "candy": 6
+  },
+  {
+    "id": 84,
+    "pokeId": 104,
+    "stars": 3,
+    "researchExp": 405,
+    "shards": 726,
+    "candy": 9
+  },
+  {
+    "id": 85,
+    "pokeId": 155,
+    "stars": 1,
+    "researchExp": 21,
+    "shards": 50,
+    "candy": 4
+  },
+  {
+    "id": 86,
+    "pokeId": 155,
+    "stars": 2,
+    "researchExp": 109,
+    "shards": 278,
+    "candy": 6
+  },
+  {
+    "id": 87,
+    "pokeId": 155,
+    "stars": 3,
+    "researchExp": 427,
+    "shards": 1098,
+    "candy": 9
+  },
+  {
+    "id": 88,
+    "pokeId": 156,
+    "stars": 1,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 89,
+    "pokeId": 156,
+    "stars": 2,
+    "researchExp": 327,
+    "shards": 686,
+    "candy": 8
+  },
+  {
+    "id": 90,
+    "pokeId": 156,
+    "stars": 3,
+    "researchExp": 1063,
+    "shards": 2234,
+    "candy": 11
+  },
+  {
+    "id": 91,
+    "pokeId": 9,
+    "stars": 1,
+    "researchExp": 540,
+    "shards": 1134,
+    "candy": 9
+  },
+  {
+    "id": 92,
+    "pokeId": 9,
+    "stars": 2,
+    "researchExp": 1208,
+    "shards": 2538,
+    "candy": 11
+  },
+  {
+    "id": 93,
+    "pokeId": 9,
+    "stars": 3,
+    "researchExp": 3005,
+    "shards": 6318,
+    "candy": 14
+  },
+  {
+    "id": 94,
+    "pokeId": 58,
+    "stars": 1,
+    "researchExp": 13,
+    "shards": 23,
+    "candy": 4
+  },
+  {
+    "id": 95,
+    "pokeId": 58,
+    "stars": 2,
+    "researchExp": 109,
+    "shards": 195,
+    "candy": 6
+  },
+  {
+    "id": 96,
+    "pokeId": 58,
+    "stars": 3,
+    "researchExp": 437,
+    "shards": 781,
+    "candy": 9
+  },
+  {
+    "id": 97,
+    "pokeId": 6,
+    "stars": 1,
+    "researchExp": 540,
+    "shards": 1134,
+    "candy": 9
+  },
+  {
+    "id": 98,
+    "pokeId": 6,
+    "stars": 2,
+    "researchExp": 1208,
+    "shards": 2538,
+    "candy": 11
+  },
+  {
+    "id": 99,
+    "pokeId": 6,
+    "stars": 3,
+    "researchExp": 3005,
+    "shards": 6318,
+    "candy": 14
+  },
+  {
+    "id": 100,
+    "pokeId": 20,
+    "stars": 1,
+    "researchExp": 65,
+    "shards": 163,
+    "candy": 6
+  },
+  {
+    "id": 101,
+    "pokeId": 20,
+    "stars": 2,
+    "researchExp": 192,
+    "shards": 493,
+    "candy": 8
+  },
+  {
+    "id": 102,
+    "pokeId": 20,
+    "stars": 3,
+    "researchExp": 663,
+    "shards": 1706,
+    "candy": 11
+  },
+  {
+    "id": 103,
+    "pokeId": 56,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 26,
+    "candy": 4
+  },
+  {
+    "id": 104,
+    "pokeId": 56,
+    "stars": 2,
+    "researchExp": 81,
+    "shards": 206,
+    "candy": 6
+  },
+  {
+    "id": 105,
+    "pokeId": 56,
+    "stars": 3,
+    "researchExp": 333,
+    "shards": 855,
+    "candy": 9
+  },
+  {
+    "id": 106,
+    "pokeId": 69,
+    "stars": 1,
+    "researchExp": 13,
+    "shards": 23,
+    "candy": 4
+  },
+  {
+    "id": 107,
+    "pokeId": 69,
+    "stars": 2,
+    "researchExp": 87,
+    "shards": 155,
+    "candy": 6
+  },
+  {
+    "id": 108,
+    "pokeId": 69,
+    "stars": 3,
+    "researchExp": 376,
+    "shards": 673,
+    "candy": 9
+  },
+  {
+    "id": 109,
+    "pokeId": 70,
+    "stars": 1,
+    "researchExp": 78,
+    "shards": 139,
+    "candy": 6
+  },
+  {
+    "id": 110,
+    "pokeId": 70,
+    "stars": 2,
+    "researchExp": 234,
+    "shards": 419,
+    "candy": 8
+  },
+  {
+    "id": 111,
+    "pokeId": 70,
+    "stars": 3,
+    "researchExp": 808,
+    "shards": 1447,
+    "candy": 11
+  },
+  {
+    "id": 112,
+    "pokeId": 174,
+    "stars": 1,
+    "researchExp": 15,
+    "shards": 19,
+    "candy": 4
+  },
+  {
+    "id": 113,
+    "pokeId": 174,
+    "stars": 2,
+    "researchExp": 94,
+    "shards": 103,
+    "candy": 6
+  },
+  {
+    "id": 114,
+    "pokeId": 174,
+    "stars": 3,
+    "researchExp": 431,
+    "shards": 466,
+    "candy": 9
+  },
+  {
+    "id": 115,
+    "pokeId": 179,
+    "stars": 1,
+    "researchExp": 15,
+    "shards": 20,
+    "candy": 4
+  },
+  {
+    "id": 116,
+    "pokeId": 179,
+    "stars": 2,
+    "researchExp": 89,
+    "shards": 112,
+    "candy": 6
+  },
+  {
+    "id": 117,
+    "pokeId": 179,
+    "stars": 3,
+    "researchExp": 407,
+    "shards": 508,
+    "candy": 9
+  },
+  {
+    "id": 118,
+    "pokeId": 185,
+    "stars": 1,
+    "researchExp": 27,
+    "shards": 48,
+    "candy": 5
+  },
+  {
+    "id": 119,
+    "pokeId": 185,
+    "stars": 2,
+    "researchExp": 147,
+    "shards": 264,
+    "candy": 7
+  },
+  {
+    "id": 120,
+    "pokeId": 185,
+    "stars": 3,
+    "researchExp": 567,
+    "shards": 1014,
+    "candy": 10
+  },
+  {
+    "id": 121,
+    "pokeId": 54,
+    "stars": 1,
+    "researchExp": 13,
+    "shards": 23,
+    "candy": 4
+  },
+  {
+    "id": 122,
+    "pokeId": 54,
+    "stars": 2,
+    "researchExp": 76,
+    "shards": 135,
+    "candy": 6
+  },
+  {
+    "id": 123,
+    "pokeId": 54,
+    "stars": 3,
+    "researchExp": 346,
+    "shards": 618,
+    "candy": 9
+  },
+  {
+    "id": 124,
+    "pokeId": 80,
+    "stars": 1,
+    "researchExp": 142,
+    "shards": 218,
+    "candy": 6
+  },
+  {
+    "id": 125,
+    "pokeId": 80,
+    "stars": 2,
+    "researchExp": 383,
+    "shards": 586,
+    "candy": 8
+  },
+  {
+    "id": 126,
+    "pokeId": 80,
+    "stars": 3,
+    "researchExp": 1247,
+    "shards": 1904,
+    "candy": 11
+  },
+  {
+    "id": 127,
+    "pokeId": 84,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 4
+  },
+  {
+    "id": 128,
+    "pokeId": 84,
+    "stars": 2,
+    "researchExp": 58,
+    "shards": 167,
+    "candy": 6
+  },
+  {
+    "id": 129,
+    "pokeId": 84,
+    "stars": 3,
+    "researchExp": 260,
+    "shards": 771,
+    "candy": 9
+  },
+  {
+    "id": 130,
+    "pokeId": 92,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 4
+  },
+  {
+    "id": 131,
+    "pokeId": 92,
+    "stars": 2,
+    "researchExp": 75,
+    "shards": 218,
+    "candy": 6
+  },
+  {
+    "id": 132,
+    "pokeId": 92,
+    "stars": 3,
+    "researchExp": 305,
+    "shards": 905,
+    "candy": 9
+  },
+  {
+    "id": 133,
+    "pokeId": 93,
+    "stars": 1,
+    "researchExp": 67,
+    "shards": 195,
+    "candy": 6
+  },
+  {
+    "id": 134,
+    "pokeId": 93,
+    "stars": 2,
+    "researchExp": 191,
+    "shards": 564,
+    "candy": 8
+  },
+  {
+    "id": 135,
+    "pokeId": 93,
+    "stars": 3,
+    "researchExp": 653,
+    "shards": 1945,
+    "candy": 11
+  },
+  {
+    "id": 136,
+    "pokeId": 105,
+    "stars": 1,
+    "researchExp": 98,
+    "shards": 206,
+    "candy": 6
+  },
+  {
+    "id": 137,
+    "pokeId": 105,
+    "stars": 2,
+    "researchExp": 279,
+    "shards": 585,
+    "candy": 8
+  },
+  {
+    "id": 138,
+    "pokeId": 105,
+    "stars": 3,
+    "researchExp": 940,
+    "shards": 1974,
+    "candy": 11
+  },
+  {
+    "id": 139,
+    "pokeId": 152,
+    "stars": 1,
+    "researchExp": 23,
+    "shards": 46,
+    "candy": 4
+  },
+  {
+    "id": 140,
+    "pokeId": 152,
+    "stars": 2,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 141,
+    "pokeId": 152,
+    "stars": 3,
+    "researchExp": 479,
+    "shards": 1005,
+    "candy": 9
+  },
+  {
+    "id": 142,
+    "pokeId": 153,
+    "stars": 1,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 143,
+    "pokeId": 153,
+    "stars": 2,
+    "researchExp": 327,
+    "shards": 686,
+    "candy": 8
+  },
+  {
+    "id": 144,
+    "pokeId": 153,
+    "stars": 3,
+    "researchExp": 1063,
+    "shards": 2234,
+    "candy": 11
+  },
+  {
+    "id": 145,
+    "pokeId": 180,
+    "stars": 1,
+    "researchExp": 84,
+    "shards": 129,
+    "candy": 6
+  },
+  {
+    "id": 146,
+    "pokeId": 180,
+    "stars": 2,
+    "researchExp": 252,
+    "shards": 386,
+    "candy": 8
+  },
+  {
+    "id": 147,
+    "pokeId": 180,
+    "stars": 3,
+    "researchExp": 873,
+    "shards": 1332,
+    "candy": 11
+  },
+  {
+    "id": 148,
+    "pokeId": 202,
+    "stars": 1,
+    "researchExp": 33,
+    "shards": 38,
+    "candy": 5
+  },
+  {
+    "id": 149,
+    "pokeId": 202,
+    "stars": 2,
+    "researchExp": 183,
+    "shards": 200,
+    "candy": 7
+  },
+  {
+    "id": 150,
+    "pokeId": 202,
+    "stars": 3,
+    "researchExp": 707,
+    "shards": 762,
+    "candy": 10
+  },
+  {
+    "id": 151,
+    "pokeId": 316,
+    "stars": 1,
+    "researchExp": 15,
+    "shards": 19,
+    "candy": 4
+  },
+  {
+    "id": 152,
+    "pokeId": 316,
+    "stars": 2,
+    "researchExp": 108,
+    "shards": 118,
+    "candy": 6
+  },
+  {
+    "id": 153,
+    "pokeId": 316,
+    "stars": 3,
+    "researchExp": 468,
+    "shards": 506,
+    "candy": 9
+  },
+  {
+    "id": 154,
+    "pokeId": 317,
+    "stars": 1,
+    "researchExp": 164,
+    "shards": 179,
+    "candy": 6
+  },
+  {
+    "id": 155,
+    "pokeId": 317,
+    "stars": 2,
+    "researchExp": 443,
+    "shards": 479,
+    "candy": 8
+  },
+  {
+    "id": 156,
+    "pokeId": 317,
+    "stars": 3,
+    "researchExp": 1443,
+    "shards": 1554,
+    "candy": 11
+  },
+  {
+    "id": 157,
+    "pokeId": 333,
+    "stars": 1,
+    "researchExp": 12,
+    "shards": 24,
+    "candy": 4
+  },
+  {
+    "id": 158,
+    "pokeId": 333,
+    "stars": 2,
+    "researchExp": 80,
+    "shards": 167,
+    "candy": 6
+  },
+  {
+    "id": 159,
+    "pokeId": 333,
+    "stars": 3,
+    "researchExp": 346,
+    "shards": 726,
+    "candy": 9
+  },
+  {
+    "id": 160,
+    "pokeId": 360,
+    "stars": 1,
+    "researchExp": 15,
+    "shards": 19,
+    "candy": 4
+  },
+  {
+    "id": 161,
+    "pokeId": 360,
+    "stars": 2,
+    "researchExp": 94,
+    "shards": 103,
+    "candy": 6
+  },
+  {
+    "id": 162,
+    "pokeId": 360,
+    "stars": 3,
+    "researchExp": 431,
+    "shards": 466,
+    "candy": 9
+  },
+  {
+    "id": 163,
+    "pokeId": 438,
+    "stars": 1,
+    "researchExp": 13,
+    "shards": 23,
+    "candy": 4
+  },
+  {
+    "id": 164,
+    "pokeId": 438,
+    "stars": 2,
+    "researchExp": 76,
+    "shards": 135,
+    "candy": 6
+  },
+  {
+    "id": 165,
+    "pokeId": 438,
+    "stars": 3,
+    "researchExp": 346,
+    "shards": 618,
+    "candy": 9
+  },
+  {
+    "id": 166,
+    "pokeId": 453,
+    "stars": 1,
+    "researchExp": 13,
+    "shards": 23,
+    "candy": 4
+  },
+  {
+    "id": 167,
+    "pokeId": 453,
+    "stars": 2,
+    "researchExp": 98,
+    "shards": 176,
+    "candy": 6
+  },
+  {
+    "id": 168,
+    "pokeId": 453,
+    "stars": 3,
+    "researchExp": 405,
+    "shards": 726,
+    "candy": 9
+  },
+  {
+    "id": 169,
+    "pokeId": 454,
+    "stars": 1,
+    "researchExp": 132,
+    "shards": 236,
+    "candy": 6
+  },
+  {
+    "id": 170,
+    "pokeId": 454,
+    "stars": 2,
+    "researchExp": 355,
+    "shards": 636,
+    "candy": 8
+  },
+  {
+    "id": 171,
+    "pokeId": 454,
+    "stars": 3,
+    "researchExp": 1155,
+    "shards": 2069,
+    "candy": 11
+  },
+  {
+    "id": 172,
+    "pokeId": 26,
+    "stars": 1,
+    "researchExp": 334,
+    "shards": 859,
+    "candy": 9
+  },
+  {
+    "id": 173,
+    "pokeId": 26,
+    "stars": 2,
+    "researchExp": 781,
+    "shards": 2008,
+    "candy": 11
+  },
+  {
+    "id": 174,
+    "pokeId": 26,
+    "stars": 3,
+    "researchExp": 2053,
+    "shards": 5287,
+    "candy": 14
+  },
+  {
+    "id": 175,
+    "pokeId": 53,
+    "stars": 1,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 176,
+    "pokeId": 53,
+    "stars": 2,
+    "researchExp": 327,
+    "shards": 686,
+    "candy": 8
+  },
+  {
+    "id": 177,
+    "pokeId": 53,
+    "stars": 3,
+    "researchExp": 1063,
+    "shards": 2234,
+    "candy": 11
+  },
+  {
+    "id": 178,
+    "pokeId": 55,
+    "stars": 1,
+    "researchExp": 132,
+    "shards": 236,
+    "candy": 6
+  },
+  {
+    "id": 179,
+    "pokeId": 55,
+    "stars": 2,
+    "researchExp": 355,
+    "shards": 636,
+    "candy": 8
+  },
+  {
+    "id": 180,
+    "pokeId": 55,
+    "stars": 3,
+    "researchExp": 1155,
+    "shards": 2069,
+    "candy": 11
+  },
+  {
+    "id": 181,
+    "pokeId": 57,
+    "stars": 1,
+    "researchExp": 122,
+    "shards": 255,
+    "candy": 6
+  },
+  {
+    "id": 182,
+    "pokeId": 57,
+    "stars": 2,
+    "researchExp": 327,
+    "shards": 686,
+    "candy": 8
+  },
+  {
+    "id": 183,
+    "pokeId": 57,
+    "stars": 3,
+    "researchExp": 1063,
+    "shards": 2234,
+    "candy": 11
+  },
+  {
+    "id": 184,
+    "pokeId": 59,
+    "stars": 1,
+    "researchExp": 680,
+    "shards": 1218,
+    "candy": 8
+  },
+  {
+    "id": 185,
+    "pokeId": 59,
+    "stars": 2,
+    "researchExp": 1450,
+    "shards": 2597,
+    "candy": 10
+  },
+  {
+    "id": 186,
+    "pokeId": 59,
+    "stars": 3,
+    "researchExp": 3573,
+    "shards": 6400,
+    "candy": 13
+  },
+  {
+    "id": 187,
+    "pokeId": 71,
+    "stars": 1,
+    "researchExp": 407,
+    "shards": 729,
+    "candy": 9
+  },
+  {
+    "id": 188,
+    "pokeId": 71,
+    "stars": 2,
+    "researchExp": 951,
+    "shards": 1703,
+    "candy": 11
+  },
+  {
+    "id": 189,
+    "pokeId": 71,
+    "stars": 3,
+    "researchExp": 2502,
+    "shards": 4481,
+    "candy": 14
+  },
+  {
+    "id": 190,
+    "pokeId": 76,
+    "stars": 1,
+    "researchExp": 587,
+    "shards": 1050,
+    "candy": 9
+  },
+  {
+    "id": 191,
+    "pokeId": 76,
+    "stars": 2,
+    "researchExp": 1312,
+    "shards": 2351,
+    "candy": 11
+  },
+  {
+    "id": 192,
+    "pokeId": 76,
+    "stars": 3,
+    "researchExp": 3266,
+    "shards": 5850,
+    "candy": 14
+  },
+  {
+    "id": 193,
+    "pokeId": 81,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 4
+  },
+  {
+    "id": 194,
+    "pokeId": 81,
+    "stars": 2,
+    "researchExp": 66,
+    "shards": 192,
+    "candy": 6
+  },
+  {
+    "id": 195,
+    "pokeId": 81,
+    "stars": 3,
+    "researchExp": 283,
+    "shards": 839,
+    "candy": 9
+  },
+  {
+    "id": 196,
+    "pokeId": 82,
+    "stars": 1,
+    "researchExp": 100,
+    "shards": 294,
+    "candy": 6
+  },
+  {
+    "id": 197,
+    "pokeId": 82,
+    "stars": 2,
+    "researchExp": 267,
+    "shards": 793,
+    "candy": 8
+  },
+  {
+    "id": 198,
+    "pokeId": 82,
+    "stars": 3,
+    "researchExp": 867,
+    "shards": 2585,
+    "candy": 11
+  },
+  {
+    "id": 199,
+    "pokeId": 85,
+    "stars": 1,
+    "researchExp": 65,
+    "shards": 163,
+    "candy": 6
+  },
+  {
+    "id": 200,
+    "pokeId": 85,
+    "stars": 2,
+    "researchExp": 192,
+    "shards": 493,
+    "candy": 8
+  },
+  {
+    "id": 201,
+    "pokeId": 85,
+    "stars": 3,
+    "researchExp": 663,
+    "shards": 1706,
+    "candy": 11
+  },
+  {
+    "id": 202,
+    "pokeId": 94,
+    "stars": 1,
+    "researchExp": 441,
+    "shards": 1311,
+    "candy": 9
+  },
+  {
+    "id": 203,
+    "pokeId": 94,
+    "stars": 2,
+    "researchExp": 985,
+    "shards": 2937,
+    "candy": 11
+  },
+  {
+    "id": 204,
+    "pokeId": 94,
+    "stars": 3,
+    "researchExp": 2451,
+    "shards": 7311,
+    "candy": 14
+  },
+  {
+    "id": 205,
+    "pokeId": 115,
+    "stars": 1,
+    "researchExp": 426,
+    "shards": 461,
+    "candy": 7
+  },
+  {
+    "id": 206,
+    "pokeId": 115,
+    "stars": 2,
+    "researchExp": 1030,
+    "shards": 1110,
+    "candy": 9
+  },
+  {
+    "id": 207,
+    "pokeId": 115,
+    "stars": 3,
+    "researchExp": 2843,
+    "shards": 3057,
+    "candy": 12
+  },
+  {
+    "id": 208,
+    "pokeId": 127,
+    "stars": 1,
+    "researchExp": 242,
+    "shards": 621,
+    "candy": 7
+  },
+  {
+    "id": 209,
+    "pokeId": 127,
+    "stars": 2,
+    "researchExp": 581,
+    "shards": 1494,
+    "candy": 9
+  },
+  {
+    "id": 210,
+    "pokeId": 127,
+    "stars": 3,
+    "researchExp": 1636,
+    "shards": 4214,
+    "candy": 12
+  },
+  {
+    "id": 211,
+    "pokeId": 132,
+    "stars": 1,
+    "researchExp": 226,
+    "shards": 405,
+    "candy": 7
+  },
+  {
+    "id": 212,
+    "pokeId": 132,
+    "stars": 2,
+    "researchExp": 580,
+    "shards": 1040,
+    "candy": 9
+  },
+  {
+    "id": 213,
+    "pokeId": 132,
+    "stars": 3,
+    "researchExp": 1657,
+    "shards": 2968,
+    "candy": 12
+  },
+  {
+    "id": 214,
+    "pokeId": 134,
+    "stars": 1,
+    "researchExp": 689,
+    "shards": 743,
+    "candy": 8
+  },
+  {
+    "id": 215,
+    "pokeId": 134,
+    "stars": 2,
+    "researchExp": 1546,
+    "shards": 1664,
+    "candy": 10
+  },
+  {
+    "id": 216,
+    "pokeId": 134,
+    "stars": 3,
+    "researchExp": 3840,
+    "shards": 4130,
+    "candy": 13
+  },
+  {
+    "id": 217,
+    "pokeId": 135,
+    "stars": 1,
+    "researchExp": 453,
+    "shards": 1165,
+    "candy": 8
+  },
+  {
+    "id": 218,
+    "pokeId": 135,
+    "stars": 2,
+    "researchExp": 1015,
+    "shards": 2614,
+    "candy": 10
+  },
+  {
+    "id": 219,
+    "pokeId": 135,
+    "stars": 3,
+    "researchExp": 2520,
+    "shards": 6493,
+    "candy": 13
+  },
+  {
+    "id": 220,
+    "pokeId": 136,
+    "stars": 1,
+    "researchExp": 453,
+    "shards": 1165,
+    "candy": 8
+  },
+  {
+    "id": 221,
+    "pokeId": 136,
+    "stars": 2,
+    "researchExp": 1015,
+    "shards": 2614,
+    "candy": 10
+  },
+  {
+    "id": 222,
+    "pokeId": 136,
+    "stars": 3,
+    "researchExp": 2520,
+    "shards": 6493,
+    "candy": 13
+  },
+  {
+    "id": 232,
+    "pokeId": 154,
+    "stars": 1,
+    "researchExp": 587,
+    "shards": 1050,
+    "candy": 9
+  },
+  {
+    "id": 233,
+    "pokeId": 154,
+    "stars": 2,
+    "researchExp": 1312,
+    "shards": 2351,
+    "candy": 11
+  },
+  {
+    "id": 234,
+    "pokeId": 154,
+    "stars": 3,
+    "researchExp": 3266,
+    "shards": 5850,
+    "candy": 14
+  },
+  {
+    "id": 235,
+    "pokeId": 157,
+    "stars": 1,
+    "researchExp": 540,
+    "shards": 1134,
+    "candy": 9
+  },
+  {
+    "id": 236,
+    "pokeId": 157,
+    "stars": 2,
+    "researchExp": 1208,
+    "shards": 2538,
+    "candy": 11
+  },
+  {
+    "id": 237,
+    "pokeId": 157,
+    "stars": 3,
+    "researchExp": 3005,
+    "shards": 6318,
+    "candy": 14
+  },
+  {
+    "id": 238,
+    "pokeId": 160,
+    "stars": 1,
+    "researchExp": 587,
+    "shards": 1050,
+    "candy": 9
+  },
+  {
+    "id": 239,
+    "pokeId": 160,
+    "stars": 2,
+    "researchExp": 1312,
+    "shards": 2351,
+    "candy": 11
+  },
+  {
+    "id": 240,
+    "pokeId": 160,
+    "stars": 3,
+    "researchExp": 3266,
+    "shards": 5850,
+    "candy": 14
+  },
+  {
+    "id": 241,
+    "pokeId": 176,
+    "stars": 1,
+    "researchExp": 82,
+    "shards": 170,
+    "candy": 5
+  },
+  {
+    "id": 242,
+    "pokeId": 176,
+    "stars": 2,
+    "researchExp": 233,
+    "shards": 488,
+    "candy": 7
+  },
+  {
+    "id": 243,
+    "pokeId": 176,
+    "stars": 3,
+    "researchExp": 800,
+    "shards": 1681,
+    "candy": 10
+  },
+  {
+    "id": 244,
+    "pokeId": 181,
+    "stars": 1,
+    "researchExp": 407,
+    "shards": 729,
+    "candy": 9
+  },
+  {
+    "id": 245,
+    "pokeId": 181,
+    "stars": 2,
+    "researchExp": 951,
+    "shards": 1703,
+    "candy": 11
+  },
+  {
+    "id": 246,
+    "pokeId": 181,
+    "stars": 3,
+    "researchExp": 2502,
+    "shards": 4481,
+    "candy": 14
+  },
+  {
+    "id": 247,
+    "pokeId": 196,
+    "stars": 1,
+    "researchExp": 453,
+    "shards": 1165,
+    "candy": 8
+  },
+  {
+    "id": 248,
+    "pokeId": 196,
+    "stars": 2,
+    "researchExp": 1015,
+    "shards": 2614,
+    "candy": 10
+  },
+  {
+    "id": 249,
+    "pokeId": 196,
+    "stars": 3,
+    "researchExp": 2520,
+    "shards": 6493,
+    "candy": 13
+  },
+  {
+    "id": 250,
+    "pokeId": 197,
+    "stars": 1,
+    "researchExp": 596,
+    "shards": 910,
+    "candy": 8
+  },
+  {
+    "id": 251,
+    "pokeId": 197,
+    "stars": 2,
+    "researchExp": 1336,
+    "shards": 2039,
+    "candy": 10
+  },
+  {
+    "id": 252,
+    "pokeId": 197,
+    "stars": 3,
+    "researchExp": 3318,
+    "shards": 5064,
+    "candy": 13
+  },
+  {
+    "id": 253,
+    "pokeId": 199,
+    "stars": 1,
+    "researchExp": 734,
+    "shards": 1121,
+    "candy": 8
+  },
+  {
+    "id": 254,
+    "pokeId": 199,
+    "stars": 2,
+    "researchExp": 1566,
+    "shards": 2390,
+    "candy": 10
+  },
+  {
+    "id": 255,
+    "pokeId": 199,
+    "stars": 3,
+    "researchExp": 3858,
+    "shards": 5888,
+    "candy": 13
+  },
+  {
+    "id": 256,
+    "pokeId": 214,
+    "stars": 1,
+    "researchExp": 294,
+    "shards": 527,
+    "candy": 7
+  },
+  {
+    "id": 257,
+    "pokeId": 214,
+    "stars": 2,
+    "researchExp": 708,
+    "shards": 1267,
+    "candy": 9
+  },
+  {
+    "id": 258,
+    "pokeId": 214,
+    "stars": 3,
+    "researchExp": 1994,
+    "shards": 3573,
+    "candy": 12
+  },
+  {
+    "id": 259,
+    "pokeId": 246,
+    "stars": 1,
+    "researchExp": 34,
+    "shards": 62,
+    "candy": 4
+  },
+  {
+    "id": 260,
+    "pokeId": 246,
+    "stars": 2,
+    "researchExp": 163,
+    "shards": 292,
+    "candy": 6
+  },
+  {
+    "id": 261,
+    "pokeId": 246,
+    "stars": 3,
+    "researchExp": 616,
+    "shards": 1103,
+    "candy": 9
+  },
+  {
+    "id": 262,
+    "pokeId": 247,
+    "stars": 1,
+    "researchExp": 162,
+    "shards": 291,
+    "candy": 6
+  },
+  {
+    "id": 263,
+    "pokeId": 247,
+    "stars": 2,
+    "researchExp": 418,
+    "shards": 748,
+    "candy": 8
+  },
+  {
+    "id": 264,
+    "pokeId": 247,
+    "stars": 3,
+    "researchExp": 1332,
+    "shards": 2386,
+    "candy": 11
+  },
+  {
+    "id": 265,
+    "pokeId": 248,
+    "stars": 1,
+    "researchExp": 1457,
+    "shards": 2611,
+    "candy": 9
+  },
+  {
+    "id": 266,
+    "pokeId": 248,
+    "stars": 2,
+    "researchExp": 2859,
+    "shards": 5120,
+    "candy": 11
+  },
+  {
+    "id": 267,
+    "pokeId": 248,
+    "stars": 3,
+    "researchExp": 6764,
+    "shards": 12114,
+    "candy": 14
+  },
+  {
+    "id": 268,
+    "pokeId": 470,
+    "stars": 1,
+    "researchExp": 453,
+    "shards": 1165,
+    "candy": 8
+  },
+  {
+    "id": 269,
+    "pokeId": 470,
+    "stars": 2,
+    "researchExp": 1015,
+    "shards": 2614,
+    "candy": 10
+  },
+  {
+    "id": 270,
+    "pokeId": 470,
+    "stars": 3,
+    "researchExp": 2520,
+    "shards": 6493,
+    "candy": 13
+  },
+  {
+    "id": 271,
+    "pokeId": 359,
+    "stars": 1,
+    "researchExp": 271,
+    "shards": 569,
+    "candy": 7
+  },
+  {
+    "id": 272,
+    "pokeId": 359,
+    "stars": 2,
+    "researchExp": 651,
+    "shards": 1368,
+    "candy": 9
+  },
+  {
+    "id": 273,
+    "pokeId": 359,
+    "stars": 3,
+    "researchExp": 1835,
+    "shards": 3858,
+    "candy": 12
+  },
+  {
+    "id": 274,
+    "pokeId": 700,
+    "stars": 1,
+    "researchExp": 596,
+    "shards": 910,
+    "candy": 8
+  },
+  {
+    "id": 275,
+    "pokeId": 700,
+    "stars": 2,
+    "researchExp": 1336,
+    "shards": 2039,
+    "candy": 10
+  },
+  {
+    "id": 276,
+    "pokeId": 700,
+    "stars": 3,
+    "researchExp": 3318,
+    "shards": 5064,
+    "candy": 13
+  },
+  {
+    "id": 277,
+    "pokeId": 468,
+    "stars": 1,
+    "researchExp": 737,
+    "shards": 1320,
+    "candy": 9
+  },
+  {
+    "id": 278,
+    "pokeId": 468,
+    "stars": 2,
+    "researchExp": 1526,
+    "shards": 2733,
+    "candy": 11
+  },
+  {
+    "id": 279,
+    "pokeId": 468,
+    "stars": 3,
+    "researchExp": 3804,
+    "shards": 6814,
+    "candy": 14
+  },
+  {
+    "id": 280,
+    "pokeId": 287,
+    "stars": 1,
+    "researchExp": 15,
+    "shards": 19,
+    "candy": 4
+  },
+  {
+    "id": 281,
+    "pokeId": 287,
+    "stars": 2,
+    "researchExp": 122,
+    "shards": 133,
+    "candy": 6
+  },
+  {
+    "id": 282,
+    "pokeId": 287,
+    "stars": 3,
+    "researchExp": 506,
+    "shards": 546,
+    "candy": 9
+  },
+  {
+    "id": 283,
+    "pokeId": 288,
+    "stars": 1,
+    "researchExp": 128,
+    "shards": 196,
+    "candy": 6
+  },
+  {
+    "id": 284,
+    "pokeId": 288,
+    "stars": 2,
+    "researchExp": 355,
+    "shards": 543,
+    "candy": 8
+  },
+  {
+    "id": 285,
+    "pokeId": 288,
+    "stars": 3,
+    "researchExp": 1173,
+    "shards": 1790,
+    "candy": 11
+  },
+  {
+    "id": 286,
+    "pokeId": 289,
+    "stars": 1,
+    "researchExp": 1128,
+    "shards": 1215,
+    "candy": 9
+  },
+  {
+    "id": 287,
+    "pokeId": 289,
+    "stars": 2,
+    "researchExp": 2330,
+    "shards": 2507,
+    "candy": 11
+  },
+  {
+    "id": 288,
+    "pokeId": 289,
+    "stars": 3,
+    "researchExp": 5565,
+    "shards": 5983,
+    "candy": 14
+  },
+  {
+    "id": 289,
+    "pokeId": 462,
+    "stars": 1,
+    "researchExp": 558,
+    "shards": 1436,
+    "candy": 9
+  },
+  {
+    "id": 290,
+    "pokeId": 462,
+    "stars": 2,
+    "researchExp": 1190,
+    "shards": 3064,
+    "candy": 11
+  },
+  {
+    "id": 291,
+    "pokeId": 462,
+    "stars": 3,
+    "researchExp": 2930,
+    "shards": 7551,
+    "candy": 14
+  },
+  {
+    "id": 292,
+    "pokeId": 471,
+    "stars": 1,
+    "researchExp": 453,
+    "shards": 1165,
+    "candy": 8
+  },
+  {
+    "id": 293,
+    "pokeId": 471,
+    "stars": 2,
+    "researchExp": 1015,
+    "shards": 2614,
+    "candy": 10
+  },
+  {
+    "id": 294,
+    "pokeId": 471,
+    "stars": 3,
+    "researchExp": 2520,
+    "shards": 6493,
+    "candy": 13
+  },
+  {
+    "id": 295,
+    "pokeId": 334,
+    "stars": 1,
+    "researchExp": 177,
+    "shards": 316,
+    "candy": 6
+  },
+  {
+    "id": 296,
+    "pokeId": 334,
+    "stars": 2,
+    "researchExp": 455,
+    "shards": 816,
+    "candy": 8
+  },
+  {
+    "id": 297,
+    "pokeId": 334,
+    "stars": 3,
+    "researchExp": 1414,
+    "shards": 2532,
+    "candy": 11
+  },
+  {
+    "id": 298,
+    "pokeId": 447,
+    "stars": 1,
+    "researchExp": 12,
+    "shards": 24,
+    "candy": 4
+  },
+  {
+    "id": 299,
+    "pokeId": 447,
+    "stars": 2,
+    "researchExp": 100,
+    "shards": 210,
+    "candy": 6
+  },
+  {
+    "id": 300,
+    "pokeId": 447,
+    "stars": 3,
+    "researchExp": 402,
+    "shards": 843,
+    "candy": 9
+  },
+  {
+    "id": 301,
+    "pokeId": 448,
+    "stars": 1,
+    "researchExp": 453,
+    "shards": 1165,
+    "candy": 8
+  },
+  {
+    "id": 302,
+    "pokeId": 448,
+    "stars": 2,
+    "researchExp": 1015,
+    "shards": 2614,
+    "candy": 10
+  },
+  {
+    "id": 303,
+    "pokeId": 448,
+    "stars": 3,
+    "researchExp": 2520,
+    "shards": 6493,
+    "candy": 13
+  },
+  {
+    "id": 304,
+    "pokeId": 363,
+    "stars": 1,
+    "researchExp": 15,
+    "shards": 19,
+    "candy": 4
+  },
+  {
+    "id": 305,
+    "pokeId": 363,
+    "stars": 2,
+    "researchExp": 122,
+    "shards": 133,
+    "candy": 6
+  },
+  {
+    "id": 306,
+    "pokeId": 363,
+    "stars": 3,
+    "researchExp": 506,
+    "shards": 546,
+    "candy": 9
+  },
+  {
+    "id": 307,
+    "pokeId": 364,
+    "stars": 1,
+    "researchExp": 164,
+    "shards": 179,
+    "candy": 6
+  },
+  {
+    "id": 308,
+    "pokeId": 364,
+    "stars": 2,
+    "researchExp": 443,
+    "shards": 479,
+    "candy": 8
+  },
+  {
+    "id": 309,
+    "pokeId": 364,
+    "stars": 3,
+    "researchExp": 1443,
+    "shards": 1554,
+    "candy": 11
+  },
+  {
+    "id": 310,
+    "pokeId": 365,
+    "stars": 1,
+    "researchExp": 479,
+    "shards": 599,
+    "candy": 9
+  },
+  {
+    "id": 311,
+    "pokeId": 365,
+    "stars": 2,
+    "researchExp": 1121,
+    "shards": 1397,
+    "candy": 11
+  },
+  {
+    "id": 312,
+    "pokeId": 365,
+    "stars": 3,
+    "researchExp": 2952,
+    "shards": 3676,
+    "candy": 14
+  },
+  {
+    "id": 313,
+    "pokeId": 228,
+    "stars": 1,
+    "researchExp": 12,
+    "shards": 24,
+    "candy": 4
+  },
+  {
+    "id": 314,
+    "pokeId": 228,
+    "stars": 2,
+    "researchExp": 100,
+    "shards": 210,
+    "candy": 6
+  },
+  {
+    "id": 315,
+    "pokeId": 228,
+    "stars": 3,
+    "researchExp": 402,
+    "shards": 843,
+    "candy": 9
+  },
+  {
+    "id": 316,
+    "pokeId": 229,
+    "stars": 1,
+    "researchExp": 150,
+    "shards": 314,
+    "candy": 6
+  },
+  {
+    "id": 317,
+    "pokeId": 229,
+    "stars": 2,
+    "researchExp": 385,
+    "shards": 807,
+    "candy": 8
+  },
+  {
+    "id": 318,
+    "pokeId": 229,
+    "stars": 3,
+    "researchExp": 1226,
+    "shards": 2576,
+    "candy": 11
+  },
+  {
+    "id": 319,
+    "pokeId": 302,
+    "stars": 1,
+    "researchExp": 186,
+    "shards": 477,
+    "candy": 7
+  },
+  {
+    "id": 320,
+    "pokeId": 302,
+    "stars": 2,
+    "researchExp": 477,
+    "shards": 1226,
+    "candy": 9
+  },
+  {
+    "id": 321,
+    "pokeId": 302,
+    "stars": 3,
+    "researchExp": 1359,
+    "shards": 3500,
+    "candy": 12
+  },
+  {
+    "id": 322,
+    "pokeId": 132,
+    "stars": 4,
+    "researchExp": 2363,
+    "shards": 4234,
+    "candy": 13
+  },
+  {
+    "id": 323,
+    "pokeId": 132,
+    "stars": 4,
+    "researchExp": 2363,
+    "shards": 4234,
+    "candy": 13
+  },
+  {
+    "id": 324,
+    "pokeId": 132,
+    "stars": 4,
+    "researchExp": 2363,
+    "shards": 4234,
+    "candy": 13
+  },
+  {
+    "id": 325,
+    "pokeId": 132,
+    "stars": 4,
+    "researchExp": 2363,
+    "shards": 4234,
+    "candy": 13
+  },
+  {
+    "id": 326,
+    "pokeId": 132,
+    "stars": 4,
+    "researchExp": 2363,
+    "shards": 4234,
+    "candy": 13
+  },
+  {
+    "id": 327,
+    "pokeId": 132,
+    "stars": 4,
+    "researchExp": 2363,
+    "shards": 4234,
+    "candy": 13
+  },
+  {
+    "id": 328,
+    "pokeId": 1,
+    "stars": 4,
+    "researchExp": 720,
+    "shards": 1513,
+    "candy": 10
+  },
+  {
+    "id": 329,
+    "pokeId": 2,
+    "stars": 4,
+    "researchExp": 1530,
+    "shards": 3216,
+    "candy": 12
+  },
+  {
+    "id": 330,
+    "pokeId": 3,
+    "stars": 4,
+    "researchExp": 4449,
+    "shards": 7968,
+    "candy": 15
+  },
+  {
+    "id": 331,
+    "pokeId": 4,
+    "stars": 4,
+    "researchExp": 642,
+    "shards": 1652,
+    "candy": 10
+  },
+  {
+    "id": 332,
+    "pokeId": 5,
+    "stars": 4,
+    "researchExp": 1530,
+    "shards": 3216,
+    "candy": 12
+  },
+  {
+    "id": 333,
+    "pokeId": 6,
+    "stars": 4,
+    "researchExp": 4093,
+    "shards": 8605,
+    "candy": 15
+  },
+  {
+    "id": 334,
+    "pokeId": 7,
+    "stars": 4,
+    "researchExp": 720,
+    "shards": 1513,
+    "candy": 10
+  },
+  {
+    "id": 335,
+    "pokeId": 8,
+    "stars": 4,
+    "researchExp": 1530,
+    "shards": 3216,
+    "candy": 12
+  },
+  {
+    "id": 336,
+    "pokeId": 9,
+    "stars": 4,
+    "researchExp": 4093,
+    "shards": 8605,
+    "candy": 15
+  },
+  {
+    "id": 337,
+    "pokeId": 10,
+    "stars": 4,
+    "researchExp": 660,
+    "shards": 712,
+    "candy": 10
+  },
+  {
+    "id": 338,
+    "pokeId": 11,
+    "stars": 4,
+    "researchExp": 1038,
+    "shards": 1118,
+    "candy": 12
+  },
+  {
+    "id": 339,
+    "pokeId": 12,
+    "stars": 4,
+    "researchExp": 3408,
+    "shards": 6105,
+    "candy": 15
+  },
+  {
+    "id": 340,
+    "pokeId": 19,
+    "stars": 4,
+    "researchExp": 397,
+    "shards": 1181,
+    "candy": 10
+  },
+  {
+    "id": 341,
+    "pokeId": 20,
+    "stars": 4,
+    "researchExp": 988,
+    "shards": 2544,
+    "candy": 12
+  },
+  {
+    "id": 342,
+    "pokeId": 23,
+    "stars": 4,
+    "researchExp": 434,
+    "shards": 1115,
+    "candy": 10
+  },
+  {
+    "id": 343,
+    "pokeId": 24,
+    "stars": 4,
+    "researchExp": 1364,
+    "shards": 3514,
+    "candy": 12
+  },
+  {
+    "id": 344,
+    "pokeId": 25,
+    "stars": 4,
+    "researchExp": 513,
+    "shards": 1527,
+    "candy": 11
+  },
+  {
+    "id": 345,
+    "pokeId": 26,
+    "stars": 4,
+    "researchExp": 2796,
+    "shards": 7203,
+    "candy": 15
+  },
+  {
+    "id": 346,
+    "pokeId": 39,
+    "stars": 4,
+    "researchExp": 917,
+    "shards": 989,
+    "candy": 11
+  },
+  {
+    "id": 347,
+    "pokeId": 40,
+    "stars": 4,
+    "researchExp": 2764,
+    "shards": 2974,
+    "candy": 15
+  },
+  {
+    "id": 348,
+    "pokeId": 52,
+    "stars": 4,
+    "researchExp": 629,
+    "shards": 1320,
+    "candy": 10
+  },
+  {
+    "id": 349,
+    "pokeId": 53,
+    "stars": 4,
+    "researchExp": 1530,
+    "shards": 3216,
+    "candy": 12
+  },
+  {
+    "id": 350,
+    "pokeId": 54,
+    "stars": 4,
+    "researchExp": 529,
+    "shards": 946,
+    "candy": 10
+  },
+  {
+    "id": 351,
+    "pokeId": 55,
+    "stars": 4,
+    "researchExp": 1663,
+    "shards": 2979,
+    "candy": 12
+  },
+  {
+    "id": 352,
+    "pokeId": 56,
+    "stars": 4,
+    "researchExp": 516,
+    "shards": 1325,
+    "candy": 10
+  },
+  {
+    "id": 353,
+    "pokeId": 57,
+    "stars": 4,
+    "researchExp": 1530,
+    "shards": 3216,
+    "candy": 12
+  },
+  {
+    "id": 354,
+    "pokeId": 58,
+    "stars": 4,
+    "researchExp": 683,
+    "shards": 1223,
+    "candy": 10
+  },
+  {
+    "id": 355,
+    "pokeId": 59,
+    "stars": 4,
+    "researchExp": 4939,
+    "shards": 8846,
+    "candy": 14
+  },
+  {
+    "id": 356,
+    "pokeId": 69,
+    "stars": 4,
+    "researchExp": 576,
+    "shards": 1032,
+    "candy": 10
+  },
+  {
+    "id": 357,
+    "pokeId": 70,
+    "stars": 4,
+    "researchExp": 1205,
+    "shards": 2157,
+    "candy": 12
+  },
+  {
+    "id": 358,
+    "pokeId": 71,
+    "stars": 4,
+    "researchExp": 3408,
+    "shards": 6105,
+    "candy": 15
+  },
+  {
+    "id": 359,
+    "pokeId": 74,
+    "stars": 4,
+    "researchExp": 434,
+    "shards": 1115,
+    "candy": 10
+  },
+  {
+    "id": 360,
+    "pokeId": 75,
+    "stars": 4,
+    "researchExp": 1109,
+    "shards": 2329,
+    "candy": 12
+  },
+  {
+    "id": 361,
+    "pokeId": 76,
+    "stars": 4,
+    "researchExp": 4449,
+    "shards": 7968,
+    "candy": 15
+  },
+  {
+    "id": 362,
+    "pokeId": 79,
+    "stars": 4,
+    "researchExp": 784,
+    "shards": 845,
+    "candy": 10
+  },
+  {
+    "id": 363,
+    "pokeId": 80,
+    "stars": 4,
+    "researchExp": 1796,
+    "shards": 2741,
+    "candy": 12
+  },
+  {
+    "id": 364,
+    "pokeId": 84,
+    "stars": 4,
+    "researchExp": 397,
+    "shards": 1181,
+    "candy": 10
+  },
+  {
+    "id": 365,
+    "pokeId": 85,
+    "stars": 4,
+    "researchExp": 988,
+    "shards": 2544,
+    "candy": 12
+  },
+  {
+    "id": 366,
+    "pokeId": 94,
+    "stars": 4,
+    "researchExp": 3338,
+    "shards": 9959,
+    "candy": 15
+  },
+  {
+    "id": 367,
+    "pokeId": 104,
+    "stars": 4,
+    "researchExp": 628,
+    "shards": 1124,
+    "candy": 10
+  },
+  {
+    "id": 368,
+    "pokeId": 105,
+    "stars": 4,
+    "researchExp": 1359,
+    "shards": 2857,
+    "candy": 12
+  },
+  {
+    "id": 369,
+    "pokeId": 115,
+    "stars": 4,
+    "researchExp": 3802,
+    "shards": 4088,
+    "candy": 13
+  },
+  {
+    "id": 370,
+    "pokeId": 127,
+    "stars": 4,
+    "researchExp": 2277,
+    "shards": 5864,
+    "candy": 13
+  },
+  {
+    "id": 371,
+    "pokeId": 132,
+    "stars": 4,
+    "researchExp": 2363,
+    "shards": 4234,
+    "candy": 13
+  },
+  {
+    "id": 372,
+    "pokeId": 133,
+    "stars": 4,
+    "researchExp": 782,
+    "shards": 1401,
+    "candy": 10
+  },
+  {
+    "id": 373,
+    "pokeId": 134,
+    "stars": 4,
+    "researchExp": 5274,
+    "shards": 5670,
+    "candy": 14
+  },
+  {
+    "id": 374,
+    "pokeId": 135,
+    "stars": 4,
+    "researchExp": 3461,
+    "shards": 8917,
+    "candy": 14
+  },
+  {
+    "id": 375,
+    "pokeId": 136,
+    "stars": 4,
+    "researchExp": 3461,
+    "shards": 8917,
+    "candy": 14
+  },
+  {
+    "id": 379,
+    "pokeId": 152,
+    "stars": 4,
+    "researchExp": 720,
+    "shards": 1513,
+    "candy": 10
+  },
+  {
+    "id": 380,
+    "pokeId": 153,
+    "stars": 4,
+    "researchExp": 1530,
+    "shards": 3216,
+    "candy": 12
+  },
+  {
+    "id": 381,
+    "pokeId": 154,
+    "stars": 4,
+    "researchExp": 4449,
+    "shards": 7968,
+    "candy": 15
+  },
+  {
+    "id": 382,
+    "pokeId": 155,
+    "stars": 4,
+    "researchExp": 642,
+    "shards": 1652,
+    "candy": 10
+  },
+  {
+    "id": 383,
+    "pokeId": 156,
+    "stars": 4,
+    "researchExp": 1530,
+    "shards": 3216,
+    "candy": 12
+  },
+  {
+    "id": 384,
+    "pokeId": 157,
+    "stars": 4,
+    "researchExp": 4093,
+    "shards": 8605,
+    "candy": 15
+  },
+  {
+    "id": 385,
+    "pokeId": 158,
+    "stars": 4,
+    "researchExp": 782,
+    "shards": 1401,
+    "candy": 10
+  },
+  {
+    "id": 386,
+    "pokeId": 159,
+    "stars": 4,
+    "researchExp": 1663,
+    "shards": 2979,
+    "candy": 12
+  },
+  {
+    "id": 387,
+    "pokeId": 160,
+    "stars": 4,
+    "researchExp": 4449,
+    "shards": 7968,
+    "candy": 15
+  },
+  {
+    "id": 388,
+    "pokeId": 172,
+    "stars": 4,
+    "researchExp": 397,
+    "shards": 1181,
+    "candy": 10
+  },
+  {
+    "id": 389,
+    "pokeId": 174,
+    "stars": 4,
+    "researchExp": 660,
+    "shards": 712,
+    "candy": 10
+  },
+  {
+    "id": 390,
+    "pokeId": 175,
+    "stars": 4,
+    "researchExp": 720,
+    "shards": 1513,
+    "candy": 10
+  },
+  {
+    "id": 391,
+    "pokeId": 176,
+    "stars": 4,
+    "researchExp": 1179,
+    "shards": 2478,
+    "candy": 11
+  },
+  {
+    "id": 392,
+    "pokeId": 179,
+    "stars": 4,
+    "researchExp": 623,
+    "shards": 777,
+    "candy": 10
+  },
+  {
+    "id": 393,
+    "pokeId": 180,
+    "stars": 4,
+    "researchExp": 1301,
+    "shards": 1985,
+    "candy": 12
+  },
+  {
+    "id": 394,
+    "pokeId": 181,
+    "stars": 4,
+    "researchExp": 3408,
+    "shards": 6105,
+    "candy": 15
+  },
+  {
+    "id": 395,
+    "pokeId": 185,
+    "stars": 4,
+    "researchExp": 831,
+    "shards": 1489,
+    "candy": 11
+  },
+  {
+    "id": 396,
+    "pokeId": 196,
+    "stars": 4,
+    "researchExp": 3461,
+    "shards": 8917,
+    "candy": 14
+  },
+  {
+    "id": 397,
+    "pokeId": 197,
+    "stars": 4,
+    "researchExp": 4557,
+    "shards": 6954,
+    "candy": 14
+  },
+  {
+    "id": 398,
+    "pokeId": 199,
+    "stars": 4,
+    "researchExp": 5334,
+    "shards": 8139,
+    "candy": 14
+  },
+  {
+    "id": 399,
+    "pokeId": 202,
+    "stars": 4,
+    "researchExp": 1038,
+    "shards": 1118,
+    "candy": 11
+  },
+  {
+    "id": 400,
+    "pokeId": 214,
+    "stars": 4,
+    "researchExp": 2776,
+    "shards": 4971,
+    "candy": 13
+  },
+  {
+    "id": 401,
+    "pokeId": 228,
+    "stars": 4,
+    "researchExp": 629,
+    "shards": 1320,
+    "candy": 10
+  },
+  {
+    "id": 402,
+    "pokeId": 229,
+    "stars": 4,
+    "researchExp": 1691,
+    "shards": 3554,
+    "candy": 12
+  },
+  {
+    "id": 403,
+    "pokeId": 246,
+    "stars": 4,
+    "researchExp": 896,
+    "shards": 1605,
+    "candy": 10
+  },
+  {
+    "id": 404,
+    "pokeId": 247,
+    "stars": 4,
+    "researchExp": 1837,
+    "shards": 3291,
+    "candy": 12
+  },
+  {
+    "id": 405,
+    "pokeId": 248,
+    "stars": 4,
+    "researchExp": 8962,
+    "shards": 16051,
+    "candy": 15
+  },
+  {
+    "id": 406,
+    "pokeId": 287,
+    "stars": 4,
+    "researchExp": 784,
+    "shards": 845,
+    "candy": 10
+  },
+  {
+    "id": 407,
+    "pokeId": 288,
+    "stars": 4,
+    "researchExp": 1693,
+    "shards": 2584,
+    "candy": 12
+  },
+  {
+    "id": 408,
+    "pokeId": 289,
+    "stars": 4,
+    "researchExp": 7445,
+    "shards": 8003,
+    "candy": 15
+  },
+  {
+    "id": 409,
+    "pokeId": 302,
+    "stars": 4,
+    "researchExp": 1939,
+    "shards": 4994,
+    "candy": 13
+  },
+  {
+    "id": 410,
+    "pokeId": 316,
+    "stars": 4,
+    "researchExp": 719,
+    "shards": 776,
+    "candy": 10
+  },
+  {
+    "id": 411,
+    "pokeId": 317,
+    "stars": 4,
+    "researchExp": 2078,
+    "shards": 2236,
+    "candy": 12
+  },
+  {
+    "id": 412,
+    "pokeId": 333,
+    "stars": 4,
+    "researchExp": 530,
+    "shards": 1114,
+    "candy": 10
+  },
+  {
+    "id": 413,
+    "pokeId": 334,
+    "stars": 4,
+    "researchExp": 1934,
+    "shards": 3463,
+    "candy": 12
+  },
+  {
+    "id": 414,
+    "pokeId": 359,
+    "stars": 4,
+    "researchExp": 2554,
+    "shards": 5368,
+    "candy": 13
+  },
+  {
+    "id": 415,
+    "pokeId": 360,
+    "stars": 4,
+    "researchExp": 660,
+    "shards": 712,
+    "candy": 10
+  },
+  {
+    "id": 416,
+    "pokeId": 363,
+    "stars": 4,
+    "researchExp": 784,
+    "shards": 845,
+    "candy": 10
+  },
+  {
+    "id": 417,
+    "pokeId": 364,
+    "stars": 4,
+    "researchExp": 2078,
+    "shards": 2236,
+    "candy": 12
+  },
+  {
+    "id": 418,
+    "pokeId": 365,
+    "stars": 4,
+    "researchExp": 4021,
+    "shards": 5008,
+    "candy": 15
+  },
+  {
+    "id": 419,
+    "pokeId": 438,
+    "stars": 4,
+    "researchExp": 529,
+    "shards": 946,
+    "candy": 10
+  },
+  {
+    "id": 420,
+    "pokeId": 447,
+    "stars": 4,
+    "researchExp": 629,
+    "shards": 1320,
+    "candy": 10
+  },
+  {
+    "id": 421,
+    "pokeId": 448,
+    "stars": 4,
+    "researchExp": 3461,
+    "shards": 8917,
+    "candy": 14
+  },
+  {
+    "id": 422,
+    "pokeId": 453,
+    "stars": 4,
+    "researchExp": 628,
+    "shards": 1124,
+    "candy": 10
+  },
+  {
+    "id": 423,
+    "pokeId": 454,
+    "stars": 4,
+    "researchExp": 1663,
+    "shards": 2979,
+    "candy": 12
+  },
+  {
+    "id": 424,
+    "pokeId": 468,
+    "stars": 4,
+    "researchExp": 5200,
+    "shards": 9314,
+    "candy": 15
+  },
+  {
+    "id": 425,
+    "pokeId": 470,
+    "stars": 4,
+    "researchExp": 3461,
+    "shards": 8917,
+    "candy": 14
+  },
+  {
+    "id": 426,
+    "pokeId": 471,
+    "stars": 4,
+    "researchExp": 3461,
+    "shards": 8917,
+    "candy": 14
+  },
+  {
+    "id": 427,
+    "pokeId": 700,
+    "stars": 4,
+    "researchExp": 4557,
+    "shards": 6954,
+    "candy": 14
+  },
+  {
+    "id": 428,
+    "pokeId": 439,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 4
+  },
+  {
+    "id": 429,
+    "pokeId": 439,
+    "stars": 2,
+    "researchExp": 82,
+    "shards": 242,
+    "candy": 6
+  },
+  {
+    "id": 430,
+    "pokeId": 439,
+    "stars": 3,
+    "researchExp": 328,
+    "shards": 975,
+    "candy": 9
+  },
+  {
+    "id": 431,
+    "pokeId": 439,
+    "stars": 4,
+    "researchExp": 513,
+    "shards": 1527,
+    "candy": 10
+  },
+  {
+    "id": 432,
+    "pokeId": 122,
+    "stars": 1,
+    "researchExp": 100,
+    "shards": 294,
+    "candy": 6
+  },
+  {
+    "id": 433,
+    "pokeId": 122,
+    "stars": 2,
+    "researchExp": 267,
+    "shards": 793,
+    "candy": 8
+  },
+  {
+    "id": 434,
+    "pokeId": 122,
+    "stars": 3,
+    "researchExp": 867,
+    "shards": 2585,
+    "candy": 11
+  },
+  {
+    "id": 435,
+    "pokeId": 122,
+    "stars": 4,
+    "researchExp": 1248,
+    "shards": 3722,
+    "candy": 12
+  },
+  {
+    "id": 436,
+    "pokeId": 173,
+    "stars": 1,
+    "researchExp": 29,
+    "shards": 34,
+    "candy": 4
+  },
+  {
+    "id": 437,
+    "pokeId": 173,
+    "stars": 2,
+    "researchExp": 165,
+    "shards": 179,
+    "candy": 6
+  },
+  {
+    "id": 438,
+    "pokeId": 173,
+    "stars": 3,
+    "researchExp": 649,
+    "shards": 700,
+    "candy": 9
+  },
+  {
+    "id": 439,
+    "pokeId": 173,
+    "stars": 4,
+    "researchExp": 977,
+    "shards": 1053,
+    "candy": 10
+  },
+  {
+    "id": 440,
+    "pokeId": 35,
+    "stars": 1,
+    "researchExp": 53,
+    "shards": 60,
+    "candy": 5
+  },
+  {
+    "id": 441,
+    "pokeId": 35,
+    "stars": 2,
+    "researchExp": 226,
+    "shards": 245,
+    "candy": 7
+  },
+  {
+    "id": 442,
+    "pokeId": 35,
+    "stars": 3,
+    "researchExp": 827,
+    "shards": 892,
+    "candy": 10
+  },
+  {
+    "id": 443,
+    "pokeId": 35,
+    "stars": 4,
+    "researchExp": 1204,
+    "shards": 1297,
+    "candy": 11
+  },
+  {
+    "id": 444,
+    "pokeId": 36,
+    "stars": 1,
+    "researchExp": 691,
+    "shards": 863,
+    "candy": 9
+  },
+  {
+    "id": 445,
+    "pokeId": 36,
+    "stars": 2,
+    "researchExp": 1548,
+    "shards": 1929,
+    "candy": 11
+  },
+  {
+    "id": 446,
+    "pokeId": 36,
+    "stars": 3,
+    "researchExp": 3854,
+    "shards": 4799,
+    "candy": 14
+  },
+  {
+    "id": 447,
+    "pokeId": 36,
+    "stars": 4,
+    "researchExp": 5249,
+    "shards": 6535,
+    "candy": 15
+  },
+  {
+    "id": 448,
+    "pokeId": 353,
+    "stars": 1,
+    "researchExp": 12,
+    "shards": 24,
+    "candy": 4
+  },
+  {
+    "id": 449,
+    "pokeId": 353,
+    "stars": 2,
+    "researchExp": 91,
+    "shards": 189,
+    "candy": 6
+  },
+  {
+    "id": 450,
+    "pokeId": 353,
+    "stars": 3,
+    "researchExp": 373,
+    "shards": 783,
+    "candy": 9
+  },
+  {
+    "id": 451,
+    "pokeId": 354,
+    "stars": 1,
+    "researchExp": 193,
+    "shards": 404,
+    "candy": 6
+  },
+  {
+    "id": 452,
+    "pokeId": 354,
+    "stars": 2,
+    "researchExp": 497,
+    "shards": 1043,
+    "candy": 8
+  },
+  {
+    "id": 453,
+    "pokeId": 354,
+    "stars": 3,
+    "researchExp": 1462,
+    "shards": 3073,
+    "candy": 11
+  },
+  {
+    "id": 454,
+    "pokeId": 354,
+    "stars": 4,
+    "researchExp": 2035,
+    "shards": 4279,
+    "candy": 12
+  },
+  {
+    "id": 455,
+    "pokeId": 95,
+    "stars": 1,
+    "researchExp": 257,
+    "shards": 763,
+    "candy": 7
+  },
+  {
+    "id": 456,
+    "pokeId": 95,
+    "stars": 2,
+    "researchExp": 620,
+    "shards": 1845,
+    "candy": 9
+  },
+  {
+    "id": 457,
+    "pokeId": 95,
+    "stars": 3,
+    "researchExp": 1707,
+    "shards": 5091,
+    "candy": 12
+  },
+  {
+    "id": 458,
+    "pokeId": 208,
+    "stars": 1,
+    "researchExp": 1192,
+    "shards": 2505,
+    "candy": 8
+  },
+  {
+    "id": 459,
+    "pokeId": 208,
+    "stars": 2,
+    "researchExp": 2329,
+    "shards": 4895,
+    "candy": 10
+  },
+  {
+    "id": 460,
+    "pokeId": 208,
+    "stars": 3,
+    "researchExp": 5549,
+    "shards": 11665,
+    "candy": 13
+  },
+  {
+    "id": 461,
+    "pokeId": 225,
+    "stars": 1,
+    "researchExp": 477,
+    "shards": 1003,
+    "candy": 7
+  },
+  {
+    "id": 462,
+    "pokeId": 225,
+    "stars": 2,
+    "researchExp": 1073,
+    "shards": 2255,
+    "candy": 9
+  },
+  {
+    "id": 463,
+    "pokeId": 225,
+    "stars": 3,
+    "researchExp": 2661,
+    "shards": 5593,
+    "candy": 12
+  },
+  {
+    "id": 464,
+    "pokeId": 225,
+    "stars": 4,
+    "researchExp": 3647,
+    "shards": 7666,
+    "candy": 13
+  },
+  {
+    "id": 465,
+    "pokeId": 459,
+    "stars": 1,
+    "researchExp": 24,
+    "shards": 43,
+    "candy": 4
+  },
+  {
+    "id": 466,
+    "pokeId": 459,
+    "stars": 2,
+    "researchExp": 132,
+    "shards": 237,
+    "candy": 6
+  },
+  {
+    "id": 467,
+    "pokeId": 459,
+    "stars": 3,
+    "researchExp": 520,
+    "shards": 931,
+    "candy": 9
+  },
+  {
+    "id": 468,
+    "pokeId": 459,
+    "stars": 4,
+    "researchExp": 782,
+    "shards": 1401,
+    "candy": 10
+  },
+  {
+    "id": 469,
+    "pokeId": 460,
+    "stars": 1,
+    "researchExp": 343,
+    "shards": 524,
+    "candy": 6
+  },
+  {
+    "id": 470,
+    "pokeId": 460,
+    "stars": 2,
+    "researchExp": 822,
+    "shards": 1255,
+    "candy": 8
+  },
+  {
+    "id": 471,
+    "pokeId": 460,
+    "stars": 3,
+    "researchExp": 2301,
+    "shards": 3512,
+    "candy": 11
+  },
+  {
+    "id": 472,
+    "pokeId": 147,
+    "stars": 1,
+    "researchExp": 25,
+    "shards": 52,
+    "candy": 4
+  },
+  {
+    "id": 473,
+    "pokeId": 147,
+    "stars": 2,
+    "researchExp": 534,
+    "shards": 1122,
+    "candy": 6
+  },
+  {
+    "id": 474,
+    "pokeId": 147,
+    "stars": 3,
+    "researchExp": 1000,
+    "shards": 2100,
+    "candy": 9
+  },
+  {
+    "id": 475,
+    "pokeId": 147,
+    "stars": 4,
+    "researchExp": 1359,
+    "shards": 2857,
+    "candy": 10
+  },
+  {
+    "id": 476,
+    "pokeId": 148,
+    "stars": 1,
+    "researchExp": 177,
+    "shards": 370,
+    "candy": 6
+  },
+  {
+    "id": 477,
+    "pokeId": 148,
+    "stars": 2,
+    "researchExp": 651,
+    "shards": 1368,
+    "candy": 8
+  },
+  {
+    "id": 478,
+    "pokeId": 148,
+    "stars": 3,
+    "researchExp": 1835,
+    "shards": 3858,
+    "candy": 11
+  },
+  {
+    "id": 479,
+    "pokeId": 148,
+    "stars": 4,
+    "researchExp": 2554,
+    "shards": 5368,
+    "candy": 12
+  },
+  {
+    "id": 480,
+    "pokeId": 149,
+    "stars": 1,
+    "researchExp": 1880,
+    "shards": 3366,
+    "candy": 9
+  },
+  {
+    "id": 481,
+    "pokeId": 149,
+    "stars": 2,
+    "researchExp": 3510,
+    "shards": 6286,
+    "candy": 11
+  },
+  {
+    "id": 482,
+    "pokeId": 149,
+    "stars": 3,
+    "researchExp": 8079,
+    "shards": 14470,
+    "candy": 14
+  },
+  {
+    "id": 483,
+    "pokeId": 149,
+    "stars": 4,
+    "researchExp": 10700,
+    "shards": 19165,
+    "candy": 15
+  },
+  {
+    "id": 484,
+    "pokeId": 280,
+    "stars": 1,
+    "researchExp": 21,
+    "shards": 42,
+    "candy": 4
+  },
+  {
+    "id": 485,
+    "pokeId": 280,
+    "stars": 2,
+    "researchExp": 457,
+    "shards": 959,
+    "candy": 6
+  },
+  {
+    "id": 486,
+    "pokeId": 280,
+    "stars": 3,
+    "researchExp": 867,
+    "shards": 1822,
+    "candy": 9
+  },
+  {
+    "id": 487,
+    "pokeId": 280,
+    "stars": 4,
+    "researchExp": 1179,
+    "shards": 2478,
+    "candy": 10
+  },
+  {
+    "id": 488,
+    "pokeId": 281,
+    "stars": 1,
+    "researchExp": 177,
+    "shards": 370,
+    "candy": 6
+  },
+  {
+    "id": 489,
+    "pokeId": 281,
+    "stars": 2,
+    "researchExp": 651,
+    "shards": 1368,
+    "candy": 8
+  },
+  {
+    "id": 490,
+    "pokeId": 281,
+    "stars": 3,
+    "researchExp": 1835,
+    "shards": 3858,
+    "candy": 11
+  },
+  {
+    "id": 491,
+    "pokeId": 281,
+    "stars": 4,
+    "researchExp": 2554,
+    "shards": 5368,
+    "candy": 12
+  },
+  {
+    "id": 492,
+    "pokeId": 282,
+    "stars": 1,
+    "researchExp": 697,
+    "shards": 1794,
+    "candy": 9
+  },
+  {
+    "id": 493,
+    "pokeId": 282,
+    "stars": 2,
+    "researchExp": 1432,
+    "shards": 3688,
+    "candy": 11
+  },
+  {
+    "id": 494,
+    "pokeId": 282,
+    "stars": 3,
+    "researchExp": 3466,
+    "shards": 8931,
+    "candy": 14
+  },
+  {
+    "id": 495,
+    "pokeId": 282,
+    "stars": 4,
+    "researchExp": 4607,
+    "shards": 11872,
+    "candy": 15
+  },
+  {
+    "id": 496,
+    "pokeId": 475,
+    "stars": 1,
+    "researchExp": 1063,
+    "shards": 2736,
+    "candy": 9
+  },
+  {
+    "id": 497,
+    "pokeId": 475,
+    "stars": 2,
+    "researchExp": 2076,
+    "shards": 5348,
+    "candy": 11
+  },
+  {
+    "id": 498,
+    "pokeId": 475,
+    "stars": 3,
+    "researchExp": 4946,
+    "shards": 12745,
+    "candy": 14
+  },
+  {
+    "id": 499,
+    "pokeId": 475,
+    "stars": 4,
+    "researchExp": 6604,
+    "shards": 17017,
+    "candy": 15
+  },
+  {
+    "id": 500,
+    "pokeId": 759,
+    "stars": 1,
+    "researchExp": 32,
+    "shards": 41,
+    "candy": 4
+  },
+  {
+    "id": 501,
+    "pokeId": 759,
+    "stars": 2,
+    "researchExp": 636,
+    "shards": 794,
+    "candy": 6
+  },
+  {
+    "id": 502,
+    "pokeId": 759,
+    "stars": 3,
+    "researchExp": 1204,
+    "shards": 1501,
+    "candy": 9
+  },
+  {
+    "id": 503,
+    "pokeId": 759,
+    "stars": 4,
+    "researchExp": 1742,
+    "shards": 2171,
+    "candy": 10
+  },
+  {
+    "id": 504,
+    "pokeId": 760,
+    "stars": 1,
+    "researchExp": 309,
+    "shards": 334,
+    "candy": 6
+  },
+  {
+    "id": 505,
+    "pokeId": 760,
+    "stars": 2,
+    "researchExp": 1117,
+    "shards": 1202,
+    "candy": 8
+  },
+  {
+    "id": 506,
+    "pokeId": 760,
+    "stars": 3,
+    "researchExp": 3005,
+    "shards": 3232,
+    "candy": 11
+  },
+  {
+    "id": 507,
+    "pokeId": 760,
+    "stars": 4,
+    "researchExp": 4009,
+    "shards": 4311,
+    "candy": 12
+  },
+  {
+    "id": 508,
+    "pokeId": 702,
+    "stars": 1,
+    "researchExp": 294,
+    "shards": 527,
+    "candy": 7
+  },
+  {
+    "id": 509,
+    "pokeId": 702,
+    "stars": 2,
+    "researchExp": 1166,
+    "shards": 2088,
+    "candy": 9
+  },
+  {
+    "id": 510,
+    "pokeId": 702,
+    "stars": 3,
+    "researchExp": 2892,
+    "shards": 5179,
+    "candy": 12
+  },
+  {
+    "id": 511,
+    "pokeId": 702,
+    "stars": 4,
+    "researchExp": 3963,
+    "shards": 7099,
+    "candy": 13
+  },
+  {
+    "id": 512,
+    "pokeId": 243,
+    "stars": 1,
+    "researchExp": 669,
+    "shards": 4769,
+    "candy": 11
+  },
+  {
+    "id": 513,
+    "pokeId": 243,
+    "stars": 2,
+    "researchExp": 3696,
+    "shards": 12286,
+    "candy": 13
+  },
+  {
+    "id": 514,
+    "pokeId": 243,
+    "stars": 3,
+    "researchExp": 8857,
+    "shards": 29457,
+    "candy": 16
+  },
+  {
+    "id": 515,
+    "pokeId": 764,
+    "stars": 1,
+    "researchExp": 239,
+    "shards": 709,
+    "candy": 7
+  },
+  {
+    "id": 516,
+    "pokeId": 764,
+    "stars": 2,
+    "researchExp": 929,
+    "shards": 2769,
+    "candy": 9
+  },
+  {
+    "id": 517,
+    "pokeId": 764,
+    "stars": 3,
+    "researchExp": 2306,
+    "shards": 6878,
+    "candy": 12
+  },
+  {
+    "id": 518,
+    "pokeId": 764,
+    "stars": 4,
+    "researchExp": 3166,
+    "shards": 9446,
+    "candy": 13
+  },
+  {
+    "id": 519,
+    "pokeId": 37,
+    "stars": 1,
+    "researchExp": 29,
+    "shards": 71,
+    "candy": 4
+  },
+  {
+    "id": 520,
+    "pokeId": 37,
+    "stars": 2,
+    "researchExp": 249,
+    "shards": 638,
+    "candy": 6
+  },
+  {
+    "id": 521,
+    "pokeId": 37,
+    "stars": 3,
+    "researchExp": 838,
+    "shards": 2156,
+    "candy": 9
+  },
+  {
+    "id": 522,
+    "pokeId": 37,
+    "stars": 4,
+    "researchExp": 1212,
+    "shards": 3121,
+    "candy": 10
+  },
+  {
+    "id": 523,
+    "pokeId": 38,
+    "stars": 1,
+    "researchExp": 228,
+    "shards": 478,
+    "candy": 8
+  },
+  {
+    "id": 524,
+    "pokeId": 38,
+    "stars": 2,
+    "researchExp": 931,
+    "shards": 1956,
+    "candy": 10
+  },
+  {
+    "id": 525,
+    "pokeId": 38,
+    "stars": 3,
+    "researchExp": 2391,
+    "shards": 5026,
+    "candy": 13
+  },
+  {
+    "id": 526,
+    "pokeId": 38,
+    "stars": 4,
+    "researchExp": 3334,
+    "shards": 7008,
+    "candy": 14
+  },
+  {
+    "id": 527,
+    "pokeId": 244,
+    "stars": 1,
+    "researchExp": 873,
+    "shards": 4805,
+    "candy": 11
+  },
+  {
+    "id": 528,
+    "pokeId": 244,
+    "stars": 2,
+    "researchExp": 4416,
+    "shards": 12111,
+    "candy": 13
+  },
+  {
+    "id": 529,
+    "pokeId": 244,
+    "stars": 3,
+    "researchExp": 11597,
+    "shards": 28100,
+    "candy": 16
+  },
+  {
+    "id": 530,
+    "pokeId": 845,
+    "stars": 1,
+    "researchExp": 315,
+    "shards": 660,
+    "candy": 7
+  },
+  {
+    "id": 531,
+    "pokeId": 845,
+    "stars": 2,
+    "researchExp": 1208,
+    "shards": 2538,
+    "candy": 9
+  },
+  {
+    "id": 532,
+    "pokeId": 845,
+    "stars": 3,
+    "researchExp": 3287,
+    "shards": 6911,
+    "candy": 12
+  },
+  {
+    "id": 533,
+    "pokeId": 845,
+    "stars": 4,
+    "researchExp": 4544,
+    "shards": 9553,
+    "candy": 13
+  },
+  {
+    "id": 534,
+    "pokeId": 906,
+    "stars": 1,
+    "researchExp": 44,
+    "shards": 78,
+    "candy": 4
+  },
+  {
+    "id": 535,
+    "pokeId": 906,
+    "stars": 2,
+    "researchExp": 539,
+    "shards": 967,
+    "candy": 6
+  },
+  {
+    "id": 536,
+    "pokeId": 906,
+    "stars": 3,
+    "researchExp": 1741,
+    "shards": 3127,
+    "candy": 9
+  },
+  {
+    "id": 537,
+    "pokeId": 906,
+    "stars": 4,
+    "researchExp": 2209,
+    "shards": 3967,
+    "candy": 10
+  },
+  {
+    "id": 538,
+    "pokeId": 907,
+    "stars": 1,
+    "researchExp": 197,
+    "shards": 279,
+    "candy": 6
+  },
+  {
+    "id": 539,
+    "pokeId": 907,
+    "stars": 2,
+    "researchExp": 1001,
+    "shards": 1409,
+    "candy": 8
+  },
+  {
+    "id": 540,
+    "pokeId": 907,
+    "stars": 3,
+    "researchExp": 3073,
+    "shards": 4321,
+    "candy": 11
+  },
+  {
+    "id": 541,
+    "pokeId": 907,
+    "stars": 4,
+    "researchExp": 4248,
+    "shards": 5973,
+    "candy": 12
+  },
+  {
+    "id": 542,
+    "pokeId": 908,
+    "stars": 1,
+    "researchExp": 1238,
+    "shards": 1742,
+    "candy": 9
+  },
+  {
+    "id": 543,
+    "pokeId": 908,
+    "stars": 2,
+    "researchExp": 2689,
+    "shards": 3781,
+    "candy": 11
+  },
+  {
+    "id": 544,
+    "pokeId": 908,
+    "stars": 3,
+    "researchExp": 8133,
+    "shards": 11434,
+    "candy": 14
+  },
+  {
+    "id": 545,
+    "pokeId": 908,
+    "stars": 4,
+    "researchExp": 10588,
+    "shards": 14884,
+    "candy": 15
+  },
+  {
+    "id": 546,
+    "pokeId": 909,
+    "stars": 1,
+    "researchExp": 59,
+    "shards": 50,
+    "candy": 4
+  },
+  {
+    "id": 547,
+    "pokeId": 909,
+    "stars": 2,
+    "researchExp": 749,
+    "shards": 591,
+    "candy": 6
+  },
+  {
+    "id": 548,
+    "pokeId": 909,
+    "stars": 3,
+    "researchExp": 2424,
+    "shards": 1904,
+    "candy": 9
+  },
+  {
+    "id": 549,
+    "pokeId": 909,
+    "stars": 4,
+    "researchExp": 3076,
+    "shards": 2415,
+    "candy": 10
+  },
+  {
+    "id": 550,
+    "pokeId": 910,
+    "stars": 1,
+    "researchExp": 231,
+    "shards": 219,
+    "candy": 6
+  },
+  {
+    "id": 551,
+    "pokeId": 910,
+    "stars": 2,
+    "researchExp": 1173,
+    "shards": 1101,
+    "candy": 8
+  },
+  {
+    "id": 552,
+    "pokeId": 910,
+    "stars": 3,
+    "researchExp": 3601,
+    "shards": 3375,
+    "candy": 11
+  },
+  {
+    "id": 553,
+    "pokeId": 910,
+    "stars": 4,
+    "researchExp": 4979,
+    "shards": 4665,
+    "candy": 12
+  },
+  {
+    "id": 554,
+    "pokeId": 911,
+    "stars": 1,
+    "researchExp": 1450,
+    "shards": 1361,
+    "candy": 9
+  },
+  {
+    "id": 555,
+    "pokeId": 911,
+    "stars": 2,
+    "researchExp": 3151,
+    "shards": 2954,
+    "candy": 11
+  },
+  {
+    "id": 556,
+    "pokeId": 911,
+    "stars": 3,
+    "researchExp": 9532,
+    "shards": 8929,
+    "candy": 14
+  },
+  {
+    "id": 557,
+    "pokeId": 911,
+    "stars": 4,
+    "researchExp": 12408,
+    "shards": 11623,
+    "candy": 15
+  },
+  {
+    "id": 558,
+    "pokeId": 912,
+    "stars": 1,
+    "researchExp": 48,
+    "shards": 70,
+    "candy": 4
+  },
+  {
+    "id": 559,
+    "pokeId": 912,
+    "stars": 2,
+    "researchExp": 600,
+    "shards": 858,
+    "candy": 6
+  },
+  {
+    "id": 560,
+    "pokeId": 912,
+    "stars": 3,
+    "researchExp": 1940,
+    "shards": 2771,
+    "candy": 9
+  },
+  {
+    "id": 561,
+    "pokeId": 912,
+    "stars": 4,
+    "researchExp": 2462,
+    "shards": 3516,
+    "candy": 10
+  },
+  {
+    "id": 562,
+    "pokeId": 913,
+    "stars": 1,
+    "researchExp": 196,
+    "shards": 281,
+    "candy": 6
+  },
+  {
+    "id": 563,
+    "pokeId": 913,
+    "stars": 2,
+    "researchExp": 995,
+    "shards": 1421,
+    "candy": 8
+  },
+  {
+    "id": 564,
+    "pokeId": 913,
+    "stars": 3,
+    "researchExp": 3052,
+    "shards": 4358,
+    "candy": 11
+  },
+  {
+    "id": 565,
+    "pokeId": 913,
+    "stars": 4,
+    "researchExp": 4220,
+    "shards": 6024,
+    "candy": 12
+  },
+  {
+    "id": 566,
+    "pokeId": 914,
+    "stars": 1,
+    "researchExp": 1230,
+    "shards": 1757,
+    "candy": 9
+  },
+  {
+    "id": 567,
+    "pokeId": 914,
+    "stars": 2,
+    "researchExp": 2671,
+    "shards": 3814,
+    "candy": 11
+  },
+  {
+    "id": 568,
+    "pokeId": 914,
+    "stars": 3,
+    "researchExp": 8079,
+    "shards": 11533,
+    "candy": 14
+  },
+  {
+    "id": 569,
+    "pokeId": 914,
+    "stars": 4,
+    "researchExp": 10516,
+    "shards": 15012,
+    "candy": 15
+  },
+  {
+    "id": 570,
+    "pokeId": 194,
+    "stars": 1,
+    "researchExp": 128,
+    "shards": 120,
+    "candy": 4
+  },
+  {
+    "id": 571,
+    "pokeId": 194,
+    "stars": 2,
+    "researchExp": 435,
+    "shards": 400,
+    "candy": 6
+  },
+  {
+    "id": 572,
+    "pokeId": 194,
+    "stars": 3,
+    "researchExp": 1985,
+    "shards": 1815,
+    "candy": 9
+  },
+  {
+    "id": 573,
+    "pokeId": 194,
+    "stars": 4,
+    "researchExp": 2561,
+    "shards": 2340,
+    "candy": 10
+  },
+  {
+    "id": 574,
+    "pokeId": 195,
+    "stars": 1,
+    "researchExp": 538,
+    "shards": 494,
+    "candy": 6
+  },
+  {
+    "id": 575,
+    "pokeId": 195,
+    "stars": 2,
+    "researchExp": 1445,
+    "shards": 1323,
+    "candy": 8
+  },
+  {
+    "id": 576,
+    "pokeId": 195,
+    "stars": 3,
+    "researchExp": 4733,
+    "shards": 4322,
+    "candy": 11
+  },
+  {
+    "id": 577,
+    "pokeId": 195,
+    "stars": 4,
+    "researchExp": 6211,
+    "shards": 5670,
+    "candy": 12
+  },
+  {
+    "id": 578,
+    "pokeId": 245,
+    "stars": 1,
+    "researchExp": 1054,
+    "shards": 4844,
+    "candy": 11
+  },
+  {
+    "id": 579,
+    "pokeId": 245,
+    "stars": 2,
+    "researchExp": 5091,
+    "shards": 12084,
+    "candy": 13
+  },
+  {
+    "id": 580,
+    "pokeId": 245,
+    "stars": 3,
+    "researchExp": 13303,
+    "shards": 27414,
+    "candy": 16
+  },
+  {
+    "id": 581,
+    "pokeId": 736,
+    "stars": 1,
+    "researchExp": 72,
+    "shards": 114,
+    "candy": 4
+  },
+  {
+    "id": 582,
+    "pokeId": 736,
+    "stars": 2,
+    "researchExp": 349,
+    "shards": 555,
+    "candy": 6
+  },
+  {
+    "id": 583,
+    "pokeId": 736,
+    "stars": 3,
+    "researchExp": 1976,
+    "shards": 3140,
+    "candy": 9
+  },
+  {
+    "id": 584,
+    "pokeId": 736,
+    "stars": 4,
+    "researchExp": 2827,
+    "shards": 4491,
+    "candy": 10
+  },
+  {
+    "id": 585,
+    "pokeId": 737,
+    "stars": 1,
+    "researchExp": 398,
+    "shards": 624,
+    "candy": 6
+  },
+  {
+    "id": 586,
+    "pokeId": 737,
+    "stars": 2,
+    "researchExp": 1244,
+    "shards": 1949,
+    "candy": 8
+  },
+  {
+    "id": 587,
+    "pokeId": 737,
+    "stars": 3,
+    "researchExp": 4510,
+    "shards": 7062,
+    "candy": 11
+  },
+  {
+    "id": 588,
+    "pokeId": 737,
+    "stars": 4,
+    "researchExp": 5995,
+    "shards": 9386,
+    "candy": 12
+  },
+  {
+    "id": 589,
+    "pokeId": 738,
+    "stars": 1,
+    "researchExp": 1885,
+    "shards": 2994,
+    "candy": 9
+  },
+  {
+    "id": 590,
+    "pokeId": 738,
+    "stars": 2,
+    "researchExp": 4130,
+    "shards": 6560,
+    "candy": 11
+  },
+  {
+    "id": 591,
+    "pokeId": 738,
+    "stars": 3,
+    "researchExp": 11342,
+    "shards": 18016,
+    "candy": 14
+  },
+  {
+    "id": 592,
+    "pokeId": 738,
+    "stars": 4,
+    "researchExp": 14877,
+    "shards": 23631,
+    "candy": 15
+  },
+  {
+    "id": 593,
+    "pokeId": 403,
+    "stars": 1,
+    "researchExp": 72,
+    "shards": 114,
+    "candy": 4
+  },
+  {
+    "id": 594,
+    "pokeId": 403,
+    "stars": 2,
+    "researchExp": 349,
+    "shards": 555,
+    "candy": 6
+  },
+  {
+    "id": 595,
+    "pokeId": 403,
+    "stars": 3,
+    "researchExp": 1976,
+    "shards": 3140,
+    "candy": 9
+  },
+  {
+    "id": 596,
+    "pokeId": 403,
+    "stars": 4,
+    "researchExp": 2827,
+    "shards": 4491,
+    "candy": 10
+  },
+  {
+    "id": 597,
+    "pokeId": 404,
+    "stars": 1,
+    "researchExp": 396,
+    "shards": 629,
+    "candy": 6
+  },
+  {
+    "id": 598,
+    "pokeId": 404,
+    "stars": 2,
+    "researchExp": 1311,
+    "shards": 2084,
+    "candy": 8
+  },
+  {
+    "id": 599,
+    "pokeId": 404,
+    "stars": 3,
+    "researchExp": 4719,
+    "shards": 7496,
+    "candy": 11
+  },
+  {
+    "id": 600,
+    "pokeId": 404,
+    "stars": 4,
+    "researchExp": 6314,
+    "shards": 10029,
+    "candy": 12
+  },
+  {
+    "id": 601,
+    "pokeId": 405,
+    "stars": 1,
+    "researchExp": 1445,
+    "shards": 2295,
+    "candy": 9
+  },
+  {
+    "id": 602,
+    "pokeId": 405,
+    "stars": 2,
+    "researchExp": 3314,
+    "shards": 5265,
+    "candy": 11
+  },
+  {
+    "id": 603,
+    "pokeId": 405,
+    "stars": 3,
+    "researchExp": 9516,
+    "shards": 15116,
+    "candy": 14
+  },
+  {
+    "id": 604,
+    "pokeId": 405,
+    "stars": 4,
+    "researchExp": 12582,
+    "shards": 19985,
+    "candy": 15
+  },
+  {
+    "id": 605,
+    "pokeId": 304,
+    "stars": 1,
+    "researchExp": 93,
+    "shards": 148,
+    "candy": 4
+  },
+  {
+    "id": 606,
+    "pokeId": 304,
+    "stars": 2,
+    "researchExp": 405,
+    "shards": 644,
+    "candy": 6
+  },
+  {
+    "id": 607,
+    "pokeId": 304,
+    "stars": 3,
+    "researchExp": 2258,
+    "shards": 3588,
+    "candy": 9
+  },
+  {
+    "id": 608,
+    "pokeId": 304,
+    "stars": 4,
+    "researchExp": 3055,
+    "shards": 4854,
+    "candy": 10
+  },
+  {
+    "id": 609,
+    "pokeId": 305,
+    "stars": 1,
+    "researchExp": 223,
+    "shards": 350,
+    "candy": 6
+  },
+  {
+    "id": 610,
+    "pokeId": 305,
+    "stars": 2,
+    "researchExp": 812,
+    "shards": 1272,
+    "candy": 8
+  },
+  {
+    "id": 611,
+    "pokeId": 305,
+    "stars": 3,
+    "researchExp": 3279,
+    "shards": 5135,
+    "candy": 11
+  },
+  {
+    "id": 612,
+    "pokeId": 305,
+    "stars": 4,
+    "researchExp": 4503,
+    "shards": 7051,
+    "candy": 12
+  },
+  {
+    "id": 613,
+    "pokeId": 306,
+    "stars": 1,
+    "researchExp": 1387,
+    "shards": 2738,
+    "candy": 9
+  },
+  {
+    "id": 614,
+    "pokeId": 306,
+    "stars": 2,
+    "researchExp": 3167,
+    "shards": 6253,
+    "candy": 11
+  },
+  {
+    "id": 615,
+    "pokeId": 306,
+    "stars": 3,
+    "researchExp": 8851,
+    "shards": 17479,
+    "candy": 14
+  },
+  {
+    "id": 616,
+    "pokeId": 306,
+    "stars": 4,
+    "researchExp": 11823,
+    "shards": 23349,
+    "candy": 15
+  },
+  {
+    "id": 617,
+    "pokeId": 425,
+    "stars": 1,
+    "researchExp": 214,
+    "shards": 199,
+    "candy": 4
+  },
+  {
+    "id": 618,
+    "pokeId": 425,
+    "stars": 2,
+    "researchExp": 817,
+    "shards": 749,
+    "candy": 6
+  },
+  {
+    "id": 619,
+    "pokeId": 425,
+    "stars": 3,
+    "researchExp": 3831,
+    "shards": 3498,
+    "candy": 9
+  },
+  {
+    "id": 620,
+    "pokeId": 426,
+    "stars": 1,
+    "researchExp": 3381,
+    "shards": 3089,
+    "candy": 6
+  },
+  {
+    "id": 621,
+    "pokeId": 426,
+    "stars": 2,
+    "researchExp": 4649,
+    "shards": 4246,
+    "candy": 8
+  },
+  {
+    "id": 622,
+    "pokeId": 426,
+    "stars": 3,
+    "researchExp": 10703,
+    "shards": 9769,
+    "candy": 11
+  },
+  {
+    "id": 623,
+    "pokeId": 132,
+    "stars": 4,
+    "researchExp": 7091,
+    "shards": 11264,
+    "candy": 13
+  },
+  {
+    "id": 624,
+    "pokeId": 778,
+    "stars": 1,
+    "researchExp": 452,
+    "shards": 1049,
+    "candy": 7
+  },
+  {
+    "id": 625,
+    "pokeId": 778,
+    "stars": 2,
+    "researchExp": 1623,
+    "shards": 3774,
+    "candy": 9
+  },
+  {
+    "id": 626,
+    "pokeId": 778,
+    "stars": 3,
+    "researchExp": 6316,
+    "shards": 14690,
+    "candy": 12
+  },
+  {
+    "id": 627,
+    "pokeId": 778,
+    "stars": 4,
+    "researchExp": 7797,
+    "shards": 18137,
+    "candy": 13
+  },
+  {
+    "id": 628,
+    "pokeId": 215,
+    "stars": 1,
+    "researchExp": 236,
+    "shards": 465,
+    "candy": 7
+  },
+  {
+    "id": 629,
+    "pokeId": 215,
+    "stars": 2,
+    "researchExp": 1177,
+    "shards": 2324,
+    "candy": 9
+  },
+  {
+    "id": 630,
+    "pokeId": 215,
+    "stars": 3,
+    "researchExp": 2923,
+    "shards": 5772,
+    "candy": 12
+  },
+  {
+    "id": 631,
+    "pokeId": 215,
+    "stars": 4,
+    "researchExp": 5123,
+    "shards": 10117,
+    "candy": 13
+  },
+  {
+    "id": 632,
+    "pokeId": 461,
+    "stars": 1,
+    "researchExp": 1454,
+    "shards": 2278,
+    "candy": 8
+  },
+  {
+    "id": 633,
+    "pokeId": 461,
+    "stars": 2,
+    "researchExp": 3745,
+    "shards": 5864,
+    "candy": 10
+  },
+  {
+    "id": 634,
+    "pokeId": 461,
+    "stars": 3,
+    "researchExp": 9930,
+    "shards": 15547,
+    "candy": 13
+  },
+  {
+    "id": 635,
+    "pokeId": 461,
+    "stars": 4,
+    "researchExp": 13264,
+    "shards": 20767,
+    "candy": 14
+  },
+  {
+    "id": 636,
+    "pokeId": 921,
+    "stars": 1,
+    "researchExp": 52,
+    "shards": 63,
+    "candy": 4
+  },
+  {
+    "id": 637,
+    "pokeId": 921,
+    "stars": 2,
+    "researchExp": 332,
+    "shards": 397,
+    "candy": 6
+  },
+  {
+    "id": 638,
+    "pokeId": 921,
+    "stars": 3,
+    "researchExp": 1990,
+    "shards": 2369,
+    "candy": 9
+  },
+  {
+    "id": 639,
+    "pokeId": 921,
+    "stars": 4,
+    "researchExp": 2840,
+    "shards": 3380,
+    "candy": 10
+  },
+  {
+    "id": 640,
+    "pokeId": 922,
+    "stars": 1,
+    "researchExp": 232,
+    "shards": 333,
+    "candy": 6
+  },
+  {
+    "id": 641,
+    "pokeId": 922,
+    "stars": 2,
+    "researchExp": 847,
+    "shards": 1210,
+    "candy": 8
+  },
+  {
+    "id": 642,
+    "pokeId": 922,
+    "stars": 3,
+    "researchExp": 3419,
+    "shards": 4883,
+    "candy": 11
+  },
+  {
+    "id": 643,
+    "pokeId": 922,
+    "stars": 4,
+    "researchExp": 4696,
+    "shards": 6705,
+    "candy": 12
+  },
+  {
+    "id": 644,
+    "pokeId": 923,
+    "stars": 1,
+    "researchExp": 1451,
+    "shards": 2041,
+    "candy": 9
+  },
+  {
+    "id": 645,
+    "pokeId": 923,
+    "stars": 2,
+    "researchExp": 3730,
+    "shards": 5245,
+    "candy": 11
+  },
+  {
+    "id": 646,
+    "pokeId": 923,
+    "stars": 3,
+    "researchExp": 10426,
+    "shards": 14658,
+    "candy": 14
+  },
+  {
+    "id": 647,
+    "pokeId": 923,
+    "stars": 4,
+    "researchExp": 14583,
+    "shards": 20502,
+    "candy": 15
+  },
+  {
+    "id": 648,
+    "pokeId": 7006,
+    "stars": 1,
+    "researchExp": 44,
+    "shards": 78,
+    "candy": 4
+  },
+  {
+    "id": 649,
+    "pokeId": 7006,
+    "stars": 2,
+    "researchExp": 329,
+    "shards": 590,
+    "candy": 6
+  },
+  {
+    "id": 650,
+    "pokeId": 7006,
+    "stars": 3,
+    "researchExp": 1085,
+    "shards": 1947,
+    "candy": 9
+  },
+  {
+    "id": 651,
+    "pokeId": 7006,
+    "stars": 4,
+    "researchExp": 1566,
+    "shards": 2811,
+    "candy": 10
+  },
+  {
+    "id": 652,
+    "pokeId": 7007,
+    "stars": 1,
+    "researchExp": 1392,
+    "shards": 1958,
+    "candy": 8
+  },
+  {
+    "id": 653,
+    "pokeId": 7007,
+    "stars": 2,
+    "researchExp": 3933,
+    "shards": 5529,
+    "candy": 10
+  },
+  {
+    "id": 654,
+    "pokeId": 7007,
+    "stars": 3,
+    "researchExp": 10059,
+    "shards": 14143,
+    "candy": 13
+  },
+  {
+    "id": 655,
+    "pokeId": 7007,
+    "stars": 4,
+    "researchExp": 13927,
+    "shards": 19580,
+    "candy": 14
+  },
+  {
+    "id": 656,
+    "pokeId": 627,
+    "stars": 1,
+    "researchExp": 109,
+    "shards": 120,
+    "candy": 4
+  },
+  {
+    "id": 657,
+    "pokeId": 627,
+    "stars": 2,
+    "researchExp": 477,
+    "shards": 515,
+    "candy": 6
+  },
+  {
+    "id": 658,
+    "pokeId": 627,
+    "stars": 3,
+    "researchExp": 2331,
+    "shards": 2504,
+    "candy": 9
+  },
+  {
+    "id": 659,
+    "pokeId": 627,
+    "stars": 4,
+    "researchExp": 3336,
+    "shards": 3581,
+    "candy": 10
+  },
+  {
+    "id": 660,
+    "pokeId": 628,
+    "stars": 1,
+    "researchExp": 602,
+    "shards": 649,
+    "candy": 6
+  },
+  {
+    "id": 661,
+    "pokeId": 628,
+    "stars": 2,
+    "researchExp": 1813,
+    "shards": 1948,
+    "candy": 8
+  },
+  {
+    "id": 662,
+    "pokeId": 628,
+    "stars": 3,
+    "researchExp": 5568,
+    "shards": 5976,
+    "candy": 11
+  },
+  {
+    "id": 663,
+    "pokeId": 628,
+    "stars": 4,
+    "researchExp": 8861,
+    "shards": 9509,
+    "candy": 12
+  },
+  {
+    "id": 664,
+    "pokeId": 7054,
+    "stars": 1,
+    "researchExp": 147,
+    "shards": 119,
+    "candy": 4
+  },
+  {
+    "id": 665,
+    "pokeId": 7054,
+    "stars": 2,
+    "researchExp": 493,
+    "shards": 390,
+    "candy": 6
+  },
+  {
+    "id": 666,
+    "pokeId": 7054,
+    "stars": 3,
+    "researchExp": 2303,
+    "shards": 1809,
+    "candy": 9
+  },
+  {
+    "id": 667,
+    "pokeId": 7054,
+    "stars": 4,
+    "researchExp": 3076,
+    "shards": 2415,
+    "candy": 10
+  },
+  {
+    "id": 668,
+    "pokeId": 980,
+    "stars": 1,
+    "researchExp": 669,
+    "shards": 528,
+    "candy": 6
+  },
+  {
+    "id": 669,
+    "pokeId": 980,
+    "stars": 2,
+    "researchExp": 1720,
+    "shards": 1352,
+    "candy": 8
+  },
+  {
+    "id": 670,
+    "pokeId": 980,
+    "stars": 3,
+    "researchExp": 5878,
+    "shards": 4611,
+    "candy": 11
+  },
+  {
+    "id": 671,
+    "pokeId": 980,
+    "stars": 4,
+    "researchExp": 7491,
+    "shards": 5875,
+    "candy": 12
+  },
+  {
+    "id": 672,
+    "pokeId": 517,
+    "stars": 1,
+    "researchExp": 35,
+    "shards": 35,
+    "candy": 4
+  },
+  {
+    "id": 673,
+    "pokeId": 517,
+    "stars": 2,
+    "researchExp": 366,
+    "shards": 337,
+    "candy": 6
+  },
+  {
+    "id": 674,
+    "pokeId": 517,
+    "stars": 3,
+    "researchExp": 1247,
+    "shards": 1141,
+    "candy": 9
+  },
+  {
+    "id": 675,
+    "pokeId": 518,
+    "stars": 1,
+    "researchExp": 1196,
+    "shards": 1094,
+    "candy": 8
+  },
+  {
+    "id": 676,
+    "pokeId": 518,
+    "stars": 2,
+    "researchExp": 3562,
+    "shards": 3254,
+    "candy": 10
+  },
+  {
+    "id": 677,
+    "pokeId": 518,
+    "stars": 3,
+    "researchExp": 9286,
+    "shards": 8477,
+    "candy": 13
+  },
+  {
+    "id": 678,
+    "pokeId": 488,
+    "stars": 1,
+    "researchExp": 1058,
+    "shards": 5111,
+    "candy": 11
+  },
+  {
+    "id": 679,
+    "pokeId": 488,
+    "stars": 2,
+    "researchExp": 5275,
+    "shards": 12524,
+    "candy": 13
+  },
+  {
+    "id": 680,
+    "pokeId": 488,
+    "stars": 3,
+    "researchExp": 13944,
+    "shards": 28734,
+    "candy": 16
+  },
+  {
+    "id": 681,
+    "pokeId": 491,
+    "stars": 1,
+    "researchExp": 951,
+    "shards": 4263,
+    "candy": 11
+  },
+  {
+    "id": 682,
+    "pokeId": 491,
+    "stars": 2,
+    "researchExp": 2864,
+    "shards": 6797,
+    "candy": 16
+  },
+  {
+    "id": 683,
+    "pokeId": 491,
+    "stars": 3,
+    "researchExp": 7380,
+    "shards": 15721,
+    "candy": 20
+  },
+  {
+    "id": 684,
+    "pokeId": 440,
+    "stars": 1,
+    "researchExp": 56,
+    "shards": 55,
+    "candy": 4
+  },
+  {
+    "id": 685,
+    "pokeId": 440,
+    "stars": 2,
+    "researchExp": 366,
+    "shards": 337,
+    "candy": 6
+  },
+  {
+    "id": 686,
+    "pokeId": 440,
+    "stars": 3,
+    "researchExp": 2194,
+    "shards": 2005,
+    "candy": 9
+  },
+  {
+    "id": 687,
+    "pokeId": 440,
+    "stars": 4,
+    "researchExp": 3130,
+    "shards": 2860,
+    "candy": 10
+  },
+  {
+    "id": 688,
+    "pokeId": 113,
+    "stars": 1,
+    "researchExp": 686,
+    "shards": 629,
+    "candy": 7
+  },
+  {
+    "id": 689,
+    "pokeId": 113,
+    "stars": 2,
+    "researchExp": 2788,
+    "shards": 2547,
+    "candy": 9
+  },
+  {
+    "id": 690,
+    "pokeId": 113,
+    "stars": 3,
+    "researchExp": 6432,
+    "shards": 5872,
+    "candy": 12
+  },
+  {
+    "id": 691,
+    "pokeId": 113,
+    "stars": 4,
+    "researchExp": 11256,
+    "shards": 10275,
+    "candy": 13
+  },
+  {
+    "id": 692,
+    "pokeId": 242,
+    "stars": 1,
+    "researchExp": 1645,
+    "shards": 1504,
+    "candy": 8
+  },
+  {
+    "id": 693,
+    "pokeId": 242,
+    "stars": 2,
+    "researchExp": 4410,
+    "shards": 4027,
+    "candy": 10
+  },
+  {
+    "id": 694,
+    "pokeId": 242,
+    "stars": 3,
+    "researchExp": 11894,
+    "shards": 10857,
+    "candy": 13
+  },
+  {
+    "id": 695,
+    "pokeId": 242,
+    "stars": 4,
+    "researchExp": 15727,
+    "shards": 14353,
+    "candy": 14
+  },
+  {
+    "id": 696,
+    "pokeId": 198,
+    "stars": 1,
+    "researchExp": 277,
+    "shards": 391,
+    "candy": 7
+  },
+  {
+    "id": 697,
+    "pokeId": 198,
+    "stars": 2,
+    "researchExp": 1386,
+    "shards": 1950,
+    "candy": 9
+  },
+  {
+    "id": 698,
+    "pokeId": 198,
+    "stars": 3,
+    "researchExp": 3443,
+    "shards": 4841,
+    "candy": 12
+  },
+  {
+    "id": 699,
+    "pokeId": 198,
+    "stars": 4,
+    "researchExp": 6035,
+    "shards": 8484,
+    "candy": 13
+  },
+  {
+    "id": 700,
+    "pokeId": 430,
+    "stars": 1,
+    "researchExp": 1789,
+    "shards": 1678,
+    "candy": 8
+  },
+  {
+    "id": 701,
+    "pokeId": 430,
+    "stars": 2,
+    "researchExp": 4608,
+    "shards": 4319,
+    "candy": 10
+  },
+  {
+    "id": 702,
+    "pokeId": 430,
+    "stars": 3,
+    "researchExp": 12219,
+    "shards": 11446,
+    "candy": 13
+  },
+  {
+    "id": 703,
+    "pokeId": 430,
+    "stars": 4,
+    "researchExp": 16323,
+    "shards": 15289,
+    "candy": 14
+  },
+  {
+    "id": 704,
+    "pokeId": 303,
+    "stars": 1,
+    "researchExp": 493,
+    "shards": 974,
+    "candy": 7
+  },
+  {
+    "id": 705,
+    "pokeId": 303,
+    "stars": 2,
+    "researchExp": 2083,
+    "shards": 4113,
+    "candy": 9
+  },
+  {
+    "id": 706,
+    "pokeId": 303,
+    "stars": 3,
+    "researchExp": 7285,
+    "shards": 14388,
+    "candy": 12
+  },
+  {
+    "id": 707,
+    "pokeId": 303,
+    "stars": 4,
+    "researchExp": 8988,
+    "shards": 17749,
+    "candy": 13
+  },
+  {
+    "id": 708,
+    "pokeId": 83,
+    "stars": 1,
+    "researchExp": 553,
+    "shards": 867,
+    "candy": 7
+  },
+  {
+    "id": 709,
+    "pokeId": 83,
+    "stars": 2,
+    "researchExp": 2337,
+    "shards": 3659,
+    "candy": 9
+  },
+  {
+    "id": 710,
+    "pokeId": 83,
+    "stars": 3,
+    "researchExp": 8173,
+    "shards": 12797,
+    "candy": 12
+  },
+  {
+    "id": 711,
+    "pokeId": 83,
+    "stars": 4,
+    "researchExp": 10084,
+    "shards": 15787,
+    "candy": 13
+  },
+  {
+    "id": 712,
+    "pokeId": 252,
+    "stars": 1,
+    "researchExp": 51,
+    "shards": 100,
+    "candy": 4
+  },
+  {
+    "id": 713,
+    "pokeId": 252,
+    "stars": 2,
+    "researchExp": 552,
+    "shards": 1090,
+    "candy": 6
+  },
+  {
+    "id": 714,
+    "pokeId": 252,
+    "stars": 3,
+    "researchExp": 1774,
+    "shards": 3502,
+    "candy": 9
+  },
+  {
+    "id": 715,
+    "pokeId": 252,
+    "stars": 4,
+    "researchExp": 2248,
+    "shards": 4440,
+    "candy": 10
+  },
+  {
+    "id": 716,
+    "pokeId": 253,
+    "stars": 1,
+    "researchExp": 183,
+    "shards": 360,
+    "candy": 6
+  },
+  {
+    "id": 717,
+    "pokeId": 253,
+    "stars": 2,
+    "researchExp": 905,
+    "shards": 1785,
+    "candy": 8
+  },
+  {
+    "id": 718,
+    "pokeId": 253,
+    "stars": 3,
+    "researchExp": 2751,
+    "shards": 5432,
+    "candy": 11
+  },
+  {
+    "id": 719,
+    "pokeId": 253,
+    "stars": 4,
+    "researchExp": 3770,
+    "shards": 7445,
+    "candy": 12
+  },
+  {
+    "id": 720,
+    "pokeId": 254,
+    "stars": 1,
+    "researchExp": 1297,
+    "shards": 2560,
+    "candy": 9
+  },
+  {
+    "id": 721,
+    "pokeId": 254,
+    "stars": 2,
+    "researchExp": 2846,
+    "shards": 5619,
+    "candy": 11
+  },
+  {
+    "id": 722,
+    "pokeId": 254,
+    "stars": 3,
+    "researchExp": 8851,
+    "shards": 17479,
+    "candy": 14
+  },
+  {
+    "id": 723,
+    "pokeId": 254,
+    "stars": 4,
+    "researchExp": 10722,
+    "shards": 21174,
+    "candy": 15
+  },
+  {
+    "id": 724,
+    "pokeId": 255,
+    "stars": 1,
+    "researchExp": 57,
+    "shards": 90,
+    "candy": 4
+  },
+  {
+    "id": 725,
+    "pokeId": 255,
+    "stars": 2,
+    "researchExp": 619,
+    "shards": 970,
+    "candy": 6
+  },
+  {
+    "id": 726,
+    "pokeId": 255,
+    "stars": 3,
+    "researchExp": 1989,
+    "shards": 3116,
+    "candy": 9
+  },
+  {
+    "id": 727,
+    "pokeId": 255,
+    "stars": 4,
+    "researchExp": 2522,
+    "shards": 3950,
+    "candy": 10
+  },
+  {
+    "id": 728,
+    "pokeId": 256,
+    "stars": 1,
+    "researchExp": 204,
+    "shards": 321,
+    "candy": 6
+  },
+  {
+    "id": 729,
+    "pokeId": 256,
+    "stars": 2,
+    "researchExp": 1015,
+    "shards": 1589,
+    "candy": 8
+  },
+  {
+    "id": 730,
+    "pokeId": 256,
+    "stars": 3,
+    "researchExp": 3086,
+    "shards": 4832,
+    "candy": 11
+  },
+  {
+    "id": 731,
+    "pokeId": 256,
+    "stars": 4,
+    "researchExp": 4229,
+    "shards": 6623,
+    "candy": 12
+  },
+  {
+    "id": 732,
+    "pokeId": 257,
+    "stars": 1,
+    "researchExp": 1445,
+    "shards": 2295,
+    "candy": 9
+  },
+  {
+    "id": 733,
+    "pokeId": 257,
+    "stars": 2,
+    "researchExp": 3171,
+    "shards": 5037,
+    "candy": 11
+  },
+  {
+    "id": 734,
+    "pokeId": 257,
+    "stars": 3,
+    "researchExp": 9863,
+    "shards": 15666,
+    "candy": 14
+  },
+  {
+    "id": 735,
+    "pokeId": 257,
+    "stars": 4,
+    "researchExp": 11948,
+    "shards": 18978,
+    "candy": 15
+  },
+  {
+    "id": 736,
+    "pokeId": 258,
+    "stars": 1,
+    "researchExp": 57,
+    "shards": 91,
+    "candy": 4
+  },
+  {
+    "id": 737,
+    "pokeId": 258,
+    "stars": 2,
+    "researchExp": 615,
+    "shards": 978,
+    "candy": 6
+  },
+  {
+    "id": 738,
+    "pokeId": 258,
+    "stars": 3,
+    "researchExp": 1976,
+    "shards": 3140,
+    "candy": 9
+  },
+  {
+    "id": 739,
+    "pokeId": 258,
+    "stars": 4,
+    "researchExp": 2505,
+    "shards": 3980,
+    "candy": 10
+  },
+  {
+    "id": 740,
+    "pokeId": 259,
+    "stars": 1,
+    "researchExp": 203,
+    "shards": 323,
+    "candy": 6
+  },
+  {
+    "id": 741,
+    "pokeId": 259,
+    "stars": 2,
+    "researchExp": 1008,
+    "shards": 1601,
+    "candy": 8
+  },
+  {
+    "id": 742,
+    "pokeId": 259,
+    "stars": 3,
+    "researchExp": 3065,
+    "shards": 4869,
+    "candy": 11
+  },
+  {
+    "id": 743,
+    "pokeId": 259,
+    "stars": 4,
+    "researchExp": 4201,
+    "shards": 6674,
+    "candy": 12
+  },
+  {
+    "id": 744,
+    "pokeId": 260,
+    "stars": 1,
+    "researchExp": 1560,
+    "shards": 2089,
+    "candy": 9
+  },
+  {
+    "id": 745,
+    "pokeId": 260,
+    "stars": 2,
+    "researchExp": 3424,
+    "shards": 4583,
+    "candy": 11
+  },
+  {
+    "id": 746,
+    "pokeId": 260,
+    "stars": 3,
+    "researchExp": 10652,
+    "shards": 14254,
+    "candy": 14
+  },
+  {
+    "id": 747,
+    "pokeId": 260,
+    "stars": 4,
+    "researchExp": 12904,
+    "shards": 17267,
+    "candy": 15
+  },
+  {
+    "id": 748,
+    "pokeId": 312,
+    "stars": 1,
+    "researchExp": 1092,
+    "shards": 1537,
+    "candy": 7
+  },
+  {
+    "id": 749,
+    "pokeId": 312,
+    "stars": 2,
+    "researchExp": 2231,
+    "shards": 3137,
+    "candy": 9
+  },
+  {
+    "id": 750,
+    "pokeId": 312,
+    "stars": 3,
+    "researchExp": 5252,
+    "shards": 7385,
+    "candy": 12
+  },
+  {
+    "id": 751,
+    "pokeId": 312,
+    "stars": 4,
+    "researchExp": 7075,
+    "shards": 9946,
+    "candy": 13
+  },
+  {
+    "id": 752,
+    "pokeId": 311,
+    "stars": 1,
+    "researchExp": 1092,
+    "shards": 1537,
+    "candy": 7
+  },
+  {
+    "id": 753,
+    "pokeId": 311,
+    "stars": 2,
+    "researchExp": 2231,
+    "shards": 3137,
+    "candy": 9
+  },
+  {
+    "id": 754,
+    "pokeId": 311,
+    "stars": 3,
+    "researchExp": 5252,
+    "shards": 7385,
+    "candy": 12
+  },
+  {
+    "id": 755,
+    "pokeId": 311,
+    "stars": 4,
+    "researchExp": 7075,
+    "shards": 9946,
+    "candy": 13
+  },
+  {
+    "id": 756,
+    "pokeId": 848,
+    "stars": 1,
+    "researchExp": 46,
+    "shards": 73,
+    "candy": 4
+  },
+  {
+    "id": 757,
+    "pokeId": 848,
+    "stars": 2,
+    "researchExp": 293,
+    "shards": 466,
+    "candy": 6
+  },
+  {
+    "id": 758,
+    "pokeId": 848,
+    "stars": 3,
+    "researchExp": 1756,
+    "shards": 2790,
+    "candy": 9
+  },
+  {
+    "id": 759,
+    "pokeId": 848,
+    "stars": 4,
+    "researchExp": 2505,
+    "shards": 3980,
+    "candy": 10
+  },
+  {
+    "id": 760,
+    "pokeId": 849,
+    "stars": 1,
+    "researchExp": 1313,
+    "shards": 1847,
+    "candy": 8
+  },
+  {
+    "id": 761,
+    "pokeId": 849,
+    "stars": 2,
+    "researchExp": 3352,
+    "shards": 4713,
+    "candy": 10
+  },
+  {
+    "id": 762,
+    "pokeId": 849,
+    "stars": 3,
+    "researchExp": 9052,
+    "shards": 12726,
+    "candy": 13
+  },
+  {
+    "id": 763,
+    "pokeId": 849,
+    "stars": 4,
+    "researchExp": 11989,
+    "shards": 16855,
+    "candy": 14
+  },
+  {
+    "id": 764,
+    "pokeId": 8001,
+    "stars": 1,
+    "researchExp": 1313,
+    "shards": 1847,
+    "candy": 8
+  },
+  {
+    "id": 765,
+    "pokeId": 8001,
+    "stars": 2,
+    "researchExp": 3352,
+    "shards": 4713,
+    "candy": 10
+  },
+  {
+    "id": 766,
+    "pokeId": 8001,
+    "stars": 3,
+    "researchExp": 9052,
+    "shards": 12726,
+    "candy": 13
+  },
+  {
+    "id": 767,
+    "pokeId": 8001,
+    "stars": 4,
+    "researchExp": 11989,
+    "shards": 16855,
+    "candy": 14
+  },
+  {
+    "id": 768,
+    "pokeId": 177,
+    "stars": 1,
+    "researchExp": 84,
+    "shards": 165,
+    "candy": 4
+  },
+  {
+    "id": 769,
+    "pokeId": 177,
+    "stars": 2,
+    "researchExp": 364,
+    "shards": 718,
+    "candy": 6
+  },
+  {
+    "id": 770,
+    "pokeId": 177,
+    "stars": 3,
+    "researchExp": 1774,
+    "shards": 3502,
+    "candy": 9
+  },
+  {
+    "id": 771,
+    "pokeId": 177,
+    "stars": 4,
+    "researchExp": 2538,
+    "shards": 5010,
+    "candy": 10
+  },
+  {
+    "id": 772,
+    "pokeId": 178,
+    "stars": 1,
+    "researchExp": 514,
+    "shards": 806,
+    "candy": 6
+  },
+  {
+    "id": 773,
+    "pokeId": 178,
+    "stars": 2,
+    "researchExp": 1547,
+    "shards": 2423,
+    "candy": 8
+  },
+  {
+    "id": 774,
+    "pokeId": 178,
+    "stars": 3,
+    "researchExp": 4751,
+    "shards": 7439,
+    "candy": 11
+  },
+  {
+    "id": 775,
+    "pokeId": 178,
+    "stars": 4,
+    "researchExp": 7561,
+    "shards": 11837,
+    "candy": 12
+  },
+  {
+    "id": 776,
+    "pokeId": 710,
+    "stars": 1,
+    "researchExp": 44,
+    "shards": 78,
+    "candy": 4
+  },
+  {
+    "id": 777,
+    "pokeId": 710,
+    "stars": 2,
+    "researchExp": 355,
+    "shards": 637,
+    "candy": 6
+  },
+  {
+    "id": 778,
+    "pokeId": 710,
+    "stars": 3,
+    "researchExp": 1992,
+    "shards": 3577,
+    "candy": 9
+  },
+  {
+    "id": 779,
+    "pokeId": 710,
+    "stars": 4,
+    "researchExp": 2772,
+    "shards": 4977,
+    "candy": 10
+  },
+  {
+    "id": 780,
+    "pokeId": 711,
+    "stars": 1,
+    "researchExp": 891,
+    "shards": 1898,
+    "candy": 8
+  },
+  {
+    "id": 781,
+    "pokeId": 711,
+    "stars": 2,
+    "researchExp": 2457,
+    "shards": 5233,
+    "candy": 10
+  },
+  {
+    "id": 782,
+    "pokeId": 711,
+    "stars": 3,
+    "researchExp": 6631,
+    "shards": 14125,
+    "candy": 13
+  },
+  {
+    "id": 783,
+    "pokeId": 711,
+    "stars": 4,
+    "researchExp": 9098,
+    "shards": 19381,
+    "candy": 14
+  },
+  {
+    "id": 784,
+    "pokeId": 371,
+    "stars": 1,
+    "researchExp": 83,
+    "shards": 130,
+    "candy": 4
+  },
+  {
+    "id": 785,
+    "pokeId": 371,
+    "stars": 2,
+    "researchExp": 379,
+    "shards": 594,
+    "candy": 6
+  },
+  {
+    "id": 786,
+    "pokeId": 371,
+    "stars": 3,
+    "researchExp": 2274,
+    "shards": 3561,
+    "candy": 9
+  },
+  {
+    "id": 787,
+    "pokeId": 371,
+    "stars": 4,
+    "researchExp": 3076,
+    "shards": 4816,
+    "candy": 10
+  },
+  {
+    "id": 788,
+    "pokeId": 372,
+    "stars": 1,
+    "researchExp": 362,
+    "shards": 576,
+    "candy": 6
+  },
+  {
+    "id": 789,
+    "pokeId": 372,
+    "stars": 2,
+    "researchExp": 1157,
+    "shards": 1839,
+    "candy": 8
+  },
+  {
+    "id": 790,
+    "pokeId": 372,
+    "stars": 3,
+    "researchExp": 4480,
+    "shards": 7116,
+    "candy": 11
+  },
+  {
+    "id": 791,
+    "pokeId": 372,
+    "stars": 4,
+    "researchExp": 5955,
+    "shards": 9459,
+    "candy": 12
+  },
+  {
+    "id": 792,
+    "pokeId": 373,
+    "stars": 1,
+    "researchExp": 2545,
+    "shards": 4044,
+    "candy": 9
+  },
+  {
+    "id": 793,
+    "pokeId": 373,
+    "stars": 2,
+    "researchExp": 5924,
+    "shards": 9410,
+    "candy": 11
+  },
+  {
+    "id": 794,
+    "pokeId": 373,
+    "stars": 3,
+    "researchExp": 13820,
+    "shards": 21952,
+    "candy": 14
+  },
+  {
+    "id": 795,
+    "pokeId": 373,
+    "stars": 4,
+    "researchExp": 18476,
+    "shards": 29348,
+    "candy": 15
+  },
+  {
+    "id": 796,
+    "pokeId": 328,
+    "stars": 1,
+    "researchExp": 72,
+    "shards": 114,
+    "candy": 4
+  },
+  {
+    "id": 797,
+    "pokeId": 328,
+    "stars": 2,
+    "researchExp": 349,
+    "shards": 555,
+    "candy": 6
+  },
+  {
+    "id": 798,
+    "pokeId": 328,
+    "stars": 3,
+    "researchExp": 1976,
+    "shards": 3140,
+    "candy": 9
+  },
+  {
+    "id": 799,
+    "pokeId": 328,
+    "stars": 4,
+    "researchExp": 2827,
+    "shards": 4491,
+    "candy": 10
+  },
+  {
+    "id": 800,
+    "pokeId": 329,
+    "stars": 1,
+    "researchExp": 473,
+    "shards": 741,
+    "candy": 6
+  },
+  {
+    "id": 801,
+    "pokeId": 329,
+    "stars": 2,
+    "researchExp": 1400,
+    "shards": 2193,
+    "candy": 8
+  },
+  {
+    "id": 802,
+    "pokeId": 329,
+    "stars": 3,
+    "researchExp": 5002,
+    "shards": 7832,
+    "candy": 11
+  },
+  {
+    "id": 803,
+    "pokeId": 329,
+    "stars": 4,
+    "researchExp": 6738,
+    "shards": 10549,
+    "candy": 12
+  },
+  {
+    "id": 804,
+    "pokeId": 330,
+    "stars": 1,
+    "researchExp": 1765,
+    "shards": 2805,
+    "candy": 9
+  },
+  {
+    "id": 805,
+    "pokeId": 330,
+    "stars": 2,
+    "researchExp": 4130,
+    "shards": 6560,
+    "candy": 11
+  },
+  {
+    "id": 806,
+    "pokeId": 330,
+    "stars": 3,
+    "researchExp": 11876,
+    "shards": 18865,
+    "candy": 14
+  },
+  {
+    "id": 807,
+    "pokeId": 330,
+    "stars": 4,
+    "researchExp": 15331,
+    "shards": 24352,
+    "candy": 15
+  },
+  {
+    "id": 808,
+    "pokeId": 557,
+    "stars": 1,
+    "researchExp": 57,
+    "shards": 91,
+    "candy": 4
+  },
+  {
+    "id": 809,
+    "pokeId": 557,
+    "stars": 2,
+    "researchExp": 321,
+    "shards": 510,
+    "candy": 6
+  },
+  {
+    "id": 810,
+    "pokeId": 557,
+    "stars": 3,
+    "researchExp": 1848,
+    "shards": 2936,
+    "candy": 9
+  },
+  {
+    "id": 811,
+    "pokeId": 557,
+    "stars": 4,
+    "researchExp": 2675,
+    "shards": 4248,
+    "candy": 10
+  },
+  {
+    "id": 812,
+    "pokeId": 558,
+    "stars": 1,
+    "researchExp": 1179,
+    "shards": 1847,
+    "candy": 6
+  },
+  {
+    "id": 813,
+    "pokeId": 558,
+    "stars": 2,
+    "researchExp": 3050,
+    "shards": 4776,
+    "candy": 8
+  },
+  {
+    "id": 814,
+    "pokeId": 558,
+    "stars": 3,
+    "researchExp": 10844,
+    "shards": 16977,
+    "candy": 11
+  },
+  {
+    "id": 815,
+    "pokeId": 558,
+    "stars": 4,
+    "researchExp": 14540,
+    "shards": 22763,
+    "candy": 12
+  },
+  {
+    "id": 816,
+    "pokeId": 442,
+    "stars": 1,
+    "researchExp": 452,
+    "shards": 1049,
+    "candy": 7
+  },
+  {
+    "id": 817,
+    "pokeId": 442,
+    "stars": 2,
+    "researchExp": 1979,
+    "shards": 4602,
+    "candy": 9
+  },
+  {
+    "id": 818,
+    "pokeId": 442,
+    "stars": 3,
+    "researchExp": 7411,
+    "shards": 17238,
+    "candy": 12
+  },
+  {
+    "id": 819,
+    "pokeId": 442,
+    "stars": 4,
+    "researchExp": 8981,
+    "shards": 20891,
+    "candy": 13
+  },
+  {
+    "id": 820,
+    "pokeId": 777,
+    "stars": 1,
+    "researchExp": 553,
+    "shards": 867,
+    "candy": 7
+  },
+  {
+    "id": 821,
+    "pokeId": 777,
+    "stars": 2,
+    "researchExp": 2427,
+    "shards": 3800,
+    "candy": 9
+  },
+  {
+    "id": 822,
+    "pokeId": 777,
+    "stars": 3,
+    "researchExp": 9090,
+    "shards": 14231,
+    "candy": 12
+  },
+  {
+    "id": 823,
+    "pokeId": 777,
+    "stars": 4,
+    "researchExp": 11016,
+    "shards": 17246,
+    "candy": 13
+  },
+  {
+    "id": 824,
+    "pokeId": 974,
+    "stars": 1,
+    "researchExp": 121,
+    "shards": 99,
+    "candy": 4
+  },
+  {
+    "id": 825,
+    "pokeId": 974,
+    "stars": 2,
+    "researchExp": 493,
+    "shards": 390,
+    "candy": 6
+  },
+  {
+    "id": 826,
+    "pokeId": 974,
+    "stars": 3,
+    "researchExp": 2592,
+    "shards": 2036,
+    "candy": 9
+  },
+  {
+    "id": 827,
+    "pokeId": 974,
+    "stars": 4,
+    "researchExp": 3710,
+    "shards": 2911,
+    "candy": 10
+  },
+  {
+    "id": 828,
+    "pokeId": 975,
+    "stars": 1,
+    "researchExp": 1629,
+    "shards": 1281,
+    "candy": 8
+  },
+  {
+    "id": 829,
+    "pokeId": 975,
+    "stars": 2,
+    "researchExp": 4160,
+    "shards": 3264,
+    "candy": 10
+  },
+  {
+    "id": 830,
+    "pokeId": 975,
+    "stars": 3,
+    "researchExp": 11849,
+    "shards": 9290,
+    "candy": 13
+  },
+  {
+    "id": 832,
+    "pokeId": 213,
+    "stars": 1,
+    "researchExp": 452,
+    "shards": 1049,
+    "candy": 7
+  },
+  {
+    "id": 833,
+    "pokeId": 213,
+    "stars": 2,
+    "researchExp": 1979,
+    "shards": 4602,
+    "candy": 9
+  },
+  {
+    "id": 834,
+    "pokeId": 213,
+    "stars": 3,
+    "researchExp": 7411,
+    "shards": 17238,
+    "candy": 12
+  },
+  {
+    "id": 835,
+    "pokeId": 213,
+    "stars": 4,
+    "researchExp": 9309,
+    "shards": 21656,
+    "candy": 13
+  },
+  {
+    "id": 836,
+    "pokeId": 742,
+    "stars": 1,
+    "researchExp": 84,
+    "shards": 165,
+    "candy": 4
+  },
+  {
+    "id": 837,
+    "pokeId": 742,
+    "stars": 2,
+    "researchExp": 364,
+    "shards": 718,
+    "candy": 6
+  },
+  {
+    "id": 838,
+    "pokeId": 742,
+    "stars": 3,
+    "researchExp": 1774,
+    "shards": 3502,
+    "candy": 9
+  },
+  {
+    "id": 839,
+    "pokeId": 742,
+    "stars": 4,
+    "researchExp": 2538,
+    "shards": 5010,
+    "candy": 10
+  },
+  {
+    "id": 840,
+    "pokeId": 743,
+    "stars": 1,
+    "researchExp": 459,
+    "shards": 905,
+    "candy": 6
+  },
+  {
+    "id": 841,
+    "pokeId": 743,
+    "stars": 2,
+    "researchExp": 1379,
+    "shards": 2724,
+    "candy": 8
+  },
+  {
+    "id": 842,
+    "pokeId": 743,
+    "stars": 3,
+    "researchExp": 4459,
+    "shards": 8805,
+    "candy": 11
+  },
+  {
+    "id": 843,
+    "pokeId": 743,
+    "stars": 4,
+    "researchExp": 6740,
+    "shards": 13309,
+    "candy": 12
+  },
+  {
+    "id": 844,
+    "pokeId": 151,
+    "stars": 1,
+    "researchExp": 1885,
+    "shards": 2994,
+    "candy": 11
+  },
+  {
+    "id": 845,
+    "pokeId": 151,
+    "stars": 2,
+    "researchExp": 3720,
+    "shards": 5910,
+    "candy": 13
+  },
+  {
+    "id": 846,
+    "pokeId": 151,
+    "stars": 3,
+    "researchExp": 9028,
+    "shards": 14341,
+    "candy": 16
+  },
+  {
+    "id": 847,
+    "pokeId": 714,
+    "stars": 1,
+    "researchExp": 93,
+    "shards": 148,
+    "candy": 4
+  },
+  {
+    "id": 848,
+    "pokeId": 714,
+    "stars": 2,
+    "researchExp": 405,
+    "shards": 644,
+    "candy": 6
+  },
+  {
+    "id": 849,
+    "pokeId": 714,
+    "stars": 3,
+    "researchExp": 1976,
+    "shards": 3140,
+    "candy": 9
+  },
+  {
+    "id": 850,
+    "pokeId": 714,
+    "stars": 4,
+    "researchExp": 2827,
+    "shards": 4491,
+    "candy": 10
+  },
+  {
+    "id": 851,
+    "pokeId": 715,
+    "stars": 1,
+    "researchExp": 511,
+    "shards": 812,
+    "candy": 6
+  },
+  {
+    "id": 852,
+    "pokeId": 715,
+    "stars": 2,
+    "researchExp": 1537,
+    "shards": 2442,
+    "candy": 8
+  },
+  {
+    "id": 853,
+    "pokeId": 715,
+    "stars": 3,
+    "researchExp": 4969,
+    "shards": 7893,
+    "candy": 11
+  },
+  {
+    "id": 854,
+    "pokeId": 715,
+    "stars": 4,
+    "researchExp": 7510,
+    "shards": 11929,
+    "candy": 12
+  },
+  {
+    "id": 855,
+    "pokeId": 380,
+    "stars": 1,
+    "researchExp": 1038,
+    "shards": 5417,
+    "candy": 11
+  },
+  {
+    "id": 856,
+    "pokeId": 380,
+    "stars": 2,
+    "researchExp": 5209,
+    "shards": 13423,
+    "candy": 13
+  },
+  {
+    "id": 857,
+    "pokeId": 380,
+    "stars": 3,
+    "researchExp": 15309,
+    "shards": 31548,
+    "candy": 16
+  },
+  {
+    "id": 858,
+    "pokeId": 132,
+    "stars": 4,
+    "researchExp": 7091,
+    "shards": 11264,
+    "candy": 13
+  },
+  {
+    "id": 859,
+    "pokeId": 27,
+    "stars": 1,
+    "researchExp": 93,
+    "shards": 148,
+    "candy": 4
+  },
+  {
+    "id": 860,
+    "pokeId": 27,
+    "stars": 2,
+    "researchExp": 405,
+    "shards": 644,
+    "candy": 6
+  },
+  {
+    "id": 861,
+    "pokeId": 27,
+    "stars": 3,
+    "researchExp": 2114,
+    "shards": 3359,
+    "candy": 9
+  },
+  {
+    "id": 862,
+    "pokeId": 27,
+    "stars": 4,
+    "researchExp": 2942,
+    "shards": 4673,
+    "candy": 10
+  },
+  {
+    "id": 863,
+    "pokeId": 28,
+    "stars": 1,
+    "researchExp": 511,
+    "shards": 812,
+    "candy": 6
+  },
+  {
+    "id": 864,
+    "pokeId": 28,
+    "stars": 2,
+    "researchExp": 1537,
+    "shards": 2442,
+    "candy": 8
+  },
+  {
+    "id": 865,
+    "pokeId": 28,
+    "stars": 3,
+    "researchExp": 4969,
+    "shards": 7893,
+    "candy": 11
+  },
+  {
+    "id": 866,
+    "pokeId": 28,
+    "stars": 4,
+    "researchExp": 7953,
+    "shards": 12632,
+    "candy": 12
+  },
+  {
+    "id": 867,
+    "pokeId": 696,
+    "stars": 1,
+    "researchExp": 93,
+    "shards": 148,
+    "candy": 4
+  },
+  {
+    "id": 868,
+    "pokeId": 696,
+    "stars": 2,
+    "researchExp": 405,
+    "shards": 644,
+    "candy": 6
+  },
+  {
+    "id": 869,
+    "pokeId": 696,
+    "stars": 3,
+    "researchExp": 2114,
+    "shards": 3359,
+    "candy": 9
+  },
+  {
+    "id": 870,
+    "pokeId": 696,
+    "stars": 4,
+    "researchExp": 2942,
+    "shards": 4673,
+    "candy": 10
+  },
+  {
+    "id": 871,
+    "pokeId": 697,
+    "stars": 1,
+    "researchExp": 1171,
+    "shards": 1861,
+    "candy": 8
+  },
+  {
+    "id": 872,
+    "pokeId": 697,
+    "stars": 2,
+    "researchExp": 3314,
+    "shards": 5265,
+    "candy": 10
+  },
+  {
+    "id": 873,
+    "pokeId": 697,
+    "stars": 3,
+    "researchExp": 9863,
+    "shards": 15666,
+    "candy": 13
+  },
+  {
+    "id": 874,
+    "pokeId": 780,
+    "stars": 1,
+    "researchExp": 549,
+    "shards": 874,
+    "candy": 7
+  },
+  {
+    "id": 875,
+    "pokeId": 780,
+    "stars": 2,
+    "researchExp": 2410,
+    "shards": 3830,
+    "candy": 9
+  },
+  {
+    "id": 876,
+    "pokeId": 780,
+    "stars": 3,
+    "researchExp": 8563,
+    "shards": 13602,
+    "candy": 12
+  },
+  {
+    "id": 877,
+    "pokeId": 780,
+    "stars": 4,
+    "researchExp": 11948,
+    "shards": 18978,
+    "candy": 13
+  },
+  {
+    "id": 878,
+    "pokeId": 381,
+    "stars": 1,
+    "researchExp": 1038,
+    "shards": 5417,
+    "candy": 11
+  },
+  {
+    "id": 879,
+    "pokeId": 381,
+    "stars": 2,
+    "researchExp": 5209,
+    "shards": 13423,
+    "candy": 13
+  },
+  {
+    "id": 880,
+    "pokeId": 381,
+    "stars": 3,
+    "researchExp": 15309,
+    "shards": 31548,
+    "candy": 16
+  },
+  {
+    "id": 881,
+    "pokeId": 381,
+    "stars": 5,
+    "researchExp": 16134,
+    "shards": 31862,
+    "candy": 25
+  },
+  {
+    "id": 882,
+    "pokeId": 380,
+    "stars": 5,
+    "researchExp": 16134,
+    "shards": 31862,
+    "candy": 25
+  },
+  {
+    "id": 883,
+    "pokeId": 387,
+    "stars": 1,
+    "researchExp": 59,
+    "shards": 86,
+    "candy": 4
+  },
+  {
+    "id": 884,
+    "pokeId": 387,
+    "stars": 2,
+    "researchExp": 645,
+    "shards": 923,
+    "candy": 6
+  },
+  {
+    "id": 885,
+    "pokeId": 387,
+    "stars": 3,
+    "researchExp": 2219,
+    "shards": 3170,
+    "candy": 9
+  },
+  {
+    "id": 886,
+    "pokeId": 387,
+    "stars": 4,
+    "researchExp": 2808,
+    "shards": 4009,
+    "candy": 10
+  },
+  {
+    "id": 887,
+    "pokeId": 388,
+    "stars": 1,
+    "researchExp": 230,
+    "shards": 275,
+    "candy": 6
+  },
+  {
+    "id": 888,
+    "pokeId": 388,
+    "stars": 2,
+    "researchExp": 1142,
+    "shards": 1360,
+    "candy": 8
+  },
+  {
+    "id": 889,
+    "pokeId": 388,
+    "stars": 3,
+    "researchExp": 3693,
+    "shards": 4393,
+    "candy": 11
+  },
+  {
+    "id": 890,
+    "pokeId": 388,
+    "stars": 4,
+    "researchExp": 5072,
+    "shards": 6032,
+    "candy": 12
+  },
+  {
+    "id": 891,
+    "pokeId": 389,
+    "stars": 1,
+    "researchExp": 1638,
+    "shards": 1949,
+    "candy": 9
+  },
+  {
+    "id": 892,
+    "pokeId": 389,
+    "stars": 2,
+    "researchExp": 3595,
+    "shards": 4277,
+    "candy": 11
+  },
+  {
+    "id": 893,
+    "pokeId": 389,
+    "stars": 3,
+    "researchExp": 11593,
+    "shards": 13787,
+    "candy": 14
+  },
+  {
+    "id": 895,
+    "pokeId": 390,
+    "stars": 1,
+    "researchExp": 60,
+    "shards": 85,
+    "candy": 4
+  },
+  {
+    "id": 896,
+    "pokeId": 390,
+    "stars": 2,
+    "researchExp": 650,
+    "shards": 915,
+    "candy": 6
+  },
+  {
+    "id": 897,
+    "pokeId": 390,
+    "stars": 3,
+    "researchExp": 2234,
+    "shards": 3143,
+    "candy": 9
+  },
+  {
+    "id": 898,
+    "pokeId": 390,
+    "stars": 4,
+    "researchExp": 2827,
+    "shards": 3975,
+    "candy": 10
+  },
+  {
+    "id": 899,
+    "pokeId": 391,
+    "stars": 1,
+    "researchExp": 213,
+    "shards": 305,
+    "candy": 6
+  },
+  {
+    "id": 900,
+    "pokeId": 391,
+    "stars": 2,
+    "researchExp": 1058,
+    "shards": 1511,
+    "candy": 8
+  },
+  {
+    "id": 901,
+    "pokeId": 391,
+    "stars": 3,
+    "researchExp": 3419,
+    "shards": 4883,
+    "candy": 11
+  },
+  {
+    "id": 902,
+    "pokeId": 391,
+    "stars": 4,
+    "researchExp": 4696,
+    "shards": 6705,
+    "candy": 12
+  },
+  {
+    "id": 903,
+    "pokeId": 392,
+    "stars": 1,
+    "researchExp": 1527,
+    "shards": 2148,
+    "candy": 9
+  },
+  {
+    "id": 904,
+    "pokeId": 392,
+    "stars": 2,
+    "researchExp": 3352,
+    "shards": 4713,
+    "candy": 11
+  },
+  {
+    "id": 905,
+    "pokeId": 392,
+    "stars": 3,
+    "researchExp": 10808,
+    "shards": 15194,
+    "candy": 14
+  },
+  {
+    "id": 906,
+    "pokeId": 392,
+    "stars": 4,
+    "researchExp": 13301,
+    "shards": 18698,
+    "candy": 15
+  },
+  {
+    "id": 907,
+    "pokeId": 393,
+    "stars": 1,
+    "researchExp": 59,
+    "shards": 86,
+    "candy": 4
+  },
+  {
+    "id": 908,
+    "pokeId": 393,
+    "stars": 2,
+    "researchExp": 645,
+    "shards": 923,
+    "candy": 6
+  },
+  {
+    "id": 909,
+    "pokeId": 393,
+    "stars": 3,
+    "researchExp": 2219,
+    "shards": 3170,
+    "candy": 9
+  },
+  {
+    "id": 910,
+    "pokeId": 393,
+    "stars": 4,
+    "researchExp": 2808,
+    "shards": 4009,
+    "candy": 10
+  },
+  {
+    "id": 911,
+    "pokeId": 394,
+    "stars": 1,
+    "researchExp": 213,
+    "shards": 305,
+    "candy": 6
+  },
+  {
+    "id": 912,
+    "pokeId": 394,
+    "stars": 2,
+    "researchExp": 1058,
+    "shards": 1511,
+    "candy": 8
+  },
+  {
+    "id": 913,
+    "pokeId": 394,
+    "stars": 3,
+    "researchExp": 3419,
+    "shards": 4883,
+    "candy": 11
+  },
+  {
+    "id": 914,
+    "pokeId": 394,
+    "stars": 4,
+    "researchExp": 4696,
+    "shards": 6705,
+    "candy": 12
+  },
+  {
+    "id": 915,
+    "pokeId": 395,
+    "stars": 1,
+    "researchExp": 1517,
+    "shards": 2166,
+    "candy": 9
+  },
+  {
+    "id": 916,
+    "pokeId": 395,
+    "stars": 2,
+    "researchExp": 3329,
+    "shards": 4753,
+    "candy": 11
+  },
+  {
+    "id": 917,
+    "pokeId": 395,
+    "stars": 3,
+    "researchExp": 10735,
+    "shards": 15325,
+    "candy": 14
+  },
+  {
+    "id": 918,
+    "pokeId": 395,
+    "stars": 4,
+    "researchExp": 13211,
+    "shards": 18859,
+    "candy": 15
+  },
+  {
+    "id": 919,
+    "pokeId": 701,
+    "stars": 1,
+    "researchExp": 549,
+    "shards": 874,
+    "candy": 7
+  },
+  {
+    "id": 920,
+    "pokeId": 701,
+    "stars": 2,
+    "researchExp": 2850,
+    "shards": 4528,
+    "candy": 9
+  },
+  {
+    "id": 921,
+    "pokeId": 701,
+    "stars": 3,
+    "researchExp": 10224,
+    "shards": 16240,
+    "candy": 12
+  },
+  {
+    "id": 922,
+    "pokeId": 701,
+    "stars": 4,
+    "researchExp": 13175,
+    "shards": 20928,
+    "candy": 13
+  },
+  {
+    "id": 923,
+    "pokeId": 957,
+    "stars": 1,
+    "researchExp": 75,
+    "shards": 108,
+    "candy": 4
+  },
+  {
+    "id": 924,
+    "pokeId": 957,
+    "stars": 2,
+    "researchExp": 337,
+    "shards": 482,
+    "candy": 6
+  },
+  {
+    "id": 925,
+    "pokeId": 957,
+    "stars": 3,
+    "researchExp": 1940,
+    "shards": 2771,
+    "candy": 9
+  },
+  {
+    "id": 926,
+    "pokeId": 957,
+    "stars": 4,
+    "researchExp": 2969,
+    "shards": 4238,
+    "candy": 10
+  },
+  {
+    "id": 927,
+    "pokeId": 958,
+    "stars": 1,
+    "researchExp": 452,
+    "shards": 648,
+    "candy": 6
+  },
+  {
+    "id": 928,
+    "pokeId": 958,
+    "stars": 2,
+    "researchExp": 1215,
+    "shards": 1736,
+    "candy": 8
+  },
+  {
+    "id": 929,
+    "pokeId": 958,
+    "stars": 3,
+    "researchExp": 4463,
+    "shards": 6372,
+    "candy": 11
+  },
+  {
+    "id": 930,
+    "pokeId": 958,
+    "stars": 4,
+    "researchExp": 5994,
+    "shards": 8557,
+    "candy": 12
+  },
+  {
+    "id": 931,
+    "pokeId": 959,
+    "stars": 1,
+    "researchExp": 1517,
+    "shards": 2166,
+    "candy": 9
+  },
+  {
+    "id": 932,
+    "pokeId": 959,
+    "stars": 2,
+    "researchExp": 3329,
+    "shards": 4753,
+    "candy": 11
+  },
+  {
+    "id": 933,
+    "pokeId": 959,
+    "stars": 3,
+    "researchExp": 10356,
+    "shards": 14784,
+    "candy": 14
+  },
+  {
+    "id": 935,
+    "pokeId": 150,
+    "stars": 1,
+    "researchExp": 1095,
+    "shards": 5717,
+    "candy": 11
+  },
+  {
+    "id": 936,
+    "pokeId": 150,
+    "stars": 2,
+    "researchExp": 5496,
+    "shards": 14164,
+    "candy": 13
+  },
+  {
+    "id": 937,
+    "pokeId": 150,
+    "stars": 3,
+    "researchExp": 15774,
+    "shards": 32506,
+    "candy": 16
+  },
+  {
+    "id": 938,
+    "pokeId": 150,
+    "stars": 5,
+    "researchExp": 15774,
+    "shards": 32506,
+    "candy": 25
+  },
+  {
+    "id": 939,
+    "pokeId": 150,
+    "stars": 5,
+    "researchExp": 16266,
+    "shards": 33519,
+    "candy": 35
+  },
+  {
+    "id": 940,
+    "pokeId": 590,
+    "stars": 1,
+    "researchExp": 116,
+    "shards": 109,
+    "candy": 4
+  },
+  {
+    "id": 941,
+    "pokeId": 590,
+    "stars": 2,
+    "researchExp": 552,
+    "shards": 507,
+    "candy": 6
+  },
+  {
+    "id": 942,
+    "pokeId": 590,
+    "stars": 3,
+    "researchExp": 2641,
+    "shards": 2414,
+    "candy": 9
+  },
+  {
+    "id": 943,
+    "pokeId": 590,
+    "stars": 4,
+    "researchExp": 3818,
+    "shards": 3487,
+    "candy": 10
+  },
+  {
+    "id": 944,
+    "pokeId": 591,
+    "stars": 1,
+    "researchExp": 637,
+    "shards": 585,
+    "candy": 6
+  },
+  {
+    "id": 945,
+    "pokeId": 591,
+    "stars": 2,
+    "researchExp": 2021,
+    "shards": 1847,
+    "candy": 8
+  },
+  {
+    "id": 946,
+    "pokeId": 591,
+    "stars": 3,
+    "researchExp": 6432,
+    "shards": 5872,
+    "candy": 11
+  },
+  {
+    "id": 947,
+    "pokeId": 591,
+    "stars": 4,
+    "researchExp": 10301,
+    "shards": 9403,
+    "candy": 12
+  },
+  {
+    "id": 10001,
+    "pokeId": 9001,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 5
+  },
+  {
+    "id": 10002,
+    "pokeId": 9001,
+    "stars": 2,
+    "researchExp": 82,
+    "shards": 242,
+    "candy": 7
+  },
+  {
+    "id": 10003,
+    "pokeId": 9002,
+    "stars": 1,
+    "researchExp": 11,
+    "shards": 27,
+    "candy": 5
+  },
+  {
+    "id": 10004,
+    "pokeId": 9002,
+    "stars": 2,
+    "researchExp": 82,
+    "shards": 242,
+    "candy": 7
+  },
+  {
+    "id": 10005,
+    "pokeId": 9004,
+    "stars": 1,
+    "researchExp": 27,
+    "shards": 75,
+    "candy": 4
+  },
+  {
+    "id": 10006,
+    "pokeId": 9004,
+    "stars": 2,
+    "researchExp": 228,
+    "shards": 676,
+    "candy": 6
+  },
+  {
+    "id": 10007,
+    "pokeId": 9005,
+    "stars": 1,
+    "researchExp": 27,
+    "shards": 75,
+    "candy": 4
+  },
+  {
+    "id": 10008,
+    "pokeId": 9005,
+    "stars": 2,
+    "researchExp": 228,
+    "shards": 676,
+    "candy": 6
+  },
+  {
+    "id": 10009,
+    "pokeId": 9006,
+    "stars": 1,
+    "researchExp": 27,
+    "shards": 75,
+    "candy": 4
+  },
+  {
+    "id": 10010,
+    "pokeId": 9006,
+    "stars": 2,
+    "researchExp": 228,
+    "shards": 676,
+    "candy": 6
+  },
+  {
+    "id": 10011,
+    "pokeId": 9007,
+    "stars": 1,
+    "researchExp": 67,
+    "shards": 195,
+    "candy": 5
+  },
+  {
+    "id": 948,
+    "pokeId": 200,
+    "stars": 1,
+    "researchExp": 277,
+    "shards": 391,
+    "candy": 7
+  },
+  {
+    "id": 949,
+    "pokeId": 200,
+    "stars": 2,
+    "researchExp": 1558,
+    "shards": 2192,
+    "candy": 9
+  },
+  {
+    "id": 950,
+    "pokeId": 200,
+    "stars": 3,
+    "researchExp": 3830,
+    "shards": 5385,
+    "candy": 12
+  },
+  {
+    "id": 951,
+    "pokeId": 429,
+    "stars": 1,
+    "researchExp": 1361,
+    "shards": 2444,
+    "candy": 8
+  },
+  {
+    "id": 952,
+    "pokeId": 429,
+    "stars": 2,
+    "researchExp": 3892,
+    "shards": 6987,
+    "candy": 10
+  },
+  {
+    "id": 953,
+    "pokeId": 429,
+    "stars": 3,
+    "researchExp": 10687,
+    "shards": 19189,
+    "candy": 13
+  }
+]

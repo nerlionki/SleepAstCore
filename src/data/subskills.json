@@ -1,0 +1,87 @@
+[
+  {
+    "id": "berryS",
+    "name": "树果数量S",
+    "rarity": "gold"
+  },
+  {
+    "id": "sleepExp",
+    "name": "睡眠EXP奖励",
+    "rarity": "gold"
+  },
+  {
+    "id": "helpingBonus",
+    "name": "帮手奖励",
+    "rarity": "gold"
+  },
+  {
+    "id": "researchExp",
+    "name": "研究EXP奖励",
+    "rarity": "gold"
+  },
+  {
+    "id": "shardBonus",
+    "name": "梦之碎片奖励",
+    "rarity": "gold"
+  },
+  {
+    "id": "skillLevelM",
+    "name": "技能等级提升M",
+    "rarity": "gold"
+  },
+  {
+    "id": "energyRecover",
+    "name": "活力回复奖励",
+    "rarity": "gold"
+  },
+  {
+    "id": "helpM",
+    "name": "帮忙速度M",
+    "rarity": "blue"
+  },
+  {
+    "id": "ingM",
+    "name": "食材概率提升M",
+    "rarity": "blue"
+  },
+  {
+    "id": "invL",
+    "name": "持有上限提升L",
+    "rarity": "blue"
+  },
+  {
+    "id": "invM",
+    "name": "持有上限提升M",
+    "rarity": "blue"
+  },
+  {
+    "id": "skillM",
+    "name": "技能概率提升M",
+    "rarity": "blue"
+  },
+  {
+    "id": "skillLevelS",
+    "name": "技能等级提升S",
+    "rarity": "blue"
+  },
+  {
+    "id": "helpS",
+    "name": "帮忙速度S",
+    "rarity": "white"
+  },
+  {
+    "id": "ingS",
+    "name": "食材概率提升S",
+    "rarity": "white"
+  },
+  {
+    "id": "invS",
+    "name": "持有上限提升S",
+    "rarity": "white"
+  },
+  {
+    "id": "skillS",
+    "name": "技能概率提升S",
+    "rarity": "white"
+  }
+]

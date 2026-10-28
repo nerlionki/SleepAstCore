@@ -1,0 +1,491 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-28",
+  "modules": {
+    "activities": {
+      "validateActivityOverridesList0": {
+        "values": [
+          "off",
+          "some",
+          "all"
+        ],
+        "context": "['off', 'some', 'all'].includes"
+      },
+      "parseActivityCatalogList0": {
+        "values": [
+          "schemaVersion",
+          "version",
+          "activities"
+        ],
+        "context": "onlyKeys(value, ['schemaVersion', 'version', 'activities'], '活动配置')"
+      },
+      "parseActivityCatalogList1": {
+        "values": [
+          "target",
+          "effects",
+          "firstResearchOnly"
+        ],
+        "context": "onlyKeys(rule, ['target', 'effects'], '活动规则')"
+      },
+      "parseActivityCatalogList2": {
+        "values": [
+          "islands",
+          "pokemonIds",
+          "types",
+          "specialties"
+        ],
+        "context": "onlyKeys(rule.target, ['islands', 'pokemonIds', 'types', 'specialties'], '活动适用对象')"
+      },
+      "parseActivityCatalogList3": {
+        "values": [
+          "pokemonIds",
+          "types",
+          "specialties"
+        ],
+        "context": "['pokemonIds', 'types', 'specialties'].some"
+      },
+      "parseActivityCatalogList4": {
+        "values": [
+          "id",
+          "name",
+          "source",
+          "priority",
+          "startsOn",
+          "endsOn",
+          "weekdays",
+          "rules",
+          "phases",
+          "stacking",
+          "spawns",
+          "miniCandyBoost",
+          "favoriteBerries"
+        ],
+        "context": "onlyKeys(v, ['id', 'name', 'source', 'priority', 'startsOn', 'endsOn', 'weekdays', 'rules', 'phases'], '活动')"
+      },
+      "parseActivityCatalogList5": {
+        "values": [
+          "startsOn",
+          "endsOn",
+          "weekdays",
+          "rules",
+          "spawns"
+        ],
+        "context": "onlyKeys(p, ['startsOn', 'endsOn', 'weekdays', 'rules'], '活动阶段')"
+      },
+      "activityValuesList0": {
+        "values": [
+          "eventMix",
+          "shinyUp"
+        ],
+        "context": "['eventMix', 'shinyUp'] as const"
+      }
+    },
+    "babyEfficiency": {
+      "validateBabyEfficiencyList0": {
+        "values": [
+          false,
+          true,
+          "off",
+          "some",
+          "all"
+        ],
+        "context": "[false, true, 'off', 'some', 'all'].includes"
+      },
+      "validateBabyEfficiencyList1": {
+        "values": [
+          "low",
+          "medium",
+          "high"
+        ],
+        "context": "['low', 'medium', 'high'].includes"
+      },
+      "babyEfficiencyStepsList0": {
+        "values": [
+          "catch"
+        ],
+        "context": "completion ? ['catch'] : ['catch', 'candy']"
+      },
+      "babyEfficiencyStepsList1": {
+        "values": [
+          "catch",
+          "candy"
+        ],
+        "context": "completion ? ['catch'] : ['catch', 'candy']"
+      },
+      "babyEfficiencyStepsList2": {
+        "values": [
+          100
+        ],
+        "context": "options.splitSleep !== false ? Array.from({ length: Math.floor(99 / step) }, (_, index) => (index + 1) * step) : [100]"
+      }
+    },
+    "boxio": {
+      "subsOfList0": {
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "context": "return ['', '', '', '', '']"
+      },
+      "subsOfList1": {
+        "values": [
+          "10",
+          "25",
+          "50",
+          "75",
+          "100",
+          "0",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "context": "['10', '25', '50', '75', '100', '0', '1', '2', '3', '4']\r\n      .map"
+      },
+      "fromAnyList0": {
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "context": "Array.isArray(o.subskills) ? o.subskills.map(String) : ['', '', '', '', '']"
+      }
+    },
+    "boxOverview": {
+      "criticalOverviewFieldsList0": {
+        "values": [
+          1,
+          30,
+          60
+        ],
+        "context": "[1, 30, 60][Number(field.at(-1))]"
+      }
+    },
+    "defaults": {
+      "mergeSettingsList0": {
+        "values": [
+          "berries",
+          "ingredients",
+          "skills"
+        ],
+        "context": "['berries', 'ingredients', 'skills'].includes"
+      }
+    },
+    "iqdoohBox": {
+      "parseIqdoohEntryList0": {
+        "values": [
+          "skillLevel"
+        ],
+        "context": "missing: OcrMissingField[] = ['skillLevel']"
+      }
+    },
+    "items": {
+      "moduleList0": {
+        "values": [
+          "S",
+          "M",
+          "L"
+        ],
+        "context": "['S', 'M', 'L'].entries"
+      },
+      "moduleList1": {
+        "values": [
+          116,
+          119,
+          120
+        ],
+        "context": "[116, 119, 120].includes"
+      }
+    },
+    "produce": {
+      "produceList0": {
+        "values": [
+          1,
+          2,
+          4,
+          5,
+          7,
+          8
+        ],
+        "context": "[1, 2, 4, 5, 7, 8].includes"
+      },
+      "produceList1": {
+        "values": [
+          "helpIntervalMultiplier",
+          "berryCountBonus",
+          "berryEnergyMultiplier",
+          "ingredientCountBonus",
+          "skillRateMultiplier",
+          "skillLevelBonus",
+          "skillStrengthMultiplier"
+        ],
+        "context": "['helpIntervalMultiplier', 'berryCountBonus', 'berryEnergyMultiplier', 'ingredientCountBonus', 'skillRateMultiplier', 'skillLevelBonus', 'skillStrengthMultiplier'] as const"
+      },
+      "produceList2": {
+        "values": [
+          "helps",
+          "berries",
+          "berryEnergy",
+          "skillProcs",
+          "skillEnergy",
+          "sneaky"
+        ],
+        "context": "['helps', 'berries', 'berryEnergy', 'skillProcs', 'skillEnergy', 'sneaky'] as const"
+      }
+    },
+    "scorePlan": {
+      "validateScoreOptionsList0": {
+        "values": [
+          "curry",
+          "salad",
+          "dessert"
+        ],
+        "context": "['curry', 'salad', 'dessert'].includes"
+      },
+      "validateScoreOptionsList1": {
+        "values": [
+          "medium",
+          "high"
+        ],
+        "context": "['medium', 'high'].includes"
+      },
+      "validateScoreOptionsList2": {
+        "values": [
+          360,
+          720,
+          1080
+        ],
+        "context": "[360, 720, 1080][i]"
+      },
+      "validateScoreOptionsList3": {
+        "values": [
+          720,
+          1080,
+          1440
+        ],
+        "context": "[720, 1080, 1440][i]"
+      },
+      "scoreCandidatesList0": {
+        "values": [
+          "level",
+          "nature",
+          "skillLevel"
+        ],
+        "context": "['level', 'nature', 'skillLevel'].includes"
+      },
+      "scoreCandidatesList1": {
+        "values": [
+          10,
+          25,
+          50,
+          70,
+          80
+        ],
+        "context": "[10, 25, 50, 70, 80][Number(f.at(-1))]"
+      },
+      "scoreTimeList0": {
+        "values": [
+          "周一",
+          "周二",
+          "周三",
+          "周四",
+          "周五",
+          "周六",
+          "周日"
+        ],
+        "context": "['周一', '周二', '周三', '周四', '周五', '周六', '周日'][day]"
+      }
+    },
+    "scoreSearch": {
+      "policyPoolList0": {
+        "values": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "context": "[0, 1, 2, 3][Math.floor(index / 6) % 4]"
+      },
+      "policyPoolList1": {
+        "values": [
+          60,
+          120,
+          240,
+          480
+        ],
+        "context": "[60, 120, 240, 480][index % 4]"
+      },
+      "policyPoolList2": {
+        "values": [
+          40,
+          60,
+          80,
+          99
+        ],
+        "context": "[40, 60, 80, 99][index % 4]"
+      },
+      "scoreSearchStepsList0": {
+        "values": [
+          3,
+          10
+        ],
+        "context": "for (const rollback of [3, 10]) {\n      const alternative = evaluate(request, solution.policy, reviewIterations, rollback)\n      solution.sensitivity.push({ rollback, mean: alterna"
+      }
+    },
+    "scoreSimulation": {
+      "simulateScoreList0": {
+        "values": [
+          "树果型",
+          "全部"
+        ],
+        "context": "['树果型', '全部'].includes"
+      },
+      "simulateScoreList1": {
+        "values": [
+          "技能型",
+          "全部"
+        ],
+        "context": "['技能型', '全部'].includes"
+      }
+    },
+    "scoreSkills": {
+      "scoreSkillList0": {
+        "values": [
+          2,
+          7,
+          15,
+          17
+        ],
+        "context": "food(value('食材'), [2, 7, 15, 17])"
+      },
+      "scoreSkillList1": {
+        "values": [
+          4,
+          10,
+          12,
+          16
+        ],
+        "context": "food(value('食材') * (ctx.random() < 1 / 6 ? 2 : 1), [4, 10, 12, 16])"
+      },
+      "scoreSkillList2": {
+        "values": [
+          18,
+          19,
+          22,
+          35,
+          37,
+          40
+        ],
+        "context": "[18, 19, 22, 35, 37, 40].includes"
+      }
+    },
+    "skillEffects": {
+      "applyMainSkillList0": {
+        "values": [
+          18,
+          19,
+          22,
+          35,
+          37,
+          40
+        ],
+        "context": "[18,19,22,35,37,40].includes"
+      },
+      "applyMainSkillList1": {
+        "values": [
+          2,
+          7,
+          15,
+          17
+        ],
+        "context": "[2,7,15,17].includes"
+      },
+      "applyMainSkillList2": {
+        "values": [
+          4,
+          10,
+          12,
+          16
+        ],
+        "context": "[4,10,12,16].includes"
+      }
+    },
+    "sleep": {
+      "maxEncountersList0": {
+        "values": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "context": "for (const n of [4, 5, 6, 7, 8]) next[n] = energyForCount(island, score, event, n)"
+      }
+    },
+    "sleepRules": {
+      "pokemonSleepWeightList0": {
+        "values": [
+          "small",
+          "mid",
+          "large"
+        ],
+        "context": "['small', 'mid', 'large'] as const"
+      }
+    },
+    "sleepSimulation": {
+      "validResearchOptionsList0": {
+        "values": [
+          10,
+          11
+        ],
+        "context": "[10,11].includes"
+      }
+    },
+    "splitSleep": {
+      "validTargetList0": {
+        "values": [
+          "baby",
+          "style"
+        ],
+        "context": "['baby', 'style'].includes"
+      },
+      "normalizeSplitOptionsList0": {
+        "values": [
+          false,
+          true,
+          "off",
+          "some",
+          "all"
+        ],
+        "context": "[false, true, 'off', 'some', 'all'].includes"
+      },
+      "validateSplitOptionsList0": {
+        "values": [
+          false,
+          true,
+          "off",
+          "some",
+          "all"
+        ],
+        "context": "[false, true, 'off', 'some', 'all'].includes"
+      }
+    },
+    "whistle": {
+      "invalidMemberList0": {
+        "values": [
+          10,
+          25,
+          50,
+          70,
+          80
+        ],
+        "context": "[10, 25, 50, 70, 80][Number(field.at(-1))]"
+      }
+    }
+  }
+}

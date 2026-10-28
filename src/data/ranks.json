@@ -1,0 +1,82 @@
+[
+  {
+    "rank": "普通1",
+    "strength": 0
+  },
+  {
+    "rank": "普通2",
+    "strength": 3118
+  },
+  {
+    "rank": "普通3",
+    "strength": 7171
+  },
+  {
+    "rank": "普通4",
+    "strength": 11693
+  },
+  {
+    "rank": "普通5",
+    "strength": 17149
+  },
+  {
+    "rank": "超级1",
+    "strength": 23385
+  },
+  {
+    "rank": "超级2",
+    "strength": 31492
+  },
+  {
+    "rank": "超级3",
+    "strength": 41314
+  },
+  {
+    "rank": "超级4",
+    "strength": 53006
+  },
+  {
+    "rank": "超级5",
+    "strength": 65634
+  },
+  {
+    "rank": "高级1",
+    "strength": 79197
+  },
+  {
+    "rank": "高级2",
+    "strength": 93540
+  },
+  {
+    "rank": "高级3",
+    "strength": 109130
+  },
+  {
+    "rank": "高级4",
+    "strength": 125032
+  },
+  {
+    "rank": "高级5",
+    "strength": 156121
+  },
+  {
+    "rank": "大师1",
+    "strength": 187832
+  },
+  {
+    "rank": "大师5",
+    "strength": 321146
+  },
+  {
+    "rank": "大师10",
+    "strength": 532707
+  },
+  {
+    "rank": "大师15",
+    "strength": 1199506
+  },
+  {
+    "rank": "大师20",
+    "strength": 3245795
+  }
+]

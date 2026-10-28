@@ -1,0 +1,11 @@
+dist/
+node_modules/
+.env*
+*.pem
+*.key
+*.[mM][dD]
+!AGENTS.md
+*.test.*
+*.spec.*
+tests/
+.tmp/

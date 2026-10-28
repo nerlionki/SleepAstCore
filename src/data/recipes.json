@@ -1,0 +1,1934 @@
+[
+  {
+    "name": "拌拌咖哩",
+    "category": "curry",
+    "pot": 0,
+    "baseEnergy": 0,
+    "bonus": 0,
+    "mix": true,
+    "ingredients": []
+  },
+  {
+    "name": "特選蘋果咖哩",
+    "category": "curry",
+    "pot": 7,
+    "baseEnergy": 748,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "炙燒尾肉咖哩",
+    "category": "curry",
+    "pot": 33,
+    "baseEnergy": 7483,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 14,
+        "name": "美味尾巴",
+        "count": 8
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "name": "太陽之力番茄咖哩",
+    "category": "curry",
+    "pot": 15,
+    "baseEnergy": 2078,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 10
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "絕對睡眠奶油咖哩",
+    "category": "curry",
+    "pot": 55,
+    "baseEnergy": 9010,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 18
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 15
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 12
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "name": "辣味蔥勁十足咖哩",
+    "category": "curry",
+    "pot": 32,
+    "baseEnergy": 5900,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "count": 14
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 10
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "蘑菇孢子咖哩",
+    "category": "curry",
+    "pot": 23,
+    "baseEnergy": 4162,
+    "bonus": 0.2,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 14
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "親子愛咖哩",
+    "category": "curry",
+    "pot": 35,
+    "baseEnergy": 4523,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 12
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 11
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 8
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "吃飽飽起司肉排咖哩",
+    "category": "curry",
+    "pot": 16,
+    "baseEnergy": 1910,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 8
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "窩心白醬濃湯",
+    "category": "curry",
+    "pot": 22,
+    "baseEnergy": 3181,
+    "bonus": 0.2,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 10
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 8
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "單純白醬濃湯",
+    "category": "curry",
+    "pot": 7,
+    "baseEnergy": 814,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "豆製肉排咖哩",
+    "category": "curry",
+    "pot": 7,
+    "baseEnergy": 856,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "寶寶甜蜜咖哩",
+    "category": "curry",
+    "pot": 7,
+    "baseEnergy": 839,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "忍者咖哩",
+    "category": "curry",
+    "pot": 50,
+    "baseEnergy": 9445,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 24
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 9
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "count": 12
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "日照炸肉排咖哩",
+    "category": "curry",
+    "pot": 15,
+    "baseEnergy": 1942,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 10
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "入口即化蛋捲咖哩",
+    "category": "curry",
+    "pot": 16,
+    "baseEnergy": 2150,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 10
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "name": "健美豆子咖哩",
+    "category": "curry",
+    "pot": 26,
+    "baseEnergy": 3372,
+    "bonus": 0.21,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 12
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 6
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 4
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "柔軟玉米濃湯",
+    "category": "curry",
+    "pot": 30,
+    "baseEnergy": 4670,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 14
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 8
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "煉獄玉米乾咖哩",
+    "category": "curry",
+    "pot": 77,
+    "baseEnergy": 13690,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 27
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 24
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 14
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "name": "迷昏拳辣味咖哩",
+    "category": "curry",
+    "pot": 33,
+    "baseEnergy": 5702,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "count": 11
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 11
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "name": "覺醒力量濃湯",
+    "category": "curry",
+    "pot": 92,
+    "baseEnergy": 19061,
+    "bonus": 0.61,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 28
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 25
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 23
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "name": "居合斬壽喜燒咖哩",
+    "category": "curry",
+    "pot": 101,
+    "baseEnergy": 20655,
+    "bonus": 0.61,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "count": 27
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 26
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 26
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "name": "扮演南瓜精濃湯",
+    "category": "curry",
+    "pot": 69,
+    "baseEnergy": 15621,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "count": 10
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 16
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 18
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "name": "茂盛焗烤酪梨",
+    "category": "curry",
+    "pot": 115,
+    "baseEnergy": 24802,
+    "bonus": 0.78,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "count": 22
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 20
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 41
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 32
+      }
+    ]
+  },
+  {
+    "name": "萌綠咖哩麵包",
+    "category": "curry",
+    "pot": 63,
+    "baseEnergy": 10945,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 20
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 20
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 8
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "name": "彈跳咖哩烏龍麵",
+    "category": "curry",
+    "pot": 112,
+    "baseEnergy": 25539,
+    "bonus": 0.78,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 39
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 31
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 22
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "name": "拌拌沙拉",
+    "category": "salad",
+    "pot": 0,
+    "baseEnergy": 0,
+    "bonus": 0,
+    "mix": true,
+    "ingredients": []
+  },
+  {
+    "name": "呆呆獸尾巴的胡椒沙拉",
+    "category": "salad",
+    "pot": 35,
+    "baseEnergy": 8169,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 14,
+        "name": "美味尾巴",
+        "count": 10
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 10
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 15
+      }
+    ]
+  },
+  {
+    "name": "蘑菇孢子沙拉",
+    "category": "salad",
+    "pot": 33,
+    "baseEnergy": 5859,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 17
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 8
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "撥雪凱撒沙拉",
+    "category": "salad",
+    "pot": 16,
+    "baseEnergy": 1898,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 10
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "name": "貪吃鬼洋芋沙拉",
+    "category": "salad",
+    "pot": 36,
+    "baseEnergy": 5040,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 14
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 9
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 7
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "name": "濕潤豆腐沙拉",
+    "category": "salad",
+    "pot": 24,
+    "baseEnergy": 3113,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 15
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "蠻力豪邁沙拉",
+    "category": "salad",
+    "pot": 23,
+    "baseEnergy": 3046,
+    "bonus": 0.2,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 9
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 6
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 5
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "豆製火腿沙拉",
+    "category": "salad",
+    "pot": 8,
+    "baseEnergy": 978,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "好眠番茄沙拉",
+    "category": "salad",
+    "pot": 8,
+    "baseEnergy": 1045,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "哞哞起司番茄沙拉",
+    "category": "salad",
+    "pot": 23,
+    "baseEnergy": 2942,
+    "bonus": 0.21,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 12
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 6
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "心情不定肉沙拉淋巧克力醬",
+    "category": "salad",
+    "pot": 23,
+    "baseEnergy": 3665,
+    "bonus": 0.21,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 14
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "過熱沙拉",
+    "category": "salad",
+    "pot": 35,
+    "baseEnergy": 5225,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 17
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 10
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "特選蘋果沙拉",
+    "category": "salad",
+    "pot": 8,
+    "baseEnergy": 855,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "免疫蔥花沙拉",
+    "category": "salad",
+    "pot": 15,
+    "baseEnergy": 2845,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "count": 10
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "迷人蘋果起司沙拉",
+    "category": "salad",
+    "pot": 23,
+    "baseEnergy": 2655,
+    "bonus": 0.21,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 15
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 5
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "name": "忍者沙拉",
+    "category": "salad",
+    "pot": 57,
+    "baseEnergy": 11659,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "count": 15
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 19
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 12
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "name": "熱風豆腐沙拉",
+    "category": "salad",
+    "pot": 16,
+    "baseEnergy": 2114,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 10
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "name": "萌綠沙拉",
+    "category": "salad",
+    "pot": 62,
+    "baseEnergy": 11393,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 22
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 17
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 14
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "冥想香甜沙拉",
+    "category": "salad",
+    "pot": 49,
+    "baseEnergy": 7675,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 21
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 16
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "name": "亂擊玉米沙拉",
+    "category": "salad",
+    "pot": 17,
+    "baseEnergy": 2785,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 9
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "十字切碎丁沙拉",
+    "category": "salad",
+    "pot": 56,
+    "baseEnergy": 8755,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 20
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 15
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 11
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "name": "不服輸咖啡沙拉",
+    "category": "salad",
+    "pot": 100,
+    "baseEnergy": 20218,
+    "bonus": 0.61,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "count": 28
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 28
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 22
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "name": "落英繽紛含羞草蛋沙拉",
+    "category": "salad",
+    "pot": 69,
+    "baseEnergy": 11881,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 25
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 17
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 15
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "name": "蘋果酸優格沙拉",
+    "category": "salad",
+    "pot": 104,
+    "baseEnergy": 19293,
+    "bonus": 0.78,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 35
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 28
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 23
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "name": "碎裂酪梨沙拉",
+    "category": "salad",
+    "pot": 42,
+    "baseEnergy": 7125,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "count": 14
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 18
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "name": "重踏酪梨醬脆片",
+    "category": "salad",
+    "pot": 105,
+    "baseEnergy": 25162,
+    "bonus": 0.78,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "count": 28
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 25
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "count": 30
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "name": "大塊滿滿熱水沙拉",
+    "category": "salad",
+    "pot": 95,
+    "baseEnergy": 25356,
+    "bonus": 0.61,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "count": 20
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 30
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 18
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 27
+      }
+    ]
+  },
+  {
+    "name": "拌拌果汁",
+    "category": "dessert",
+    "pot": 0,
+    "baseEnergy": 0,
+    "bonus": 0,
+    "mix": true,
+    "ingredients": []
+  },
+  {
+    "name": "熟成甜薯燒",
+    "category": "dessert",
+    "pot": 14,
+    "baseEnergy": 1907,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "count": 9
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "name": "不屈薑餅",
+    "category": "dessert",
+    "pot": 35,
+    "baseEnergy": 4921,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 14
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 12
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 5
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "特選蘋果汁",
+    "category": "dessert",
+    "pot": 8,
+    "baseEnergy": 855,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "手製勁爽汽水",
+    "category": "dessert",
+    "pot": 9,
+    "baseEnergy": 1079,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "火花薑茶",
+    "category": "dessert",
+    "pot": 16,
+    "baseEnergy": 1913,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 9
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "胖丁百匯布丁",
+    "category": "dessert",
+    "pot": 55,
+    "baseEnergy": 7594,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 20
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 15
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 10
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "name": "惡魔之吻水果牛奶",
+    "category": "dessert",
+    "pot": 35,
+    "baseEnergy": 4734,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 11
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 9
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 7
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "祈願蘋果派",
+    "category": "dessert",
+    "pot": 16,
+    "baseEnergy": 1748,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 12
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "橙夢的排毒茶",
+    "category": "dessert",
+    "pot": 35,
+    "baseEnergy": 5065,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 11
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 15
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "甜甜香氣巧克力蛋糕",
+    "category": "dessert",
+    "pot": 24,
+    "baseEnergy": 3378,
+    "bonus": 0.21,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 9
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 8
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "哞哞熱鮮奶",
+    "category": "dessert",
+    "pot": 7,
+    "baseEnergy": 814,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "輕裝豆香蛋糕",
+    "category": "dessert",
+    "pot": 15,
+    "baseEnergy": 1924,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 8
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "活力蛋白飲",
+    "category": "dessert",
+    "pot": 23,
+    "baseEnergy": 3263,
+    "bonus": 0.2,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 15
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "我行我素蔬菜汁",
+    "category": "dessert",
+    "pot": 16,
+    "baseEnergy": 1924,
+    "bonus": 0.19,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 9
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "大馬拉薩達",
+    "category": "dessert",
+    "pot": 23,
+    "baseEnergy": 3015,
+    "bonus": 0.21,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 10
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 7
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "name": "大力士豆香甜甜圈",
+    "category": "dessert",
+    "pot": 35,
+    "baseEnergy": 5547,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 12
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 16
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "大爆炸爆米花",
+    "category": "dessert",
+    "pot": 36,
+    "baseEnergy": 6048,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 15
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 14
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "name": "茶會玉米司康",
+    "category": "dessert",
+    "pot": 67,
+    "baseEnergy": 10925,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 20
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 20
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 18
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "name": "花瓣舞巧克力塔",
+    "category": "dessert",
+    "pot": 22,
+    "baseEnergy": 3314,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 11
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "name": "花之禮馬卡龍",
+    "category": "dessert",
+    "pot": 77,
+    "baseEnergy": 13834,
+    "bonus": 0.48,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 25
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 25
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 17
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "name": "早起咖啡凍",
+    "category": "dessert",
+    "pot": 42,
+    "baseEnergy": 6793,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "count": 16
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 14
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "name": "電光香料可樂",
+    "category": "dessert",
+    "pot": 87,
+    "baseEnergy": 17494,
+    "bonus": 0.61,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "count": 35
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 20
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "count": 20
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "name": "破格玉米香提拉米蘇",
+    "category": "dessert",
+    "pot": 40,
+    "baseEnergy": 7125,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 12
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 14
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "name": "土王閃電泡芙",
+    "category": "dessert",
+    "pot": 102,
+    "baseEnergy": 20885,
+    "bonus": 0.61,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 30
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 26
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "count": 24
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "name": "心跳加速鬼面鬆餅",
+    "category": "dessert",
+    "pot": 103,
+    "baseEnergy": 24354,
+    "bonus": 0.78,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "count": 18
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 24
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 32
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 29
+      }
+    ]
+  },
+  {
+    "name": "青草攪拌器冰沙",
+    "category": "dessert",
+    "pot": 48,
+    "baseEnergy": 8165,
+    "bonus": 0.35,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "count": 18
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 16
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "count": 14
+      }
+    ]
+  },
+  {
+    "name": "採蜜巧克力格子鬆餅",
+    "category": "dessert",
+    "pot": 115,
+    "baseEnergy": 25484,
+    "bonus": 0.78,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "count": 38
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 28
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "count": 28
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "count": 21
+      }
+    ]
+  }
+]

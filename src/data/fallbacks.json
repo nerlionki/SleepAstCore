@@ -1,0 +1,56 @@
+{
+  "greengrass": {
+    "dozing": "绿毛虫",
+    "snoozing": "皮卡丘",
+    "slumbering": "皮丘",
+    "balanced": "皮卡丘"
+  },
+  "cyan": {
+    "dozing": "绿毛虫",
+    "snoozing": "皮卡丘",
+    "slumbering": "宝宝丁",
+    "balanced": "皮卡丘"
+  },
+  "taupe": {
+    "dozing": "阿柏蛇",
+    "snoozing": "小拉达",
+    "slumbering": "小拳石",
+    "balanced": "小拉达"
+  },
+  "snowdrop": {
+    "dozing": "猴怪",
+    "snoozing": "小拉达",
+    "slumbering": "小拳石",
+    "balanced": "小拉达"
+  },
+  "lapis": {
+    "dozing": "阿柏蛇",
+    "snoozing": "皮卡丘",
+    "slumbering": "皮丘",
+    "balanced": "皮卡丘"
+  },
+  "powerplant": {
+    "dozing": "绿毛虫",
+    "snoozing": "皮卡丘",
+    "slumbering": "皮丘",
+    "balanced": "皮卡丘"
+  },
+  "greenex": {
+    "dozing": "绿毛虫",
+    "snoozing": "皮卡丘",
+    "slumbering": "皮丘",
+    "balanced": "皮卡丘"
+  },
+  "cyanex": {
+    "dozing": "绿毛虫",
+    "snoozing": "皮卡丘",
+    "slumbering": "宝宝丁",
+    "balanced": "皮卡丘"
+  },
+  "canyon": {
+    "dozing": "绿毛虫",
+    "snoozing": "皮卡丘",
+    "slumbering": "皮丘",
+    "balanced": "皮卡丘"
+  }
+}

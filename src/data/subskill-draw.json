@@ -1,0 +1,20 @@
+{
+  "status": "research-estimate",
+  "verifiedAt": "2026-10-12",
+  "rarityProbability": {
+    "gold": 0.14,
+    "blue": 0.33,
+    "white": 0.53
+  },
+  "selectionOrder": "rarity-then-uniform-remaining-skill",
+  "allowDuplicateSkills": false,
+  "exhaustedRarityFallback": { "white": "gold" },
+  "friendMedal": {
+    "goldSlotsByTier": [[], [0], [0, 1], [0, 1, 2]],
+    "independentGoldSlotToggleFromTier": 2
+  },
+  "sources": {
+    "probability": "https://pks.raenonx.cc/zh/docs/view/mechanics/subskill-probability",
+    "friendMedal": "https://www.pokemonsleep.net/zh/news/323537323733323635393039363631363937/"
+  }
+}

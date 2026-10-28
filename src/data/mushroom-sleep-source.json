@@ -1,0 +1,194 @@
+{
+  "verifiedAt": "2026-10-06",
+  "conversion": "RAE getDprInfo: computed.regular.reference × 38000",
+  "pokemon": [
+    {
+      "id": 590,
+      "url": "https://pks.raenonx.cc/zh/pokedex/590",
+      "entries": [
+        {
+          "island": "greengrass",
+          "stars": 1,
+          "raeId": 940,
+          "dpr": 2090000,
+          "rankIndex": 5,
+          "settled": true
+        },
+        {
+          "island": "greengrass",
+          "stars": 2,
+          "raeId": 941,
+          "dpr": 9120000,
+          "rankIndex": 9,
+          "settled": true
+        },
+        {
+          "island": "greengrass",
+          "stars": 4,
+          "raeId": 943,
+          "dpr": 49894000,
+          "rankIndex": 10,
+          "settled": true
+        },
+        {
+          "island": "lapis",
+          "stars": 1,
+          "raeId": 940,
+          "dpr": 2090000,
+          "rankIndex": 0,
+          "settled": true
+        },
+        {
+          "island": "lapis",
+          "stars": 2,
+          "raeId": 941,
+          "dpr": 9120000,
+          "rankIndex": 3,
+          "settled": true
+        },
+        {
+          "island": "lapis",
+          "stars": 3,
+          "raeId": 942,
+          "dpr": 38304000,
+          "rankIndex": 9,
+          "settled": true
+        },
+        {
+          "island": "lapis",
+          "stars": 4,
+          "raeId": 943,
+          "dpr": 49894000,
+          "rankIndex": 5,
+          "settled": true
+        },
+        {
+          "island": "canyon",
+          "stars": 1,
+          "raeId": 940,
+          "dpr": 2090000,
+          "rankIndex": 0,
+          "settled": true
+        },
+        {
+          "island": "canyon",
+          "stars": 2,
+          "raeId": 941,
+          "dpr": 9120000,
+          "rankIndex": 1,
+          "settled": true
+        },
+        {
+          "island": "canyon",
+          "stars": 3,
+          "raeId": 942,
+          "dpr": 38304000,
+          "rankIndex": 7,
+          "settled": true
+        },
+        {
+          "island": "canyon",
+          "stars": 4,
+          "raeId": 943,
+          "dpr": 49894000,
+          "rankIndex": 5,
+          "settled": true
+        }
+      ]
+    },
+    {
+      "id": 591,
+      "url": "https://pks.raenonx.cc/zh/pokedex/591",
+      "entries": [
+        {
+          "island": "greengrass",
+          "stars": 1,
+          "raeId": 944,
+          "dpr": 11780000,
+          "rankIndex": 13,
+          "settled": true
+        },
+        {
+          "island": "greengrass",
+          "stars": 2,
+          "raeId": 945,
+          "dpr": 33478000,
+          "rankIndex": 17,
+          "settled": true
+        },
+        {
+          "island": "greengrass",
+          "stars": 4,
+          "raeId": 947,
+          "dpr": 134710000,
+          "rankIndex": 18,
+          "settled": false
+        },
+        {
+          "island": "lapis",
+          "stars": 1,
+          "raeId": 944,
+          "dpr": 11780000,
+          "rankIndex": 7,
+          "settled": true
+        },
+        {
+          "island": "lapis",
+          "stars": 2,
+          "raeId": 945,
+          "dpr": 33478000,
+          "rankIndex": 11,
+          "settled": true
+        },
+        {
+          "island": "lapis",
+          "stars": 3,
+          "raeId": 946,
+          "dpr": 93290000,
+          "rankIndex": 17,
+          "settled": true
+        },
+        {
+          "island": "lapis",
+          "stars": 4,
+          "raeId": 947,
+          "dpr": 134710000,
+          "rankIndex": 12,
+          "settled": false
+        },
+        {
+          "island": "canyon",
+          "stars": 1,
+          "raeId": 944,
+          "dpr": 11780000,
+          "rankIndex": 5,
+          "settled": true
+        },
+        {
+          "island": "canyon",
+          "stars": 2,
+          "raeId": 945,
+          "dpr": 33478000,
+          "rankIndex": 9,
+          "settled": true
+        },
+        {
+          "island": "canyon",
+          "stars": 3,
+          "raeId": 946,
+          "dpr": 93290000,
+          "rankIndex": 15,
+          "settled": true
+        },
+        {
+          "island": "canyon",
+          "stars": 4,
+          "raeId": 947,
+          "dpr": 134710000,
+          "rankIndex": 10,
+          "settled": false
+        }
+      ]
+    }
+  ]
+}

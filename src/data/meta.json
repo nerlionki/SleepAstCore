@@ -1,0 +1,11 @@
+{
+  "version": "2026-10-26",
+  "source": "Sleep游戏资料.md",
+  "pokedex": 251,
+  "recipes": 81,
+  "islands": 9,
+  "sleepStyles": 2789,
+  "mushroomSleepSource": "RAE 普通岛睡姿，2026-10-06 核验",
+  "sleepDprSource": "RAE 各地图参考值；EX2 缺项按 EX1 ×1.0351 估算；5 条普通睡姿保留未核验旧估算；梦妖一家普通岛确定值、萌绿EX用户授权预估参考值于2026-10-26接入",
+  "balanceUpdateSource": "RAE 2026-10-23 核验：耿鬼食材率16.6%；锅容量84/87按用户要求提前用于规划；梦妖一家生产数据经连续3次确认加入计算，普通岛DPR已确定、萌绿EX按用户授权预估，见 rae-misdreavus-source.json"
+}

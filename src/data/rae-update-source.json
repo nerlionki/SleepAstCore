@@ -1,0 +1,121 @@
+{
+  "verifiedAt": "2026-10-23",
+  "gameVersion": "3.9.0",
+  "officialUpdate": "https://www.pokemonsleep.net/zh/news/343535303736323034333837353030303435/",
+  "pokemonRateUpdate": {
+    "id": 94,
+    "source": "https://pks.raenonx.cc/zh/pokedex/94",
+    "ingredientRateBefore": 0.161,
+    "ingredientRate": 0.166,
+    "skillRate": 0.024,
+    "raeSettled": true
+  },
+  "potUpdate": {
+    "source": "https://pks.raenonx.cc/zh/cooking/pot",
+    "officialDisplayedAvailableFrom": "2026-11-08 19:00",
+    "sleepStylesRequired": 570,
+    "planningAvailableNow": true,
+    "planningPolicy": "用户确认提前提供84、87档用于规划；此处日期沿用官方繁中公告展示时间。",
+    "tiers": [
+      {
+        "pot": 84,
+        "shards": 1450000,
+        "cumulativeShards": 6530600
+      },
+      {
+        "pot": 87,
+        "shards": 1750000,
+        "cumulativeShards": 8280600
+      }
+    ]
+  },
+  "pendingPokemon": [
+    {
+      "raeId": "200",
+      "name": "梦妖",
+      "source": "https://pks.raenonx.cc/zh/pokedex/200",
+      "status": "active-with-estimated-ex-dpr",
+      "userPolicy": "生产及睡姿计算已启用；普通岛DPR确定，萌绿EX按用户授权采用RAE预估参考值。",
+      "officialAnnouncement": "https://www.pokemonsleep.net/zh/news/343532353938363734303738333032323133/",
+      "officialDisplayedAvailableFrom": "2026-10-26 15:00",
+      "type": "幽灵",
+      "sleepType": "淺淺入夢",
+      "islands": [
+        "greengrass",
+        "snowdrop",
+        "powerplant",
+        "greenex"
+      ],
+      "baseCarry": 13,
+      "friendshipPoints": 16,
+      "evolvesTo": 429,
+      "evolutionCandy": 80,
+      "raeEvolutionItemId": 102,
+      "candyRefId": 238,
+      "missing": [],
+      "currentSource": "rae-misdreavus-source.json"
+    },
+    {
+      "raeId": "429",
+      "name": "梦妖魔",
+      "source": "https://pks.raenonx.cc/zh/pokedex/429",
+      "status": "active-with-estimated-ex-dpr",
+      "userPolicy": "生产及睡姿计算已启用；普通岛DPR确定，萌绿EX按用户授权采用RAE预估参考值。",
+      "officialAnnouncement": "https://www.pokemonsleep.net/zh/news/343532353938363734303738333032323133/",
+      "officialDisplayedAvailableFrom": "2026-10-26 15:00",
+      "type": "幽灵",
+      "sleepType": "淺淺入夢",
+      "islands": [
+        "greengrass",
+        "snowdrop",
+        "powerplant",
+        "greenex"
+      ],
+      "baseCarry": 17,
+      "friendshipPoints": 20,
+      "evolvesFrom": 200,
+      "candyRefId": 238,
+      "announcedMainSkill": "魔法火焰（料理跃进S）",
+      "missing": [],
+      "currentSource": "rae-misdreavus-source.json"
+    },
+    {
+      "raeId": "9005-2",
+      "name": "伊布（万圣节）（紫色）",
+      "source": "https://pks.raenonx.cc/zh/pokedex/9005-2",
+      "status": "metadata-only-incomplete-data",
+      "basePokedexId": 133,
+      "baseCarry": 18,
+      "friendshipPoints": 5,
+      "missing": [
+        "serverSideData",
+        "helpFrequencyBaseSec",
+        "specialty",
+        "ingredients",
+        "mainSkillId",
+        "settledIngredientRate",
+        "settledSkillRate"
+      ]
+    }
+  ],
+  "announcedOnly": [
+    {
+      "name": "一口坚果与使用它的3道料理",
+      "officialDisplayedAvailableFrom": "2026-11-15 19:00",
+      "policy": "RAE当前食材页仅19种；未取得可核实的数值，不写入正式食材与料理表"
+    }
+  ],
+  "audit": {
+    "existingPokemonChecked": 249,
+    "fetchErrors": 0,
+    "settledRateDifferences": [
+      94
+    ],
+    "staticMetadataDifferences": "仅RAE中颗南瓜精、南瓜怪人的进化引用从710-1/711-1改为710/711；项目本就使用710/711，无需改动。其余既有基础字段对比无差异。",
+    "unsettledExistingRateIds": [
+      "9001"
+    ],
+    "unsettledPolicy": "保留项目既有已核验数值，不覆盖为20%食材率、0%技能率等占位值；不将未核实值当作更新。",
+    "pikachuPurple": "RAE 9001-2 的帮速、食材池、食材率21.8%、技能率2.8%与项目万圣节皮卡丘一致；不重复创建独立产量条目。"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-27",
+  "modules": {
+    "activities": {
+      "ACTIVITY_FIELDS": {
+        "helpIntervalMultiplier": {
+          "label": "帮忙间隔倍率",
+          "kind": "multiply",
+          "min": 0.01
+        },
+        "berryCountBonus": {
+          "label": "每次帮忙额外树果",
+          "kind": "add",
+          "min": 0
+        },
+        "berryEnergyMultiplier": {
+          "label": "树果能量倍率",
+          "kind": "multiply",
+          "min": 0
+        },
+        "ingredientCountBonus": {
+          "label": "每次食材帮忙额外食材",
+          "kind": "add",
+          "min": 0
+        },
+        "skillRateMultiplier": {
+          "label": "技能触发率倍率",
+          "kind": "multiply",
+          "min": 0
+        },
+        "skillLevelBonus": {
+          "label": "临时主技能等级",
+          "kind": "add",
+          "min": 0
+        },
+        "skillStrengthMultiplier": {
+          "label": "主技能直接能量倍率",
+          "kind": "multiply",
+          "min": 0
+        },
+        "potSizeMultiplier": {
+          "label": "料理锅容量倍率",
+          "kind": "multiply",
+          "min": 0.01
+        },
+        "cookingEnergyMultiplier": {
+          "label": "料理能量倍率",
+          "kind": "multiply",
+          "min": 0
+        },
+        "cookingCritBonus": {
+          "label": "料理大成功率加成（0.1 = 10%）",
+          "kind": "add",
+          "min": 0
+        },
+        "cookingCritMultiplier": {
+          "label": "料理大成功能量倍率修正",
+          "kind": "multiply",
+          "min": 0.01
+        },
+        "drowsyPowerMultiplier": {
+          "label": "睡意之力倍率",
+          "kind": "multiply",
+          "min": 0.01
+        },
+        "researchExpMultiplier": {
+          "label": "研究 EXP 倍率",
+          "kind": "multiply",
+          "min": 0
+        },
+        "dreamShardsMultiplier": {
+          "label": "研究梦之碎片倍率",
+          "kind": "multiply",
+          "min": 0
+        },
+        "researchCandyMultiplier": {
+          "label": "研究糖果倍率",
+          "kind": "multiply",
+          "min": 0
+        },
+        "sleepExpMultiplier": {
+          "label": "睡眠 EXP 倍率",
+          "kind": "multiply",
+          "min": 0
+        },
+        "candyExpMultiplier": {
+          "label": "喂糖 EXP 倍率",
+          "kind": "multiply",
+          "min": 0.01
+        },
+        "candyShardMultiplier": {
+          "label": "喂糖梦之碎片倍率",
+          "kind": "multiply",
+          "min": 0
+        },
+        "encounterWeightMultiplier": {
+          "label": "出没权重倍率（模拟参数）",
+          "kind": "multiply",
+          "min": 0
+        }
+      },
+      "memberFields": [
+        "helpIntervalMultiplier",
+        "berryCountBonus",
+        "berryEnergyMultiplier",
+        "ingredientCountBonus",
+        "skillRateMultiplier",
+        "skillLevelBonus",
+        "skillStrengthMultiplier",
+        "researchExpMultiplier",
+        "dreamShardsMultiplier",
+        "researchCandyMultiplier",
+        "sleepExpMultiplier",
+        "candyExpMultiplier",
+        "candyShardMultiplier",
+        "encounterWeightMultiplier"
+      ]
+    }
+  }
+}

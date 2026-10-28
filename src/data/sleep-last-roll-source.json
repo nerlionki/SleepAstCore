@@ -1,0 +1,56 @@
+{
+  "verifiedAt": "2026-10-14",
+  "status": "user-approved-full-RAE-snapshot",
+  "source": "https://pks.raenonx.cc/en/sleepdex/lookup",
+  "sourceControl": "Non-Regular Sleep Styles > Show Last Roll Excl.",
+  "visibleSourceStyles": 943,
+  "excludedSourceStyles": 145,
+  "projectOrdinaryStylesAffected": 131,
+  "projectMapRowsAffected": 598,
+  "scope": "RAE UI snapshot; not official confirmation; user approved full snapshot on 2026-10-14",
+  "tieBreakRule": {
+    "approvedAt": "2026-10-15",
+    "basis": "User-confirmed model: equal DPR prefers smaller SPO ID, then lower unlock rank, then smaller internal sleep-style ID. This precedence is not presented as officially confirmed game behavior.",
+    "spoIdSource": "sleep-dpr-source.json entries[].spoId, projected into sleep-styles.json without changing DPR values"
+  },
+  "conflictingSource": "https://wikiwiki.jp/poke_sleep/睡眠リサーチ/ねむけパワー/寝顔出現の法則",
+  "conflict": "Wiki suggests other added Pokemon now enter the last-roll pool; current RAE explicitly marks many recent styles as excluded. Exact rare-entry probabilities are not established by the RAE UI.",
+  "excludedInternalIds": [
+    211,212,213,322,323,324,325,326,327,371,
+    436,437,438,439,440,441,442,443,444,445,446,447,
+    512,513,514,527,528,529,578,579,580,623,
+    678,679,680,681,682,683,844,845,846,
+    847,848,849,850,851,852,853,854,855,856,857,858,
+    859,860,861,862,863,864,865,866,867,868,869,870,
+    871,872,873,874,875,876,877,878,879,880,881,882,
+    883,884,885,886,887,888,889,890,891,892,893,
+    895,896,897,898,899,900,901,902,903,904,905,906,
+    907,908,909,910,911,912,913,914,915,916,917,918,
+    919,920,921,922,923,924,925,926,927,928,929,930,
+    931,932,933,935,936,937,938,939,940,941,942,943,
+    944,945,946,947,10007,10008,10009,10010,10011
+  ],
+  "affectedProjectRowsByIsland": {
+    "greengrass": 100,
+    "cyan": 48,
+    "taupe": 66,
+    "snowdrop": 32,
+    "lapis": 56,
+    "powerplant": 32,
+    "canyon": 73,
+    "greenex": 128,
+    "cyanex": 63
+  },
+  "implementedIntegration": [
+    "Map the source internal IDs using sleepStyleInternalId, rather than generated per-island row IDs.",
+    "Filter excluded styles only from terminal maximum selection; retain ordinary-draw weights and existing exhausted-budget behavior.",
+    "Update both selectSleepStyle and createSleepSelector consistently.",
+    "Preserve exclusion eligibility in babyEfficiency grouping and bucket keys so excluded and eligible candidates cannot merge.",
+    "Use the same shared source for App and WeChat; do not change DPR, event weights or panel defaults."
+  ],
+  "terminalFallback": [
+    "If no eligible terminal style is affordable, use the minimum-DPR eligible style with the SPO ID/rank/internal-ID tie order.",
+    "If no terminal-eligible style remains at all, return undefined and let the caller apply its existing fallback.",
+    "Old sleep and efficiency checkpoints are rejected with version 4 so pre-change results cannot be mixed into resumed simulations."
+  ]
+}

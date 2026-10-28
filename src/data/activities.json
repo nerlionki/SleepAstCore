@@ -1,0 +1,1702 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-28",
+  "activities": [
+    {
+      "id": "good-sleep-day-40",
+      "name": "第40次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/343532363635313734343730343236363331/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-10-25",
+      "endsOn": "2026-10-28",
+      "rules": [],
+      "phases": [
+        {
+          "startsOn": "2026-10-25",
+          "endsOn": "2026-10-26",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-10-26",
+          "endsOn": "2026-10-27",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 4,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-10-27",
+          "endsOn": "2026-10-28",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "halloween-2026",
+      "name": "万圣节2026：糖果倍增研究",
+      "source": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-10-26",
+      "endsOn": "2026-11-02",
+      "rules": [
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ]
+          },
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "types": [
+              "幽灵"
+            ]
+          },
+          "effects": {
+            "ingredientCountBonus": 1,
+            "skillRateMultiplier": 1.25,
+            "skillLevelBonus": 3
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "pokemonIds": [
+              9005,
+              200,
+              429
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "pokemonIds": [
+              9001
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 6
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "pokemonIds": [
+              92,
+              93,
+              94,
+              353,
+              354,
+              425,
+              426,
+              710,
+              71002,
+              71003,
+              71004,
+              711,
+              71102,
+              71103,
+              71104,
+              778,
+              911
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-10-26",
+          "endsOn": "2026-10-31",
+          "rules": [
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ]
+              },
+              "effects": {
+                "researchCandyMultiplier": 2
+              },
+              "firstResearchOnly": true
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-10-31",
+          "endsOn": "2026-11-02",
+          "rules": [
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ]
+              },
+              "effects": {
+                "researchCandyMultiplier": 3
+              },
+              "firstResearchOnly": true
+            }
+          ]
+        }
+      ],
+      "spawns": [
+        {
+          "id": 200010130,
+          "pokeId": 92,
+          "name": "鬼斯",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 1,
+          "styleName": "笑嘻嘻睡",
+          "dpr": 2052000,
+          "spoId": 1,
+          "dprSource": "RAE pokedex/92 event/709, sleepStyle 130, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010131,
+          "pokeId": 92,
+          "name": "鬼斯",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 2,
+          "styleName": "氣體飄飄睡",
+          "dpr": 16112000,
+          "spoId": 10,
+          "dprSource": "RAE pokedex/92 event/709, sleepStyle 131, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010132,
+          "pokeId": 92,
+          "name": "鬼斯",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 3,
+          "styleName": "做鬼臉睡",
+          "dpr": 37810000,
+          "spoId": 24,
+          "dprSource": "RAE pokedex/92 event/709, sleepStyle 132, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 200010133,
+          "pokeId": 93,
+          "name": "鬼斯通",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 1,
+          "styleName": "歪頭睡",
+          "dpr": 16112000,
+          "spoId": 10,
+          "dprSource": "RAE pokedex/93 event/709, sleepStyle 133, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010134,
+          "pokeId": 93,
+          "name": "鬼斯通",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 2,
+          "styleName": "氣體飄飄睡",
+          "dpr": 34618000,
+          "spoId": 20,
+          "dprSource": "RAE pokedex/93 event/709, sleepStyle 134, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 5
+        },
+        {
+          "id": 200010135,
+          "pokeId": 93,
+          "name": "鬼斯通",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 3,
+          "styleName": "做鬼臉睡",
+          "dpr": 68134000,
+          "spoId": 34,
+          "dprSource": "RAE pokedex/93 event/709, sleepStyle 135, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 8
+        },
+        {
+          "id": 200010202,
+          "pokeId": 94,
+          "name": "耿鬼",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 1,
+          "styleName": "惡作劇睡",
+          "dpr": 58634000,
+          "spoId": 32,
+          "dprSource": "RAE pokedex/94 event/709, sleepStyle 202, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 8
+        },
+        {
+          "id": 200010203,
+          "pokeId": 94,
+          "name": "耿鬼",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 2,
+          "styleName": "咧嘴笑睡",
+          "dpr": 100130000,
+          "spoId": 42,
+          "dprSource": "RAE pokedex/94 event/709, sleepStyle 203, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 10
+        },
+        {
+          "id": 200010204,
+          "pokeId": 94,
+          "name": "耿鬼",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 3,
+          "styleName": "做鬼臉睡",
+          "dpr": 185858000,
+          "spoId": 56,
+          "dprSource": "RAE pokedex/94 event/709, sleepStyle 204, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 15
+        },
+        {
+          "id": 200010366,
+          "pokeId": 94,
+          "name": "耿鬼",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 221426000,
+          "spoId": 60,
+          "dprSource": "RAE pokedex/94 event/709, sleepStyle 366, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 16
+        },
+        {
+          "id": 100010202,
+          "pokeId": 94,
+          "name": "耿鬼",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 1,
+          "styleName": "惡作劇睡",
+          "dpr": 14326000,
+          "spoId": 32,
+          "dprSource": "RAE pokedex/94 event/709, sleepStyle 202, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 18
+        },
+        {
+          "id": 100010203,
+          "pokeId": 94,
+          "name": "耿鬼",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 2,
+          "styleName": "咧嘴笑睡",
+          "dpr": 28766000,
+          "spoId": 42,
+          "dprSource": "RAE pokedex/94 event/709, sleepStyle 203, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 22
+        },
+        {
+          "id": 100010366,
+          "pokeId": 94,
+          "name": "耿鬼",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 77102000,
+          "spoId": 60,
+          "dprSource": "RAE pokedex/94 event/709, sleepStyle 366, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 23
+        },
+        {
+          "id": 100010620,
+          "pokeId": 426,
+          "name": "隨風球",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 1,
+          "styleName": "大旋轉睡",
+          "dpr": 62776000,
+          "spoId": 56,
+          "dprSource": "RAE pokedex/426 event/709, sleepStyle 620, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 18
+        },
+        {
+          "id": 100010621,
+          "pokeId": 426,
+          "name": "隨風球",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 2,
+          "styleName": "飄浮睡",
+          "dpr": 77102000,
+          "spoId": 60,
+          "dprSource": "RAE pokedex/426 event/709, sleepStyle 621, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 22
+        },
+        {
+          "id": 100010554,
+          "pokeId": 911,
+          "name": "骨紋巨聲鱷",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 1,
+          "styleName": "單眼睡",
+          "dpr": 27132000,
+          "spoId": 41,
+          "dprSource": "RAE pokedex/911 event/709, sleepStyle 554, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 21
+        },
+        {
+          "id": 100010555,
+          "pokeId": 911,
+          "name": "骨紋巨聲鱷",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 2,
+          "styleName": "撐地睡",
+          "dpr": 52706000,
+          "spoId": 53,
+          "dprSource": "RAE pokedex/911 event/709, sleepStyle 555, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 25
+        },
+        {
+          "id": 100010557,
+          "pokeId": 911,
+          "name": "骨紋巨聲鱷",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 163742000,
+          "spoId": 75,
+          "dprSource": "RAE pokedex/911 event/709, sleepStyle 557, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 26
+        },
+        {
+          "id": 200020001,
+          "pokeId": 9001,
+          "name": "皮卡丘（萬聖節）",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 1,
+          "styleName": "窩起來睡",
+          "dpr": 2052000,
+          "spoId": 1,
+          "dprSource": "RAE pokedex/9001 event/709, sleepStyle 10001, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200020002,
+          "pokeId": 9001,
+          "name": "皮卡丘（萬聖節）",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 2,
+          "styleName": "垂耳睡",
+          "dpr": 17556000,
+          "spoId": 11,
+          "dprSource": "RAE pokedex/9001 event/709, sleepStyle 10002, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 4
+        },
+        {
+          "id": 100020001,
+          "pokeId": 9001,
+          "name": "皮卡丘（萬聖節）",
+          "island": "greengrass",
+          "sleepType": "安然入睡",
+          "stars": 1,
+          "styleName": "窩起來睡",
+          "dpr": 76000,
+          "spoId": 1,
+          "dprSource": "RAE pokedex/9001 event/709, sleepStyle 10001, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 2
+        },
+        {
+          "id": 100020002,
+          "pokeId": 9001,
+          "name": "皮卡丘（萬聖節）",
+          "island": "greengrass",
+          "sleepType": "安然入睡",
+          "stars": 2,
+          "styleName": "垂耳睡",
+          "dpr": 2280000,
+          "spoId": 11,
+          "dprSource": "RAE pokedex/9001 event/709, sleepStyle 10002, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 200020007,
+          "pokeId": 9005,
+          "name": "伊布（萬聖節）",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 1,
+          "styleName": "窩起來睡",
+          "dpr": 7334000,
+          "spoId": 5,
+          "dprSource": "RAE pokedex/9005 event/709, sleepStyle 10007, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200020008,
+          "pokeId": 9005,
+          "name": "伊布（萬聖節）",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 2,
+          "styleName": "垂耳睡",
+          "dpr": 37810000,
+          "spoId": 22,
+          "dprSource": "RAE pokedex/9005 event/709, sleepStyle 10008, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 5
+        },
+        {
+          "id": 100020007,
+          "pokeId": 9005,
+          "name": "伊布（萬聖節）",
+          "island": "greengrass",
+          "sleepType": "安然入睡",
+          "stars": 1,
+          "styleName": "窩起來睡",
+          "dpr": 760000,
+          "spoId": 5,
+          "dprSource": "RAE pokedex/9005 event/709, sleepStyle 10007, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 2
+        },
+        {
+          "id": 100020008,
+          "pokeId": 9005,
+          "name": "伊布（萬聖節）",
+          "island": "greengrass",
+          "sleepType": "安然入睡",
+          "stars": 2,
+          "styleName": "垂耳睡",
+          "dpr": 6574000,
+          "spoId": 22,
+          "dprSource": "RAE pokedex/9005 event/709, sleepStyle 10008, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 6
+        }
+      ],
+      "favoriteBerries": {
+        "greengrass": "墨莓果",
+        "greenex": "墨莓果"
+      }
+    },
+    {
+      "id": "meal-prep-vol1-2026",
+      "name": "备料周vol.1",
+      "source": "https://www.pokemonsleep.net/zh/news/343537333139333632303937383430313332/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-11-09",
+      "endsOn": "2026-11-16",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some",
+            "cookingEnergyMultiplier": 1.25
+          }
+        },
+        {
+          "target": {
+            "pokemonIds": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              27,
+              28,
+              50,
+              51,
+              69,
+              70,
+              71,
+              74,
+              75,
+              76,
+              83,
+              92,
+              93,
+              94,
+              113,
+              115,
+              122,
+              127,
+              132,
+              147,
+              148,
+              149,
+              194,
+              195,
+              198,
+              225,
+              242,
+              246,
+              247,
+              248,
+              303,
+              304,
+              305,
+              306,
+              328,
+              329,
+              330,
+              359,
+              403,
+              404,
+              405,
+              430,
+              439,
+              440,
+              442,
+              453,
+              454,
+              459,
+              460,
+              557,
+              558,
+              701,
+              710,
+              71002,
+              71003,
+              71004,
+              711,
+              71102,
+              71103,
+              71104,
+              736,
+              737,
+              738,
+              742,
+              743,
+              759,
+              760,
+              764,
+              780,
+              845,
+              906,
+              907,
+              908,
+              909,
+              910,
+              911,
+              912,
+              913,
+              914,
+              974,
+              975,
+              980,
+              7054,
+              590,
+              591
+            ]
+          },
+          "effects": {
+            "researchCandyMultiplier": 1.5,
+            "dreamShardsMultiplier": 1.5
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass"
+            ],
+            "pokemonIds": [
+              27,
+              28,
+              50,
+              51,
+              69,
+              70,
+              71,
+              74,
+              75,
+              113,
+              115,
+              132,
+              198,
+              225,
+              242,
+              246,
+              303,
+              328,
+              403,
+              430,
+              439,
+              440,
+              459,
+              557,
+              701,
+              710,
+              71002,
+              71003,
+              71004,
+              711,
+              71102,
+              71103,
+              71104,
+              742,
+              743,
+              759,
+              764,
+              780,
+              912
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "cyan"
+            ],
+            "pokemonIds": [
+              69,
+              115,
+              122,
+              132,
+              439,
+              701,
+              742,
+              743,
+              764
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "taupe"
+            ],
+            "pokemonIds": [
+              27,
+              28,
+              50,
+              51,
+              74,
+              75,
+              76,
+              132,
+              246,
+              247,
+              248,
+              328,
+              329,
+              330
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "snowdrop"
+            ],
+            "pokemonIds": [
+              113,
+              132,
+              198,
+              225,
+              242,
+              430,
+              440,
+              459,
+              460
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "lapis"
+            ],
+            "pokemonIds": [
+              69,
+              70,
+              71,
+              132,
+              701,
+              759,
+              760,
+              780,
+              912,
+              913,
+              914
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "powerplant"
+            ],
+            "pokemonIds": [
+              132,
+              198,
+              303,
+              403,
+              404,
+              405,
+              430,
+              710,
+              71002,
+              71003,
+              71004,
+              711,
+              71102,
+              71103,
+              71104
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "canyon"
+            ],
+            "pokemonIds": [
+              27,
+              28,
+              113,
+              132,
+              242,
+              246,
+              303,
+              328,
+              329,
+              330,
+              440,
+              557,
+              558,
+              780
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greenex"
+            ],
+            "pokemonIds": [
+              27,
+              28,
+              50,
+              69,
+              74,
+              113,
+              115,
+              132,
+              198,
+              225,
+              242,
+              246,
+              247,
+              248,
+              303,
+              328,
+              403,
+              430,
+              439,
+              440,
+              459,
+              460,
+              557,
+              701,
+              710,
+              71002,
+              71003,
+              71004,
+              711,
+              71102,
+              71103,
+              71104,
+              742,
+              743,
+              759,
+              764,
+              780,
+              912,
+              913,
+              914
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "cyanex"
+            ],
+            "pokemonIds": [
+              113,
+              132,
+              242,
+              440,
+              701,
+              742,
+              743,
+              764,
+              780
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 4
+          }
+        }
+      ],
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      },
+      "spawns": [
+        {
+          "id": 200010055,
+          "pokeId": 50,
+          "name": "地鼠",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 1,
+          "styleName": "地下睡",
+          "dpr": 2052000,
+          "spoId": 1,
+          "dprSource": "RAE pokedex/50 event/713, sleepStyle 55, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010056,
+          "pokeId": 50,
+          "name": "地鼠",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 2,
+          "styleName": "地上睡",
+          "dpr": 12008000,
+          "spoId": 8,
+          "dprSource": "RAE pokedex/50 event/713, sleepStyle 56, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010057,
+          "pokeId": 50,
+          "name": "地鼠",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 3,
+          "styleName": "挖洞睡",
+          "dpr": 37810000,
+          "spoId": 22,
+          "dprSource": "RAE pokedex/50 event/713, sleepStyle 57, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 5
+        },
+        {
+          "id": 200010106,
+          "pokeId": 69,
+          "name": "喇叭芽",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 1,
+          "styleName": "伸腳睡",
+          "dpr": 2052000,
+          "spoId": 1,
+          "dprSource": "RAE pokedex/69 event/713, sleepStyle 106, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010107,
+          "pokeId": 69,
+          "name": "喇叭芽",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 2,
+          "styleName": "溶解液睡",
+          "dpr": 14060000,
+          "spoId": 9,
+          "dprSource": "RAE pokedex/69 event/713, sleepStyle 107, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010108,
+          "pokeId": 69,
+          "name": "喇叭芽",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 3,
+          "styleName": "扎根睡",
+          "dpr": 37810000,
+          "spoId": 23,
+          "dprSource": "RAE pokedex/69 event/713, sleepStyle 108, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 200010356,
+          "pokeId": 69,
+          "name": "喇叭芽",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 42104000,
+          "spoId": 27,
+          "dprSource": "RAE pokedex/69 event/713, sleepStyle 356, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 200010070,
+          "pokeId": 74,
+          "name": "小拳石",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 1,
+          "styleName": "盤手睡",
+          "dpr": 2052000,
+          "spoId": 1,
+          "dprSource": "RAE pokedex/74 event/713, sleepStyle 70, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010071,
+          "pokeId": 74,
+          "name": "小拳石",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 2,
+          "styleName": "忍耐睡",
+          "dpr": 12008000,
+          "spoId": 8,
+          "dprSource": "RAE pokedex/74 event/713, sleepStyle 71, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010072,
+          "pokeId": 74,
+          "name": "小拳石",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 3,
+          "styleName": "陷下去睡",
+          "dpr": 37810000,
+          "spoId": 22,
+          "dprSource": "RAE pokedex/74 event/713, sleepStyle 72, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 5
+        },
+        {
+          "id": 200010359,
+          "pokeId": 74,
+          "name": "小拳石",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 38722000,
+          "spoId": 26,
+          "dprSource": "RAE pokedex/74 event/713, sleepStyle 359, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 200010796,
+          "pokeId": 328,
+          "name": "大顎蟻",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 1,
+          "styleName": "貼地睡",
+          "dpr": 12008000,
+          "spoId": 8,
+          "dprSource": "RAE pokedex/328 event/713, sleepStyle 796, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010797,
+          "pokeId": 328,
+          "name": "大顎蟻",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 2,
+          "styleName": "縮縮舒展睡",
+          "dpr": 37810000,
+          "spoId": 23,
+          "dprSource": "RAE pokedex/328 event/713, sleepStyle 797, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 200010798,
+          "pokeId": 328,
+          "name": "大顎蟻",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 3,
+          "styleName": "遁地睡",
+          "dpr": 124602000,
+          "spoId": 46,
+          "dprSource": "RAE pokedex/328 event/713, sleepStyle 798, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 11
+        },
+        {
+          "id": 200010799,
+          "pokeId": 328,
+          "name": "大顎蟻",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 149416000,
+          "spoId": 50,
+          "dprSource": "RAE pokedex/328 event/713, sleepStyle 799, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 13
+        },
+        {
+          "id": 100010796,
+          "pokeId": 328,
+          "name": "大顎蟻",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 1,
+          "styleName": "貼地睡",
+          "dpr": 1558000,
+          "spoId": 8,
+          "dprSource": "RAE pokedex/328 event/713, sleepStyle 796, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 100010797,
+          "pokeId": 328,
+          "name": "大顎蟻",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 2,
+          "styleName": "縮縮舒展睡",
+          "dpr": 7144000,
+          "spoId": 23,
+          "dprSource": "RAE pokedex/328 event/713, sleepStyle 797, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 10
+        },
+        {
+          "id": 100010799,
+          "pokeId": 328,
+          "name": "大顎蟻",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 46208000,
+          "spoId": 50,
+          "dprSource": "RAE pokedex/328 event/713, sleepStyle 799, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 11
+        },
+        {
+          "id": 200010593,
+          "pokeId": 403,
+          "name": "小貓怪",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 1,
+          "styleName": "夢中奔跑睡",
+          "dpr": 12008000,
+          "spoId": 8,
+          "dprSource": "RAE pokedex/403 event/713, sleepStyle 593, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010594,
+          "pokeId": 403,
+          "name": "小貓怪",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 2,
+          "styleName": "撐地睡",
+          "dpr": 37810000,
+          "spoId": 23,
+          "dprSource": "RAE pokedex/403 event/713, sleepStyle 594, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 200010595,
+          "pokeId": 403,
+          "name": "小貓怪",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 3,
+          "styleName": "電光睡",
+          "dpr": 124602000,
+          "spoId": 46,
+          "dprSource": "RAE pokedex/403 event/713, sleepStyle 595, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 11
+        },
+        {
+          "id": 200010596,
+          "pokeId": 403,
+          "name": "小貓怪",
+          "island": "greenex",
+          "sleepType": "安然入睡",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 149416000,
+          "spoId": 50,
+          "dprSource": "RAE pokedex/403 event/713, sleepStyle 596, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 13
+        },
+        {
+          "id": 100010593,
+          "pokeId": 403,
+          "name": "小貓怪",
+          "island": "greengrass",
+          "sleepType": "安然入睡",
+          "stars": 1,
+          "styleName": "夢中奔跑睡",
+          "dpr": 1558000,
+          "spoId": 8,
+          "dprSource": "RAE pokedex/403 event/713, sleepStyle 593, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 100010594,
+          "pokeId": 403,
+          "name": "小貓怪",
+          "island": "greengrass",
+          "sleepType": "安然入睡",
+          "stars": 2,
+          "styleName": "撐地睡",
+          "dpr": 7144000,
+          "spoId": 23,
+          "dprSource": "RAE pokedex/403 event/713, sleepStyle 594, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 10
+        },
+        {
+          "id": 100010596,
+          "pokeId": 403,
+          "name": "小貓怪",
+          "island": "greengrass",
+          "sleepType": "安然入睡",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 46208000,
+          "spoId": 50,
+          "dprSource": "RAE pokedex/403 event/713, sleepStyle 596, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 11
+        },
+        {
+          "id": 200010428,
+          "pokeId": 439,
+          "name": "魔尼尼",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 1,
+          "styleName": "手張開開睡",
+          "dpr": 2052000,
+          "spoId": 1,
+          "dprSource": "RAE pokedex/439 event/713, sleepStyle 428, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010429,
+          "pokeId": 439,
+          "name": "魔尼尼",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 2,
+          "styleName": "呆立睡",
+          "dpr": 17556000,
+          "spoId": 11,
+          "dprSource": "RAE pokedex/439 event/713, sleepStyle 429, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 4
+        },
+        {
+          "id": 200010430,
+          "pokeId": 439,
+          "name": "魔尼尼",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 3,
+          "styleName": "默劇床上睡",
+          "dpr": 37810000,
+          "spoId": 25,
+          "dprSource": "RAE pokedex/439 event/713, sleepStyle 430, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 200010431,
+          "pokeId": 439,
+          "name": "魔尼尼",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 48222000,
+          "spoId": 29,
+          "dprSource": "RAE pokedex/439 event/713, sleepStyle 431, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 7
+        },
+        {
+          "id": 100010428,
+          "pokeId": 439,
+          "name": "魔尼尼",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 1,
+          "styleName": "手張開開睡",
+          "dpr": 76000,
+          "spoId": 1,
+          "dprSource": "RAE pokedex/439 event/713, sleepStyle 428, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 1
+        },
+        {
+          "id": 100010429,
+          "pokeId": 439,
+          "name": "魔尼尼",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 2,
+          "styleName": "呆立睡",
+          "dpr": 2280000,
+          "spoId": 11,
+          "dprSource": "RAE pokedex/439 event/713, sleepStyle 429, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 5
+        },
+        {
+          "id": 100010431,
+          "pokeId": 439,
+          "name": "魔尼尼",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 11780000,
+          "spoId": 29,
+          "dprSource": "RAE pokedex/439 event/713, sleepStyle 431, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 10
+        },
+        {
+          "id": 100010465,
+          "pokeId": 459,
+          "name": "雪笠怪",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 1,
+          "styleName": "坐著睡",
+          "dpr": 418000,
+          "spoId": 3,
+          "dprSource": "RAE pokedex/459 event/713, sleepStyle 465, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 1
+        },
+        {
+          "id": 100010466,
+          "pokeId": 459,
+          "name": "雪笠怪",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 2,
+          "styleName": "呆立睡",
+          "dpr": 2812000,
+          "spoId": 13,
+          "dprSource": "RAE pokedex/459 event/713, sleepStyle 466, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 5
+        },
+        {
+          "id": 100010468,
+          "pokeId": 459,
+          "name": "雪笠怪",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 13490000,
+          "spoId": 31,
+          "dprSource": "RAE pokedex/459 event/713, sleepStyle 468, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 10
+        },
+        {
+          "id": 200010808,
+          "pokeId": 557,
+          "name": "石居蟹",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 1,
+          "styleName": "縮入殼中睡",
+          "dpr": 9386000,
+          "spoId": 7,
+          "dprSource": "RAE pokedex/557 event/713, sleepStyle 808, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010809,
+          "pokeId": 557,
+          "name": "石居蟹",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 2,
+          "styleName": "不縮殼中睡",
+          "dpr": 37810000,
+          "spoId": 22,
+          "dprSource": "RAE pokedex/557 event/713, sleepStyle 809, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 5
+        },
+        {
+          "id": 200010810,
+          "pokeId": 557,
+          "name": "石居蟹",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 3,
+          "styleName": "寶貝殼睡",
+          "dpr": 116546000,
+          "spoId": 45,
+          "dprSource": "RAE pokedex/557 event/713, sleepStyle 810, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 11
+        },
+        {
+          "id": 200010811,
+          "pokeId": 557,
+          "name": "石居蟹",
+          "island": "greenex",
+          "sleepType": "淺淺入夢",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 149416000,
+          "spoId": 49,
+          "dprSource": "RAE pokedex/557 event/713, sleepStyle 811, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 13
+        },
+        {
+          "id": 100010808,
+          "pokeId": 557,
+          "name": "石居蟹",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 1,
+          "styleName": "縮入殼中睡",
+          "dpr": 1216000,
+          "spoId": 7,
+          "dprSource": "RAE pokedex/557 event/713, sleepStyle 808, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 100010809,
+          "pokeId": 557,
+          "name": "石居蟹",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 2,
+          "styleName": "不縮殼中睡",
+          "dpr": 6574000,
+          "spoId": 22,
+          "dprSource": "RAE pokedex/557 event/713, sleepStyle 809, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 10
+        },
+        {
+          "id": 100010811,
+          "pokeId": 557,
+          "name": "石居蟹",
+          "island": "greengrass",
+          "sleepType": "淺淺入夢",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 43700000,
+          "spoId": 49,
+          "dprSource": "RAE pokedex/557 event/713, sleepStyle 811, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 11
+        },
+        {
+          "id": 200010500,
+          "pokeId": 759,
+          "name": "童偶熊",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 1,
+          "styleName": "碰咚碰咚睡",
+          "dpr": 5700000,
+          "spoId": 4,
+          "dprSource": "RAE pokedex/759 event/713, sleepStyle 500, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 0
+        },
+        {
+          "id": 200010502,
+          "pokeId": 759,
+          "name": "童偶熊",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 3,
+          "styleName": "抱圓木睡",
+          "dpr": 75620000,
+          "spoId": 36,
+          "dprSource": "RAE pokedex/759 event/713, sleepStyle 502, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 9
+        },
+        {
+          "id": 200010503,
+          "pokeId": 759,
+          "name": "童偶熊",
+          "island": "greenex",
+          "sleepType": "深深入眠",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 94050000,
+          "spoId": 40,
+          "dprSource": "RAE pokedex/759 event/713, sleepStyle 503, 2026-10-28",
+          "dprSettled": false,
+          "dprEstimated": false,
+          "unlockRank": 10
+        },
+        {
+          "id": 100010500,
+          "pokeId": 759,
+          "name": "童偶熊",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 1,
+          "styleName": "碰咚碰咚睡",
+          "dpr": 570000,
+          "spoId": 4,
+          "dprSource": "RAE pokedex/759 event/713, sleepStyle 500, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 6
+        },
+        {
+          "id": 100010501,
+          "pokeId": 759,
+          "name": "童偶熊",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 2,
+          "styleName": "撐地睡",
+          "dpr": 11780000,
+          "spoId": 29,
+          "dprSource": "RAE pokedex/759 event/713, sleepStyle 501, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 10
+        },
+        {
+          "id": 100010503,
+          "pokeId": 759,
+          "name": "童偶熊",
+          "island": "greengrass",
+          "sleepType": "深深入眠",
+          "stars": 4,
+          "styleName": "大肚上睡",
+          "dpr": 25536000,
+          "spoId": 40,
+          "dprSource": "RAE pokedex/759 event/713, sleepStyle 503, 2026-10-28",
+          "dprSettled": true,
+          "dprEstimated": false,
+          "unlockRank": 11
+        }
+      ]
+    }
+  ]
+}

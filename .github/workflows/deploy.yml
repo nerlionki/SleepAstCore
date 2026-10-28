@@ -1,0 +1,59 @@
+name: Deploy resource release
+on:
+  release:
+    types: [published]
+permissions:
+  contents: read
+concurrency:
+  group: production-resources
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: github.event.release.prerelease == false
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.release.tag_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Build and verify release
+        env:
+          RESOURCE_VERSION: ${{ github.event.release.tag_name }}
+        run: |
+          npm run build
+          npm run verify
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sleepast-core-resources
+          path: dist/
+      - name: Configure SSH
+        env:
+          SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+          KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+          test -s ~/.ssh/known_hosts
+      - name: Upload and activate
+        env:
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+          DEPLOY_PORT: ${{ secrets.DEPLOY_PORT }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: |
+          set -euo pipefail
+          version="${RELEASE_TAG#v}"
+          [[ "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+(\.[0-9]+)?$ ]]
+          [[ "$DEPLOY_USER" =~ ^[a-z_][a-z0-9_-]*$ ]]
+          [[ "$DEPLOY_HOST" =~ ^[a-zA-Z0-9.-]+$ ]]
+          port="${DEPLOY_PORT:-22}"
+          [[ "$port" =~ ^[0-9]+$ ]]
+          remote="$DEPLOY_USER@$DEPLOY_HOST"
+          ssh -p "$port" "$remote" "mkdir -p /var/www/sleepast-core/incoming/$version"
+          scp -P "$port" -r dist/resources "$remote:/var/www/sleepast-core/incoming/$version/"
+          ssh -p "$port" "$remote" "bash -s -- '$version'" < deploy/activate.sh

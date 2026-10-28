@@ -1,0 +1,10995 @@
+[
+  {
+    "id": 1,
+    "name": "妙蛙種子",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 4400,
+    "carry": 11,
+    "ingredientRate": 0.257,
+    "skillRate": 0.019,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "妙蛙種子"
+  },
+  {
+    "id": 2,
+    "name": "妙蛙草",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 3300,
+    "carry": 19,
+    "ingredientRate": 0.255,
+    "skillRate": 0.019,
+    "mainSkill": "食材獲取S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "妙蛙草"
+  },
+  {
+    "id": 3,
+    "name": "妙蛙花",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 2800,
+    "carry": 27,
+    "ingredientRate": 0.266,
+    "skillRate": 0.021,
+    "mainSkill": "食材獲取S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "妙蛙花"
+  },
+  {
+    "id": 4,
+    "name": "小火龍",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 3500,
+    "carry": 12,
+    "ingredientRate": 0.201,
+    "skillRate": 0.011000000000000001,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "小火龍"
+  },
+  {
+    "id": 5,
+    "name": "火恐龍",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 3000,
+    "carry": 20,
+    "ingredientRate": 0.22699999999999998,
+    "skillRate": 0.016,
+    "mainSkill": "食材獲取S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "火恐龍"
+  },
+  {
+    "id": 6,
+    "name": "噴火龍",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 2400,
+    "carry": 29,
+    "ingredientRate": 0.22399999999999998,
+    "skillRate": 0.016,
+    "mainSkill": "食材獲取S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "噴火龍"
+  },
+  {
+    "id": 7,
+    "name": "傑尼龜",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 4500,
+    "carry": 10,
+    "ingredientRate": 0.271,
+    "skillRate": 0.02,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "傑尼龜"
+  },
+  {
+    "id": 8,
+    "name": "卡咪龜",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 3400,
+    "carry": 19,
+    "ingredientRate": 0.271,
+    "skillRate": 0.02,
+    "mainSkill": "食材獲取S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "卡咪龜"
+  },
+  {
+    "id": 9,
+    "name": "水箭龜",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 2800,
+    "carry": 27,
+    "ingredientRate": 0.275,
+    "skillRate": 0.021,
+    "mainSkill": "食材獲取S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "水箭龜"
+  },
+  {
+    "id": 10,
+    "name": "綠毛蟲",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 4400,
+    "carry": 11,
+    "ingredientRate": 0.179,
+    "skillRate": 0.008,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "綠毛蟲"
+  },
+  {
+    "id": 11,
+    "name": "鐵甲蛹",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 4200,
+    "carry": 18,
+    "ingredientRate": 0.20800000000000002,
+    "skillRate": 0.018000000000000002,
+    "mainSkill": "食材獲取S",
+    "friendship": 7,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "鐵甲蛹"
+  },
+  {
+    "id": 12,
+    "name": "巴大蝶",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 2500,
+    "carry": 31,
+    "ingredientRate": 0.19699999999999998,
+    "skillRate": 0.013999999999999999,
+    "mainSkill": "食材獲取S",
+    "friendship": 15,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "巴大蝶"
+  },
+  {
+    "id": 19,
+    "name": "小拉達",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 4900,
+    "carry": 10,
+    "ingredientRate": 0.237,
+    "skillRate": 0.03,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "小拉達"
+  },
+  {
+    "id": 20,
+    "name": "拉達",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 2950,
+    "carry": 21,
+    "ingredientRate": 0.237,
+    "skillRate": 0.03,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "拉達"
+  },
+  {
+    "id": 23,
+    "name": "阿柏蛇",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 5000,
+    "carry": 10,
+    "ingredientRate": 0.235,
+    "skillRate": 0.033,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "阿柏蛇"
+  },
+  {
+    "id": 24,
+    "name": "阿柏怪",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 3400,
+    "carry": 19,
+    "ingredientRate": 0.264,
+    "skillRate": 0.057,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "阿柏怪"
+  },
+  {
+    "id": 25,
+    "name": "皮卡丘",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2700,
+    "carry": 22,
+    "ingredientRate": 0.207,
+    "skillRate": 0.021,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 7,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "皮卡丘"
+  },
+  {
+    "id": 26,
+    "name": "雷丘",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2200,
+    "carry": 31,
+    "ingredientRate": 0.22399999999999998,
+    "skillRate": 0.032,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 18,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "雷丘"
+  },
+  {
+    "id": 27,
+    "name": "穿山鼠",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 5300,
+    "carry": 11,
+    "ingredientRate": 0.1,
+    "skillRate": 0.046,
+    "mainSkill": "食材精選S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "穿山鼠"
+  },
+  {
+    "id": 28,
+    "name": "穿山王",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 2800,
+    "carry": 22,
+    "ingredientRate": 0.10800000000000001,
+    "skillRate": 0.043,
+    "mainSkill": "食材精選S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "穿山王"
+  },
+  {
+    "id": 35,
+    "name": "皮皮",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 4000,
+    "carry": 21,
+    "ingredientRate": 0.168,
+    "skillRate": 0.036000000000000004,
+    "mainSkill": "揮指",
+    "friendship": 7,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "皮皮"
+  },
+  {
+    "id": 36,
+    "name": "皮可西",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 2800,
+    "carry": 34,
+    "ingredientRate": 0.168,
+    "skillRate": 0.04,
+    "mainSkill": "揮指",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "皮可西"
+  },
+  {
+    "id": 37,
+    "name": "六尾",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 4700,
+    "carry": 13,
+    "ingredientRate": 0.168,
+    "skillRate": 0.032,
+    "mainSkill": "活力療癒S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "六尾"
+  },
+  {
+    "id": 38,
+    "name": "九尾",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 2600,
+    "carry": 28,
+    "ingredientRate": 0.16399999999999998,
+    "skillRate": 0.028999999999999998,
+    "mainSkill": "活力療癒S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "九尾"
+  },
+  {
+    "id": 39,
+    "name": "胖丁",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 3900,
+    "carry": 14,
+    "ingredientRate": 0.182,
+    "skillRate": 0.043,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 7,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "胖丁"
+  },
+  {
+    "id": 40,
+    "name": "胖可丁",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 2750,
+    "carry": 32,
+    "ingredientRate": 0.191,
+    "skillRate": 0.04,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "胖可丁"
+  },
+  {
+    "id": 50,
+    "name": "地鼠",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 4300,
+    "carry": 10,
+    "ingredientRate": 0.192,
+    "skillRate": 0.021,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "地鼠"
+  },
+  {
+    "id": 51,
+    "name": "三地鼠",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 2650,
+    "carry": 21,
+    "ingredientRate": 0.19,
+    "skillRate": 0.02,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "三地鼠"
+  },
+  {
+    "id": 52,
+    "name": "喵喵",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 4400,
+    "carry": 9,
+    "ingredientRate": 0.163,
+    "skillRate": 0.042,
+    "mainSkill": "夢之碎片獲取S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "喵喵"
+  },
+  {
+    "id": 53,
+    "name": "貓老大",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 2800,
+    "carry": 17,
+    "ingredientRate": 0.16899999999999998,
+    "skillRate": 0.044000000000000004,
+    "mainSkill": "夢之碎片獲取S(X)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "貓老大"
+  },
+  {
+    "id": 54,
+    "name": "可達鴨",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 5400,
+    "carry": 8,
+    "ingredientRate": 0.136,
+    "skillRate": 0.126,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "可達鴨"
+  },
+  {
+    "id": 55,
+    "name": "哥達鴨",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 3400,
+    "carry": 19,
+    "ingredientRate": 0.162,
+    "skillRate": 0.125,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "哥達鴨"
+  },
+  {
+    "id": 56,
+    "name": "猴怪",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 4200,
+    "carry": 12,
+    "ingredientRate": 0.19699999999999998,
+    "skillRate": 0.022000000000000002,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "猴怪"
+  },
+  {
+    "id": 57,
+    "name": "火爆猴",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 2800,
+    "carry": 22,
+    "ingredientRate": 0.2,
+    "skillRate": 0.024,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "火爆猴"
+  },
+  {
+    "id": 58,
+    "name": "卡蒂狗",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 4300,
+    "carry": 8,
+    "ingredientRate": 0.138,
+    "skillRate": 0.05,
+    "mainSkill": "幫手支援S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "卡蒂狗"
+  },
+  {
+    "id": 59,
+    "name": "風速狗",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 2500,
+    "carry": 21,
+    "ingredientRate": 0.136,
+    "skillRate": 0.049,
+    "mainSkill": "幫手支援S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "風速狗"
+  },
+  {
+    "id": 69,
+    "name": "喇叭芽",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 5200,
+    "carry": 8,
+    "ingredientRate": 0.233,
+    "skillRate": 0.039,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "喇叭芽"
+  },
+  {
+    "id": 70,
+    "name": "口呆花",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 3800,
+    "carry": 17,
+    "ingredientRate": 0.235,
+    "skillRate": 0.04,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "口呆花"
+  },
+  {
+    "id": 71,
+    "name": "大食花",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 2800,
+    "carry": 27,
+    "ingredientRate": 0.233,
+    "skillRate": 0.039,
+    "mainSkill": "活力填充S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "大食花"
+  },
+  {
+    "id": 74,
+    "name": "小拳石",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 5700,
+    "carry": 9,
+    "ingredientRate": 0.281,
+    "skillRate": 0.052000000000000005,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "小拳石"
+  },
+  {
+    "id": 75,
+    "name": "隆隆石",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 4000,
+    "carry": 17,
+    "ingredientRate": 0.272,
+    "skillRate": 0.048,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "隆隆石"
+  },
+  {
+    "id": 76,
+    "name": "隆隆岩",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 3100,
+    "carry": 26,
+    "ingredientRate": 0.28,
+    "skillRate": 0.052000000000000005,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 22,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "隆隆岩"
+  },
+  {
+    "id": 79,
+    "name": "呆呆獸",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 5700,
+    "carry": 9,
+    "ingredientRate": 0.151,
+    "skillRate": 0.078,
+    "mainSkill": "活力療癒S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 14,
+        "name": "美味尾巴",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "呆呆獸"
+  },
+  {
+    "id": 80,
+    "name": "呆殼獸",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 3800,
+    "carry": 21,
+    "ingredientRate": 0.19699999999999998,
+    "skillRate": 0.08,
+    "mainSkill": "活力療癒S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 14,
+        "name": "美味尾巴",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "呆殼獸"
+  },
+  {
+    "id": 81,
+    "name": "小磁怪",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 5800,
+    "carry": 8,
+    "ingredientRate": 0.182,
+    "skillRate": 0.064,
+    "mainSkill": "料理強化S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "小磁怪"
+  },
+  {
+    "id": 82,
+    "name": "三合一磁怪",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 4000,
+    "carry": 16,
+    "ingredientRate": 0.182,
+    "skillRate": 0.063,
+    "mainSkill": "料理強化S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "三合一磁怪"
+  },
+  {
+    "id": 83,
+    "name": "大蔥鴨",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "椰木果",
+    "berryType": "飞行",
+    "interval": 3000,
+    "carry": 18,
+    "ingredientRate": 0.16,
+    "skillRate": 0.043,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          8,
+          13
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          12,
+          12,
+          12
+        ]
+      }
+    ],
+    "formKey": "大蔥鴨"
+  },
+  {
+    "id": 84,
+    "name": "嘟嘟",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "椰木果",
+    "berryType": "飞行",
+    "interval": 3800,
+    "carry": 13,
+    "ingredientRate": 0.184,
+    "skillRate": 0.02,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "嘟嘟"
+  },
+  {
+    "id": 85,
+    "name": "嘟嘟利",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "椰木果",
+    "berryType": "飞行",
+    "interval": 2300,
+    "carry": 26,
+    "ingredientRate": 0.184,
+    "skillRate": 0.02,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "嘟嘟利"
+  },
+  {
+    "id": 92,
+    "name": "鬼斯",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 3800,
+    "carry": 10,
+    "ingredientRate": 0.14400000000000002,
+    "skillRate": 0.015,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "鬼斯"
+  },
+  {
+    "id": 93,
+    "name": "鬼斯通",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 3000,
+    "carry": 19,
+    "ingredientRate": 0.157,
+    "skillRate": 0.022000000000000002,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "鬼斯通"
+  },
+  {
+    "id": 94,
+    "name": "耿鬼",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 2200,
+    "carry": 28,
+    "ingredientRate": 0.166,
+    "skillRate": 0.024,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 22,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "耿鬼"
+  },
+  {
+    "id": 95,
+    "name": "大岩蛇",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 3100,
+    "carry": 22,
+    "ingredientRate": 0.132,
+    "skillRate": 0.023,
+    "mainSkill": "食材獲取S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "大岩蛇"
+  },
+  {
+    "id": 104,
+    "name": "卡拉卡拉",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 4800,
+    "carry": 10,
+    "ingredientRate": 0.223,
+    "skillRate": 0.044000000000000004,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "卡拉卡拉"
+  },
+  {
+    "id": 105,
+    "name": "嘎啦嘎啦",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 3300,
+    "carry": 20,
+    "ingredientRate": 0.225,
+    "skillRate": 0.045,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "嘎啦嘎啦"
+  },
+  {
+    "id": 113,
+    "name": "吉利蛋",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 3300,
+    "carry": 20,
+    "ingredientRate": 0.23600000000000002,
+    "skillRate": 0.023,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "吉利蛋"
+  },
+  {
+    "id": 115,
+    "name": "袋獸",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 2650,
+    "carry": 21,
+    "ingredientRate": 0.222,
+    "skillRate": 0.032,
+    "mainSkill": "食材獲取S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "袋獸"
+  },
+  {
+    "id": 122,
+    "name": "魔牆人偶",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 2800,
+    "carry": 22,
+    "ingredientRate": 0.21600000000000003,
+    "skillRate": 0.039,
+    "mainSkill": "模仿（技能複製）",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "魔牆人偶"
+  },
+  {
+    "id": 127,
+    "name": "凱羅斯",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 2400,
+    "carry": 24,
+    "ingredientRate": 0.21600000000000003,
+    "skillRate": 0.031,
+    "mainSkill": "能量填充M",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "凱羅斯"
+  },
+  {
+    "id": 132,
+    "name": "百變怪",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 3500,
+    "carry": 17,
+    "ingredientRate": 0.201,
+    "skillRate": 0.036000000000000004,
+    "mainSkill": "變身（技能複製）",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 14,
+        "name": "美味尾巴",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "百變怪"
+  },
+  {
+    "id": 133,
+    "name": "伊布",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 3700,
+    "carry": 12,
+    "ingredientRate": 0.192,
+    "skillRate": 0.055,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "伊布"
+  },
+  {
+    "id": 134,
+    "name": "水伊布",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 3100,
+    "carry": 18,
+    "ingredientRate": 0.212,
+    "skillRate": 0.061,
+    "mainSkill": "食材獲取S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "水伊布"
+  },
+  {
+    "id": 135,
+    "name": "雷伊布",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2200,
+    "carry": 22,
+    "ingredientRate": 0.151,
+    "skillRate": 0.039,
+    "mainSkill": "幫手支援S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "雷伊布"
+  },
+  {
+    "id": 136,
+    "name": "火伊布",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 2700,
+    "carry": 19,
+    "ingredientRate": 0.185,
+    "skillRate": 0.052000000000000005,
+    "mainSkill": "料理強化S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "火伊布"
+  },
+  {
+    "id": 147,
+    "name": "迷你龍",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 5000,
+    "carry": 9,
+    "ingredientRate": 0.25,
+    "skillRate": 0.02,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "迷你龍"
+  },
+  {
+    "id": 148,
+    "name": "哈克龍",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 3800,
+    "carry": 17,
+    "ingredientRate": 0.262,
+    "skillRate": 0.025,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "哈克龍"
+  },
+  {
+    "id": 149,
+    "name": "快龍",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 2600,
+    "carry": 30,
+    "ingredientRate": 0.264,
+    "skillRate": 0.026000000000000002,
+    "mainSkill": "活力填充S",
+    "friendship": 25,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "快龍"
+  },
+  {
+    "id": 150,
+    "name": "超夢",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 2300,
+    "carry": 24,
+    "ingredientRate": 0.16,
+    "skillRate": 0.028999999999999998,
+    "mainSkill": "精神擊破（樹果領域）",
+    "friendship": 30,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "超夢"
+  },
+  {
+    "id": 151,
+    "name": "夢幻",
+    "specialty": "全部",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 2900,
+    "carry": 26,
+    "ingredientRate": 0.2,
+    "skillRate": 0.04,
+    "mainSkill": "十項全能",
+    "friendship": 25,
+    "medalGroup": null,
+    "ingredients": [
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          4,
+          5
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          4,
+          7
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "amounts": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": 14,
+        "name": "美味尾巴",
+        "amounts": [
+          0,
+          0,
+          2
+        ]
+      }
+    ],
+    "formKey": "夢幻"
+  },
+  {
+    "id": 152,
+    "name": "菊草葉",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 4400,
+    "carry": 12,
+    "ingredientRate": 0.16899999999999998,
+    "skillRate": 0.039,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "菊草葉"
+  },
+  {
+    "id": 153,
+    "name": "月桂葉",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 3300,
+    "carry": 22,
+    "ingredientRate": 0.168,
+    "skillRate": 0.038,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "月桂葉"
+  },
+  {
+    "id": 154,
+    "name": "大竺葵",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 2800,
+    "carry": 30,
+    "ingredientRate": 0.175,
+    "skillRate": 0.046,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "大竺葵"
+  },
+  {
+    "id": 155,
+    "name": "火球鼠",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 3500,
+    "carry": 14,
+    "ingredientRate": 0.18600000000000003,
+    "skillRate": 0.021,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "火球鼠"
+  },
+  {
+    "id": 156,
+    "name": "火岩鼠",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 3000,
+    "carry": 23,
+    "ingredientRate": 0.21100000000000002,
+    "skillRate": 0.040999999999999995,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "火岩鼠"
+  },
+  {
+    "id": 157,
+    "name": "火爆獸",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 2400,
+    "carry": 33,
+    "ingredientRate": 0.20800000000000002,
+    "skillRate": 0.039,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "火爆獸"
+  },
+  {
+    "id": 158,
+    "name": "小鋸鱷",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 4500,
+    "carry": 11,
+    "ingredientRate": 0.253,
+    "skillRate": 0.052000000000000005,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "小鋸鱷"
+  },
+  {
+    "id": 159,
+    "name": "藍鱷",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 3400,
+    "carry": 20,
+    "ingredientRate": 0.253,
+    "skillRate": 0.052000000000000005,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "藍鱷"
+  },
+  {
+    "id": 160,
+    "name": "大力鱷",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 2800,
+    "carry": 29,
+    "ingredientRate": 0.257,
+    "skillRate": 0.055,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "大力鱷"
+  },
+  {
+    "id": 172,
+    "name": "皮丘",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 4300,
+    "carry": 10,
+    "ingredientRate": 0.21,
+    "skillRate": 0.023,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "皮丘"
+  },
+  {
+    "id": 173,
+    "name": "皮寶寶",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 5600,
+    "carry": 10,
+    "ingredientRate": 0.16399999999999998,
+    "skillRate": 0.034,
+    "mainSkill": "揮指",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "皮寶寶"
+  },
+  {
+    "id": 174,
+    "name": "寶寶丁",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 5200,
+    "carry": 8,
+    "ingredientRate": 0.17,
+    "skillRate": 0.038,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "寶寶丁"
+  },
+  {
+    "id": 175,
+    "name": "波克比",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 4800,
+    "carry": 8,
+    "ingredientRate": 0.151,
+    "skillRate": 0.049,
+    "mainSkill": "揮指",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "波克比"
+  },
+  {
+    "id": 176,
+    "name": "波克基古",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 3800,
+    "carry": 15,
+    "ingredientRate": 0.163,
+    "skillRate": 0.055999999999999994,
+    "mainSkill": "揮指",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "波克基古"
+  },
+  {
+    "id": 177,
+    "name": "天然雀",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 4500,
+    "carry": 11,
+    "ingredientRate": 0.185,
+    "skillRate": 0.016,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "天然雀"
+  },
+  {
+    "id": 178,
+    "name": "天然鳥",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 2500,
+    "carry": 24,
+    "ingredientRate": 0.191,
+    "skillRate": 0.025,
+    "mainSkill": "食材獲取S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "天然鳥"
+  },
+  {
+    "id": 179,
+    "name": "咩利羊",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 4600,
+    "carry": 9,
+    "ingredientRate": 0.128,
+    "skillRate": 0.047,
+    "mainSkill": "能量填充M",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          3,
+          4
+        ]
+      }
+    ],
+    "formKey": "咩利羊"
+  },
+  {
+    "id": 180,
+    "name": "茸茸羊",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 3300,
+    "carry": 16,
+    "ingredientRate": 0.127,
+    "skillRate": 0.046,
+    "mainSkill": "能量填充M",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          3,
+          4
+        ]
+      }
+    ],
+    "formKey": "茸茸羊"
+  },
+  {
+    "id": 181,
+    "name": "電龍",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2500,
+    "carry": 25,
+    "ingredientRate": 0.13,
+    "skillRate": 0.047,
+    "mainSkill": "能量填充M",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          3,
+          4
+        ]
+      }
+    ],
+    "formKey": "電龍"
+  },
+  {
+    "id": 185,
+    "name": "樹才怪",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 4000,
+    "carry": 21,
+    "ingredientRate": 0.217,
+    "skillRate": 0.07200000000000001,
+    "mainSkill": "能量填充M",
+    "friendship": 7,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "樹才怪"
+  },
+  {
+    "id": 194,
+    "name": "烏波",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 5900,
+    "carry": 10,
+    "ingredientRate": 0.201,
+    "skillRate": 0.038,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          6,
+          10
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          12,
+          12,
+          12
+        ]
+      }
+    ],
+    "formKey": "烏波"
+  },
+  {
+    "id": 195,
+    "name": "沼王",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 3400,
+    "carry": 21,
+    "ingredientRate": 0.19,
+    "skillRate": 0.032,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          6,
+          10
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          12,
+          12,
+          12
+        ]
+      }
+    ],
+    "formKey": "沼王"
+  },
+  {
+    "id": 196,
+    "name": "太陽伊布",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 2400,
+    "carry": 21,
+    "ingredientRate": 0.16399999999999998,
+    "skillRate": 0.044000000000000004,
+    "mainSkill": "能量填充M",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "太陽伊布"
+  },
+  {
+    "id": 197,
+    "name": "月亮伊布",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 3200,
+    "carry": 19,
+    "ingredientRate": 0.21899999999999997,
+    "skillRate": 0.10099999999999999,
+    "mainSkill": "月光（活力填充S）",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "月亮伊布"
+  },
+  {
+    "id": 198,
+    "name": "黑暗鴉",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 3600,
+    "carry": 13,
+    "ingredientRate": 0.141,
+    "skillRate": 0.062,
+    "mainSkill": "超幸運（食材精選S）",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          3,
+          6
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "黑暗鴉"
+  },
+  {
+    "id": 199,
+    "name": "呆呆王",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 3400,
+    "carry": 22,
+    "ingredientRate": 0.166,
+    "skillRate": 0.087,
+    "mainSkill": "活力療癒S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 14,
+        "name": "美味尾巴",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "呆呆王"
+  },
+  {
+    "id": 202,
+    "name": "果然翁",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 3500,
+    "carry": 21,
+    "ingredientRate": 0.21100000000000002,
+    "skillRate": 0.08199999999999999,
+    "mainSkill": "活力療癒S",
+    "friendship": 7,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "果然翁"
+  },
+  {
+    "id": 208,
+    "name": "大鋼蛇",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 3000,
+    "carry": 30,
+    "ingredientRate": 0.154,
+    "skillRate": 0.032,
+    "mainSkill": "食材獲取S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "大鋼蛇"
+  },
+  {
+    "id": 213,
+    "name": "壺壺",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 3600,
+    "carry": 16,
+    "ingredientRate": 0.205,
+    "skillRate": 0.059000000000000004,
+    "mainSkill": "樹果汁（活力全體療癒S）",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "壺壺"
+  },
+  {
+    "id": 214,
+    "name": "赫拉克羅斯",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 2300,
+    "carry": 20,
+    "ingredientRate": 0.158,
+    "skillRate": 0.047,
+    "mainSkill": "健美（料理輔助S）",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "赫拉克羅斯"
+  },
+  {
+    "id": 215,
+    "name": "狃拉",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 3200,
+    "carry": 17,
+    "ingredientRate": 0.255,
+    "skillRate": 0.019,
+    "mainSkill": "料理成功S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "狃拉"
+  },
+  {
+    "id": 225,
+    "name": "信使鳥",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "椰木果",
+    "berryType": "飞行",
+    "interval": 2500,
+    "carry": 20,
+    "ingredientRate": 0.188,
+    "skillRate": 0.03,
+    "mainSkill": "禮物（食材獲取S）",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          6,
+          9
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "信使鳥"
+  },
+  {
+    "id": 228,
+    "name": "戴魯比",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 4900,
+    "carry": 10,
+    "ingredientRate": 0.201,
+    "skillRate": 0.037000000000000005,
+    "mainSkill": "能量填充M",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "戴魯比"
+  },
+  {
+    "id": 229,
+    "name": "黑魯加",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 3300,
+    "carry": 21,
+    "ingredientRate": 0.203,
+    "skillRate": 0.04,
+    "mainSkill": "能量填充M",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "黑魯加"
+  },
+  {
+    "id": 242,
+    "name": "幸福蛋",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 3100,
+    "carry": 31,
+    "ingredientRate": 0.23800000000000002,
+    "skillRate": 0.023,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "幸福蛋"
+  },
+  {
+    "id": 243,
+    "name": "雷公",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2100,
+    "carry": 22,
+    "ingredientRate": 0.192,
+    "skillRate": 0.019,
+    "mainSkill": "幫手加速（属性）",
+    "friendship": 30,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "雷公"
+  },
+  {
+    "id": 244,
+    "name": "炎帝",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 2400,
+    "carry": 19,
+    "ingredientRate": 0.187,
+    "skillRate": 0.023,
+    "mainSkill": "幫手加速（属性）",
+    "friendship": 30,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "炎帝"
+  },
+  {
+    "id": 245,
+    "name": "水君",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 2700,
+    "carry": 17,
+    "ingredientRate": 0.27699999999999997,
+    "skillRate": 0.026000000000000002,
+    "mainSkill": "幫手加速（属性）",
+    "friendship": 30,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "水君"
+  },
+  {
+    "id": 246,
+    "name": "幼基拉斯",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 4800,
+    "carry": 9,
+    "ingredientRate": 0.23800000000000002,
+    "skillRate": 0.040999999999999995,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "幼基拉斯"
+  },
+  {
+    "id": 247,
+    "name": "沙基拉斯",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 3600,
+    "carry": 18,
+    "ingredientRate": 0.247,
+    "skillRate": 0.045,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "沙基拉斯"
+  },
+  {
+    "id": 248,
+    "name": "班基拉斯",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 2700,
+    "carry": 29,
+    "ingredientRate": 0.266,
+    "skillRate": 0.052000000000000005,
+    "mainSkill": "活力填充S",
+    "friendship": 25,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          5,
+          8
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "班基拉斯"
+  },
+  {
+    "id": 252,
+    "name": "木守宮",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 4500,
+    "carry": 8,
+    "ingredientRate": 0.172,
+    "skillRate": 0.035,
+    "mainSkill": "樹果遽增",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "木守宮"
+  },
+  {
+    "id": 253,
+    "name": "森林蜥蜴",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 3300,
+    "carry": 16,
+    "ingredientRate": 0.15,
+    "skillRate": 0.035,
+    "mainSkill": "樹果遽增",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "森林蜥蜴"
+  },
+  {
+    "id": 254,
+    "name": "蜥蜴王",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 2300,
+    "carry": 27,
+    "ingredientRate": 0.107,
+    "skillRate": 0.03,
+    "mainSkill": "樹果遽增",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "蜥蜴王"
+  },
+  {
+    "id": 255,
+    "name": "火稚雞",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 4300,
+    "carry": 12,
+    "ingredientRate": 0.16,
+    "skillRate": 0.044000000000000004,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "火稚雞"
+  },
+  {
+    "id": 256,
+    "name": "力壯雞",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 3400,
+    "carry": 21,
+    "ingredientRate": 0.17,
+    "skillRate": 0.052000000000000005,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "力壯雞"
+  },
+  {
+    "id": 257,
+    "name": "火焰雞",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 2600,
+    "carry": 32,
+    "ingredientRate": 0.153,
+    "skillRate": 0.049,
+    "mainSkill": "活力填充S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "火焰雞"
+  },
+  {
+    "id": 258,
+    "name": "水躍魚",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 4700,
+    "carry": 11,
+    "ingredientRate": 0.192,
+    "skillRate": 0.024,
+    "mainSkill": "料理成功S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "水躍魚"
+  },
+  {
+    "id": 259,
+    "name": "沼躍魚",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 3500,
+    "carry": 21,
+    "ingredientRate": 0.168,
+    "skillRate": 0.027999999999999997,
+    "mainSkill": "料理成功S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "沼躍魚"
+  },
+  {
+    "id": 260,
+    "name": "巨沼怪",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 2800,
+    "carry": 30,
+    "ingredientRate": 0.146,
+    "skillRate": 0.034,
+    "mainSkill": "料理成功S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "巨沼怪"
+  },
+  {
+    "id": 280,
+    "name": "拉魯拉絲",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 4800,
+    "carry": 9,
+    "ingredientRate": 0.145,
+    "skillRate": 0.043,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "拉魯拉絲"
+  },
+  {
+    "id": 281,
+    "name": "奇魯莉安",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 3500,
+    "carry": 18,
+    "ingredientRate": 0.146,
+    "skillRate": 0.043,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "奇魯莉安"
+  },
+  {
+    "id": 282,
+    "name": "沙奈朵",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 2400,
+    "carry": 28,
+    "ingredientRate": 0.14400000000000002,
+    "skillRate": 0.042,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "沙奈朵"
+  },
+  {
+    "id": 287,
+    "name": "懶人獺",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 4900,
+    "carry": 7,
+    "ingredientRate": 0.21600000000000003,
+    "skillRate": 0.019,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "懶人獺"
+  },
+  {
+    "id": 288,
+    "name": "過動猿",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 3200,
+    "carry": 14,
+    "ingredientRate": 0.204,
+    "skillRate": 0.015,
+    "mainSkill": "食材獲取S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "過動猿"
+  },
+  {
+    "id": 289,
+    "name": "請假王",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 3600,
+    "carry": 26,
+    "ingredientRate": 0.33899999999999997,
+    "skillRate": 0.067,
+    "mainSkill": "食材獲取S",
+    "friendship": 22,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "請假王"
+  },
+  {
+    "id": 302,
+    "name": "勾魂眼",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 3600,
+    "carry": 16,
+    "ingredientRate": 0.188,
+    "skillRate": 0.068,
+    "mainSkill": "夢之碎片獲取S(X~Y)",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "勾魂眼"
+  },
+  {
+    "id": 303,
+    "name": "大嘴娃",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 3200,
+    "carry": 17,
+    "ingredientRate": 0.204,
+    "skillRate": 0.038,
+    "mainSkill": "怪力鉗（食材精選S）",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "大嘴娃"
+  },
+  {
+    "id": 304,
+    "name": "可可多拉",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 5700,
+    "carry": 10,
+    "ingredientRate": 0.273,
+    "skillRate": 0.046,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "可可多拉"
+  },
+  {
+    "id": 305,
+    "name": "可多拉",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 4200,
+    "carry": 18,
+    "ingredientRate": 0.27699999999999997,
+    "skillRate": 0.048,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "可多拉"
+  },
+  {
+    "id": 306,
+    "name": "波士可多拉",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 3000,
+    "carry": 28,
+    "ingredientRate": 0.285,
+    "skillRate": 0.052000000000000005,
+    "mainSkill": "活力填充S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "波士可多拉"
+  },
+  {
+    "id": 311,
+    "name": "正電拍拍",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2400,
+    "carry": 16,
+    "ingredientRate": 0.10300000000000001,
+    "skillRate": 0.049,
+    "mainSkill": "正電（食材獲取S）",
+    "friendship": 10,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "正電拍拍"
+  },
+  {
+    "id": 312,
+    "name": "負電拍拍",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2400,
+    "carry": 16,
+    "ingredientRate": 0.174,
+    "skillRate": 0.049,
+    "mainSkill": "負電（料理強化S）",
+    "friendship": 10,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "負電拍拍"
+  },
+  {
+    "id": 316,
+    "name": "溶食獸",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 5900,
+    "carry": 8,
+    "ingredientRate": 0.214,
+    "skillRate": 0.063,
+    "mainSkill": "夢之碎片獲取S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "溶食獸"
+  },
+  {
+    "id": 317,
+    "name": "吞食獸",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 3500,
+    "carry": 24,
+    "ingredientRate": 0.21,
+    "skillRate": 0.07,
+    "mainSkill": "夢之碎片獲取S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "吞食獸"
+  },
+  {
+    "id": 328,
+    "name": "大顎蟻",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 5000,
+    "carry": 8,
+    "ingredientRate": 0.152,
+    "skillRate": 0.031,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          6,
+          9
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          12,
+          12,
+          12
+        ]
+      }
+    ],
+    "formKey": "大顎蟻"
+  },
+  {
+    "id": 329,
+    "name": "超音波幼蟲",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 3700,
+    "carry": 17,
+    "ingredientRate": 0.155,
+    "skillRate": 0.034,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          6,
+          9
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          12,
+          12,
+          12
+        ]
+      }
+    ],
+    "formKey": "超音波幼蟲"
+  },
+  {
+    "id": 330,
+    "name": "沙漠蜻蜓",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 2700,
+    "carry": 27,
+    "ingredientRate": 0.172,
+    "skillRate": 0.039,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          6,
+          9
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          12,
+          12,
+          12
+        ]
+      }
+    ],
+    "formKey": "沙漠蜻蜓"
+  },
+  {
+    "id": 333,
+    "name": "青綿鳥",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "椰木果",
+    "berryType": "飞行",
+    "interval": 4200,
+    "carry": 12,
+    "ingredientRate": 0.177,
+    "skillRate": 0.032,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "青綿鳥"
+  },
+  {
+    "id": 334,
+    "name": "七夕青鳥",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 3500,
+    "carry": 19,
+    "ingredientRate": 0.258,
+    "skillRate": 0.061,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "七夕青鳥"
+  },
+  {
+    "id": 353,
+    "name": "怨影娃娃",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 3900,
+    "carry": 11,
+    "ingredientRate": 0.171,
+    "skillRate": 0.026000000000000002,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "怨影娃娃"
+  },
+  {
+    "id": 354,
+    "name": "詛咒娃娃",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 2600,
+    "carry": 24,
+    "ingredientRate": 0.179,
+    "skillRate": 0.033,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "詛咒娃娃"
+  },
+  {
+    "id": 359,
+    "name": "阿勃梭魯",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 2950,
+    "carry": 21,
+    "ingredientRate": 0.17800000000000002,
+    "skillRate": 0.038,
+    "mainSkill": "能量填充M",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          8,
+          12
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "阿勃梭魯"
+  },
+  {
+    "id": 360,
+    "name": "小果然",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 5800,
+    "carry": 7,
+    "ingredientRate": 0.213,
+    "skillRate": 0.069,
+    "mainSkill": "活力療癒S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "小果然"
+  },
+  {
+    "id": 363,
+    "name": "海豹球",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 5600,
+    "carry": 9,
+    "ingredientRate": 0.22399999999999998,
+    "skillRate": 0.023,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "海豹球"
+  },
+  {
+    "id": 364,
+    "name": "海魔獅",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 4000,
+    "carry": 18,
+    "ingredientRate": 0.221,
+    "skillRate": 0.021,
+    "mainSkill": "食材獲取S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "海魔獅"
+  },
+  {
+    "id": 365,
+    "name": "帝牙海獅",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 3000,
+    "carry": 28,
+    "ingredientRate": 0.223,
+    "skillRate": 0.022000000000000002,
+    "mainSkill": "食材獲取S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "帝牙海獅"
+  },
+  {
+    "id": 371,
+    "name": "寶貝龍",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 5300,
+    "carry": 9,
+    "ingredientRate": 0.209,
+    "skillRate": 0.027000000000000003,
+    "mainSkill": "料理強化S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "寶貝龍"
+  },
+  {
+    "id": 372,
+    "name": "甲殼龍",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 3800,
+    "carry": 19,
+    "ingredientRate": 0.20600000000000002,
+    "skillRate": 0.027000000000000003,
+    "mainSkill": "料理強化S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "甲殼龍"
+  },
+  {
+    "id": 373,
+    "name": "暴飛龍",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 2800,
+    "carry": 32,
+    "ingredientRate": 0.217,
+    "skillRate": 0.034,
+    "mainSkill": "料理強化S",
+    "friendship": 25,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "暴飛龍"
+  },
+  {
+    "id": 380,
+    "name": "拉帝亞斯",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 2800,
+    "carry": 19,
+    "ingredientRate": 0.114,
+    "skillRate": 0.049,
+    "mainSkill": "治癒波動（活力療癒S）",
+    "friendship": 30,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "拉帝亞斯"
+  },
+  {
+    "id": 381,
+    "name": "拉帝歐斯",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 2800,
+    "carry": 19,
+    "ingredientRate": 0.198,
+    "skillRate": 0.03,
+    "mainSkill": "流星群（樹果遽增）",
+    "friendship": 30,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "拉帝歐斯"
+  },
+  {
+    "id": 387,
+    "name": "草苗龜",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 4500,
+    "carry": 12,
+    "ingredientRate": 0.132,
+    "skillRate": 0.040999999999999995,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "草苗龜"
+  },
+  {
+    "id": 388,
+    "name": "樹林龜",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 3700,
+    "carry": 19,
+    "ingredientRate": 0.15,
+    "skillRate": 0.046,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "樹林龜"
+  },
+  {
+    "id": 389,
+    "name": "土台龜",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "勿花果",
+    "berryType": "地面",
+    "interval": 2900,
+    "carry": 27,
+    "ingredientRate": 0.156,
+    "skillRate": 0.048,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "土台龜"
+  },
+  {
+    "id": 390,
+    "name": "小火焰猴",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 4100,
+    "carry": 10,
+    "ingredientRate": 0.114,
+    "skillRate": 0.033,
+    "mainSkill": "樹果遽增",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "小火焰猴"
+  },
+  {
+    "id": 391,
+    "name": "猛火猴",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 3100,
+    "carry": 19,
+    "ingredientRate": 0.114,
+    "skillRate": 0.033,
+    "mainSkill": "樹果遽增",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "猛火猴"
+  },
+  {
+    "id": 392,
+    "name": "烈焰猴",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 2400,
+    "carry": 28,
+    "ingredientRate": 0.106,
+    "skillRate": 0.033,
+    "mainSkill": "樹果遽增",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "烈焰猴"
+  },
+  {
+    "id": 393,
+    "name": "波加曼",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 4500,
+    "carry": 11,
+    "ingredientRate": 0.159,
+    "skillRate": 0.026000000000000002,
+    "mainSkill": "幫手支援S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "波加曼"
+  },
+  {
+    "id": 394,
+    "name": "波皇子",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 3700,
+    "carry": 20,
+    "ingredientRate": 0.163,
+    "skillRate": 0.035,
+    "mainSkill": "幫手支援S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "波皇子"
+  },
+  {
+    "id": 395,
+    "name": "帝王拿波",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 3200,
+    "carry": 28,
+    "ingredientRate": 0.168,
+    "skillRate": 0.038,
+    "mainSkill": "幫手支援S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "帝王拿波"
+  },
+  {
+    "id": 403,
+    "name": "小貓怪",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 4400,
+    "carry": 11,
+    "ingredientRate": 0.18100000000000002,
+    "skillRate": 0.018000000000000002,
+    "mainSkill": "料理強化S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "小貓怪"
+  },
+  {
+    "id": 404,
+    "name": "勒克貓",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 3200,
+    "carry": 21,
+    "ingredientRate": 0.182,
+    "skillRate": 0.018000000000000002,
+    "mainSkill": "料理強化S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "勒克貓"
+  },
+  {
+    "id": 405,
+    "name": "倫琴貓",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2400,
+    "carry": 31,
+    "ingredientRate": 0.2,
+    "skillRate": 0.023,
+    "mainSkill": "料理強化S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "倫琴貓"
+  },
+  {
+    "id": 425,
+    "name": "飄飄球",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 4800,
+    "carry": 9,
+    "ingredientRate": 0.13699999999999998,
+    "skillRate": 0.071,
+    "mainSkill": "蓄力（能量填充S）",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "飄飄球"
+  },
+  {
+    "id": 426,
+    "name": "隨風球",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 2500,
+    "carry": 22,
+    "ingredientRate": 0.128,
+    "skillRate": 0.063,
+    "mainSkill": "蓄力（能量填充S）",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "隨風球"
+  },
+  {
+    "id": 430,
+    "name": "烏鴉頭頭",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 3200,
+    "carry": 23,
+    "ingredientRate": 0.14300000000000002,
+    "skillRate": 0.067,
+    "mainSkill": "超幸運（食材精選S）",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          3,
+          6
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "烏鴉頭頭"
+  },
+  {
+    "id": 438,
+    "name": "盆才怪",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 6300,
+    "carry": 8,
+    "ingredientRate": 0.18899999999999997,
+    "skillRate": 0.061,
+    "mainSkill": "能量填充M",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "盆才怪"
+  },
+  {
+    "id": 439,
+    "name": "魔尼尼",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 4300,
+    "carry": 10,
+    "ingredientRate": 0.201,
+    "skillRate": 0.032,
+    "mainSkill": "模仿（技能複製）",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "魔尼尼"
+  },
+  {
+    "id": 440,
+    "name": "小福蛋",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 5400,
+    "carry": 7,
+    "ingredientRate": 0.21,
+    "skillRate": 0.013000000000000001,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "小福蛋"
+  },
+  {
+    "id": 442,
+    "name": "花岩怪",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 3500,
+    "carry": 27,
+    "ingredientRate": 0.198,
+    "skillRate": 0.036000000000000004,
+    "mainSkill": "幫手支援S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "花岩怪"
+  },
+  {
+    "id": 447,
+    "name": "利歐路",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 4200,
+    "carry": 9,
+    "ingredientRate": 0.126,
+    "skillRate": 0.038,
+    "mainSkill": "夢之碎片獲取S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "利歐路"
+  },
+  {
+    "id": 448,
+    "name": "路卡利歐",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 2600,
+    "carry": 19,
+    "ingredientRate": 0.15,
+    "skillRate": 0.051,
+    "mainSkill": "波導彈（夢之碎片獲取S）",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "路卡利歐"
+  },
+  {
+    "id": 453,
+    "name": "不良蛙",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 5600,
+    "carry": 10,
+    "ingredientRate": 0.228,
+    "skillRate": 0.042,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          5,
+          8
+        ]
+      }
+    ],
+    "formKey": "不良蛙"
+  },
+  {
+    "id": 454,
+    "name": "毒骷蛙",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 3400,
+    "carry": 19,
+    "ingredientRate": 0.22899999999999998,
+    "skillRate": 0.043,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          5,
+          8
+        ]
+      }
+    ],
+    "formKey": "毒骷蛙"
+  },
+  {
+    "id": 459,
+    "name": "雪笠怪",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 5600,
+    "carry": 10,
+    "ingredientRate": 0.251,
+    "skillRate": 0.044000000000000004,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "雪笠怪"
+  },
+  {
+    "id": 460,
+    "name": "暴雪王",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 3000,
+    "carry": 26,
+    "ingredientRate": 0.25,
+    "skillRate": 0.044000000000000004,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "暴雪王"
+  },
+  {
+    "id": 461,
+    "name": "瑪狃拉",
+    "specialty": "树果型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 2700,
+    "carry": 26,
+    "ingredientRate": 0.251,
+    "skillRate": 0.018000000000000002,
+    "mainSkill": "料理成功S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "瑪狃拉"
+  },
+  {
+    "id": 462,
+    "name": "自爆磁怪",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 3100,
+    "carry": 23,
+    "ingredientRate": 0.179,
+    "skillRate": 0.062,
+    "mainSkill": "料理強化S",
+    "friendship": 22,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          3
+        ]
+      }
+    ],
+    "formKey": "自爆磁怪"
+  },
+  {
+    "id": 468,
+    "name": "波克基斯",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 2600,
+    "carry": 26,
+    "ingredientRate": 0.158,
+    "skillRate": 0.053,
+    "mainSkill": "揮指",
+    "friendship": 22,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "波克基斯"
+  },
+  {
+    "id": 470,
+    "name": "葉伊布",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 3000,
+    "carry": 18,
+    "ingredientRate": 0.205,
+    "skillRate": 0.069,
+    "mainSkill": "活力療癒S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "葉伊布"
+  },
+  {
+    "id": 471,
+    "name": "冰伊布",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 3200,
+    "carry": 17,
+    "ingredientRate": 0.21899999999999997,
+    "skillRate": 0.063,
+    "mainSkill": "料理強化S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "冰伊布"
+  },
+  {
+    "id": 475,
+    "name": "艾路雷朵",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 2400,
+    "carry": 29,
+    "ingredientRate": 0.147,
+    "skillRate": 0.054000000000000006,
+    "mainSkill": "幫手支援S",
+    "friendship": 22,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "艾路雷朵"
+  },
+  {
+    "id": 488,
+    "name": "克雷色利亞",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 2300,
+    "carry": 22,
+    "ingredientRate": 0.239,
+    "skillRate": 0.040999999999999995,
+    "mainSkill": "新月祈禱（活力全體療癒S）",
+    "friendship": 30,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "克雷色利亞"
+  },
+  {
+    "id": 491,
+    "name": "達克萊伊",
+    "specialty": "全部",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 2900,
+    "carry": 28,
+    "ingredientRate": 0.192,
+    "skillRate": 0.023,
+    "mainSkill": "夢魘（能量填充M）",
+    "friendship": 25,
+    "medalGroup": null,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          2,
+          3,
+          5
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "formKey": "達克萊伊"
+  },
+  {
+    "id": 517,
+    "name": "食夢夢",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 5700,
+    "carry": 12,
+    "ingredientRate": 0.19699999999999998,
+    "skillRate": 0.043,
+    "mainSkill": "夢之碎片獲取S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "食夢夢"
+  },
+  {
+    "id": 518,
+    "name": "夢夢蝕",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "芒芒果",
+    "berryType": "超能",
+    "interval": 2800,
+    "carry": 29,
+    "ingredientRate": 0.188,
+    "skillRate": 0.040999999999999995,
+    "mainSkill": "夢之碎片獲取S(X~Y)",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "夢夢蝕"
+  },
+  {
+    "id": 557,
+    "name": "石居蟹",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 4300,
+    "carry": 8,
+    "ingredientRate": 0.175,
+    "skillRate": 0.054000000000000006,
+    "mainSkill": "食材精選S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "石居蟹"
+  },
+  {
+    "id": 558,
+    "name": "岩殿居蟹",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 3200,
+    "carry": 22,
+    "ingredientRate": 0.239,
+    "skillRate": 0.064,
+    "mainSkill": "食材精選S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          5
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "岩殿居蟹"
+  },
+  {
+    "id": 627,
+    "name": "毛頭小鷹",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "椰木果",
+    "berryType": "飞行",
+    "interval": 3800,
+    "carry": 10,
+    "ingredientRate": 0.125,
+    "skillRate": 0.031,
+    "mainSkill": "樹果遽增",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "毛頭小鷹"
+  },
+  {
+    "id": 628,
+    "name": "勇士雄鷹",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "椰木果",
+    "berryType": "飞行",
+    "interval": 2400,
+    "carry": 23,
+    "ingredientRate": 0.121,
+    "skillRate": 0.035,
+    "mainSkill": "樹果遽增",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "勇士雄鷹"
+  },
+  {
+    "id": 696,
+    "name": "寶寶暴龍",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 5200,
+    "carry": 11,
+    "ingredientRate": 0.203,
+    "skillRate": 0.024,
+    "mainSkill": "料理強化S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "寶寶暴龍"
+  },
+  {
+    "id": 697,
+    "name": "怪顎龍",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "文柚果",
+    "berryType": "岩石",
+    "interval": 2800,
+    "carry": 28,
+    "ingredientRate": 0.17800000000000002,
+    "skillRate": 0.028999999999999998,
+    "mainSkill": "料理強化S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "怪顎龍"
+  },
+  {
+    "id": 700,
+    "name": "仙子伊布",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 2600,
+    "carry": 20,
+    "ingredientRate": 0.17800000000000002,
+    "skillRate": 0.04,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "仙子伊布"
+  },
+  {
+    "id": 701,
+    "name": "摔角鷹人",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "椰木果",
+    "berryType": "飞行",
+    "interval": 2400,
+    "carry": 21,
+    "ingredientRate": 0.192,
+    "skillRate": 0.052000000000000005,
+    "mainSkill": "食材精選S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "摔角鷹人"
+  },
+  {
+    "id": 702,
+    "name": "咚咚鼠",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2500,
+    "carry": 19,
+    "ingredientRate": 0.177,
+    "skillRate": 0.045,
+    "mainSkill": "料理成功S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "咚咚鼠"
+  },
+  {
+    "id": 710,
+    "name": "南瓜精(中顆種)",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 5400,
+    "carry": 11,
+    "ingredientRate": 0.12,
+    "skillRate": 0.049,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          11,
+          18
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          15,
+          15,
+          15
+        ]
+      }
+    ],
+    "formKey": "南瓜精中顆種"
+  },
+  {
+    "id": 71002,
+    "name": "南瓜精(小顆種)",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 5300,
+    "carry": 7,
+    "ingredientRate": 0.12,
+    "skillRate": 0.049,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          11,
+          18
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          15,
+          15,
+          15
+        ]
+      }
+    ],
+    "formKey": "南瓜精小顆種"
+  },
+  {
+    "id": 71003,
+    "name": "南瓜精(大顆種)",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 5500,
+    "carry": 15,
+    "ingredientRate": 0.12,
+    "skillRate": 0.049,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          11,
+          18
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          15,
+          15,
+          15
+        ]
+      }
+    ],
+    "formKey": "南瓜精大顆種"
+  },
+  {
+    "id": 71004,
+    "name": "南瓜精(巨顆種)",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 5600,
+    "carry": 21,
+    "ingredientRate": 0.12,
+    "skillRate": 0.049,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          11,
+          18
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          15,
+          15,
+          15
+        ]
+      }
+    ],
+    "formKey": "南瓜精巨顆種"
+  },
+  {
+    "id": 711,
+    "name": "南瓜怪人(中顆種)",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 3200,
+    "carry": 19,
+    "ingredientRate": 0.13,
+    "skillRate": 0.049,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          11,
+          18
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          15,
+          15,
+          15
+        ]
+      }
+    ],
+    "formKey": "南瓜怪人中顆種"
+  },
+  {
+    "id": 71102,
+    "name": "南瓜怪人(小顆種)",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 3100,
+    "carry": 15,
+    "ingredientRate": 0.13,
+    "skillRate": 0.049,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          11,
+          18
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          15,
+          15,
+          15
+        ]
+      }
+    ],
+    "formKey": "南瓜怪人小顆種"
+  },
+  {
+    "id": 71103,
+    "name": "南瓜怪人(大顆種)",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 3300,
+    "carry": 24,
+    "ingredientRate": 0.13,
+    "skillRate": 0.049,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          11,
+          18
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          15,
+          15,
+          15
+        ]
+      }
+    ],
+    "formKey": "南瓜怪人大顆種"
+  },
+  {
+    "id": 71104,
+    "name": "南瓜怪人(巨顆種)",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 3400,
+    "carry": 30,
+    "ingredientRate": 0.13,
+    "skillRate": 0.049,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          11,
+          18
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          15,
+          15,
+          15
+        ]
+      }
+    ],
+    "formKey": "南瓜怪人巨顆種"
+  },
+  {
+    "id": 714,
+    "name": "嗡蝠",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 5100,
+    "carry": 7,
+    "ingredientRate": 0.198,
+    "skillRate": 0.048,
+    "mainSkill": "能量填充M",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "嗡蝠"
+  },
+  {
+    "id": 715,
+    "name": "音波龍",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 2700,
+    "carry": 23,
+    "ingredientRate": 0.195,
+    "skillRate": 0.048,
+    "mainSkill": "能量填充M",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "音波龍"
+  },
+  {
+    "id": 736,
+    "name": "強顎雞母蟲",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 4600,
+    "carry": 11,
+    "ingredientRate": 0.155,
+    "skillRate": 0.028999999999999998,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          11,
+          11,
+          11
+        ]
+      }
+    ],
+    "formKey": "強顎雞母蟲"
+  },
+  {
+    "id": 737,
+    "name": "蟲電寶",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 3300,
+    "carry": 20,
+    "ingredientRate": 0.154,
+    "skillRate": 0.027999999999999997,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          11,
+          11,
+          11
+        ]
+      }
+    ],
+    "formKey": "蟲電寶"
+  },
+  {
+    "id": 738,
+    "name": "鍬農炮蟲",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "木子果",
+    "berryType": "虫",
+    "interval": 2800,
+    "carry": 29,
+    "ingredientRate": 0.19399999999999998,
+    "skillRate": 0.051,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 22,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          11,
+          11,
+          11
+        ]
+      }
+    ],
+    "formKey": "鍬農炮蟲"
+  },
+  {
+    "id": 742,
+    "name": "萌虻",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 4500,
+    "carry": 9,
+    "ingredientRate": 0.19899999999999998,
+    "skillRate": 0.019,
+    "mainSkill": "食材精選S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "萌虻"
+  },
+  {
+    "id": 743,
+    "name": "蝶結萌虻",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 2300,
+    "carry": 24,
+    "ingredientRate": 0.19399999999999998,
+    "skillRate": 0.025,
+    "mainSkill": "食材精選S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 9,
+        "name": "甜甜蜜",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "蝶結萌虻"
+  },
+  {
+    "id": 759,
+    "name": "童偶熊",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 4100,
+    "carry": 13,
+    "ingredientRate": 0.225,
+    "skillRate": 0.011000000000000001,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          6,
+          10
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          9,
+          9,
+          9
+        ]
+      }
+    ],
+    "formKey": "童偶熊"
+  },
+  {
+    "id": 760,
+    "name": "穿著熊",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 2800,
+    "carry": 25,
+    "ingredientRate": 0.22899999999999998,
+    "skillRate": 0.013000000000000001,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          6,
+          10
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          9,
+          9,
+          9
+        ]
+      }
+    ],
+    "formKey": "穿著熊"
+  },
+  {
+    "id": 764,
+    "name": "花療環環",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 2500,
+    "carry": 20,
+    "ingredientRate": 0.16699999999999998,
+    "skillRate": 0.035,
+    "mainSkill": "活力療癒S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          6,
+          9
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "花療環環"
+  },
+  {
+    "id": 777,
+    "name": "托戈德瑪爾",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "靛莓果",
+    "berryType": "钢",
+    "interval": 2700,
+    "carry": 18,
+    "ingredientRate": 0.16899999999999998,
+    "skillRate": 0.055,
+    "mainSkill": "蹭蹭臉頰（活力療癒S）",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "托戈德瑪爾"
+  },
+  {
+    "id": 778,
+    "name": "謎擬Ｑ",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 2500,
+    "carry": 19,
+    "ingredientRate": 0.153,
+    "skillRate": 0.035,
+    "mainSkill": "畫皮（樹果遽增）",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "謎擬Ｑ"
+  },
+  {
+    "id": 780,
+    "name": "老翁龍",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "番荔果",
+    "berryType": "龙",
+    "interval": 3500,
+    "carry": 25,
+    "ingredientRate": 0.294,
+    "skillRate": 0.046,
+    "mainSkill": "料理成功S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          7,
+          7,
+          7
+        ]
+      }
+    ],
+    "formKey": "老翁龍"
+  },
+  {
+    "id": 845,
+    "name": "古月鳥",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "椰木果",
+    "berryType": "飞行",
+    "interval": 2700,
+    "carry": 19,
+    "ingredientRate": 0.165,
+    "skillRate": 0.039,
+    "mainSkill": "料理成功S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "古月鳥"
+  },
+  {
+    "id": 848,
+    "name": "毒電嬰",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 5600,
+    "carry": 6,
+    "ingredientRate": 0.209,
+    "skillRate": 0.048,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "毒電嬰"
+  },
+  {
+    "id": 849,
+    "name": "顫弦蠑螈（高調的樣子）",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 3100,
+    "carry": 23,
+    "ingredientRate": 0.239,
+    "skillRate": 0.064,
+    "mainSkill": "正電（食材獲取S）",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "顫弦蠑螈高調"
+  },
+  {
+    "id": 906,
+    "name": "新葉喵",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 4600,
+    "carry": 10,
+    "ingredientRate": 0.20800000000000002,
+    "skillRate": 0.023,
+    "mainSkill": "料理強化S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          6,
+          9
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "新葉喵"
+  },
+  {
+    "id": 907,
+    "name": "蒂蕾喵",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "金枕果",
+    "berryType": "草",
+    "interval": 3500,
+    "carry": 19,
+    "ingredientRate": 0.209,
+    "skillRate": 0.023,
+    "mainSkill": "料理強化S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          6,
+          9
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "蒂蕾喵"
+  },
+  {
+    "id": 908,
+    "name": "魔幻假面喵",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "异奇果",
+    "berryType": "恶",
+    "interval": 2600,
+    "carry": 28,
+    "ingredientRate": 0.19,
+    "skillRate": 0.022000000000000002,
+    "mainSkill": "料理強化S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          6,
+          9
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          8,
+          8,
+          8
+        ]
+      }
+    ],
+    "formKey": "魔幻假面喵"
+  },
+  {
+    "id": 909,
+    "name": "呆火鱷",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 4200,
+    "carry": 11,
+    "ingredientRate": 0.254,
+    "skillRate": 0.053,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "呆火鱷"
+  },
+  {
+    "id": 910,
+    "name": "炙燙鱷",
+    "specialty": "食材型",
+    "sleepType": "安然入睡",
+    "berry": "蘋野果",
+    "berryType": "火",
+    "interval": 3100,
+    "carry": 21,
+    "ingredientRate": 0.247,
+    "skillRate": 0.05,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "炙燙鱷"
+  },
+  {
+    "id": 911,
+    "name": "骨紋巨聲鱷",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 2700,
+    "carry": 29,
+    "ingredientRate": 0.268,
+    "skillRate": 0.062,
+    "mainSkill": "活力填充S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 6,
+        "name": "火辣香草",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "骨紋巨聲鱷"
+  },
+  {
+    "id": 912,
+    "name": "潤水鴨",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 4800,
+    "carry": 10,
+    "ingredientRate": 0.261,
+    "skillRate": 0.027999999999999997,
+    "mainSkill": "能量填充M",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "潤水鴨"
+  },
+  {
+    "id": 913,
+    "name": "湧躍鴨",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "橙橙果",
+    "berryType": "水",
+    "interval": 3600,
+    "carry": 19,
+    "ingredientRate": 0.259,
+    "skillRate": 0.027000000000000003,
+    "mainSkill": "能量填充M",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "湧躍鴨"
+  },
+  {
+    "id": 914,
+    "name": "狂歡浪舞鴨",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "樱子果",
+    "berryType": "格斗",
+    "interval": 2600,
+    "carry": 29,
+    "ingredientRate": 0.23199999999999998,
+    "skillRate": 0.024,
+    "mainSkill": "能量填充M",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          6,
+          6,
+          6
+        ]
+      }
+    ],
+    "formKey": "狂歡浪舞鴨"
+  },
+  {
+    "id": 921,
+    "name": "布撥",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 4600,
+    "carry": 9,
+    "ingredientRate": 0.111,
+    "skillRate": 0.036000000000000004,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          3,
+          6
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "布撥"
+  },
+  {
+    "id": 922,
+    "name": "布土撥",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 3300,
+    "carry": 17,
+    "ingredientRate": 0.109,
+    "skillRate": 0.036000000000000004,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          3,
+          6
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "布土撥"
+  },
+  {
+    "id": 923,
+    "name": "巴布土撥",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2400,
+    "carry": 28,
+    "ingredientRate": 0.141,
+    "skillRate": 0.039,
+    "mainSkill": "活力全體療癒S",
+    "friendship": 22,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          3,
+          6
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          5,
+          5,
+          5
+        ]
+      }
+    ],
+    "formKey": "巴布土撥"
+  },
+  {
+    "id": 957,
+    "name": "小鍛匠",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 4500,
+    "carry": 12,
+    "ingredientRate": 0.20199999999999999,
+    "skillRate": 0.016,
+    "mainSkill": "能量填充M",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "小鍛匠"
+  },
+  {
+    "id": 958,
+    "name": "巧鍛匠",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 3300,
+    "carry": 21,
+    "ingredientRate": 0.18600000000000003,
+    "skillRate": 0.018000000000000002,
+    "mainSkill": "能量填充M",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "巧鍛匠"
+  },
+  {
+    "id": 959,
+    "name": "巨鍛匠",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "interval": 2400,
+    "carry": 30,
+    "ingredientRate": 0.185,
+    "skillRate": 0.02,
+    "mainSkill": "能量填充M",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "巨鍛匠"
+  },
+  {
+    "id": 974,
+    "name": "走鯨",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 5100,
+    "carry": 12,
+    "ingredientRate": 0.223,
+    "skillRate": 0.042,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "走鯨"
+  },
+  {
+    "id": 975,
+    "name": "浩大鯨",
+    "specialty": "食材型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 2800,
+    "carry": 30,
+    "ingredientRate": 0.209,
+    "skillRate": 0.042,
+    "mainSkill": "活力填充S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          5,
+          9
+        ]
+      },
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "浩大鯨"
+  },
+  {
+    "id": 980,
+    "name": "土王",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 3500,
+    "carry": 25,
+    "ingredientRate": 0.20800000000000002,
+    "skillRate": 0.055,
+    "mainSkill": "活力填充S",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          9,
+          9,
+          9
+        ]
+      }
+    ],
+    "formKey": "土王"
+  },
+  {
+    "id": 7006,
+    "name": "六尾（阿羅拉的樣子）",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 5600,
+    "carry": 10,
+    "ingredientRate": 0.23,
+    "skillRate": 0.027999999999999997,
+    "mainSkill": "幫手支援S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "六尾阿羅拉"
+  },
+  {
+    "id": 7007,
+    "name": "九尾（阿羅拉的樣子）",
+    "specialty": "树果型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 2900,
+    "carry": 25,
+    "ingredientRate": 0.23199999999999998,
+    "skillRate": 0.027999999999999997,
+    "mainSkill": "幫手支援S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "九尾阿羅拉"
+  },
+  {
+    "id": 7054,
+    "name": "烏波（帕底亞的樣子）",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 6400,
+    "carry": 9,
+    "ingredientRate": 0.209,
+    "skillRate": 0.055999999999999994,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          4,
+          7
+        ]
+      },
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          9,
+          9,
+          9
+        ]
+      }
+    ],
+    "formKey": "烏波帕底亞"
+  },
+  {
+    "id": 8001,
+    "name": "顫弦蠑螈（低調的樣子）",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 3100,
+    "carry": 23,
+    "ingredientRate": 0.239,
+    "skillRate": 0.064,
+    "mainSkill": "負電（料理強化S）",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          2,
+          4
+        ]
+      },
+      {
+        "id": 1,
+        "name": "粗枝大葱",
+        "amounts": [
+          2,
+          2,
+          2
+        ]
+      }
+    ],
+    "formKey": "顫弦蠑螈低調"
+  },
+  {
+    "id": 9001,
+    "name": "皮卡丘（萬聖節）",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2500,
+    "carry": 18,
+    "ingredientRate": 0.218,
+    "skillRate": 0.027999999999999997,
+    "mainSkill": "能量填充S(X~Y)",
+    "friendship": 7,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "皮卡丘萬聖節"
+  },
+  {
+    "id": 9002,
+    "name": "皮卡丘（佳節）",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2500,
+    "carry": 20,
+    "ingredientRate": 0.131,
+    "skillRate": 0.042,
+    "mainSkill": "夢之碎片獲取S(X)",
+    "friendship": 7,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "皮卡丘佳節"
+  },
+  {
+    "id": 9004,
+    "name": "伊布（佳節）",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 3100,
+    "carry": 20,
+    "ingredientRate": 0.156,
+    "skillRate": 0.032,
+    "mainSkill": "夢之碎片獲取S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "伊布佳節"
+  },
+  {
+    "id": 9005,
+    "name": "伊布（萬聖節）",
+    "specialty": "技能型",
+    "sleepType": "安然入睡",
+    "berry": "柿仔果",
+    "berryType": "一般",
+    "interval": 3200,
+    "carry": 18,
+    "ingredientRate": 0.12,
+    "skillRate": 0.046,
+    "mainSkill": "食材獲取S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 13,
+        "name": "放松可可",
+        "amounts": [
+          4,
+          6
+        ]
+      },
+      {
+        "id": 8,
+        "name": "哞哞鲜奶",
+        "amounts": [
+          9,
+          9,
+          9
+        ]
+      }
+    ],
+    "formKey": "伊布萬聖節"
+  },
+  {
+    "id": 9006,
+    "name": "海豹球（佳節）",
+    "specialty": "技能型",
+    "sleepType": "深深入眠",
+    "berry": "莓莓果",
+    "berryType": "冰",
+    "interval": 3300,
+    "carry": 20,
+    "ingredientRate": 0.214,
+    "skillRate": 0.05,
+    "mainSkill": "料理成功S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 10,
+        "name": "纯粹油",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 7,
+        "name": "豆制肉",
+        "amounts": [
+          3,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          4,
+          4,
+          4
+        ]
+      }
+    ],
+    "formKey": "海豹球佳節"
+  },
+  {
+    "id": 9007,
+    "name": "皮卡丘（船長）",
+    "specialty": "树果型",
+    "sleepType": "安然入睡",
+    "berry": "萄葡果",
+    "berryType": "电",
+    "interval": 2500,
+    "carry": 21,
+    "ingredientRate": 0.175,
+    "skillRate": 0.018000000000000002,
+    "mainSkill": "食材獲取S",
+    "friendship": 7,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 5,
+        "name": "特选苹果",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          3,
+          3,
+          3
+        ]
+      }
+    ],
+    "formKey": "皮卡丘船長"
+  },
+  {
+    "id": 590,
+    "name": "哎呀球菇",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 5700,
+    "carry": 12,
+    "ingredientRate": 0.174,
+    "skillRate": 0.035,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          7,
+          10
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          11
+        ]
+      }
+    ],
+    "formKey": "哎呀球菇"
+  },
+  {
+    "id": 591,
+    "name": "敗露球菇",
+    "specialty": "食材型",
+    "sleepType": "淺淺入夢",
+    "berry": "零余果",
+    "berryType": "毒",
+    "interval": 3500,
+    "carry": 19,
+    "ingredientRate": 0.204,
+    "skillRate": 0.047,
+    "mainSkill": "能量填充S(X)",
+    "friendship": 12,
+    "medalGroup": 2,
+    "ingredients": [
+      {
+        "id": 2,
+        "name": "品鲜蘑菇",
+        "amounts": [
+          2,
+          5,
+          7
+        ]
+      },
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "amounts": [
+          7,
+          10
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          11
+        ]
+      }
+    ],
+    "formKey": "敗露球菇"
+  },
+  {
+    "id": 200,
+    "name": "夢妖",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 2800,
+    "carry": 13,
+    "ingredientRate": 0.15,
+    "skillRate": 0.047,
+    "mainSkill": "料理強化S",
+    "friendship": 16,
+    "medalGroup": 3,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          4
+        ]
+      }
+    ],
+    "formKey": "夢妖"
+  },
+  {
+    "id": 429,
+    "name": "夢妖魔",
+    "specialty": "技能型",
+    "sleepType": "淺淺入夢",
+    "berry": "墨莓果",
+    "berryType": "幽灵",
+    "interval": 2400,
+    "carry": 17,
+    "ingredientRate": 0.142,
+    "skillRate": 0.036,
+    "mainSkill": "魔法火焰（料理跃进S）",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      {
+        "id": 4,
+        "name": "窝心洋芋",
+        "amounts": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "id": 17,
+        "name": "醒脑咖啡豆",
+        "amounts": [
+          2,
+          3
+        ]
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "amounts": [
+          4
+        ]
+      }
+    ],
+    "formKey": "夢妖魔"
+  }
+]

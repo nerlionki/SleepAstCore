@@ -1,0 +1,779 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-27",
+  "notes": "Runtime limits, search tuning and model defaults. Keys are stable local IDs; descriptions retain the original expression. Mathematical identities, units, RNG, schema indices and handler bindings remain code.",
+  "modules": {
+    "activities": {
+      "validDate": {
+        "values": {
+          "p001": 10
+        },
+        "descriptions": {
+          "p001": "new Date(value).toISOString().slice(0, 10)"
+        }
+      },
+      "validateActivityOverrides": {
+        "values": {
+          "p001": 10000
+        },
+        "descriptions": {
+          "p001": "n > 10000"
+        }
+      },
+      "parseActivityCatalog": {
+        "values": {
+          "p001": 6
+        },
+        "descriptions": {
+          "p001": "n > 6"
+        }
+      },
+      "localActivityDate": {
+        "values": {
+          "p001": 4
+        },
+        "descriptions": {
+          "p001": "date.getHours() - 4"
+        }
+      },
+      "offsetActivityDate": {
+        "values": {
+          "p001": 10
+        },
+        "descriptions": {
+          "p001": "new Date(Date.parse(date) + days * 86400000).toISOString().slice(0, 10)"
+        }
+      },
+      "createActivityContext": {
+        "values": {
+          "p001": 6,
+          "p002": 7
+        },
+        "descriptions": {
+          "p001": "new Date(gameDate).getUTCDay() + 6",
+          "p002": "(new Date(gameDate).getUTCDay() + 6) % 7"
+        }
+      },
+      "activityDate": {
+        "values": {
+          "p001": 240,
+          "p002": 240
+        },
+        "descriptions": {
+          "p001": "minute = 240",
+          "p002": "minute - 240"
+        }
+      },
+      "activeActivities": {
+        "values": {
+          "p001": 240
+        },
+        "descriptions": {
+          "p001": "minute = 240"
+        }
+      },
+      "activityValues": {
+        "values": {
+          "p001": 240,
+          "p002": 240
+        },
+        "descriptions": {
+          "p001": "minute = 240",
+          "p002": "minute - 240"
+        }
+      }
+    },
+    "babyEfficiency": {
+      "normalizeBabyEfficiencyPokemonId": {
+        "values": {
+          "p001": 710
+        },
+        "descriptions": {
+          "p001": "PUMPKABOO_IDS.some(id => id === pokeId) ? 710 : pokeId"
+        }
+      },
+      "babyEfficiencyTargetIds": {
+        "values": {
+          "p001": 710
+        },
+        "descriptions": {
+          "p001": "normalizeBabyEfficiencyPokemonId(pokeId) === 710"
+        }
+      },
+      "babyEfficiencySteps": {
+        "values": {
+          "p001": 10,
+          "p002": 5,
+          "p003": 8,
+          "p004": 99,
+          "p005": 100,
+          "p006": 100,
+          "p007": 240,
+          "p008": 100,
+          "p009": 100,
+          "p010": 4,
+          "p011": 4,
+          "p012": 99
+        },
+        "descriptions": {
+          "p001": "options.precision === 'low' ? 10 : options.precision === 'medium' ? 5 : 1",
+          "p002": "options.precision === 'medium' ? 5 : 1",
+          "p003": "options.precision === 'low' ? 8 : options.precision === 'medium' ? 2 : 1",
+          "p004": "99 / step",
+          "p005": "baseSplits.push(100)",
+          "p006": "Date.now() - progressTime < 100",
+          "p007": "activityValues(context, originalIsland.id, undefined, 240, { drowsyPowerMultiplier: baseOptions.eventMult, eventMix: normalizeEventMix(baseOptions.eventMix) })",
+          "p008": "first === 100",
+          "p009": "100 - first",
+          "p010": "version: 4",
+          "p011": "options.precision === 'medium' ? 4 : 0",
+          "p012": "score <= 99"
+        }
+      }
+    },
+    "babyEfficiencyDraw": {
+      "simulateEfficiencySlots": {
+        "values": {
+          "p001": 8,
+          "p002": 4,
+          "p003": 4
+        },
+        "descriptions": {
+          "p001": "length: 8",
+          "p002": "mask & 4",
+          "p003": "Number(belly) * 4"
+        }
+      },
+      "efficiencyRewardsAfterResearch": {
+        "values": {
+          "p001": 10
+        },
+        "descriptions": {
+          "p001": "researchedBefore + slot >= 10"
+        }
+      }
+    },
+    "boxFilter": {
+      "slotOpen": {
+        "values": {
+          "p001": 30,
+          "p002": 60
+        },
+        "descriptions": {
+          "p001": "level >= 30",
+          "p002": "level >= 60"
+        }
+      }
+    },
+    "boxio": {
+      "fromAny": {
+        "values": {
+          "p001": 16,
+          "p002": 8
+        },
+        "descriptions": {
+          "p001": "Math.random().toString(16)",
+          "p002": "Math.random().toString(16).slice(2, 8)"
+        }
+      }
+    },
+    "candyPlan": {
+      "calculateCandy": {
+        "values": {
+          "p001": 100000
+        },
+        "descriptions": {
+          "p001": "use > 100000"
+        }
+      }
+    },
+    "catch": {
+      "module": {
+        "values": {
+          "p001": 4
+        },
+        "descriptions": {
+          "p001": "style.stars > 4"
+        }
+      },
+      "mergeGoals": {
+        "values": {
+          "p001": 5
+        },
+        "descriptions": {
+          "p001": "n <= 5"
+        }
+      },
+      "recommendIslands": {
+        "values": {
+          "p001": 4,
+          "p002": 5
+        },
+        "descriptions": {
+          "p001": "Math.min(stars.length, 4)",
+          "p002": "star >= 5"
+        }
+      }
+    },
+    "evolution": {
+      "conditionText": {
+        "values": {
+          "p001": 18,
+          "p002": 6
+        },
+        "descriptions": {
+          "p001": "start >= 18",
+          "p002": "start < 6"
+        }
+      },
+      "evolutionStages": {
+        "values": {
+          "p001": 5
+        },
+        "descriptions": {
+          "p001": "guard < 5"
+        }
+      }
+    },
+    "helpSpeed": {
+      "instantInterval": {
+        "values": {
+          "p001": 10000,
+          "p002": 10000
+        },
+        "descriptions": {
+          "p001": "multiplier * 10000",
+          "p002": "Math.floor(multiplier * 10000 + 1e-10) / 10000"
+        }
+      }
+    },
+    "iqdoohBox": {
+      "parseIqdoohEntry": {
+        "values": {
+          "p001": 5
+        },
+        "descriptions": {
+          "p001": "length: 5"
+        }
+      }
+    },
+    "items": {
+      "module": {
+        "values": {
+          "p001": 38,
+          "p002": 18,
+          "p003": 115
+        },
+        "descriptions": {
+          "p001": "38 + index * 18",
+          "p002": "index * 18",
+          "p003": "ruleCatalogs.modules.items.moduleList1.values.includes(id) ? 115 : id"
+        }
+      }
+    },
+    "mew": {
+      "module": {
+        "values": {
+          "p001": 151
+        },
+        "descriptions": {
+          "p001": "pokeById(151)"
+        }
+      }
+    },
+    "produce": {
+      "splitHelps": {
+        "values": {
+          "p001": 100
+        },
+        "descriptions": {
+          "p001": "count >= 100"
+        }
+      },
+      "produce": {
+        "values": {
+          "p001": 7,
+          "p002": 7,
+          "p003": 240,
+          "p004": 240,
+          "p005": 7,
+          "p006": 60,
+          "p007": 30
+        },
+        "descriptions": {
+          "p001": "settings.period === 'week' ? 7 : 1",
+          "p002": "settings.period === 'week' ? 7 : 1",
+          "p003": "day * 1440 + 240",
+          "p004": "slice?.minute ?? 240",
+          "p005": "settings.period === 'week' ? 7 : 1",
+          "p006": "input.level >= 60",
+          "p007": "input.level >= 30"
+        }
+      }
+    },
+    "scorePlan": {
+      "clockIn": {
+        "values": {
+          "p001": 1440
+        },
+        "descriptions": {
+          "p001": "(minute % 1440) + 1440"
+        }
+      },
+      "scoreBounds": {
+        "values": {
+          "p001": 7,
+          "p002": 240
+        },
+        "descriptions": {
+          "p001": "7 * 1440",
+          "p002": "7 * 1440 + 240"
+        }
+      },
+      "scoreSleeps": {
+        "values": {
+          "p001": 7,
+          "p002": 1440,
+          "p003": 100,
+          "p004": 5.1,
+          "p005": 240
+        },
+        "descriptions": {
+          "p001": "day <= 7",
+          "p002": "hm(sleep.end) - hm(sleep.start) + 1440",
+          "p003": "Math.min(100, Math.floor((b - a) / 5.1))",
+          "p004": "(b - a) / 5.1",
+          "p005": "a - 240"
+        }
+      },
+      "validateScoreOptions": {
+        "values": {
+          "p001": 6,
+          "p002": 7,
+          "p003": 240,
+          "p004": 5,
+          "p005": 240,
+          "p006": 2147483647,
+          "p007": 70,
+          "p008": 200,
+          "p009": 24,
+          "p010": 5,
+          "p011": 800,
+          "p012": 800,
+          "p013": 240,
+          "p014": 5,
+          "p015": 1440,
+          "p016": 0.85,
+          "p017": 1000
+        },
+        "descriptions": {
+          "p001": "integer(o.startDay, 0, 6)",
+          "p002": "7 - o.startDay",
+          "p003": "hm(o.startTime) < 240",
+          "p004": "integer(o.collectMinutes, 5, 240)",
+          "p005": "integer(o.collectMinutes, 5, 240)",
+          "p006": "integer(o.seed, 1, 2147483647)",
+          "p007": "o.initialCrit > 70",
+          "p008": "integer(o.initialPot, 0, 200)",
+          "p009": "o.initialZone > 24",
+          "p010": "integer(o.initialJuice, 0, 5)",
+          "p011": "integer(n, 0, 800)",
+          "p012": "Object.values(o.bag).reduce((a, b) => a + b, 0) > 800",
+          "p013": "integer(s.collectMinutes, 0, 240)",
+          "p014": "s.collectMinutes < 5",
+          "p015": "integer(s.settleDelay, 0, 1440)",
+          "p016": "settings.areaBonus > 0.85",
+          "p017": "integer(settings.potSize, 1, 1000)"
+        }
+      },
+      "scoreCandidates": {
+        "values": {
+          "p001": 60,
+          "p002": 30
+        },
+        "descriptions": {
+          "p001": "p.level >= 60",
+          "p002": "p.level >= 30"
+        }
+      },
+      "scoreTime": {
+        "values": {
+          "p001": 240,
+          "p002": 1440,
+          "p003": 6
+        },
+        "descriptions": {
+          "p001": "minute - 240",
+          "p002": "(Math.floor(minute) % 1440) + 1440",
+          "p003": "day > 6"
+        }
+      }
+    },
+    "scoreSearch": {
+      "policyPool": {
+        "values": {
+          "p001": 100,
+          "p002": 5,
+          "p003": 96,
+          "p004": 48,
+          "p005": 12,
+          "p006": 6,
+          "p007": 6,
+          "p008": 24,
+          "p009": 0.45,
+          "p010": 1.2,
+          "p011": 14000,
+          "p012": 6000,
+          "p013": 30000,
+          "p014": 0.2,
+          "p015": 14000,
+          "p016": 0.25,
+          "p017": 0.5,
+          "p018": 0.5,
+          "p019": 6,
+          "p020": 4,
+          "p021": 4,
+          "p022": 4
+        },
+        "descriptions": {
+          "p001": "wakeEnergy: 100",
+          "p002": "selected.length === 5",
+          "p003": "o.precision === 'high' ? 96 : 48",
+          "p004": "o.precision === 'high' ? 96 : 48",
+          "p005": "o.precision === 'high' ? 12 : 6",
+          "p006": "o.precision === 'high' ? 12 : 6",
+          "p007": "index < 6",
+          "p008": "index < 24",
+          "p009": "index < 24 ? 0.45 : 1.2",
+          "p010": "index < 24 ? 0.45 : 1.2",
+          "p011": "heal ? 14000 : 0",
+          "p012": "unlockedSubskills(r.pokemon.level, r.pokemon.subskills).includes('helpingBonus') ? 6000 : 0",
+          "p013": "unlockedSubskills(r.pokemon.level, r.pokemon.subskills).includes('sleepExp') ? 30000 : 0",
+          "p014": "berry * 0.2",
+          "p015": "needed * 14000",
+          "p016": "berry * 0.25",
+          "p017": "support * 0.5",
+          "p018": "random() - 0.5",
+          "p019": "index / 6",
+          "p020": "Math.floor(index / 6) % 4",
+          "p021": "index % 4",
+          "p022": "index % 4"
+        }
+      },
+      "scoreSearchSteps": {
+        "values": {
+          "p001": 60000,
+          "p002": 30000,
+          "p003": 24,
+          "p004": 12,
+          "p005": 5,
+          "p006": 0.65
+        },
+        "descriptions": {
+          "p001": "high ? 60000 : 30000",
+          "p002": "high ? 60000 : 30000",
+          "p003": "high ? 24 : 12",
+          "p004": "high ? 24 : 12",
+          "p005": "state.finalists.slice(0, 5)",
+          "p006": "budget * 0.65"
+        }
+      }
+    },
+    "scoreSimulation": {
+      "simulateScore": {
+        "values": {
+          "p001": 60,
+          "p002": 30,
+          "p003": 100,
+          "p004": 7,
+          "p005": 5,
+          "p006": 240,
+          "p007": 10,
+          "p008": 240,
+          "p009": 7,
+          "p010": 100,
+          "p011": 20,
+          "p012": 123
+        },
+        "descriptions": {
+          "p001": "pokemon.level >= 60",
+          "p002": "pokemon.level >= 30",
+          "p003": "energy: 100",
+          "p004": "Array(7)",
+          "p005": "uids.length > 5",
+          "p006": "t % 1440 === 240",
+          "p007": "t - m.decay >= 10",
+          "p008": "t - 240",
+          "p009": "d < 7",
+          "p010": "Math.min(100, policy.juiceAt)",
+          "p011": "20 * Math.max(1, target.factor)",
+          "p012": "Math.min(123, target.energy + recovered)"
+        }
+      },
+      "release": {
+        "values": {
+          "p001": 8,
+          "p002": 5,
+          "p003": 0.01
+        },
+        "descriptions": {
+          "p001": "depth > 8",
+          "p002": "juice.remain < 5",
+          "p003": "Math.abs(a.energy - previous.get(a.uid)!) > 0.01"
+        }
+      },
+      "settle": {
+        "values": {
+          "p001": 100
+        },
+        "descriptions": {
+          "p001": "100 - (dayScores.get(session.day) ?? 0)"
+        }
+      },
+      "cook": {
+        "values": {
+          "p001": 240,
+          "p002": 6
+        },
+        "descriptions": {
+          "p001": "currentMinute - 240",
+          "p002": "Math.floor((currentMinute - 240) / 1440) === 6"
+        }
+      }
+    },
+    "scoreSkills": {
+      "scoreSkill": {
+        "values": {
+          "p001": 8,
+          "p002": 5,
+          "p003": 10,
+          "p004": 12,
+          "p005": 6
+        },
+        "descriptions": {
+          "p001": "depth > 8",
+          "p002": "Math.min(5, Math.max(1, new Set(team.filter(m => m.berry === actor.berry).map(m => m.pokeId)).size))",
+          "p003": "actor.stockpile >= 10",
+          "p004": "target.energy - 12",
+          "p005": "1 / 6"
+        }
+      }
+    },
+    "skillEffects": {
+      "applyMainSkill": {
+        "values": {
+          "p001": 12,
+          "p002": 5,
+          "p003": 10,
+          "p004": 10,
+          "p005": 6,
+          "p006": 12,
+          "p007": 5
+        },
+        "descriptions": {
+          "p001": "id === 12",
+          "p002": "Math.min(5, Math.max(1, new Set(team.filter(member => member.poke.berry === actor.poke.berry).map(member => member.poke.id)).size))",
+          "p003": "stack === 10",
+          "p004": "stack < 10",
+          "p005": "1/6",
+          "p006": "12 * w",
+          "p007": "team.length === 5"
+        }
+      }
+    },
+    "sleep": {
+      "sleepDraw": {
+        "values": {
+          "p001": 240
+        },
+        "descriptions": {
+          "p001": "activityValues(activity, island, undefined, 240, { drowsyPowerMultiplier: opts.eventMult ?? 1, eventMix: normalizeEventMix(opts.eventMix), shinyUp: opts.shinyUp ?? false })"
+        }
+      },
+      "sleepExpectSteps": {
+        "values": {
+          "p001": 240,
+          "p002": 61,
+          "p003": 10,
+          "p004": 10
+        },
+        "descriptions": {
+          "p001": "activityValues(activity, island, undefined, 240, { drowsyPowerMultiplier: opts.eventMult ?? 1, eventMix: normalizeEventMix(opts.eventMix), shinyUp: opts.shinyUp ?? false })",
+          "p002": "x | 61",
+          "p003": "opts.researchLimit ?? 10",
+          "p004": "opts.researchLimit ?? 10"
+        }
+      }
+    },
+    "sleepSimulation": {
+      "prepareActivityRequest": {
+        "values": {
+          "p001": 240
+        },
+        "descriptions": {
+          "p001": "activityValues(activity, request.island, undefined, 240, { drowsyPowerMultiplier: request.options.eventMult ?? 1, eventMix: normalizeEventMix(request.options.eventMix), shinyUp: request.options.shinyUp ?? false })"
+        }
+      },
+      "validResearchOptions": {
+        "values": {
+          "p001": 100,
+          "p002": 10,
+          "p003": 5
+        },
+        "descriptions": {
+          "p001": "value <= 100",
+          "p002": "request.options.researchLimit ?? 10",
+          "p003": "value <= 5"
+        }
+      },
+      "sleepSimulationSteps": {
+        "values": {
+          "p001": 4,
+          "p002": 4
+        },
+        "descriptions": {
+          "p001": "version: 4",
+          "p002": "version: 4"
+        }
+      }
+    },
+    "splitSleep": {
+      "splitSleepSteps": {
+        "values": {
+          "p001": 240,
+          "p002": 9,
+          "p003": 100,
+          "p004": 9,
+          "p005": 9,
+          "p006": 100,
+          "p007": 99,
+          "p008": 100,
+          "p009": 100
+        },
+        "descriptions": {
+          "p001": "activityValues(context, request.splitOptions.island, undefined, 240, { drowsyPowerMultiplier: request.splitOptions.eventMult, eventMix: normalizeEventMix(request.splitOptions.eventMix) })",
+          "p002": "session.candies.length !== 9",
+          "p003": "score <= 100",
+          "p004": "length: 9",
+          "p005": "Array(9)",
+          "p006": "100 - first",
+          "p007": "99 - first",
+          "p008": "a <= 100",
+          "p009": "a === 100"
+        }
+      }
+    },
+    "timeline": {
+      "clockOf": {
+        "values": {
+          "p001": 1440
+        },
+        "descriptions": {
+          "p001": "(minute % 1440) + 1440"
+        }
+      },
+      "expectedHelp": {
+        "values": {
+          "p001": 60,
+          "p002": 30
+        },
+        "descriptions": {
+          "p001": "m.input.level >= 60",
+          "p002": "m.input.level >= 30"
+        }
+      },
+      "dispatchSkill": {
+        "values": {
+          "p001": 12,
+          "p002": 8
+        },
+        "descriptions": {
+          "p001": "depth > 12",
+          "p002": "Math.min(8, effectiveSkillLevel(m.input.level, m.input.skillLevel, m.input.subskills, '十项全能') + ex.skillLevels)"
+        }
+      },
+      "applyHelp": {
+        "values": {
+          "p001": 60,
+          "p002": 30,
+          "p003": 13,
+          "p004": 7
+        },
+        "descriptions": {
+          "p001": "m.input.level >= 60",
+          "p002": "m.input.level >= 30",
+          "p003": "seed + 13",
+          "p004": "seed + 7"
+        }
+      },
+      "completeHelps": {
+        "values": {
+          "p001": 31
+        },
+        "descriptions": {
+          "p001": "index * 31"
+        }
+      },
+      "simulateTeam": {
+        "values": {
+          "p001": 240,
+          "p002": 17,
+          "p003": 17
+        },
+        "descriptions": {
+          "p001": "t % 1440 === 240",
+          "p002": "q.index * 17",
+          "p003": "q.index * 17"
+        }
+      }
+    },
+    "train": {
+      "trainPlan": {
+        "values": {
+          "p001": 240
+        },
+        "descriptions": {
+          "p001": "day * 1440 + 240"
+        }
+      }
+    },
+    "whistle": {
+      "whistleMember": {
+        "values": {
+          "p001": 100,
+          "p002": 60,
+          "p003": 30,
+          "p004": 5,
+          "p005": 5
+        },
+        "descriptions": {
+          "p001": "energyMultiplier(100)",
+          "p002": "pokemon.level >= 60",
+          "p003": "pokemon.level >= 30",
+          "p004": "berries * berryUnitEnergy * 5",
+          "p005": "Math.round(berries * berryUnitEnergy * 5) / 5"
+        }
+      },
+      "invalidMember": {
+        "values": {
+          "p001": 60,
+          "p002": 30
+        },
+        "descriptions": {
+          "p001": "pokemon.level >= 60",
+          "p002": "pokemon.level >= 30"
+        }
+      }
+    },
+    "xp": {
+      "xpCandy": {
+        "values": {
+          "p001": 5
+        },
+        "descriptions": {
+          "p001": "opts.boost ? 5 : 1"
+        }
+      }
+    }
+  }
+}
