@@ -1,0 +1,931 @@
+{
+  "schemaVersion": 1,
+  "generatedOn": "2026-10-29",
+  "level": 70,
+  "ribbonHours": 2000,
+  "wakeEnergy": 100,
+  "helpingBonus": 5,
+  "activeSubskills": 4,
+  "sourceVersion": "1.0.1",
+  "sourceHash": "9a3a8ea3904305b7a1d2b711a557e3b1fb51d9155fe36c2a453e619b2f7f7403",
+  "berries": {
+    "柿仔果": [
+      {
+        "id": 288,
+        "name": "過動猿",
+        "total": 406.2,
+        "mode": "full"
+      },
+      {
+        "id": 20,
+        "name": "拉達",
+        "total": 387.4,
+        "mode": "full"
+      },
+      {
+        "id": 820,
+        "name": "藏饱栗鼠",
+        "total": 387.4,
+        "mode": "full"
+      },
+      {
+        "id": 9004,
+        "name": "伊布（佳節）",
+        "total": 368.7,
+        "mode": "full"
+      },
+      {
+        "id": 288,
+        "name": "過動猿",
+        "total": 351,
+        "mode": "normal"
+      }
+    ],
+    "蘋野果": [
+      {
+        "id": 157,
+        "name": "火爆獸",
+        "total": 476.4,
+        "mode": "full"
+      },
+      {
+        "id": 38,
+        "name": "九尾",
+        "total": 440,
+        "mode": "full"
+      },
+      {
+        "id": 155,
+        "name": "火球鼠",
+        "total": 435.6,
+        "mode": "full"
+      },
+      {
+        "id": 156,
+        "name": "火岩鼠",
+        "total": 433.4,
+        "mode": "full"
+      },
+      {
+        "id": 157,
+        "name": "火爆獸",
+        "total": 397.2,
+        "mode": "normal"
+      }
+    ],
+    "橙橙果": [
+      {
+        "id": 160,
+        "name": "大力鱷",
+        "total": 408.1,
+        "mode": "full"
+      },
+      {
+        "id": 159,
+        "name": "藍鱷",
+        "total": 382.2,
+        "mode": "full"
+      },
+      {
+        "id": 394,
+        "name": "波皇子",
+        "total": 351.2,
+        "mode": "full"
+      },
+      {
+        "id": 394,
+        "name": "波皇子",
+        "total": 344.8,
+        "mode": "normal"
+      },
+      {
+        "id": 158,
+        "name": "小鋸鱷",
+        "total": 338.8,
+        "mode": "full"
+      }
+    ],
+    "萄葡果": [
+      {
+        "id": 26,
+        "name": "雷丘",
+        "total": 519.4,
+        "mode": "full"
+      },
+      {
+        "id": 25,
+        "name": "皮卡丘",
+        "total": 481.7,
+        "mode": "full"
+      },
+      {
+        "id": 9001,
+        "name": "皮卡丘（萬聖節）",
+        "total": 457.1,
+        "mode": "full"
+      },
+      {
+        "id": 9007,
+        "name": "皮卡丘（船長）",
+        "total": 457.1,
+        "mode": "full"
+      },
+      {
+        "id": 26,
+        "name": "雷丘",
+        "total": 426.3,
+        "mode": "normal"
+      }
+    ],
+    "金枕果": [
+      {
+        "id": 254,
+        "name": "蜥蜴王",
+        "total": 489.0,
+        "mode": "unlimited"
+      },
+      {
+        "id": 253,
+        "name": "森林蜥蜴",
+        "total": 421.9,
+        "mode": "unlimited"
+      },
+      {
+        "id": 154,
+        "name": "大竺葵",
+        "total": 408.1,
+        "mode": "full"
+      },
+      {
+        "id": 153,
+        "name": "月桂葉",
+        "total": 393.9,
+        "mode": "full"
+      },
+      {
+        "id": 154,
+        "name": "大竺葵",
+        "total": 351,
+        "mode": "normal"
+      }
+    ],
+    "莓莓果": [
+      {
+        "id": 7007,
+        "name": "九尾（阿羅拉的樣子）",
+        "total": 393.9,
+        "mode": "full"
+      },
+      {
+        "id": 365,
+        "name": "帝牙海獅",
+        "total": 381.1,
+        "mode": "full"
+      },
+      {
+        "id": 7007,
+        "name": "九尾（阿羅拉的樣子）",
+        "total": 370.6,
+        "mode": "normal"
+      },
+      {
+        "id": 7007,
+        "name": "九尾（阿羅拉的樣子）",
+        "total": 366.6,
+        "mode": "unlimited"
+      },
+      {
+        "id": 365,
+        "name": "帝牙海獅",
+        "total": 327,
+        "mode": "normal"
+      }
+    ],
+    "樱子果": [
+      {
+        "id": 392,
+        "name": "烈焰猴",
+        "total": 494.7,
+        "mode": "unlimited"
+      },
+      {
+        "id": 257,
+        "name": "火焰雞",
+        "total": 440,
+        "mode": "full"
+      },
+      {
+        "id": 391,
+        "name": "猛火猴",
+        "total": 436.4,
+        "mode": "unlimited"
+      },
+      {
+        "id": 57,
+        "name": "火爆猴",
+        "total": 408.1,
+        "mode": "full"
+      },
+      {
+        "id": 257,
+        "name": "火焰雞",
+        "total": 386.1,
+        "mode": "normal"
+      }
+    ],
+    "零余果": [
+      {
+        "id": 24,
+        "name": "阿柏怪",
+        "total": 336.1,
+        "mode": "full"
+      },
+      {
+        "id": 24,
+        "name": "阿柏怪",
+        "total": 265.2,
+        "mode": "normal"
+      },
+      {
+        "id": 23,
+        "name": "阿柏蛇",
+        "total": 259.7,
+        "mode": "full"
+      },
+      {
+        "id": 23,
+        "name": "阿柏蛇",
+        "total": 210.9,
+        "mode": "normal"
+      },
+      {
+        "id": 849,
+        "name": "顫弦蠑螈（高調的樣子）",
+        "total": 198,
+        "mode": "normal"
+      }
+    ],
+    "勿花果": [
+      {
+        "id": 260,
+        "name": "巨沼怪",
+        "total": 408.1,
+        "mode": "full"
+      },
+      {
+        "id": 259,
+        "name": "沼躍魚",
+        "total": 371.3,
+        "mode": "full"
+      },
+      {
+        "id": 260,
+        "name": "巨沼怪",
+        "total": 360,
+        "mode": "normal"
+      },
+      {
+        "id": 105,
+        "name": "嘎啦嘎啦",
+        "total": 346.5,
+        "mode": "full"
+      },
+      {
+        "id": 259,
+        "name": "沼躍魚",
+        "total": 336,
+        "mode": "normal"
+      }
+    ],
+    "椰木果": [
+      {
+        "id": 85,
+        "name": "嘟嘟利",
+        "total": 497.4,
+        "mode": "full"
+      },
+      {
+        "id": 628,
+        "name": "勇士雄鷹",
+        "total": 497.1,
+        "mode": "unlimited"
+      },
+      {
+        "id": 85,
+        "name": "嘟嘟利",
+        "total": 424.2,
+        "mode": "normal"
+      },
+      {
+        "id": 627,
+        "name": "毛頭小鷹",
+        "total": 343.1,
+        "mode": "unlimited"
+      },
+      {
+        "id": 84,
+        "name": "嘟嘟",
+        "total": 341.9,
+        "mode": "full"
+      }
+    ],
+    "芒芒果": [
+      {
+        "id": 488,
+        "name": "克雷色利亞",
+        "total": 465.0,
+        "mode": "normal"
+      },
+      {
+        "id": 178,
+        "name": "天然鳥",
+        "total": 457.1,
+        "mode": "full"
+      },
+      {
+        "id": 178,
+        "name": "天然鳥",
+        "total": 411,
+        "mode": "normal"
+      },
+      {
+        "id": 518,
+        "name": "夢夢蝕",
+        "total": 408.1,
+        "mode": "full"
+      },
+      {
+        "id": 151,
+        "name": "夢幻",
+        "total": 391.1,
+        "mode": "normal"
+      }
+    ],
+    "木子果": [
+      {
+        "id": 12,
+        "name": "巴大蝶",
+        "total": 457.1,
+        "mode": "full"
+      },
+      {
+        "id": 12,
+        "name": "巴大蝶",
+        "total": 411,
+        "mode": "normal"
+      },
+      {
+        "id": 10,
+        "name": "綠毛蟲",
+        "total": 346.5,
+        "mode": "full"
+      },
+      {
+        "id": 10,
+        "name": "綠毛蟲",
+        "total": 315,
+        "mode": "normal"
+      },
+      {
+        "id": 11,
+        "name": "鐵甲蛹",
+        "total": 309.2,
+        "mode": "full"
+      }
+    ],
+    "文柚果": [
+      {
+        "id": 95,
+        "name": "大岩蛇",
+        "total": 419.4,
+        "mode": "full"
+      },
+      {
+        "id": 697,
+        "name": "怪顎龍",
+        "total": 408.1,
+        "mode": "full"
+      },
+      {
+        "id": 95,
+        "name": "大岩蛇",
+        "total": 393,
+        "mode": "normal"
+      },
+      {
+        "id": 697,
+        "name": "怪顎龍",
+        "total": 348,
+        "mode": "normal"
+      },
+      {
+        "id": 696,
+        "name": "寶寶暴龍",
+        "total": 249.9,
+        "mode": "full"
+      }
+    ],
+    "墨莓果": [
+      {
+        "id": 778,
+        "name": "謎擬Ｑ",
+        "total": 479.3,
+        "mode": "unlimited"
+      },
+      {
+        "id": 354,
+        "name": "詛咒娃娃",
+        "total": 440,
+        "mode": "full"
+      },
+      {
+        "id": 354,
+        "name": "詛咒娃娃",
+        "total": 377,
+        "mode": "normal"
+      },
+      {
+        "id": 353,
+        "name": "怨影娃娃",
+        "total": 333.1,
+        "mode": "full"
+      },
+      {
+        "id": 94,
+        "name": "耿鬼",
+        "total": 300.3,
+        "mode": "normal"
+      }
+    ],
+    "番荔果": [
+      {
+        "id": 381,
+        "name": "拉帝歐斯",
+        "total": 495.3,
+        "mode": "unlimited"
+      },
+      {
+        "id": 373,
+        "name": "暴飛龍",
+        "total": 408.1,
+        "mode": "full"
+      },
+      {
+        "id": 372,
+        "name": "甲殼龍",
+        "total": 341.9,
+        "mode": "full"
+      },
+      {
+        "id": 373,
+        "name": "暴飛龍",
+        "total": 330,
+        "mode": "normal"
+      },
+      {
+        "id": 334,
+        "name": "七夕青鳥",
+        "total": 326.4,
+        "mode": "full"
+      }
+    ],
+    "异奇果": [
+      {
+        "id": 461,
+        "name": "瑪狃拉",
+        "total": 423.5,
+        "mode": "full"
+      },
+      {
+        "id": 215,
+        "name": "狃拉",
+        "total": 406.2,
+        "mode": "full"
+      },
+      {
+        "id": 491,
+        "name": "達克萊伊",
+        "total": 378,
+        "mode": "normal"
+      },
+      {
+        "id": 229,
+        "name": "黑魯加",
+        "total": 346.5,
+        "mode": "full"
+      },
+      {
+        "id": 215,
+        "name": "狃拉",
+        "total": 336,
+        "mode": "normal"
+      }
+    ],
+    "靛莓果": [
+      {
+        "id": 208,
+        "name": "大鋼蛇",
+        "total": 381.1,
+        "mode": "full"
+      },
+      {
+        "id": 395,
+        "name": "帝王拿波",
+        "total": 357,
+        "mode": "full"
+      },
+      {
+        "id": 208,
+        "name": "大鋼蛇",
+        "total": 348,
+        "mode": "normal"
+      },
+      {
+        "id": 395,
+        "name": "帝王拿波",
+        "total": 339.6,
+        "mode": "normal"
+      },
+      {
+        "id": 395,
+        "name": "帝王拿波",
+        "total": 328.0,
+        "mode": "unlimited"
+      }
+    ],
+    "桃桃果": [
+      {
+        "id": 959,
+        "name": "巨鍛匠",
+        "total": 476.4,
+        "mode": "full"
+      },
+      {
+        "id": 36,
+        "name": "皮可西",
+        "total": 408.1,
+        "mode": "full"
+      },
+      {
+        "id": 959,
+        "name": "巨鍛匠",
+        "total": 405.9,
+        "mode": "normal"
+      },
+      {
+        "id": 958,
+        "name": "巧鍛匠",
+        "total": 393.9,
+        "mode": "full"
+      },
+      {
+        "id": 36,
+        "name": "皮可西",
+        "total": 362.8,
+        "mode": "normal"
+      }
+    ]
+  },
+  "ingredients": {
+    "1": [
+      {
+        "id": 83,
+        "name": "大蔥鴨",
+        "total": 157.6
+      },
+      {
+        "id": 151,
+        "name": "夢幻",
+        "total": 132.4
+      },
+      {
+        "id": 914,
+        "name": "狂歡浪舞鴨",
+        "total": 112.9
+      }
+    ],
+    "2": [
+      {
+        "id": 94,
+        "name": "耿鬼",
+        "total": 190.7
+      },
+      {
+        "id": 442,
+        "name": "花岩怪",
+        "total": 181.4
+      },
+      {
+        "id": 591,
+        "name": "敗露球菇",
+        "total": 172.2
+      }
+    ],
+    "3": [
+      {
+        "id": 113,
+        "name": "吉利蛋",
+        "total": 240.2
+      },
+      {
+        "id": 242,
+        "name": "幸福蛋",
+        "total": 226.4
+      },
+      {
+        "id": 225,
+        "name": "信使鳥",
+        "total": 222.1
+      }
+    ],
+    "4": [
+      {
+        "id": 975,
+        "name": "浩大鯨",
+        "total": 220.3
+      },
+      {
+        "id": 908,
+        "name": "魔幻假面喵",
+        "total": 215.9
+      },
+      {
+        "id": 907,
+        "name": "蒂蕾喵",
+        "total": 200.2
+      }
+    ],
+    "5": [
+      {
+        "id": 911,
+        "name": "骨紋巨聲鱷",
+        "total": 354.9
+      },
+      {
+        "id": 910,
+        "name": "炙燙鱷",
+        "total": 266.8
+      },
+      {
+        "id": 359,
+        "name": "阿勃梭魯",
+        "total": 255
+      }
+    ],
+    "6": [
+      {
+        "id": 149,
+        "name": "快龍",
+        "total": 299.9
+      },
+      {
+        "id": 94,
+        "name": "耿鬼",
+        "total": 270.4
+      },
+      {
+        "id": 148,
+        "name": "哈克龍",
+        "total": 230.9
+      }
+    ],
+    "7": [
+      {
+        "id": 306,
+        "name": "波士可多拉",
+        "total": 280.1
+      },
+      {
+        "id": 760,
+        "name": "穿著熊",
+        "total": 275
+      },
+      {
+        "id": 6,
+        "name": "噴火龍",
+        "total": 274.9
+      }
+    ],
+    "8": [
+      {
+        "id": 9,
+        "name": "水箭龜",
+        "total": 289.5
+      },
+      {
+        "id": 8,
+        "name": "卡咪龜",
+        "total": 266.8
+      },
+      {
+        "id": 7,
+        "name": "傑尼龜",
+        "total": 236.7
+      }
+    ],
+    "9": [
+      {
+        "id": 3,
+        "name": "妙蛙花",
+        "total": 280.1
+      },
+      {
+        "id": 127,
+        "name": "凱羅斯",
+        "total": 266
+      },
+      {
+        "id": 2,
+        "name": "妙蛙草",
+        "total": 258.9
+      }
+    ],
+    "10": [
+      {
+        "id": 454,
+        "name": "毒骷蛙",
+        "total": 199
+      },
+      {
+        "id": 405,
+        "name": "倫琴貓",
+        "total": 193.3
+      },
+      {
+        "id": 303,
+        "name": "大嘴娃",
+        "total": 188.4
+      }
+    ],
+    "11": [
+      {
+        "id": 248,
+        "name": "班基拉斯",
+        "total": 290.6
+      },
+      {
+        "id": 115,
+        "name": "袋獸",
+        "total": 246.7
+      },
+      {
+        "id": 247,
+        "name": "沙基拉斯",
+        "total": 230.2
+      }
+    ],
+    "12": [
+      {
+        "id": 71,
+        "name": "大食花",
+        "total": 246
+      },
+      {
+        "id": 405,
+        "name": "倫琴貓",
+        "total": 246
+      },
+      {
+        "id": 460,
+        "name": "暴雪王",
+        "total": 246
+      }
+    ],
+    "13": [
+      {
+        "id": 359,
+        "name": "阿勃梭魯",
+        "total": 178.4
+      },
+      {
+        "id": 980,
+        "name": "土王",
+        "total": 175.5
+      },
+      {
+        "id": 9,
+        "name": "水箭龜",
+        "total": 165.2
+      }
+    ],
+    "14": [
+      {
+        "id": 132,
+        "name": "百變怪",
+        "total": 36.3
+      },
+      {
+        "id": 80,
+        "name": "呆殼獸",
+        "total": 32.8
+      },
+      {
+        "id": 199,
+        "name": "呆呆王",
+        "total": 30.9
+      }
+    ],
+    "15": [
+      {
+        "id": 71102,
+        "name": "南瓜怪人(小顆種)",
+        "total": 274
+      },
+      {
+        "id": 248,
+        "name": "班基拉斯",
+        "total": 270
+      },
+      {
+        "id": 76,
+        "name": "隆隆岩",
+        "total": 266.5
+      }
+    ],
+    "16": [
+      {
+        "id": 760,
+        "name": "穿著熊",
+        "total": 241.9
+      },
+      {
+        "id": 149,
+        "name": "快龍",
+        "total": 235.8
+      },
+      {
+        "id": 764,
+        "name": "花療環環",
+        "total": 197.4
+      }
+    ],
+    "17": [
+      {
+        "id": 738,
+        "name": "鍬農炮蟲",
+        "total": 204.4
+      },
+      {
+        "id": 306,
+        "name": "波士可多拉",
+        "total": 160.1
+      },
+      {
+        "id": 737,
+        "name": "蟲電寶",
+        "total": 156.8
+      }
+    ],
+    "18": [
+      {
+        "id": 71102,
+        "name": "南瓜怪人(小顆種)",
+        "total": 150.4
+      },
+      {
+        "id": 711,
+        "name": "南瓜怪人(中顆種)",
+        "total": 145.8
+      },
+      {
+        "id": 71103,
+        "name": "南瓜怪人(大顆種)",
+        "total": 141.3
+      }
+    ],
+    "19": [
+      {
+        "id": 330,
+        "name": "沙漠蜻蜓",
+        "total": 188.4
+      },
+      {
+        "id": 329,
+        "name": "超音波幼蟲",
+        "total": 140.8
+      },
+      {
+        "id": 151,
+        "name": "夢幻",
+        "total": 132.4
+      }
+    ],
+    "20": [
+      {
+        "id": 493,
+        "name": "阿尔宙斯",
+        "total": 130.9
+      },
+      {
+        "id": 820,
+        "name": "藏饱栗鼠",
+        "total": 118.7
+      },
+      {
+        "id": 819,
+        "name": "贪心栗鼠",
+        "total": 81.2
+      }
+    ]
+  }
+}

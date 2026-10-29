@@ -4,14 +4,22 @@ on:
     types: [published]
   workflow_dispatch:
     inputs:
+      context:
+        description: Network data context
+        type: choice
+        options: [prod, test]
+        default: test
+      test_version:
+        description: Numeric immutable version for test resources
+        default: '1.0.0'
       release_tag:
-        description: Published stable release tag to redeploy
+        description: Published stable tag for prod, or branch/ref for test
         required: true
         default: v1.0.0
 permissions:
   contents: read
 concurrency:
-  group: production-resources
+  group: resources-${{ inputs.context || 'prod' }}
   cancel-in-progress: false
 jobs:
   deploy:
@@ -19,9 +27,12 @@ jobs:
     runs-on: ubuntu-latest
     environment: production
     env:
+      RESOURCE_CONTEXT: ${{ inputs.context || 'prod' }}
       RELEASE_TAG: ${{ inputs.release_tag || github.event.release.tag_name }}
+      RESOURCE_VERSION: ${{ inputs.context == 'test' && inputs.test_version || inputs.release_tag || github.event.release.tag_name }}
     steps:
       - name: Validate published stable release
+        if: env.RESOURCE_CONTEXT == 'prod'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -35,8 +46,6 @@ jobs:
         with:
           node-version: '24'
       - name: Build and verify release
-        env:
-          RESOURCE_VERSION: ${{ env.RELEASE_TAG }}
         run: |
           npm run build
           npm run verify
@@ -61,13 +70,14 @@ jobs:
           DEPLOY_PORT: ${{ secrets.DEPLOY_PORT }}
         run: |
           set -euo pipefail
-          version="${RELEASE_TAG#v}"
+          version="${RESOURCE_VERSION#v}"
           [[ "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+(\.[0-9]+)?$ ]]
           [[ "$DEPLOY_USER" =~ ^[a-z_][a-z0-9_-]*$ ]]
           [[ "$DEPLOY_HOST" =~ ^[a-zA-Z0-9.-]+$ ]]
           port="${DEPLOY_PORT:-22}"
           [[ "$port" =~ ^[0-9]+$ ]]
           remote="$DEPLOY_USER@$DEPLOY_HOST"
-          ssh -p "$port" "$remote" "mkdir -p /var/www/sleepast-core/incoming/$version"
-          scp -P "$port" -r dist/resources "$remote:/var/www/sleepast-core/incoming/$version/"
-          ssh -p "$port" "$remote" "bash -s -- '$version'" < deploy/activate.sh
+          [[ "$RESOURCE_CONTEXT" == prod || "$RESOURCE_CONTEXT" == test ]]
+          ssh -p "$port" "$remote" "mkdir -p /var/www/sleepast-core/$RESOURCE_CONTEXT/incoming/$version"
+          scp -P "$port" -r dist/"$RESOURCE_CONTEXT"/resources "$remote:/var/www/sleepast-core/$RESOURCE_CONTEXT/incoming/$version/"
+          ssh -p "$port" "$remote" "bash -s -- '$version' '$RESOURCE_CONTEXT'" < deploy/activate-context.sh

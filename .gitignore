@@ -9,3 +9,8 @@ node_modules/
 *.spec.*
 tests/
 .tmp/
+
+# Local logs and rotated logs must not be published.
+*.[lL][oO][gG]
+*.[lL][oO][gG].*
+*.[lL][oO][gG]-*

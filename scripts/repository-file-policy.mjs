@@ -3,6 +3,7 @@ import path from 'node:path'
 const code = /\.(?:[cm]?[jt]sx?|java|py|rb|go|rs|swift|kt|kts|sh|ps1|psm1|bash|bat|cmd|c|cc|cpp|h|hpp|cs|php|vue|svelte|html)$/i
 export function repositoryExclusion(file) {
   const name = path.posix.basename(file)
+  if (/\.log(?:$|[.-])/i.test(name)) return 'log'
   if (/\.md$/i.test(name) && name !== 'AGENTS.md') return 'markdown'
   // Test fixtures and data remain distributable, including source-shaped fixtures.
   if (/(?:^|\/)(?:fixtures?|__fixtures__|test[-_]?data)(?:\/|$)/i.test(file)) return null

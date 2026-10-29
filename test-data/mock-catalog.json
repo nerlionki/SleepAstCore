@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "resourceVersion": "1.0.2",
+  "description": "用户授权的测试源 mock 数据；数值、技能、图片、进化条件均为测试占位，不代表游戏实际设定。",
+  "ingredient": { "id": 20, "name": "一口坚果", "energy": 160, "shards": 6 },
+  "pokemon": [
+    { "id": 493, "name": "阿尔宙斯", "en": "Arceus", "templateId": 151, "specialty": "全部", "skillTemplateId": 19 },
+    { "id": 819, "name": "贪心栗鼠", "en": "Skwovet", "templateId": 19, "next": 820 },
+    { "id": 820, "name": "藏饱栗鼠", "en": "Greedent", "templateId": 20, "prev": 819 }
+  ],
+  "recipes": [
+    { "name": "MOCK·坚果咖喱", "category": "curry", "imageId": 1099, "imageTemplateId": 1001 },
+    { "name": "MOCK·坚果沙拉", "category": "salad", "imageId": 2099, "imageTemplateId": 2001 },
+    { "name": "MOCK·坚果布丁", "category": "dessert", "imageId": 3099, "imageTemplateId": 3001 }
+  ]
+}

@@ -7,11 +7,13 @@ import re
 import sys
 
 root = Path(sys.argv[1]).resolve()
-manifest = json.loads((root / 'resources/v1/manifest.json').read_text(encoding='utf-8'))
+context = sys.argv[2] if len(sys.argv) > 2 else ''
+assert context in ('', 'prod', 'test')
+manifest = json.loads((root / context / 'resources/v1/manifest.json').read_text(encoding='utf-8'))
 assert manifest['schemaVersion'] == 1
 assert manifest['contract'] == 'sleepast-data-v1' and manifest['clientMajor'] == 2
 assert re.fullmatch(r'\d+\.\d+\.\d+(?:\.\d+)?', manifest['version'])
-prefix = '/resources/v1/releases/' + manifest['version'] + '/'
+prefix = ('/' + context if context else '') + '/resources/v1/releases/' + manifest['version'] + '/'
 for item in [manifest['data'], *manifest['assets'].values()]:
     assert item['path'].startswith(prefix)
     assert '\\' not in item['path'] and '..' not in item['path'].split('/')
