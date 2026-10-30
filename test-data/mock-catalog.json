@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "resourceVersion": "1.0.2",
+  "resourceVersion": "1.0.7",
   "description": "用户授权的测试源 mock 数据；数值、技能、图片、进化条件均为测试占位，不代表游戏实际设定。",
   "ingredient": { "id": 20, "name": "一口坚果", "energy": 160, "shards": 6 },
   "pokemon": [

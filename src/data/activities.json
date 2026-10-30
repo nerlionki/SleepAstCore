@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-28",
+  "version": "2026-10-30",
   "activities": [
     {
       "id": "good-sleep-day-40",
@@ -1697,6 +1697,16 @@
           "unlockRank": 11
         }
       ]
+    },
+    {
+      "id": "new-moon-day-19",
+      "name": "第19次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-11-08",
+      "endsOn": "2026-11-11",
+      "rules": []
     }
   ]
 }
