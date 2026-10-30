@@ -45,6 +45,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
+      - name: Read current image baseline
+        run: |
+          set -euo pipefail
+          baseline="$RUNNER_TEMP/resource-image-baseline.json"
+          status=$(curl --silent --show-error --location --retry 2 --max-time 30 --output "$baseline" --write-out '%{http_code}' "https://pokepokeshock.cn/$RESOURCE_CONTEXT/resources/v1/manifest.json")
+          if [ "$status" = 200 ]; then
+            echo "RESOURCE_BASE_MANIFEST=$baseline" >> "$GITHUB_ENV"
+          elif [ "$status" != 404 ]; then
+            echo "Cannot read current image baseline: HTTP $status" >&2
+            exit 1
+          fi
       - name: Build and verify release
         run: |
           npm run build

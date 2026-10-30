@@ -27,6 +27,13 @@ validateActivityResource(data)
 const payload = JSON.stringify(data)
 await fs.writeFile(path.join(dist, directory, 'data.json'), payload)
 const assets = {}
+const reused = { schemaVersion: 1, context, version, files: [] }
+const baseline = process.env.RESOURCE_BASE_MANIFEST
+  ? JSON.parse(await fs.readFile(process.env.RESOURCE_BASE_MANIFEST, 'utf8')) : null
+if (baseline && (baseline.schemaVersion !== 1 || baseline.contract !== 'sleepast-data-v1'
+  || baseline.clientMajor !== 2 || !/^\d+\.\d+\.\d+(?:\.\d+)?$/.test(baseline.version)
+  || !baseline.data?.path?.startsWith('/' + context + '/resources/v1/releases/' + baseline.version + '/')
+  || !baseline.assets || typeof baseline.assets !== 'object')) throw Error('Invalid image baseline')
 async function copyImages(source, prefix) {
   for (const item of await fs.readdir(source, { withFileTypes: true })) {
     const file = path.join(source, item.name)
@@ -35,10 +42,19 @@ async function copyImages(source, prefix) {
     else if (/\.(webp|png|jpe?g|svg)$/i.test(item.name)) {
       const bytes = await fs.readFile(file)
       const target = `${directory}/${relative}`
-      await fs.mkdir(path.dirname(path.join(dist, target)), { recursive: true })
-      await fs.writeFile(path.join(dist, target), bytes)
-      if (assets[relative]) throw new Error(`Duplicate asset: ${relative}`)
-      assets[relative] = { path: `/${target}`, bytes: bytes.length, sha256: sha256(bytes) }
+      if (assets[relative]) throw Error(`Duplicate asset: ${relative}`)
+      const item = { path: '/' + target, bytes: bytes.length, sha256: sha256(bytes) }
+      const previous = baseline?.assets[relative]
+      const previousPrefix = '/' + context + '/resources/v1/releases/' + baseline?.version + '/'
+      if (previous && previous.path?.startsWith(previousPrefix) && !/[\\?#%]/.test(previous.path)
+        && !previous.path.split('/').includes('..') && previous.bytes === item.bytes && previous.sha256 === item.sha256
+        && previous.path !== item.path) {
+        reused.files.push({ asset: relative, ...item, source: previous.path })
+      } else {
+        await fs.mkdir(path.dirname(path.join(dist, target)), { recursive: true })
+        await fs.writeFile(path.join(dist, target), bytes)
+      }
+      assets[relative] = item
     }
   }
 }
@@ -52,4 +68,5 @@ const manifest = {
   files: Object.keys(data), assets,
 }
 await fs.writeFile(path.join(dist, context, 'resources/v1/manifest.json'), JSON.stringify(manifest))
-console.log(`Built ${version}: ${Object.keys(data).length} JSON files, ${Object.keys(assets).length} images`)
+if (reused.files.length) await fs.writeFile(path.join(dist, context, 'resources/v1/reused-assets.json'), JSON.stringify(reused))
+console.log(`Built ${version}: ${Object.keys(data).length} JSON files, ${Object.keys(assets).length} image entries, ${reused.files.length} unchanged image files reused`)

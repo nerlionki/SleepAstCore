@@ -9,12 +9,35 @@ stage="$root/incoming/$version"
 test -f "$stage/resources/v1/manifest.json"
 # Validate the uploaded bytes before touching the active manifest.
 python3 - "$stage" "$context" "$version" <<'PYVERIFY'
-import hashlib, json, pathlib, sys
+import hashlib, json, os, pathlib, re, sys
 stage = pathlib.Path(sys.argv[1]).resolve()
 context, version = sys.argv[2:]
 m = json.loads((stage / 'resources/v1/manifest.json').read_text())
 assert m['contract'] == 'sleepast-data-v1' and m['clientMajor'] == 2 and m['version'] == version
 prefix = '/' + context + '/resources/v1/releases/' + version + '/'
+reuse_file = stage / 'resources/v1/reused-assets.json'
+if reuse_file.exists():
+    reuse = json.loads(reuse_file.read_text())
+    assert reuse['schemaVersion'] == 1 and reuse['context'] == context and reuse['version'] == version
+    base = stage.parent.parent.resolve()
+    seen = set()
+    for item in reuse['files']:
+        asset = m['assets'][item['asset']]
+        assert all(asset[key] == item[key] for key in ('path', 'bytes', 'sha256'))
+        assert item['path'].startswith(prefix) and item['path'] not in seen
+        seen.add(item['path'])
+        source_path = item['source']
+        assert re.match(r'^/' + context + r'/resources/v1/releases/\d+\.\d+\.\d+(?:\.\d+)?/', source_path)
+        assert not any(char in source_path for char in ('\\', '?', '#', '%')) and '..' not in source_path.split('/')
+        assert source_path != item['path']
+        source = (base / source_path[len(context) + 2:]).resolve()
+        target = (stage / item['path'][len(context) + 2:]).resolve()
+        assert (base / 'resources/v1/releases').resolve() in source.parents and stage in target.parents
+        content = source.read_bytes()
+        assert len(content) == item['bytes'] and hashlib.sha256(content).hexdigest() == item['sha256']
+        target.parent.mkdir(parents=True, exist_ok=True)
+        if not target.exists():
+            os.link(source, target)
 for item in [m['data'], *m['assets'].values()]:
     assert item['path'].startswith(prefix) and '..' not in item['path'].split('/') and chr(92) not in item['path']
     file = (stage / item['path'][len(context) + 2:]).resolve()
