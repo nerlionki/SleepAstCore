@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-31",
+  "sourceNotes": "官方公告优先。RAE 页面本次未能读取，未标记为交叉核验。销售时间按玩家本地时间；展示到关联活动结束日结束。",
+  "bundles": [
+    {
+      "eventName": "万圣节2026：糖果倍增研究",
+      "announcedOn": "2026-10-21",
+      "eventEndsOn": "2026-11-02",
+      "saleStartsAt": "2026-10-26T06:00:00",
+      "saleEndsAt": "2026-11-03T03:59:00",
+      "id": "halloween-2026-s",
+      "name": "万圣节2026欢庆包 S",
+      "price": {
+        "amount": 250,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 3,
+      "items": [
+        {
+          "name": "宝可沙布蕾",
+          "quantity": 5
+        },
+        {
+          "name": "幽灵属性的糖果S",
+          "quantity": 3
+        },
+        {
+          "name": "万能糖果S",
+          "quantity": 3
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343532363638373030363334333832333339/"
+        }
+      ]
+    },
+    {
+      "eventName": "万圣节2026：糖果倍增研究",
+      "announcedOn": "2026-10-21",
+      "eventEndsOn": "2026-11-02",
+      "saleStartsAt": "2026-10-26T06:00:00",
+      "saleEndsAt": "2026-11-03T03:59:00",
+      "id": "halloween-2026-m",
+      "name": "万圣节2026欢庆包 M",
+      "price": {
+        "amount": 1200,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "超级沙布蕾",
+          "quantity": 6
+        },
+        {
+          "name": "宝可沙布蕾",
+          "quantity": 7
+        },
+        {
+          "name": "梦妖的薰香",
+          "quantity": 2
+        },
+        {
+          "name": "暗之石",
+          "quantity": 1
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343532363638373030363334333832333339/"
+        }
+      ]
+    },
+    {
+      "eventName": "万圣节2026：糖果倍增研究",
+      "announcedOn": "2026-10-21",
+      "eventEndsOn": "2026-11-02",
+      "saleStartsAt": "2026-10-26T06:00:00",
+      "saleEndsAt": "2026-11-03T03:59:00",
+      "id": "halloween-2026-l",
+      "name": "万圣节2026欢庆包 L",
+      "price": {
+        "amount": 3000,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "高级沙布蕾",
+          "quantity": 3
+        },
+        {
+          "name": "超级沙布蕾",
+          "quantity": 13
+        },
+        {
+          "name": "梦妖的薰香",
+          "quantity": 4
+        },
+        {
+          "name": "梦妖的糖果",
+          "quantity": 90
+        },
+        {
+          "name": "幽灵属性的糖果M",
+          "quantity": 3
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343532363638373030363334333832333339/"
+        }
+      ]
+    },
+    {
+      "eventName": "万圣节2026：糖果倍增研究",
+      "announcedOn": "2026-10-21",
+      "eventEndsOn": "2026-11-02",
+      "saleStartsAt": "2026-10-26T06:00:00",
+      "saleEndsAt": "2026-11-03T03:59:00",
+      "id": "misdreavus-training-vol1",
+      "name": "宝可梦培育包（梦妖）vol.1",
+      "price": {
+        "amount": 1200,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "超级沙布蕾",
+          "quantity": 4
+        },
+        {
+          "name": "成长薰香",
+          "quantity": 2
+        },
+        {
+          "name": "主技能种子（梦妖）",
+          "quantity": 1
+        },
+        {
+          "name": "梦妖的糖果",
+          "quantity": 70
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343536353230333239313632393135383432/"
+        }
+      ]
+    }
+  ]
+}

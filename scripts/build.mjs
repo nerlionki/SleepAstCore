@@ -4,6 +4,7 @@ import { createHash } from 'node:crypto'
 import { validateActivityResource } from './validate-activities.mjs'
 import { applyTestMocks, addTestMockImages, testMockVersion } from './mock-catalog.mjs'
 import { installProductionRankings } from './production-rankings.mjs'
+import { validateEventBundles } from './event-bundles.mjs'
 const root = path.resolve(import.meta.dirname, '..')
 const pkg = JSON.parse(await fs.readFile(path.join(root, 'package.json'), 'utf8'))
 const version = (process.env.RESOURCE_VERSION || (process.env.RESOURCE_CONTEXT === 'test' ? testMockVersion : pkg.version)).replace(/^v/, '')
@@ -21,6 +22,7 @@ for (const file of (await fs.readdir(path.join(root, 'src/data'))).filter(file =
   data[file] = JSON.parse(await fs.readFile(path.join(root, 'src/data', file), 'utf8'))
 }
 if (Object.keys(data).length !== 43) throw new Error('Changing the data file set requires updating the client contract')
+data['meta.json'].eventBundles = validateEventBundles(JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/event-bundles.json'), 'utf8')))
 if (context === 'test') applyTestMocks(data)
 await installProductionRankings(data, context)
 validateActivityResource(data)

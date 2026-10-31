@@ -2,6 +2,7 @@ import fs from 'node:fs/promises'
 import path from 'node:path'
 import { createHash } from 'node:crypto'
 import { validateActivityResource } from './validate-activities.mjs'
+import { validateEventBundles } from './event-bundles.mjs'
 const root = path.resolve(process.argv[2] || path.join(import.meta.dirname, '../dist'))
 const context = process.env.RESOURCE_CONTEXT || 'prod'
 if (!['prod', 'test'].includes(context)) throw new Error('Invalid context')
@@ -40,4 +41,5 @@ for (const item of [manifest.data, ...Object.values(manifest.assets)]) {
 const data = JSON.parse(await fs.readFile(path.join(root, manifest.data.path.slice(1)), 'utf8'))
 if (manifest.files.length !== 43 || manifest.files.slice().sort().join() !== Object.keys(data).sort().join()) throw new Error('Incomplete data bundle')
 validateActivityResource(data)
+validateEventBundles(data['meta.json'].eventBundles)
 console.log(`Verified ${manifest.version}: data and all ${Object.keys(manifest.assets).length} images`)
