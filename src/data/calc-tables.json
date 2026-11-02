@@ -157,6 +157,14 @@
       }
     },
     "islandMeta": {
+      "randomBerryCount": 3,
+      "berrySelectionDescriptions": {
+        "cyanex": {
+          "label": "主树果三选一",
+          "detail": "副树果从排除已选主树果后的其余 17 种中任选两种，不可重复。"
+        }
+      },
+      "randomBerryDescription": "每周随机三颗",
       "ISLAND_UNLOCK": {
         "greengrass": "初始开放",
         "cyan": "登录约 50 个睡姿后开放",
@@ -170,6 +178,7 @@
       }
     },
     "items": {
+      "evolutionShopAcquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
       "groups": [
         [
           "沙布蕾",
