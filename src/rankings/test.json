@@ -5,7 +5,7 @@
   "wakeEnergy": 100,
   "helpingBonus": 5,
   "activeSubskills": 4,
-  "generatedOn": "2026-10-30",
+  "generatedOn": "2026-11-02",
   "activityMode": "none",
   "helpingBonusMode": "actual-five-stacks",
   "mainSkillMode": "max",
@@ -14,8 +14,8 @@
   "supportSelfShare": 0.2,
   "includeIngredientGatheringSkills": false,
   "reference": "https://pks.raenonx.cc/zh/ingredient/chart",
-  "sourceVersion": "1.0.5",
-  "sourceHash": "d74b0a85667199bf474b8ed647a1b92ac892ff7a47a607ece9c393241b7e7f97",
+  "sourceVersion": "1.0.9",
+  "sourceHash": "ac99116236636bd149feb69f325cd109ac38a1b5f7191e9b875e36e5be6a696a",
   "berries": {
     "柿仔果": [
       {
@@ -30,15 +30,6 @@
       {
         "id": 20,
         "name": "拉達",
-        "total": 387.4,
-        "mode": "full",
-        "condition": "全时满包",
-        "ordinary": 387.4,
-        "skill": 0
-      },
-      {
-        "id": 820,
-        "name": "藏饱栗鼠",
         "total": 387.4,
         "mode": "full",
         "condition": "全时满包",
@@ -61,6 +52,15 @@
         "mode": "normal",
         "condition": "一般",
         "ordinary": 351,
+        "skill": 0
+      },
+      {
+        "id": 9004,
+        "name": "伊布（佳節）",
+        "total": 324,
+        "mode": "normal",
+        "condition": "一般",
+        "ordinary": 324,
         "skill": 0
       }
     ],
@@ -1186,23 +1186,6 @@
         "id": 151,
         "name": "夢幻",
         "total": 132.3
-      }
-    ],
-    "20": [
-      {
-        "id": 493,
-        "name": "阿尔宙斯",
-        "total": 130.9
-      },
-      {
-        "id": 820,
-        "name": "藏饱栗鼠",
-        "total": 118.7
-      },
-      {
-        "id": 819,
-        "name": "贪心栗鼠",
-        "total": 81.2
       }
     ]
   },

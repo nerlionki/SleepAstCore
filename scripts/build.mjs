@@ -2,12 +2,11 @@ import fs from 'node:fs/promises'
 import path from 'node:path'
 import { createHash } from 'node:crypto'
 import { validateActivityResource } from './validate-activities.mjs'
-import { applyTestMocks, addTestMockImages, testMockVersion } from './mock-catalog.mjs'
 import { installProductionRankings } from './production-rankings.mjs'
 import { validateEventBundles } from './event-bundles.mjs'
 const root = path.resolve(import.meta.dirname, '..')
 const pkg = JSON.parse(await fs.readFile(path.join(root, 'package.json'), 'utf8'))
-const version = (process.env.RESOURCE_VERSION || (process.env.RESOURCE_CONTEXT === 'test' ? testMockVersion : pkg.version)).replace(/^v/, '')
+const version = (process.env.RESOURCE_VERSION || pkg.version).replace(/^v/, '')
 if (!/^\d+\.\d+\.\d+(?:\.\d+)?$/.test(version)) throw new Error('Resource version must be a numeric release version')
 const context = process.env.RESOURCE_CONTEXT || 'prod'
 if (!['prod', 'test'].includes(context)) throw new Error('RESOURCE_CONTEXT must be prod or test')
@@ -23,7 +22,6 @@ for (const file of (await fs.readdir(path.join(root, 'src/data'))).filter(file =
 }
 if (Object.keys(data).length !== 43) throw new Error('Changing the data file set requires updating the client contract')
 data['meta.json'].eventBundles = validateEventBundles(JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/event-bundles.json'), 'utf8')))
-if (context === 'test') applyTestMocks(data)
 await installProductionRankings(data, context)
 validateActivityResource(data)
 const payload = JSON.stringify(data)
@@ -63,7 +61,6 @@ async function copyImages(source, prefix) {
 await copyImages(path.join(root, 'src/assets/imgs'), 'images/')
 await copyImages(path.join(root, 'public/items'), 'items/')
 await copyImages(path.join(root, 'public/sprites'), 'sprites/')
-if (context === 'test') addTestMockImages(assets)
 const manifest = {
   schemaVersion: 1, contract: 'sleepast-data-v1', clientMajor: 2, version,
   data: { path: `/${directory}/data.json`, bytes: Buffer.byteLength(payload), sha256: sha256(payload) },
