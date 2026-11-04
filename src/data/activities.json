@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-30",
+  "version": "2026-11-04",
   "activities": [
     {
       "id": "good-sleep-day-40",
@@ -1707,6 +1707,32 @@
       "startsOn": "2026-11-08",
       "endsOn": "2026-11-11",
       "rules": []
+    },
+    {
+      "id": "all-you-can-eat-vol1-2026",
+      "name": "来什么都吃光光！大餐周vol.1",
+      "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-11-16",
+      "endsOn": "2026-11-23",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "specialties": [
+              "食材型"
+            ]
+          },
+          "effects": {
+            "ingredientCountBonus": 1
+          }
+        }
+      ]
     }
   ]
 }

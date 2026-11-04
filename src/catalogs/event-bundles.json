@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedOn": "2026-10-31",
+  "checkedOn": "2026-11-04",
   "sourceNotes": "官方公告优先。RAE 页面本次未能读取，未标记为交叉核验。销售时间按玩家本地时间；展示到关联活动结束日结束。",
   "bundles": [
     {
@@ -152,6 +152,128 @@
         {
           "kind": "official",
           "url": "https://www.pokemonsleep.net/zh/news/343536353230333239313632393135383432/"
+        }
+      ]
+    },
+    {
+      "eventName": "备料周vol.1",
+      "announcedOn": "2026-11-04",
+      "eventEndsOn": "2026-11-16",
+      "saleStartsAt": "2026-11-08T04:00:00",
+      "saleEndsAt": "2026-11-17T03:59:00",
+      "id": "meal-prep-vol1-2026-s",
+      "name": "备料周满足包 S vol.1",
+      "price": {
+        "amount": 250,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 3,
+      "items": [
+        {
+          "name": "宝可沙布蕾",
+          "quantity": 4
+        },
+        {
+          "name": "幸运薰香",
+          "quantity": 1
+        },
+        {
+          "name": "万能糖果S",
+          "quantity": 3
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537363134323332373739373531343236/"
+        }
+      ]
+    },
+    {
+      "eventName": "备料周vol.1",
+      "announcedOn": "2026-11-04",
+      "eventEndsOn": "2026-11-16",
+      "saleStartsAt": "2026-11-08T04:00:00",
+      "saleEndsAt": "2026-11-17T03:59:00",
+      "id": "meal-prep-vol1-2026-m",
+      "name": "备料周满足包 M vol.1",
+      "price": {
+        "amount": 1200,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "超级沙布蕾",
+          "quantity": 6
+        },
+        {
+          "name": "宝可沙布蕾",
+          "quantity": 6
+        },
+        {
+          "name": "石居蟹的薰香",
+          "quantity": 1
+        },
+        {
+          "name": "南瓜精的薰香",
+          "quantity": 1
+        },
+        {
+          "name": "万能糖果M",
+          "quantity": 2
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537363134323332373739373531343236/"
+        }
+      ]
+    },
+    {
+      "eventName": "备料周vol.1",
+      "announcedOn": "2026-11-04",
+      "eventEndsOn": "2026-11-16",
+      "saleStartsAt": "2026-11-08T04:00:00",
+      "saleEndsAt": "2026-11-17T03:59:00",
+      "id": "meal-prep-vol1-2026-l",
+      "name": "备料周满足包 L vol.1",
+      "price": {
+        "amount": 3000,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "高级沙布蕾",
+          "quantity": 3
+        },
+        {
+          "name": "超级沙布蕾",
+          "quantity": 13
+        },
+        {
+          "name": "幸运薰香",
+          "quantity": 4
+        },
+        {
+          "name": "大颚蚁的薰香",
+          "quantity": 1
+        },
+        {
+          "name": "小猫怪的薰香",
+          "quantity": 1
+        },
+        {
+          "name": "万能糖果L",
+          "quantity": 1
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537363134323332373739373531343236/"
         }
       ]
     }
