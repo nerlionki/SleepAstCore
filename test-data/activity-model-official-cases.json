@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 2,
+  "modelVersion": 2,
+  "requiredCapabilities": [
+    "numeric-effects",
+    "ingredient-effects",
+    "conditional-recipes",
+    "scoped-rules",
+    "phases",
+    "feature-status"
+  ],
+  "version": "official-mechanic-examples-20261104",
+  "activities": [
+    {
+      "id": "cooking-week-vol3-2026",
+      "name": "分量加大！料理周vol.3",
+      "source": "https://www.pokemonsleep.net/zh/news/343430323735323935393936343737343435/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-10-05",
+      "endsOn": "2026-10-12",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some",
+            "potSizeMultiplier": 2,
+            "mealRecoveryBonus": 5,
+            "cookingEnergyMultiplier": 1.25,
+            "skillIngredientMultiplier": 1.5
+          }
+        },
+        {
+          "target": {
+            "specialties": [
+              "食材型"
+            ]
+          },
+          "effects": {
+            "ingredientCountBonus": 1
+          }
+        }
+      ],
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      }
+    },
+    {
+      "id": "berry-week-vol2-2026",
+      "name": "果实累累！树果周vol.2",
+      "source": "https://www.pokemonsleep.net/zh/news/333933313532393833363139303736313030/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-05-11",
+      "endsOn": "2026-05-18",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "specialties": [
+              "树果型"
+            ]
+          },
+          "effects": {
+            "carryCapacityMultiplier": 1.5,
+            "berryCountBonus": 1
+          }
+        },
+        {
+          "target": {
+            "skillIds": [
+              16,
+              20,
+              21,
+              37
+            ]
+          },
+          "effects": {
+            "skillBerryMultiplier": 1.4
+          }
+        }
+      ],
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      }
+    },
+    {
+      "id": "holiday-2025",
+      "name": "佳节2025：梦之碎片倍增研究",
+      "source": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-12-22",
+      "endsOn": "2025-12-29",
+      "rules": [
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ]
+          },
+          "effects": {
+            "eventMix": "some",
+            "favoredBerries": [
+              "莓莓果",
+              "靛莓果"
+            ],
+            "dreamShardsMultiplier": 2
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "types": [
+              "冰",
+              "钢"
+            ]
+          },
+          "effects": {
+            "ingredientCountBonus": 1,
+            "skillRateMultiplier": 1.25,
+            "skillLevelBonus": 3
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "skillIds": [
+              3,
+              6
+            ]
+          },
+          "effects": {
+            "skillDreamShardsMultiplier": 2
+          }
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-12-25",
+          "endsOn": "2025-12-26",
+          "rules": [
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ]
+              },
+              "effects": {
+                "dreamShardsMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-12-28",
+          "endsOn": "2025-12-29",
+          "rules": [
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ]
+              },
+              "effects": {
+                "dreamShardsMultiplier": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mewtwo-expedition-2026",
+      "name": "秘境研究！追寻超梦吧",
+      "source": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-09-14",
+      "endsOn": "2026-09-28",
+      "rules": [
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ]
+          },
+          "effects": {
+            "eventMix": "some",
+            "favoredBerries": [
+              "芒芒果"
+            ]
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "types": [
+              "超能"
+            ]
+          },
+          "effects": {
+            "ingredientCountBonus": 1,
+            "skillRateMultiplier": 1.5
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ]
+          },
+          "conditions": {
+            "teamPokemonIdsAny": [
+              151,
+              150
+            ]
+          },
+          "effects": {
+            "drowsyPowerMultiplier": 1.1
+          }
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-09-14",
+          "endsOn": "2026-09-21",
+          "rules": [
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ]
+              },
+              "effects": {
+                "carryCapacityBonus": 8
+              }
+            },
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ],
+                "types": [
+                  "超能"
+                ]
+              },
+              "effects": {
+                "skillLevelBonus": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-09-21",
+          "endsOn": "2026-09-28",
+          "rules": [
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ]
+              },
+              "effects": {
+                "carryCapacityBonus": 15
+              }
+            },
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ],
+                "types": [
+                  "超能"
+                ]
+              },
+              "effects": {
+                "skillLevelBonus": 5
+              }
+            },
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ]
+              },
+              "conditions": {
+                "teamPokemonIdsAny": [
+                  150
+                ]
+              },
+              "effects": {
+                "drowsyPowerMultiplier": 1.3
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "special-berries",
+          "name": "活动专属超大芒芒果",
+          "status": "requires-input",
+          "domains": [
+            "production"
+          ],
+          "description": "掉落概率、各宝可梦掉落数量和能量数值还未公布，不能将此产物视为0计算完整生产收益。",
+          "source": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/",
+          "parameters": {
+            "excludedFromSneakySnacking": true,
+            "berryFindingS": false,
+            "speciesTiers": [
+              [
+                151,
+                150
+              ],
+              [
+                "超能"
+              ],
+              [
+                "其他"
+              ]
+            ],
+            "probability": null,
+            "energy": null
+          },
+          "islands": [
+            "greengrass",
+            "greenex"
+          ]
+        },
+        {
+          "id": "global-progress",
+          "name": "活动睡意之力与全球进度",
+          "status": "requires-input",
+          "domains": [
+            "globalProgress"
+          ],
+          "description": "需要全球平均睡意之力、个人进度及活动级别输入，当前不提供全球进度模拟。",
+          "source": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/",
+          "parameters": {
+            "levels": 15,
+            "firstWeekCap": 8,
+            "worldDelayDays": 2
+          },
+          "islands": [
+            "greengrass",
+            "greenex"
+          ]
+        }
+      ]
+    }
+  ]
+}

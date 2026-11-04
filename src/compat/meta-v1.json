@@ -1,0 +1,267 @@
+{
+  "version": "2026-10-26",
+  "source": "Sleep游戏资料.md",
+  "pokedex": 251,
+  "recipes": 81,
+  "islands": 9,
+  "sleepStyles": 2789,
+  "mushroomSleepSource": "RAE 普通岛睡姿，2026-10-06 核验",
+  "sleepDprSource": "RAE 各地图参考值；EX2 缺项按 EX1 ×1.0351 估算；5 条普通睡姿保留未核验旧估算；梦妖一家普通岛确定值、萌绿EX用户授权预估参考值于2026-10-26接入",
+  "balanceUpdateSource": "RAE 2026-10-23 核验：耿鬼食材率16.6%；锅容量84/87按用户要求提前用于规划；梦妖一家生产数据经连续3次确认加入计算，普通岛DPR已确定、萌绿EX按用户授权预估，见 rae-misdreavus-source.json",
+  "announcedContent": {
+    "schemaVersion": 1,
+    "checkedOn": "2026-11-04",
+    "status": "partial-official-announcement",
+    "description": "官方部分公布资料；活动计算规则维护于 activities.json v2。null 表示尚未公布，不代表0。",
+    "sources": [
+      {
+        "kind": "official",
+        "url": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+        "publishedOn": "2026-11-04"
+      },
+      {
+        "kind": "official",
+        "url": "https://www.pokemonsleep.net/zh/news/343537333535313639323832313239393330/",
+        "publishedOn": "2026-11-04"
+      }
+    ],
+    "activities": [
+      {
+        "activityId": "all-you-can-eat-vol1-2026",
+        "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+        "startsAt": "2026-11-16T04:00:00",
+        "endsAtExclusive": "2026-11-23T04:00:00",
+        "timeBasis": "game-local",
+        "islands": "all",
+        "effects": {
+          "availableRecipeCategories": [
+            "咖喱",
+            "沙拉",
+            "甜品"
+          ],
+          "ingredientSpecialists": {
+            "specialty": "食材型",
+            "ingredientCountBonus": 1,
+            "fixedIngredientDrop": {
+              "ingredientKey": "bite-size-nut",
+              "quantity": 1,
+              "trigger": "ingredient-help",
+              "additionalToNormalIngredientBonus": true
+            },
+            "carryCapacityBonus": 10
+          },
+          "potCapacityBonus": 30,
+          "cooking": {
+            "recipeRequiredPortion": {
+              "requiredIngredientKey": "bite-size-nut",
+              "energyMultiplier": 1.5,
+              "appliesTo": "recipe-required-ingredients-only"
+            },
+            "extraIngredients": [
+              {
+                "ingredientKey": "bite-size-nut",
+                "energyMultiplier": 1.5,
+                "appliesTo": "extra-ingredient-energy-only"
+              }
+            ],
+            "otherRecipeRequiredPortionsMultiplier": 1
+          },
+          "crossSleepTypeEncounters": true,
+          "encounters": [
+            {
+              "pokemonNames": [
+                "木棉球",
+                "风妖精"
+              ],
+              "islands": [
+                "greengrass",
+                "cyan",
+                "canyon",
+                "greenex",
+                "cyanex"
+              ],
+              "boost": "medium",
+              "weightMultiplier": null
+            }
+          ]
+        },
+        "sleepResearch": {
+          "eligibility": "sleep-measurement-start-time",
+          "tutorialEligible": false
+        },
+        "stacking": "maximum-for-same-bonus",
+        "runtimeRulesSource": "activities.json"
+      }
+    ],
+    "ingredients": [
+      {
+        "key": "bite-size-nut",
+        "name": "一口坚果",
+        "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+        "availableFrom": "2026-11-16T04:00:00",
+        "timeBasis": "game-local",
+        "runtimeId": null,
+        "baseEnergy": null,
+        "unknownFields": [
+          "runtimeId",
+          "baseEnergy"
+        ],
+        "status": "partial-official-announcement",
+        "imageId": 0,
+        "imageSource": "local-question-mark-placeholder",
+        "imageUsage": "unannounced-placeholder"
+      }
+    ],
+    "pokemon": [
+      {
+        "name": "木棉球",
+        "source": "https://www.pokemonsleep.net/zh/news/343537333535313639323832313239393330/",
+        "type": "妖精",
+        "sleepType": "安然入睡",
+        "availableFrom": "2026-11-16T15:00:00",
+        "timeBasis": "game-local",
+        "incenseAvailableFrom": "2026-11-16T15:00:00",
+        "islands": [
+          "greengrass",
+          "cyan",
+          "canyon",
+          "greenex",
+          "cyanex"
+        ],
+        "higherEncounterRateIsland": "cyanex",
+        "canGatherIngredientKey": "bite-size-nut",
+        "runtimeId": null,
+        "specialty": null,
+        "production": null,
+        "sleepStyles": null,
+        "unknownFields": [
+          "runtimeId",
+          "specialty",
+          "production",
+          "sleepStyles"
+        ],
+        "status": "partial-official-announcement",
+        "imageId": 546,
+        "imageSource": "https://www.pokemon.cn/play/pokedex/0546",
+        "imageUsage": "official-placeholder"
+      },
+      {
+        "name": "风妖精",
+        "source": "https://www.pokemonsleep.net/zh/news/343537333535313639323832313239393330/",
+        "type": "妖精",
+        "sleepType": "安然入睡",
+        "availableFrom": "2026-11-16T15:00:00",
+        "timeBasis": "game-local",
+        "incenseAvailableFrom": "2026-11-16T15:00:00",
+        "islands": [
+          "greengrass",
+          "cyan",
+          "canyon",
+          "greenex",
+          "cyanex"
+        ],
+        "higherEncounterRateIsland": "cyanex",
+        "canGatherIngredientKey": "bite-size-nut",
+        "runtimeId": null,
+        "specialty": null,
+        "production": null,
+        "sleepStyles": null,
+        "unknownFields": [
+          "runtimeId",
+          "specialty",
+          "production",
+          "sleepStyles"
+        ],
+        "status": "partial-official-announcement",
+        "imageId": 547,
+        "imageSource": "https://www.pokemon.cn/play/pokedex/0547",
+        "imageUsage": "official-placeholder"
+      }
+    ],
+    "recipes": [
+      {
+        "key": "all-you-can-eat-vol1-2026-curry",
+        "category": "咖喱",
+        "totalIngredientCount": 39,
+        "ingredients": [
+          "萌绿玉米",
+          "沉甸甸南瓜",
+          "一口坚果"
+        ],
+        "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+        "availableFrom": "2026-11-16T04:00:00",
+        "timeBasis": "game-local",
+        "name": null,
+        "runtimeId": null,
+        "ingredientQuantities": null,
+        "baseEnergy": null,
+        "unknownFields": [
+          "name",
+          "runtimeId",
+          "ingredientQuantities",
+          "baseEnergy"
+        ],
+        "status": "partial-official-announcement"
+      },
+      {
+        "key": "all-you-can-eat-vol1-2026-salad",
+        "category": "沙拉",
+        "totalIngredientCount": 121,
+        "ingredients": [
+          "暖暖姜",
+          "好眠番茄",
+          "嫩亮酪梨",
+          "一口坚果"
+        ],
+        "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+        "availableFrom": "2026-11-16T04:00:00",
+        "timeBasis": "game-local",
+        "name": null,
+        "runtimeId": null,
+        "ingredientQuantities": null,
+        "baseEnergy": null,
+        "unknownFields": [
+          "name",
+          "runtimeId",
+          "ingredientQuantities",
+          "baseEnergy"
+        ],
+        "status": "partial-official-announcement"
+      },
+      {
+        "key": "all-you-can-eat-vol1-2026-dessert",
+        "category": "甜品",
+        "totalIngredientCount": 91,
+        "ingredients": [
+          "特选蛋",
+          "美味尾巴",
+          "萌绿大豆",
+          "一口坚果"
+        ],
+        "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+        "availableFrom": "2026-11-16T04:00:00",
+        "timeBasis": "game-local",
+        "name": null,
+        "runtimeId": null,
+        "ingredientQuantities": null,
+        "baseEnergy": null,
+        "unknownFields": [
+          "name",
+          "runtimeId",
+          "ingredientQuantities",
+          "baseEnergy"
+        ],
+        "status": "partial-official-announcement"
+      }
+    ]
+  },
+  "activityModel": {
+    "version": 2,
+    "officialArchiveCheckedOn": "2026-11-04",
+    "archiveIndexPages": 79,
+    "uniqueAnnouncements": 382,
+    "integerSkillIngredientRounding": "floor-total-before-allocation",
+    "roundingSource": "user-confirmed-2026-11-04",
+    "encounterTierNumbers": "project-simulation-parameters-not-official-probabilities"
+  }
+}

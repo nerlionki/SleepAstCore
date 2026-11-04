@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "version": "2026-11-04",
+  "schemaVersion": 2,
+  "version": "2026-11-04-v2",
   "activities": [
     {
       "id": "good-sleep-day-40",
@@ -599,101 +599,19 @@
         },
         {
           "target": {
-            "pokemonIds": [
-              1,
-              2,
-              3,
-              4,
-              5,
-              6,
-              7,
-              8,
-              9,
-              27,
-              28,
-              50,
-              51,
-              69,
-              70,
-              71,
-              74,
-              75,
-              76,
-              83,
-              92,
-              93,
-              94,
-              113,
-              115,
-              122,
-              127,
-              132,
-              147,
-              148,
-              149,
-              194,
-              195,
-              198,
-              225,
-              242,
-              246,
-              247,
-              248,
-              303,
-              304,
-              305,
-              306,
-              328,
-              329,
-              330,
-              359,
-              403,
-              404,
-              405,
-              430,
-              439,
-              440,
-              442,
-              453,
-              454,
-              459,
-              460,
-              557,
-              558,
-              701,
-              710,
-              71002,
-              71003,
-              71004,
-              711,
-              71102,
-              71103,
-              71104,
-              736,
-              737,
-              738,
-              742,
-              743,
-              759,
-              760,
-              764,
-              780,
-              845,
-              906,
-              907,
-              908,
-              909,
-              910,
-              911,
-              912,
-              913,
-              914,
-              974,
-              975,
-              980,
-              7054,
-              590,
-              591
+            "specialties": [
+              "食材型"
+            ]
+          },
+          "effects": {
+            "researchCandyMultiplier": 1.5,
+            "dreamShardsMultiplier": 1.5
+          }
+        },
+        {
+          "target": {
+            "skillFamilies": [
+              "食材精选S"
             ]
           },
           "effects": {
@@ -1706,7 +1624,40 @@
       "stacking": "max",
       "startsOn": "2026-11-08",
       "endsOn": "2026-11-11",
-      "rules": []
+      "rules": [],
+      "features": [
+        {
+          "id": "special-encounter",
+          "name": "新月日特别出没",
+          "status": "requires-input",
+          "domains": [
+            "research"
+          ],
+          "description": "首次研究的特别出没概率及随未遇见次数变化的数值还未公布，暂无法给出包含该效果的完整遭遇结果。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+          "parameters": {
+            "pokemon": "达克莱伊",
+            "firstResearchOnly": true,
+            "extraEncounterSlots": 1,
+            "researchRewardReductionStartsAt": 12,
+            "probability": null
+          }
+        },
+        {
+          "id": "snack-bonuses",
+          "name": "点心时间奖励",
+          "status": "informational",
+          "domains": [
+            "capture"
+          ],
+          "description": "每日首次点心时间不容易吃饱；遇见特别提升宝可梦时友情点数+3。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+          "parameters": {
+            "firstSnackOnly": true,
+            "friendshipPoints": 3
+          }
+        }
+      ]
     },
     {
       "id": "all-you-can-eat-vol1-2026",
@@ -1719,7 +1670,25 @@
       "rules": [
         {
           "effects": {
-            "eventMix": "some"
+            "eventMix": "some",
+            "availableRecipeCategories": [
+              "curry",
+              "salad",
+              "dessert"
+            ],
+            "potCapacityBonus": 30,
+            "extraIngredientEnergyMultipliers": {
+              "一口坚果": 1.5
+            },
+            "recipeEnergyModifiers": [
+              {
+                "id": "nut-required-portion",
+                "ingredientNames": [
+                  "一口坚果"
+                ],
+                "multiplier": 1.5
+              }
+            ]
           }
         },
         {
@@ -1729,10 +1698,57 @@
             ]
           },
           "effects": {
-            "ingredientCountBonus": 1
+            "ingredientCountBonus": 1,
+            "fixedIngredientDrops": {
+              "一口坚果": 1
+            },
+            "carryCapacityBonus": 10
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "cyan",
+              "canyon",
+              "greenex",
+              "cyanex"
+            ],
+            "pokemonNames": [
+              "木棉球",
+              "风妖精"
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 6
+          }
+        }
+      ],
+      "features": [
+        {
+          "id": "announced-encounter-tier",
+          "name": "新宝可梦中幅出没提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "官方仅公布中幅提升；数值6沿用项目 event-parameters.json 的 mid 模拟权重，并非官方概率。未有完整睡姿资料时不生成虚构睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+          "parameters": {
+            "officialTier": "medium",
+            "simulationParameter": "sleep.upWeights.mid"
           }
         }
       ]
     }
+  ],
+  "modelVersion": 2,
+  "requiredCapabilities": [
+    "numeric-effects",
+    "ingredient-effects",
+    "conditional-recipes",
+    "scoped-rules",
+    "phases",
+    "feature-status"
   ]
 }

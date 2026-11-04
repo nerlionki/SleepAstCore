@@ -3,6 +3,13 @@
   "version": "1.0.11",
   "private": true,
   "type": "module",
-  "engines": { "node": "^22.18.0 || >=24.11.0" },
-  "scripts": { "build": "node scripts/build.mjs", "verify": "node scripts/verify.mjs" }
+  "engines": {
+    "node": "^22.18.0 || >=24.11.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "verify": "node scripts/verify.mjs",
+    "build:v2": "node scripts/resource-v2.mjs build",
+    "verify:v2": "node scripts/resource-v2.mjs verify"
+  }
 }
