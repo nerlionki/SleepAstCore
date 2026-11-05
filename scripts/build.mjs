@@ -6,6 +6,9 @@ import { validateActivityResource } from './validate-activities.mjs'
 import { validateActivityCatalog } from './activity-model.mjs'
 import { installProductionRankings } from './production-rankings.mjs'
 import { validateEventBundles } from './event-bundles.mjs'
+import { validateSkillResources } from './validate-skill-resources.mjs'
+import { validateIdImages } from './id-images.mjs'
+import { installItemCatalog } from './item-catalog.mjs'
 const root = path.resolve(import.meta.dirname, '..')
 const pkg = JSON.parse(await fs.readFile(path.join(root, 'package.json'), 'utf8'))
 const version = (process.env.RESOURCE_VERSION || pkg.version).replace(/^v/, '')
@@ -32,12 +35,14 @@ if (api === '1') {
 if (Object.keys(data).length !== 43) throw new Error('Changing the data file set requires updating the client contract')
 data['meta.json'].eventBundles = validateEventBundles(JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/event-bundles.json'), 'utf8')))
 await installProductionRankings(data, context)
+installItemCatalog(data)
 if (api === '1') validateActivityResource(data)
 else {
   if (data['activities.json'].schemaVersion !== 2) throw new Error('v2 requires activity schema 2')
   validateActivityCatalog(data['activities.json'], data)
 }
 installOcrNameCatalog(data)
+validateSkillResources(data)
 const payload = JSON.stringify(data)
 await fs.writeFile(path.join(dist, directory, 'data.json'), payload)
 const assets = {}
@@ -75,6 +80,7 @@ async function copyImages(source, prefix) {
 await copyImages(path.join(root, 'src/assets/imgs'), 'images/')
 await copyImages(path.join(root, 'public/items'), 'items/')
 await copyImages(path.join(root, 'public/sprites'), 'sprites/')
+validateIdImages(data, assets)
 if (api === '2') for (const rows of Object.values(data['meta.json'].announcedContent ?? {})) {
   if (!Array.isArray(rows)) continue
   for (const row of rows) if (row?.imageFile && !assets['images/' + row.imageFile]) throw new Error('Missing announced image: ' + row.imageFile)

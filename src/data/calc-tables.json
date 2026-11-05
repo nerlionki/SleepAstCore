@@ -154,7 +154,26 @@
           20,
           40
         ]
-      }
+      },
+      "SLOT_LEVELS": [
+        1,
+        30,
+        60
+      ],
+      "SLOT_CHOICES": [
+        [
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ]
     },
     "islandMeta": {
       "randomBerryCount": 3,
@@ -513,7 +532,762 @@
         "25": "成就：以队伍 SP 1,900 进行睡眠研究。",
         "26": "成就：10 只宝可梦升至 5 级。",
         "27": "成就：以队伍 SP 4,700 进行睡眠研究。"
-      }
+      },
+      "catalog": [
+        {
+          "id": 9,
+          "name": "寶可沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/9.webp"
+        },
+        {
+          "id": 10,
+          "name": "超級沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/10.webp"
+        },
+        {
+          "id": 11,
+          "name": "大師沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/11.webp"
+        },
+        {
+          "id": 37,
+          "name": "雷公沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/37.webp"
+        },
+        {
+          "id": 92,
+          "name": "炎帝沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/92.webp"
+        },
+        {
+          "id": 94,
+          "name": "高級沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/94.webp"
+        },
+        {
+          "id": 95,
+          "name": "水君沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/95.webp"
+        },
+        {
+          "id": 99,
+          "name": "克雷色利亞沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/99.webp"
+        },
+        {
+          "id": 106,
+          "name": "紀念沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/106.webp"
+        },
+        {
+          "id": 110,
+          "name": "拉帝亞斯沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/110.webp"
+        },
+        {
+          "id": 112,
+          "name": "拉帝亞斯／拉帝歐斯沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/112.webp"
+        },
+        {
+          "id": 117,
+          "name": "超夢沙布蕾",
+          "category": "沙布蕾",
+          "imageFile": "items/117.webp"
+        },
+        {
+          "id": 21,
+          "name": "聯繫繩",
+          "category": "进化道具",
+          "imageFile": "items/21.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "additionalAcquisition": "成就：累计使用 140 个薰香；10 只宝可梦升至 15 级；以队伍 SP 25,000 进行睡眠研究。"
+        },
+        {
+          "id": 22,
+          "name": "火之石",
+          "category": "进化道具",
+          "imageFile": "items/22.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "additionalAcquisition": "成就：10 只宝可梦升至 25 级。"
+        },
+        {
+          "id": 23,
+          "name": "水之石",
+          "category": "进化道具",
+          "imageFile": "items/23.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "additionalAcquisition": "成就：10 只宝可梦升至 35 级。"
+        },
+        {
+          "id": 24,
+          "name": "雷之石",
+          "category": "进化道具",
+          "imageFile": "items/24.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "additionalAcquisition": "成就：10 只宝可梦升至 45 级。"
+        },
+        {
+          "id": 25,
+          "name": "葉之石",
+          "category": "进化道具",
+          "imageFile": "items/25.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "additionalAcquisition": "成就：以队伍 SP 1,900 进行睡眠研究。"
+        },
+        {
+          "id": 26,
+          "name": "冰之石",
+          "category": "进化道具",
+          "imageFile": "items/26.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "additionalAcquisition": "成就：10 只宝可梦升至 5 级。"
+        },
+        {
+          "id": 27,
+          "name": "月之石",
+          "category": "进化道具",
+          "imageFile": "items/27.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "additionalAcquisition": "成就：以队伍 SP 4,700 进行睡眠研究。"
+        },
+        {
+          "id": 28,
+          "name": "光之石",
+          "category": "进化道具",
+          "imageFile": "items/28.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+        },
+        {
+          "id": 29,
+          "name": "金屬膜",
+          "category": "进化道具",
+          "imageFile": "items/29.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+        },
+        {
+          "id": 30,
+          "name": "渾圓之石",
+          "category": "进化道具",
+          "imageFile": "items/30.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+        },
+        {
+          "id": 31,
+          "name": "王者之證",
+          "category": "进化道具",
+          "imageFile": "items/31.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+        },
+        {
+          "id": 35,
+          "name": "覺醒之石",
+          "category": "进化道具",
+          "imageFile": "items/35.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+        },
+        {
+          "id": 97,
+          "name": "銳利之爪",
+          "category": "进化道具",
+          "imageFile": "items/97.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+        },
+        {
+          "id": 102,
+          "name": "暗之石",
+          "category": "进化道具",
+          "imageFile": "items/102.webp",
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+        },
+        {
+          "id": 1,
+          "name": "專注薰香",
+          "category": "功能型薰香",
+          "imageFile": "items/1.webp"
+        },
+        {
+          "id": 2,
+          "name": "幸運薰香",
+          "category": "功能型薰香",
+          "imageFile": "items/2.webp"
+        },
+        {
+          "id": 3,
+          "name": "成長薰香",
+          "category": "功能型薰香",
+          "imageFile": "items/3.webp"
+        },
+        {
+          "id": 4,
+          "name": "回復薰香",
+          "category": "功能型薰香",
+          "imageFile": "items/4.webp"
+        },
+        {
+          "id": 34,
+          "name": "友好薰香",
+          "category": "功能型薰香",
+          "imageFile": "items/34.webp"
+        },
+        {
+          "id": 12,
+          "name": "萬能糖果S",
+          "category": "糖果",
+          "imageFile": "items/12.webp"
+        },
+        {
+          "id": 13,
+          "name": "萬能糖果M",
+          "category": "糖果",
+          "imageFile": "items/13.webp"
+        },
+        {
+          "id": 14,
+          "name": "萬能糖果L",
+          "category": "糖果",
+          "imageFile": "items/14.webp"
+        },
+        {
+          "id": 38,
+          "name": "一般屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/38.webp"
+        },
+        {
+          "id": 39,
+          "name": "火屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/39.webp"
+        },
+        {
+          "id": 40,
+          "name": "水屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/40.webp"
+        },
+        {
+          "id": 41,
+          "name": "電屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/41.webp"
+        },
+        {
+          "id": 42,
+          "name": "草屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/42.webp"
+        },
+        {
+          "id": 43,
+          "name": "冰屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/43.webp"
+        },
+        {
+          "id": 44,
+          "name": "格鬥屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/44.webp"
+        },
+        {
+          "id": 45,
+          "name": "毒屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/45.webp"
+        },
+        {
+          "id": 46,
+          "name": "地面屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/46.webp"
+        },
+        {
+          "id": 47,
+          "name": "飛行屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/47.webp"
+        },
+        {
+          "id": 48,
+          "name": "超能力屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/48.webp"
+        },
+        {
+          "id": 49,
+          "name": "蟲屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/49.webp"
+        },
+        {
+          "id": 50,
+          "name": "岩石屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/50.webp"
+        },
+        {
+          "id": 51,
+          "name": "幽靈屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/51.webp"
+        },
+        {
+          "id": 52,
+          "name": "龍屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/52.webp"
+        },
+        {
+          "id": 53,
+          "name": "惡屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/53.webp"
+        },
+        {
+          "id": 54,
+          "name": "鋼屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/54.webp"
+        },
+        {
+          "id": 55,
+          "name": "妖精屬性的糖果S",
+          "category": "糖果",
+          "imageFile": "items/55.webp"
+        },
+        {
+          "id": 56,
+          "name": "一般屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/56.webp"
+        },
+        {
+          "id": 57,
+          "name": "火屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/57.webp"
+        },
+        {
+          "id": 58,
+          "name": "水屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/58.webp"
+        },
+        {
+          "id": 59,
+          "name": "電屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/59.webp"
+        },
+        {
+          "id": 60,
+          "name": "草屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/60.webp"
+        },
+        {
+          "id": 61,
+          "name": "冰屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/61.webp"
+        },
+        {
+          "id": 62,
+          "name": "格鬥屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/62.webp"
+        },
+        {
+          "id": 63,
+          "name": "毒屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/63.webp"
+        },
+        {
+          "id": 64,
+          "name": "地面屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/64.webp"
+        },
+        {
+          "id": 65,
+          "name": "飛行屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/65.webp"
+        },
+        {
+          "id": 66,
+          "name": "超能力屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/66.webp"
+        },
+        {
+          "id": 67,
+          "name": "蟲屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/67.webp"
+        },
+        {
+          "id": 68,
+          "name": "岩石屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/68.webp"
+        },
+        {
+          "id": 69,
+          "name": "幽靈屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/69.webp"
+        },
+        {
+          "id": 70,
+          "name": "龍屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/70.webp"
+        },
+        {
+          "id": 71,
+          "name": "惡屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/71.webp"
+        },
+        {
+          "id": 72,
+          "name": "鋼屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/72.webp"
+        },
+        {
+          "id": 73,
+          "name": "妖精屬性的糖果M",
+          "category": "糖果",
+          "imageFile": "items/73.webp"
+        },
+        {
+          "id": 74,
+          "name": "一般屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/74.webp"
+        },
+        {
+          "id": 75,
+          "name": "火屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/75.webp"
+        },
+        {
+          "id": 76,
+          "name": "水屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/76.webp"
+        },
+        {
+          "id": 77,
+          "name": "電屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/77.webp"
+        },
+        {
+          "id": 78,
+          "name": "草屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/78.webp"
+        },
+        {
+          "id": 79,
+          "name": "冰屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/79.webp"
+        },
+        {
+          "id": 80,
+          "name": "格鬥屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/80.webp"
+        },
+        {
+          "id": 81,
+          "name": "毒屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/81.webp"
+        },
+        {
+          "id": 82,
+          "name": "地面屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/82.webp"
+        },
+        {
+          "id": 83,
+          "name": "飛行屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/83.webp"
+        },
+        {
+          "id": 84,
+          "name": "超能力屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/84.webp"
+        },
+        {
+          "id": 85,
+          "name": "蟲屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/85.webp"
+        },
+        {
+          "id": 86,
+          "name": "岩石屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/86.webp"
+        },
+        {
+          "id": 87,
+          "name": "幽靈屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/87.webp"
+        },
+        {
+          "id": 88,
+          "name": "龍屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/88.webp"
+        },
+        {
+          "id": 89,
+          "name": "惡屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/89.webp"
+        },
+        {
+          "id": 90,
+          "name": "鋼屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/90.webp"
+        },
+        {
+          "id": 91,
+          "name": "妖精屬性的糖果L",
+          "category": "糖果",
+          "imageFile": "items/91.webp"
+        },
+        {
+          "id": 36,
+          "name": "雷公的鬃毛",
+          "category": "活动研究物品",
+          "imageFile": "items/36.webp"
+        },
+        {
+          "id": 93,
+          "name": "炎帝的鬃毛",
+          "category": "活动研究物品",
+          "imageFile": "items/93.webp"
+        },
+        {
+          "id": 96,
+          "name": "水君的鬃毛",
+          "category": "活动研究物品",
+          "imageFile": "items/96.webp"
+        },
+        {
+          "id": 98,
+          "name": "美夢幣",
+          "category": "活动研究物品",
+          "imageFile": "items/98.webp"
+        },
+        {
+          "id": 100,
+          "name": "克雷色利亞的羽絨",
+          "category": "活动研究物品",
+          "imageFile": "items/100.webp"
+        },
+        {
+          "id": 105,
+          "name": "寶可夢的掉落物",
+          "category": "活动研究物品",
+          "imageFile": "items/105.webp"
+        },
+        {
+          "id": 107,
+          "name": "美夢幣",
+          "category": "活动研究物品",
+          "imageFile": "items/107.webp"
+        },
+        {
+          "id": 111,
+          "name": "拉帝亞斯的羽絨",
+          "category": "活动研究物品",
+          "imageFile": "items/111.webp"
+        },
+        {
+          "id": 113,
+          "name": "拉帝歐斯的羽絨",
+          "category": "活动研究物品",
+          "imageFile": "items/113.webp"
+        },
+        {
+          "id": 118,
+          "name": "超夢的基因",
+          "category": "活动研究物品",
+          "imageFile": "items/118.webp"
+        },
+        {
+          "id": 103,
+          "name": "淨白薄荷",
+          "category": "薄荷",
+          "imageFile": "items/103.webp"
+        },
+        {
+          "id": 101,
+          "name": "靈感種子（寶可夢專屬）",
+          "category": "灵感种子",
+          "imageFile": "items/101.webp"
+        },
+        {
+          "id": 109,
+          "name": "靈感種子（寶可夢專屬）",
+          "category": "灵感种子",
+          "imageFile": "items/109.webp"
+        },
+        {
+          "id": 5,
+          "name": "活力枕頭",
+          "category": "其他",
+          "imageFile": "items/5.webp"
+        },
+        {
+          "id": 6,
+          "name": "幫手哨子",
+          "category": "其他",
+          "imageFile": "items/6.webp"
+        },
+        {
+          "id": 7,
+          "name": "營地移動券",
+          "category": "其他",
+          "imageFile": "items/7.webp"
+        },
+        {
+          "id": 8,
+          "name": "好露營券",
+          "category": "其他",
+          "imageFile": "items/8.webp"
+        },
+        {
+          "id": 15,
+          "name": "食材券S",
+          "category": "其他",
+          "imageFile": "items/15.webp"
+        },
+        {
+          "id": 16,
+          "name": "食材券M",
+          "category": "其他",
+          "imageFile": "items/16.webp"
+        },
+        {
+          "id": 17,
+          "name": "食材券L",
+          "category": "其他",
+          "imageFile": "items/17.webp"
+        },
+        {
+          "id": 18,
+          "name": "夢之塊S",
+          "category": "其他",
+          "imageFile": "items/18.webp"
+        },
+        {
+          "id": 19,
+          "name": "夢之塊M",
+          "category": "其他",
+          "imageFile": "items/19.webp"
+        },
+        {
+          "id": 20,
+          "name": "夢之塊L",
+          "category": "其他",
+          "imageFile": "items/20.webp"
+        },
+        {
+          "id": 32,
+          "name": "主技能種子",
+          "category": "其他",
+          "imageFile": "items/32.webp"
+        },
+        {
+          "id": 33,
+          "name": "副技能種子",
+          "category": "其他",
+          "imageFile": "items/33.webp"
+        },
+        {
+          "id": 104,
+          "name": "EX券",
+          "category": "其他",
+          "imageFile": "items/104.webp"
+        },
+        {
+          "id": 108,
+          "name": "樹果汁",
+          "category": "其他",
+          "imageFile": "items/108.webp",
+          "maxHeld": 5,
+          "useEffect": {
+            "op": "heal",
+            "amount": 20,
+            "energyCap": 123,
+            "ignoreNegativeNature": true
+          },
+          "legacyRewardKey": "berryJuice"
+        },
+        {
+          "id": 114,
+          "name": "午睡放鬆券",
+          "category": "其他",
+          "imageFile": "items/114.webp"
+        },
+        {
+          "id": 115,
+          "name": "主技能種子（寶可夢專屬）",
+          "category": "其他",
+          "imageFile": "items/115.webp"
+        },
+        {
+          "id": 116,
+          "name": "主技能種子（寶可夢專屬）",
+          "category": "其他",
+          "imageFile": "items/116.webp"
+        },
+        {
+          "id": 119,
+          "name": "主技能種子（寶可夢專屬）",
+          "category": "其他",
+          "imageFile": "items/119.webp"
+        },
+        {
+          "id": 120,
+          "name": "主技能種子（寶可夢專屬）",
+          "category": "其他",
+          "imageFile": "items/120.webp"
+        }
+      ],
+      "roles": {
+        "berryJuice": 108
+      },
+      "catalogVersion": 1
     },
     "member": {
       "SUBSKILL_GATES": [

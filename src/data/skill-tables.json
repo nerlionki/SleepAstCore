@@ -49,7 +49,29 @@
             [
               "3212"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "charge",
+            "tags": [],
+            "effects": [
+              {
+                "op": "charge",
+                "amount": {
+                  "column": "能量"
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": true,
+            "chargeValue": {
+              "column": "能量"
+            },
+            "displayValue": {
+              "column": "能量"
+            }
+          },
+          "imageFile": "mainSkill/1.webp",
+          "imageAvailable": true
         },
         {
           "id": 5,
@@ -94,7 +116,38 @@
               "1606",
               "6424"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "charge",
+            "tags": [],
+            "effects": [
+              {
+                "op": "charge",
+                "amount": {
+                  "range": [
+                    "最低",
+                    "最高"
+                  ]
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": true,
+            "chargeValue": {
+              "range": [
+                "最低",
+                "最高"
+              ]
+            },
+            "displayValue": {
+              "range": [
+                "最低",
+                "最高"
+              ]
+            }
+          },
+          "imageFile": "mainSkill/5.webp",
+          "imageAvailable": true
         },
         {
           "id": 2,
@@ -131,7 +184,29 @@
             [
               "6858"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "charge",
+            "tags": [],
+            "effects": [
+              {
+                "op": "charge",
+                "amount": {
+                  "column": "能量"
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": true,
+            "chargeValue": {
+              "column": "能量"
+            },
+            "displayValue": {
+              "column": "能量"
+            }
+          },
+          "imageFile": "mainSkill/2.webp",
+          "imageAvailable": true
         },
         {
           "id": 15,
@@ -287,7 +362,29 @@
                 ]
               ]
             }
-          ]
+          ],
+          "model": {
+            "classification": "charge",
+            "tags": [],
+            "effects": [
+              {
+                "op": "accumulateRelease",
+                "maxStacks": 10,
+                "releaseChance": 0.265,
+                "extraTable": 0
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "chargeValue": {
+              "column": "0 层"
+            },
+            "displayValue": {
+              "column": "0 层"
+            }
+          },
+          "imageFile": "mainSkill/15.webp",
+          "imageAvailable": true
         },
         {
           "id": 22,
@@ -324,7 +421,39 @@
             [
               "18515"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "charge",
+            "tags": [],
+            "effects": [
+              {
+                "op": "charge",
+                "amount": {
+                  "column": "能量"
+                }
+              },
+              {
+                "op": "drainEnergy",
+                "amount": 12,
+                "target": {
+                  "kind": "team"
+                },
+                "condition": {
+                  "targetTypeNot": "恶"
+                }
+              }
+            ],
+            "copyable": false,
+            "comparisonFastPath": false,
+            "chargeValue": {
+              "column": "能量"
+            },
+            "displayValue": {
+              "column": "能量"
+            }
+          },
+          "imageFile": "mainSkill/22.webp",
+          "imageAvailable": true
         },
         {
           "id": 40,
@@ -365,7 +494,36 @@
               "7274",
               "2%"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "charge",
+            "tags": [],
+            "effects": [
+              {
+                "op": "charge",
+                "amount": {
+                  "column": "能量"
+                }
+              },
+              {
+                "op": "zone",
+                "amount": {
+                  "column": "树果领域",
+                  "percent": true
+                }
+              }
+            ],
+            "copyable": false,
+            "comparisonFastPath": false,
+            "chargeValue": {
+              "column": "能量"
+            },
+            "displayValue": {
+              "column": "能量"
+            }
+          },
+          "imageFile": "mainSkill/40.webp",
+          "imageAvailable": true
         },
         {
           "id": 3,
@@ -405,7 +563,27 @@
             [
               "2500"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "currency",
+                "amount": {
+                  "column": "梦碎"
+                },
+                "currency": "dreamShards",
+                "profiles": [
+                  "expected"
+                ]
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/3.webp",
+          "imageAvailable": true
         },
         {
           "id": 6,
@@ -454,7 +632,30 @@
               "1150",
               "4600"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "currency",
+                "amount": {
+                  "range": [
+                    "最低",
+                    "最高"
+                  ]
+                },
+                "currency": "dreamShards",
+                "profiles": [
+                  "expected"
+                ]
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/6.webp",
+          "imageAvailable": true
         },
         {
           "id": 39,
@@ -503,7 +704,39 @@
               "2500",
               "2042"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "charge",
+            "tags": [],
+            "effects": [
+              {
+                "op": "charge",
+                "amount": {
+                  "column": "能量"
+                }
+              },
+              {
+                "op": "currency",
+                "amount": {
+                  "column": "梦碎"
+                },
+                "currency": "dreamShards",
+                "profiles": [
+                  "expected"
+                ]
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "chargeValue": {
+              "column": "能量"
+            },
+            "displayValue": {
+              "column": "能量"
+            }
+          },
+          "imageFile": "mainSkill/39.webp",
+          "imageAvailable": true
         },
         {
           "id": 4,
@@ -537,7 +770,42 @@
             [
               "44"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "healOne",
+            "tags": [],
+            "effects": [
+              {
+                "op": "heal",
+                "amount": {
+                  "column": "活力"
+                },
+                "target": {
+                  "kind": "random",
+                  "sampled": {
+                    "lowestChance": 0.625,
+                    "randomLowestTies": true
+                  }
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "displayValue": {
+              "column": "活力"
+            },
+            "targetEvidence": {
+              "official": "https://www.pokemonsleep.net/zh/news/333233323437383534383636393233353231/",
+              "community": "https://wikiwiki.jp/poke_sleep/検証/げんきエールの対象",
+              "status": "community-estimate-user-approved",
+              "fullTeamLowestProbability": 0.7,
+              "fullTeamOtherProbability": 0.075,
+              "mixture": "0.625 lowest-priority + 0.375 uniform; split lowest-priority equally across tied minima",
+              "checkedAt": "2026-11-05"
+            }
+          },
+          "imageFile": "mainSkill/4.webp",
+          "imageAvailable": true
         },
         {
           "id": 7,
@@ -571,7 +839,29 @@
             [
               "43.4"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "healSelf",
+            "tags": [],
+            "effects": [
+              {
+                "op": "heal",
+                "amount": {
+                  "column": "活力"
+                },
+                "target": {
+                  "kind": "self"
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": true,
+            "displayValue": {
+              "column": "活力"
+            }
+          },
+          "imageFile": "mainSkill/7.webp",
+          "imageAvailable": true
         },
         {
           "id": 8,
@@ -605,7 +895,29 @@
             [
               "18.1"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "healAll",
+            "tags": [],
+            "effects": [
+              {
+                "op": "heal",
+                "amount": {
+                  "column": "活力"
+                },
+                "target": {
+                  "kind": "team"
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": true,
+            "displayValue": {
+              "column": "活力"
+            }
+          },
+          "imageFile": "mainSkill/8.webp",
+          "imageAvailable": true
         },
         {
           "id": 17,
@@ -646,7 +958,49 @@
               "43.4",
               "22.8"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "healAll",
+            "tags": [],
+            "effects": [
+              {
+                "op": "heal",
+                "amount": {
+                  "column": "自己"
+                },
+                "target": {
+                  "kind": "self"
+                }
+              },
+              {
+                "op": "heal",
+                "amount": {
+                  "column": "同伴"
+                },
+                "chance": {
+                  "probability": 0.45
+                },
+                "target": {
+                  "kind": "random",
+                  "expected": {
+                    "firstWeight": 0.72,
+                    "otherWeight": 0.07
+                  },
+                  "sampled": {
+                    "lowestChance": 0.72,
+                    "randomLowestTies": true
+                  }
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "displayValue": {
+              "column": "自己"
+            }
+          },
+          "imageFile": "mainSkill/17.webp",
+          "imageAvailable": true
         },
         {
           "id": 21,
@@ -694,7 +1048,49 @@
               "25",
               "32"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "healAll",
+            "tags": [],
+            "effects": [
+              {
+                "op": "sequence",
+                "target": {
+                  "kind": "team"
+                },
+                "effects": [
+                  {
+                    "op": "heal",
+                    "amount": {
+                      "column": "活力"
+                    },
+                    "target": {
+                      "kind": "self"
+                    }
+                  },
+                  {
+                    "op": "berries",
+                    "target": {
+                      "kind": "self"
+                    },
+                    "selfAmount": {
+                      "table": "CRESCENT_SELF"
+                    },
+                    "otherAmount": {
+                      "table": "CRESCENT_TEAM"
+                    }
+                  }
+                ]
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "displayValue": {
+              "column": "活力"
+            }
+          },
+          "imageFile": "mainSkill/21.webp",
+          "imageAvailable": true
         },
         {
           "id": 30,
@@ -735,7 +1131,46 @@
               "35",
               "7"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "healOne",
+            "tags": [],
+            "effects": [
+              {
+                "op": "sequence",
+                "target": {
+                  "kind": "random"
+                },
+                "effects": [
+                  {
+                    "op": "heal",
+                    "amount": {
+                      "column": "活力"
+                    },
+                    "target": {
+                      "kind": "self"
+                    }
+                  },
+                  {
+                    "op": "skillOnlyHelp",
+                    "amount": {
+                      "column": "技能帮忙"
+                    },
+                    "target": {
+                      "kind": "self"
+                    }
+                  }
+                ]
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "displayValue": {
+              "column": "活力"
+            }
+          },
+          "imageFile": "mainSkill/30.webp",
+          "imageAvailable": true
         },
         {
           "id": 32,
@@ -769,7 +1204,37 @@
             [
               "18.1"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "healAll",
+            "tags": [],
+            "effects": [
+              {
+                "op": "heal",
+                "amount": {
+                  "column": "活力"
+                },
+                "target": {
+                  "kind": "team"
+                }
+              },
+              {
+                "op": "giveItem",
+                "amount": 1,
+                "itemId": 108,
+                "chance": {
+                  "probability": 0.185
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "displayValue": {
+              "column": "活力"
+            }
+          },
+          "imageFile": "mainSkill/32.webp",
+          "imageAvailable": true
         },
         {
           "id": 35,
@@ -817,7 +1282,77 @@
               "4",
               "3"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "healOne",
+            "tags": [],
+            "effects": [
+              {
+                "op": "sequence",
+                "target": {
+                  "kind": "random",
+                  "count": 2,
+                  "expected": {
+                    "rankWeights": [
+                      0.9265,
+                      0.61938,
+                      0.15137,
+                      0.15137,
+                      0.15137
+                    ],
+                    "fullTeamSize": 5,
+                    "shareTies": true
+                  },
+                  "sampled": {
+                    "lowestChance": 0.72,
+                    "randomLowestTies": false
+                  }
+                },
+                "effects": [
+                  {
+                    "op": "heal",
+                    "amount": {
+                      "column": "活力"
+                    },
+                    "target": {
+                      "kind": "self"
+                    }
+                  },
+                  {
+                    "op": "help",
+                    "amount": {
+                      "add": [
+                        {
+                          "column": "帮忙"
+                        },
+                        {
+                          "when": {
+                            "teamPokemon": [
+                              381
+                            ]
+                          },
+                          "then": {
+                            "column": "组合追加"
+                          },
+                          "otherwise": 0
+                        }
+                      ]
+                    },
+                    "target": {
+                      "kind": "self"
+                    }
+                  }
+                ]
+              }
+            ],
+            "copyable": false,
+            "comparisonFastPath": false,
+            "displayValue": {
+              "column": "活力"
+            }
+          },
+          "imageFile": "mainSkill/35.webp",
+          "imageAvailable": true
         },
         {
           "id": 9,
@@ -854,7 +1389,33 @@
             [
               "12"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "support",
+            "tags": [],
+            "effects": [
+              {
+                "op": "help",
+                "amount": {
+                  "column": "帮忙"
+                },
+                "target": {
+                  "kind": "random",
+                  "expected": {
+                    "supportSize": true
+                  }
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "displayValue": {
+              "column": "帮忙"
+            },
+            "berryRanking": "support"
+          },
+          "imageFile": "mainSkill/9.webp",
+          "imageAvailable": true
         },
         {
           "id": 14,
@@ -895,7 +1456,26 @@
               "5",
               "6"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "typeAccel",
+            "tags": [],
+            "effects": [
+              {
+                "op": "help",
+                "amount": {
+                  "table": "BOOST"
+                },
+                "target": {
+                  "kind": "team"
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/14.webp",
+          "imageAvailable": true
         },
         {
           "id": 10,
@@ -932,7 +1512,24 @@
             [
               "24"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "食材"
+                },
+                "draws": 3
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/10.webp",
+          "imageAvailable": true
         },
         {
           "id": 16,
@@ -973,7 +1570,37 @@
               "21",
               "5"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "onceBonus",
+                "releaseChance": 0.185,
+                "bonus": 2,
+                "effects": [
+                  {
+                    "op": "berries",
+                    "target": {
+                      "kind": "team"
+                    },
+                    "selfAmount": {
+                      "column": "基础"
+                    },
+                    "otherAmount": {
+                      "column": "追加"
+                    }
+                  }
+                ]
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "berryRanking": "unlimited"
+          },
+          "imageFile": "mainSkill/16.webp",
+          "imageAvailable": true
         },
         {
           "id": 20,
@@ -1014,7 +1641,30 @@
               "30",
               "5"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "berries",
+                "target": {
+                  "kind": "team"
+                },
+                "selfAmount": {
+                  "column": "基础"
+                },
+                "otherAmount": {
+                  "column": "追加"
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "berryRanking": "unlimited"
+          },
+          "imageFile": "mainSkill/20.webp",
+          "imageAvailable": true
         },
         {
           "id": 23,
@@ -1067,7 +1717,62 @@
               "4000",
               "20000"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "食材"
+                },
+                "pool": [
+                  2,
+                  7,
+                  15,
+                  17
+                ],
+                "draws": 1,
+                "chance": {
+                  "probability": 0.14,
+                  "test": "gte",
+                  "expectedProbability": 0.86
+                }
+              },
+              {
+                "op": "currency",
+                "amount": {
+                  "add": [
+                    {
+                      "multiply": [
+                        {
+                          "column": "梦碎"
+                        },
+                        0.112
+                      ]
+                    },
+                    {
+                      "multiply": [
+                        {
+                          "column": "大成功"
+                        },
+                        0.028
+                      ]
+                    }
+                  ]
+                },
+                "currency": "dreamShards",
+                "profiles": [
+                  "expected"
+                ]
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/23.webp",
+          "imageAvailable": true
         },
         {
           "id": 24,
@@ -1112,7 +1817,44 @@
               "18",
               "36"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "multiply": [
+                    {
+                      "column": "食材"
+                    },
+                    {
+                      "expected": 1.1666666666666667,
+                      "sampled": {
+                        "randomMultiplier": {
+                          "chance": 0.16666666666666666,
+                          "hit": 2,
+                          "miss": 1
+                        }
+                      }
+                    }
+                  ]
+                },
+                "pool": [
+                  4,
+                  10,
+                  12,
+                  16
+                ],
+                "draws": 1
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/24.webp",
+          "imageAvailable": true
         },
         {
           "id": 26,
@@ -1157,7 +1899,57 @@
               "18",
               "12"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [
+              "polarity"
+            ],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "携带"
+                },
+                "draws": 3,
+                "roundingBonus": {
+                  "when": {
+                    "all": [
+                      {
+                        "teamSkillTags": [
+                          "polarity"
+                        ],
+                        "excludeSelf": true
+                      },
+                      {
+                        "firstIngredient": true
+                      }
+                    ]
+                  },
+                  "then": {
+                    "column": "一致追加"
+                  },
+                  "otherwise": 0
+                }
+              },
+              {
+                "op": "firstIngredient",
+                "amount": {
+                  "column": "一致追加"
+                },
+                "condition": {
+                  "teamSkillTags": [
+                    "polarity"
+                  ],
+                  "excludeSelf": true
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/26.webp",
+          "imageAvailable": true
         },
         {
           "id": 27,
@@ -1202,7 +1994,57 @@
               "18",
               "14"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [
+              "polarity"
+            ],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "携带"
+                },
+                "draws": 3,
+                "roundingBonus": {
+                  "when": {
+                    "all": [
+                      {
+                        "teamSkillTags": [
+                          "polarity"
+                        ],
+                        "excludeSelf": true
+                      },
+                      {
+                        "firstIngredient": true
+                      }
+                    ]
+                  },
+                  "then": {
+                    "column": "一致追加"
+                  },
+                  "otherwise": 0
+                }
+              },
+              {
+                "op": "firstIngredient",
+                "amount": {
+                  "column": "一致追加"
+                },
+                "condition": {
+                  "teamSkillTags": [
+                    "polarity"
+                  ],
+                  "excludeSelf": true
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/27.webp",
+          "imageAvailable": true
         },
         {
           "id": 28,
@@ -1239,7 +2081,29 @@
             [
               "18"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "食材"
+                },
+                "pool": [
+                  4,
+                  10,
+                  19
+                ],
+                "draws": 1
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/28.webp",
+          "imageAvailable": true
         },
         {
           "id": 33,
@@ -1276,7 +2140,29 @@
             [
               "18"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "食材"
+                },
+                "pool": [
+                  9,
+                  10,
+                  16
+                ],
+                "draws": 1
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/33.webp",
+          "imageAvailable": true
         },
         {
           "id": 36,
@@ -1313,7 +2199,29 @@
             [
               "18"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "食材"
+                },
+                "pool": [
+                  4,
+                  16,
+                  18
+                ],
+                "draws": 1
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/36.webp",
+          "imageAvailable": true
         },
         {
           "id": 38,
@@ -1350,7 +2258,29 @@
             [
               "18"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "食材"
+                },
+                "pool": [
+                  6,
+                  7,
+                  11
+                ],
+                "draws": 1
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/38.webp",
+          "imageAvailable": true
         },
         {
           "id": 29,
@@ -1395,7 +2325,39 @@
               "17",
               "4"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "食材"
+                },
+                "draws": 3
+              },
+              {
+                "op": "currency",
+                "amount": {
+                  "divide": [
+                    {
+                      "column": "糖果"
+                    },
+                    3
+                  ]
+                },
+                "currency": "candies",
+                "profiles": [
+                  "expected"
+                ]
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/29.webp",
+          "imageAvailable": true
         },
         {
           "id": 31,
@@ -1440,7 +2402,31 @@
               "24",
               "5%"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "ingredients",
+                "amount": {
+                  "column": "食材"
+                },
+                "draws": 3
+              },
+              {
+                "op": "crit",
+                "amount": {
+                  "column": "暴击",
+                  "percent": true
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/31.webp",
+          "imageAvailable": true
         },
         {
           "id": 37,
@@ -1489,7 +2475,45 @@
               "58",
               "10"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "berries",
+                "target": {
+                  "kind": "team"
+                },
+                "selfAmount": {
+                  "add": [
+                    {
+                      "table": "DRACO_SELF"
+                    },
+                    {
+                      "when": {
+                        "teamPokemon": [
+                          380
+                        ]
+                      },
+                      "then": {
+                        "column": "拉帝亚斯"
+                      },
+                      "otherwise": 0
+                    }
+                  ]
+                },
+                "otherAmount": {
+                  "table": "DRACO_TEAM"
+                }
+              }
+            ],
+            "copyable": false,
+            "comparisonFastPath": false,
+            "berryRanking": "unlimited"
+          },
+          "imageFile": "mainSkill/37.webp",
+          "imageAvailable": true
         },
         {
           "id": 12,
@@ -1502,7 +2526,47 @@
           "summary": "随机发动另一种主技能。",
           "detail": "发动时从一组主技能里随机选一个结算。等级会传给被选中的技能。没有单独的数值表。",
           "columns": [],
-          "levels": []
+          "levels": [],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "selection": {
+              "kind": "random",
+              "pool": [
+                1,
+                5,
+                2,
+                15,
+                20,
+                39,
+                9,
+                10,
+                31,
+                23,
+                24,
+                29,
+                26,
+                4,
+                30,
+                7,
+                8,
+                17,
+                32,
+                11,
+                13,
+                25,
+                3,
+                6,
+                14,
+                21
+              ]
+            }
+          },
+          "imageFile": "mainSkill/12.webp",
+          "imageAvailable": true
         },
         {
           "id": 18,
@@ -1546,7 +2610,37 @@
                 ]
               ]
             }
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [],
+            "copyable": false,
+            "comparisonFastPath": false,
+            "selection": {
+              "kind": "copy",
+              "fallbackSkillId": 1,
+              "blockedPokemon": [
+                150,
+                151,
+                243,
+                244,
+                245,
+                380,
+                381,
+                488,
+                491
+              ]
+            },
+            "chargeValue": {
+              "skill": 1,
+              "value": {
+                "column": "能量"
+              }
+            }
+          },
+          "imageFile": "mainSkill/18.webp",
+          "imageAvailable": true
         },
         {
           "id": 19,
@@ -1590,7 +2684,37 @@
                 ]
               ]
             }
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [],
+            "copyable": false,
+            "comparisonFastPath": false,
+            "selection": {
+              "kind": "copy",
+              "fallbackSkillId": 1,
+              "blockedPokemon": [
+                150,
+                151,
+                243,
+                244,
+                245,
+                380,
+                381,
+                488,
+                491
+              ]
+            },
+            "chargeValue": {
+              "skill": 1,
+              "value": {
+                "column": "能量"
+              }
+            }
+          },
+          "imageFile": "mainSkill/19.webp",
+          "imageAvailable": true
         },
         {
           "id": 11,
@@ -1627,7 +2751,23 @@
             [
               "31"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "pot",
+                "amount": {
+                  "column": "锅容量"
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/11.webp",
+          "imageAvailable": true
         },
         {
           "id": 41,
@@ -1673,7 +2813,30 @@
               "31",
               "5%"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "pot",
+                "amount": {
+                  "column": "锅容量"
+                }
+              },
+              {
+                "op": "crit",
+                "amount": {
+                  "column": "暴击",
+                  "percent": true
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/41.webp",
+          "imageAvailable": true
         },
         {
           "id": 13,
@@ -1707,7 +2870,24 @@
             [
               "10%"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "crit",
+                "amount": {
+                  "column": "暴击",
+                  "percent": true
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/13.webp",
+          "imageAvailable": true
         },
         {
           "id": 25,
@@ -1752,7 +2932,40 @@
               "24",
               "35"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [
+              "polarity"
+            ],
+            "effects": [
+              {
+                "op": "pot",
+                "amount": {
+                  "column": "锅容量"
+                }
+              },
+              {
+                "op": "heal",
+                "amount": {
+                  "column": "活力"
+                },
+                "target": {
+                  "kind": "random"
+                },
+                "condition": {
+                  "teamSkillTags": [
+                    "polarity"
+                  ],
+                  "excludeSelf": true
+                }
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false
+          },
+          "imageFile": "mainSkill/25.webp",
+          "imageAvailable": true
         },
         {
           "id": 34,
@@ -1801,9 +3014,113 @@
               "1",
               "3"
             ]
-          ]
+          ],
+          "model": {
+            "classification": "other",
+            "tags": [],
+            "effects": [
+              {
+                "op": "currency",
+                "amount": {
+                  "add": [
+                    1,
+                    {
+                      "multiply": [
+                        {
+                          "maximum": [
+                            0,
+                            {
+                              "add": [
+                                {
+                                  "level": true
+                                },
+                                -5
+                              ]
+                            }
+                          ]
+                        },
+                        0.3
+                      ]
+                    }
+                  ]
+                },
+                "currency": "candies",
+                "profiles": [
+                  "expected"
+                ]
+              }
+            ],
+            "copyable": true,
+            "comparisonFastPath": false,
+            "selection": {
+              "kind": "choose",
+              "owners": [
+                151
+              ],
+              "fallbackSkillId": 12,
+              "pool": [
+                12,
+                5,
+                7,
+                4,
+                2,
+                6,
+                9,
+                10,
+                11,
+                13,
+                8,
+                20
+              ]
+            }
+          },
+          "imageFile": "mainSkill/34.webp",
+          "imageAvailable": true
         }
-      ]
+      ],
+      "execution": {
+        "schemaVersion": 1,
+        "energyCap": 150,
+        "sameSpeciesCap": 5,
+        "recursionLimit": 8,
+        "stateResets": {
+          "onceBonus": {
+            "event": "sleepStart",
+            "expected": 1,
+            "sampled": true
+          }
+        },
+        "classificationRules": [
+          {
+            "pattern": "属性加速|屬性加速|加速（属性）|加速（屬性）",
+            "kind": "typeAccel"
+          },
+          {
+            "pattern": "帮手加速|幫手加速",
+            "kind": "helpAccel"
+          },
+          {
+            "pattern": "帮手支援|幫手支援",
+            "kind": "support"
+          },
+          {
+            "pattern": "全体|全體|月光|新月",
+            "kind": "healAll"
+          },
+          {
+            "pattern": "疗愈S|療癒S|治愈波动|治癒波動",
+            "kind": "healOne"
+          },
+          {
+            "pattern": "活力填充|树果汁|樹果汁|蹭蹭",
+            "kind": "healSelf"
+          },
+          {
+            "pattern": "能量填充|蓄力|梦魇|夢魘|波导弹|波導彈|精神击破|精神擊破",
+            "kind": "charge"
+          }
+        ]
+      }
     },
     "mew": {
       "MEW_SKILLS": [
@@ -1855,7 +3172,10 @@
           "id": 20,
           "multiplier": 0.7111111111111111
         }
-      ]
+      ],
+      "ownerPokemonId": 151,
+      "ownerSkillId": 34,
+      "defaultSkillId": 12
     },
     "skillEffects": {
       "METRONOME_POOL": [
@@ -2152,6 +3472,543 @@
         "ingS": "食材发现率 +18%",
         "invS": "持有上限 +6",
         "skillS": "主技能发动率 +18%"
+      }
+    },
+    "sp": {
+      "source": "https://github.com/nitoyon/pokesleep-tool/blob/12b291d1b349712dbf765f27ff50c005f6bf9a16/src/util/PokemonRp.ts",
+      "verifiedDate": "2026-10-31",
+      "skillValues": {
+        "1": [
+          400,
+          569,
+          785,
+          1083,
+          1496,
+          2066,
+          2842
+        ],
+        "2": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          6252
+        ],
+        "3": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "4": [
+          766,
+          1089,
+          1502,
+          2074,
+          2863,
+          3956
+        ],
+        "5": [
+          400,
+          569,
+          785,
+          1083,
+          1496,
+          2066,
+          2842
+        ],
+        "6": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "7": [
+          400,
+          569,
+          785,
+          1083,
+          1496,
+          2066,
+          2656
+        ],
+        "8": [
+          1120,
+          1593,
+          2197,
+          3033,
+          4187,
+          5785
+        ],
+        "9": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "10": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "11": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "12": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "13": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "14": [
+          2800,
+          3902,
+          5273,
+          6975,
+          9317,
+          12438
+        ],
+        "15": [
+          600,
+          853,
+          1177,
+          1625,
+          2243,
+          3099,
+          3984
+        ],
+        "16": [
+          1400,
+          1991,
+          2747,
+          3791,
+          5234,
+          7232
+        ],
+        "17": [
+          560,
+          797,
+          1099,
+          1516,
+          2094,
+          2892
+        ],
+        "18": [
+          600,
+          853,
+          1177,
+          1625,
+          2243,
+          3099,
+          3984
+        ],
+        "19": [
+          600,
+          853,
+          1177,
+          1625,
+          2243,
+          3099,
+          3984
+        ],
+        "20": [
+          1400,
+          1991,
+          2747,
+          3791,
+          5234,
+          7232
+        ],
+        "21": [
+          1400,
+          1991,
+          2747,
+          3791,
+          5234,
+          7232
+        ],
+        "22": [
+          2400,
+          3313,
+          4643,
+          6441,
+          8864,
+          11878,
+          14072
+        ],
+        "23": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "24": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "25": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "26": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "27": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "28": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "29": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "30": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "31": [
+          1144,
+          1627,
+          2244,
+          3098,
+          4277,
+          5910,
+          7596
+        ],
+        "32": [
+          1220,
+          1735,
+          2392,
+          3303,
+          4559,
+          6299
+        ],
+        "33": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "34": [
+          1280,
+          1651,
+          2126,
+          2783,
+          3690,
+          5056,
+          6463,
+          8033
+        ],
+        "35": [
+          1600,
+          2300,
+          3180,
+          4417,
+          6113,
+          8462
+        ],
+        "36": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "37": [
+          2380,
+          3385,
+          4670,
+          6445,
+          8898,
+          12294
+        ],
+        "38": [
+          880,
+          1251,
+          1726,
+          2383,
+          3290,
+          4546,
+          5843,
+          7303
+        ],
+        "39": [
+          1040,
+          1479,
+          2040,
+          2816,
+          3888,
+          5372,
+          6905,
+          8543
+        ],
+        "40": [
+          2450,
+          3383,
+          4733,
+          6551,
+          8994,
+          12028
+        ],
+        "41": [
+          1144,
+          1627,
+          2244,
+          3098,
+          4277,
+          5910,
+          7596
+        ]
+      },
+      "bonus": {
+        "inventory": {
+          "invS": 0.071,
+          "invM": 0.139,
+          "invL": 0.181
+        },
+        "teamSubskills": [
+          "helpingBonus",
+          "sleepExp",
+          "shardBonus",
+          "researchExp",
+          "energyRecover"
+        ],
+        "team": 0.221,
+        "energyUp": 1.08,
+        "energyDown": 0.92
+      },
+      "ingredientGrowth": [
+        1,
+        1.003,
+        1.007,
+        1.011,
+        1.016,
+        1.021,
+        1.027,
+        1.033,
+        1.039,
+        1.046,
+        1.053,
+        1.061,
+        1.069,
+        1.077,
+        1.085,
+        1.094,
+        1.104,
+        1.114,
+        1.124,
+        1.134,
+        1.145,
+        1.156,
+        1.168,
+        1.18,
+        1.192,
+        1.205,
+        1.218,
+        1.231,
+        1.245,
+        1.259,
+        1.274,
+        1.288,
+        1.303,
+        1.319,
+        1.335,
+        1.351,
+        1.368,
+        1.385,
+        1.402,
+        1.42,
+        1.439,
+        1.457,
+        1.477,
+        1.496,
+        1.517,
+        1.537,
+        1.558,
+        1.58,
+        1.602,
+        1.625,
+        1.648,
+        1.671,
+        1.696,
+        1.72,
+        1.745,
+        1.771,
+        1.798,
+        1.824,
+        1.852,
+        1.88,
+        1.927,
+        1.975,
+        2.024,
+        2.075,
+        2.127,
+        2.18,
+        2.235,
+        2.29,
+        2.348,
+        2.406,
+        2.466,
+        2.527,
+        2.589,
+        2.653,
+        2.718,
+        2.784,
+        2.852,
+        2.921,
+        2.991,
+        3.062,
+        3.135,
+        3.209,
+        3.285,
+        3.361,
+        3.439,
+        3.519,
+        3.599,
+        3.681,
+        3.764,
+        3.849,
+        3.935,
+        4.022,
+        4.11,
+        4.2,
+        4.291,
+        4.383,
+        4.477,
+        4.572,
+        4.668,
+        4.766
+      ],
+      "defaults": {
+        "pokeId": 1,
+        "level": 30,
+        "subskills": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "ingredientSlots": [
+          0,
+          1,
+          2
+        ],
+        "skillLevel": 1,
+        "ribbonHours": 0
+      },
+      "formula": {
+        "levelNumerator": 501,
+        "levelDenominator": 500,
+        "frequencyCorrection": {
+          "level": 10,
+          "interval": 2600,
+          "seconds": 0.1
+        },
+        "helpHours": 5,
+        "frequencyDigits": 4,
+        "helpsDigits": 2,
+        "rateDigits": 4,
+        "bonusDigits": 2,
+        "componentDigits": 2,
+        "outputDigits": 1
       }
     }
   }

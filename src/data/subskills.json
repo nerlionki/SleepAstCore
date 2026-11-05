@@ -2,86 +2,103 @@
   {
     "id": "berryS",
     "name": "树果数量S",
-    "rarity": "gold"
+    "rarity": "gold",
+    "imageFile": "subSkill/berryS.webp"
   },
   {
     "id": "sleepExp",
     "name": "睡眠EXP奖励",
-    "rarity": "gold"
+    "rarity": "gold",
+    "imageFile": "subSkill/sleepExp.webp"
   },
   {
     "id": "helpingBonus",
     "name": "帮手奖励",
-    "rarity": "gold"
+    "rarity": "gold",
+    "imageFile": "subSkill/helpingBonus.webp"
   },
   {
     "id": "researchExp",
     "name": "研究EXP奖励",
-    "rarity": "gold"
+    "rarity": "gold",
+    "imageFile": "subSkill/researchExp.webp"
   },
   {
     "id": "shardBonus",
     "name": "梦之碎片奖励",
-    "rarity": "gold"
+    "rarity": "gold",
+    "imageFile": "subSkill/shardBonus.webp"
   },
   {
     "id": "skillLevelM",
     "name": "技能等级提升M",
-    "rarity": "gold"
+    "rarity": "gold",
+    "imageFile": "subSkill/skillLevelM.webp"
   },
   {
     "id": "energyRecover",
     "name": "活力回复奖励",
-    "rarity": "gold"
+    "rarity": "gold",
+    "imageFile": "subSkill/energyRecover.webp"
   },
   {
     "id": "helpM",
     "name": "帮忙速度M",
-    "rarity": "blue"
+    "rarity": "blue",
+    "imageFile": "subSkill/helpM.webp"
   },
   {
     "id": "ingM",
     "name": "食材概率提升M",
-    "rarity": "blue"
+    "rarity": "blue",
+    "imageFile": "subSkill/ingM.webp"
   },
   {
     "id": "invL",
     "name": "持有上限提升L",
-    "rarity": "blue"
+    "rarity": "blue",
+    "imageFile": "subSkill/invL.webp"
   },
   {
     "id": "invM",
     "name": "持有上限提升M",
-    "rarity": "blue"
+    "rarity": "blue",
+    "imageFile": "subSkill/invM.webp"
   },
   {
     "id": "skillM",
     "name": "技能概率提升M",
-    "rarity": "blue"
+    "rarity": "blue",
+    "imageFile": "subSkill/skillM.webp"
   },
   {
     "id": "skillLevelS",
     "name": "技能等级提升S",
-    "rarity": "blue"
+    "rarity": "blue",
+    "imageFile": "subSkill/skillLevelS.webp"
   },
   {
     "id": "helpS",
     "name": "帮忙速度S",
-    "rarity": "white"
+    "rarity": "white",
+    "imageFile": "subSkill/helpS.webp"
   },
   {
     "id": "ingS",
     "name": "食材概率提升S",
-    "rarity": "white"
+    "rarity": "white",
+    "imageFile": "subSkill/ingS.webp"
   },
   {
     "id": "invS",
     "name": "持有上限提升S",
-    "rarity": "white"
+    "rarity": "white",
+    "imageFile": "subSkill/invS.webp"
   },
   {
     "id": "skillS",
     "name": "技能概率提升S",
-    "rarity": "white"
+    "rarity": "white",
+    "imageFile": "subSkill/skillS.webp"
   }
 ]

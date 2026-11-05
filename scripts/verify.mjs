@@ -5,6 +5,8 @@ import { createHash } from 'node:crypto'
 import { validateActivityResource } from './validate-activities.mjs'
 import { validateActivityCatalog, ACTIVITY_CAPABILITIES } from './activity-model.mjs'
 import { validateEventBundles } from './event-bundles.mjs'
+import { validateSkillResources } from './validate-skill-resources.mjs'
+import { validateIdImages } from './id-images.mjs'
 const root = path.resolve(process.argv[2] || path.join(import.meta.dirname, '../dist'))
 const api = process.env.RESOURCE_API_VERSION || '1'
 if (!['1', '2'].includes(api)) throw new Error('Invalid resource API version')
@@ -44,6 +46,8 @@ for (const item of [manifest.data, ...Object.values(manifest.assets)]) {
   if (bytes.length !== item.bytes || createHash('sha256').update(bytes).digest('hex') !== item.sha256) throw new Error(`Invalid resource: ${item.path}`)
 }
 const data = JSON.parse(await fs.readFile(path.join(root, manifest.data.path.slice(1)), 'utf8'))
+validateSkillResources(data)
+validateIdImages(data, manifest.assets)
 if (manifest.files.length !== 43 || manifest.files.slice().sort().join() !== Object.keys(data).sort().join()) throw new Error('Incomplete data bundle')
 if (api === '1') validateActivityResource(data)
 else {

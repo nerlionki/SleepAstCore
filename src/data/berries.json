@@ -3,108 +3,126 @@
     "name": "柿仔果",
     "type": "一般",
     "energyLv1": 28,
-    "energyHigh": 154
+    "energyHigh": 154,
+    "id": 1
   },
   {
     "name": "蘋野果",
     "type": "火",
     "energyLv1": 27,
-    "energyHigh": 148
+    "energyHigh": 148,
+    "id": 2
   },
   {
     "name": "橙橙果",
     "type": "水",
     "energyLv1": 31,
-    "energyHigh": 170
+    "energyHigh": 170,
+    "id": 3
   },
   {
     "name": "萄葡果",
     "type": "电",
     "energyLv1": 25,
-    "energyHigh": 137
+    "energyHigh": 137,
+    "id": 4
   },
   {
     "name": "金枕果",
     "type": "草",
     "energyLv1": 30,
-    "energyHigh": 165
+    "energyHigh": 165,
+    "id": 5
   },
   {
     "name": "莓莓果",
     "type": "冰",
     "energyLv1": 32,
-    "energyHigh": 176
+    "energyHigh": 176,
+    "id": 6
   },
   {
     "name": "樱子果",
     "type": "格斗",
     "energyLv1": 27,
-    "energyHigh": 148
+    "energyHigh": 148,
+    "id": 7
   },
   {
     "name": "零余果",
     "type": "毒",
     "energyLv1": 32,
-    "energyHigh": 176
+    "energyHigh": 176,
+    "id": 8
   },
   {
     "name": "勿花果",
     "type": "地面",
     "energyLv1": 29,
-    "energyHigh": 159
+    "energyHigh": 159,
+    "id": 9
   },
   {
     "name": "椰木果",
     "type": "飞行",
     "energyLv1": 24,
-    "energyHigh": 132
+    "energyHigh": 132,
+    "id": 10
   },
   {
     "name": "芒芒果",
     "type": "超能",
     "energyLv1": 26,
-    "energyHigh": 143
+    "energyHigh": 143,
+    "id": 11
   },
   {
     "name": "木子果",
     "type": "虫",
     "energyLv1": 24,
-    "energyHigh": 132
+    "energyHigh": 132,
+    "id": 12
   },
   {
     "name": "文柚果",
     "type": "岩石",
     "energyLv1": 30,
-    "energyHigh": 165
+    "energyHigh": 165,
+    "id": 13
   },
   {
     "name": "墨莓果",
     "type": "幽灵",
     "energyLv1": 26,
-    "energyHigh": 143
+    "energyHigh": 143,
+    "id": 14
   },
   {
     "name": "番荔果",
     "type": "龙",
     "energyLv1": 35,
-    "energyHigh": 192
+    "energyHigh": 192,
+    "id": 15
   },
   {
     "name": "异奇果",
     "type": "恶",
     "energyLv1": 31,
-    "energyHigh": 170
+    "energyHigh": 170,
+    "id": 16
   },
   {
     "name": "靛莓果",
     "type": "钢",
     "energyLv1": 33,
-    "energyHigh": 181
+    "energyHigh": 181,
+    "id": 17
   },
   {
     "name": "桃桃果",
     "type": "妖精",
     "energyLv1": 26,
-    "energyHigh": 143
+    "energyHigh": 143,
+    "id": 18
   }
 ]

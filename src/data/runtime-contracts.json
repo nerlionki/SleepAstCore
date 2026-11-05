@@ -7,97 +7,198 @@
         "helpIntervalMultiplier": {
           "label": "帮忙间隔倍率",
           "kind": "multiply",
-          "min": 0.01
+          "min": 0.01,
+          "max": 10000,
+          "step": "any"
         },
         "berryCountBonus": {
           "label": "每次帮忙额外树果",
           "kind": "add",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "berryEnergyMultiplier": {
           "label": "树果能量倍率",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "ingredientCountBonus": {
           "label": "每次食材帮忙额外食材",
           "kind": "add",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "skillRateMultiplier": {
           "label": "技能触发率倍率",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "skillLevelBonus": {
           "label": "临时主技能等级",
           "kind": "add",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": 1
         },
         "skillStrengthMultiplier": {
           "label": "主技能直接能量倍率",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "potSizeMultiplier": {
           "label": "料理锅容量倍率",
           "kind": "multiply",
-          "min": 0.01
+          "min": 0.01,
+          "max": 10000,
+          "step": "any"
         },
         "cookingEnergyMultiplier": {
           "label": "料理能量倍率",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "cookingCritBonus": {
           "label": "料理大成功率加成（0.1 = 10%）",
           "kind": "add",
-          "min": 0
+          "min": 0,
+          "max": 1,
+          "step": "any"
         },
         "cookingCritMultiplier": {
           "label": "料理大成功能量倍率修正",
           "kind": "multiply",
-          "min": 0.01
+          "min": 0.01,
+          "max": 10000,
+          "step": "any"
         },
         "drowsyPowerMultiplier": {
           "label": "睡意之力倍率",
           "kind": "multiply",
-          "min": 0.01
+          "min": 0.01,
+          "max": 10000,
+          "step": "any"
         },
         "researchExpMultiplier": {
           "label": "研究 EXP 倍率",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "dreamShardsMultiplier": {
           "label": "研究梦之碎片倍率",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "researchCandyMultiplier": {
           "label": "研究糖果倍率",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "sleepExpMultiplier": {
           "label": "睡眠 EXP 倍率",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "candyExpMultiplier": {
           "label": "喂糖 EXP 倍率",
           "kind": "multiply",
-          "min": 0.01
+          "min": 0.01,
+          "max": 10000,
+          "step": "any"
         },
         "candyShardMultiplier": {
           "label": "喂糖梦之碎片倍率",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         },
         "encounterWeightMultiplier": {
           "label": "出没权重倍率（模拟参数）",
           "kind": "multiply",
-          "min": 0
+          "min": 0,
+          "max": 10000,
+          "step": "any"
+        },
+        "carryCapacityBonus": {
+          "label": "持有上限加成",
+          "kind": "add",
+          "min": 0,
+          "max": 10000,
+          "step": "any"
+        },
+        "carryCapacityMultiplier": {
+          "label": "持有上限倍率",
+          "kind": "multiply",
+          "min": 0.01,
+          "max": 10000,
+          "step": "any"
+        },
+        "potCapacityBonus": {
+          "label": "基础锅容量加成",
+          "kind": "add",
+          "min": 0,
+          "max": 10000,
+          "step": "any"
+        },
+        "mealRecoveryBonus": {
+          "label": "料理回复活力加成",
+          "kind": "add",
+          "min": 0,
+          "max": 10000,
+          "step": "any"
+        },
+        "mealRecoveryMultiplier": {
+          "label": "料理回复活力倍率",
+          "kind": "multiply",
+          "min": 0,
+          "max": 10000,
+          "step": "any"
+        },
+        "skillIngredientMultiplier": {
+          "label": "技能获取食材倍率",
+          "kind": "multiply",
+          "min": 0,
+          "max": 10000,
+          "step": "any"
+        },
+        "skillBerryMultiplier": {
+          "label": "技能获取树果倍率",
+          "kind": "multiply",
+          "min": 0,
+          "max": 10000,
+          "step": "any"
+        },
+        "skillDreamShardsMultiplier": {
+          "label": "技能获取梦之碎片倍率",
+          "kind": "multiply",
+          "min": 0,
+          "max": 10000,
+          "step": "any"
+        },
+        "skillHealingMultiplier": {
+          "label": "技能回复活力倍率",
+          "kind": "multiply",
+          "min": 0,
+          "max": 10000,
+          "step": "any"
         }
       },
       "memberFields": [
@@ -116,6 +217,381 @@
         "candyShardMultiplier",
         "encounterWeightMultiplier"
       ]
+    },
+    "inputRanges": {
+      "IslandPane": {
+        "store_islandBonus_i_id_as_IslandId": {
+          "min": 0,
+          "step": 0.01
+        }
+      },
+      "RecipeSheet": {
+        "level": {
+          "min": 1,
+          "step": 1
+        }
+      },
+      "SettingsPanel": {
+        "settings_areaBonus": {
+          "min": 0,
+          "step": 0.01
+        },
+        "settings_sleepScore": {
+          "min": 0,
+          "max": 100
+        },
+        "settings_dailySkillHeal": {
+          "min": 0
+        },
+        "settings_whistleHelps": {
+          "min": 0,
+          "max": 20
+        },
+        "recipeLevelOf_settings_r_name": {
+          "min": 1
+        }
+      },
+      "BabyEfficiencyPane": {
+        "baby_iterations": {
+          "min": {
+            "file": "rule-parameters.json",
+            "path": [
+              "modules",
+              "babyEfficiency",
+              "validateBabyEfficiency",
+              "minIterations"
+            ]
+          },
+          "max": {
+            "file": "rule-parameters.json",
+            "path": [
+              "modules",
+              "babyEfficiency",
+              "validateBabyEfficiency",
+              "maxIterations"
+            ]
+          },
+          "step": 100
+        }
+      },
+      "CandyPane": {
+        "stockOf_row_pokeId": {
+          "min": 0
+        },
+        "row_start": {
+          "min": 1,
+          "max": {
+            "file": "client-defaults.json",
+            "path": [
+              "modules",
+              "candyPlan",
+              "MAX_LEVEL"
+            ]
+          }
+        },
+        "row_target": {
+          "min": 1,
+          "max": {
+            "file": "client-defaults.json",
+            "path": [
+              "modules",
+              "candyPlan",
+              "MAX_LEVEL"
+            ]
+          }
+        },
+        "row_use": {
+          "min": 0
+        },
+        "row_remaining": {
+          "min": 0
+        }
+      },
+      "CompletionEfficiencyPane": {
+        "completion_iterations": {
+          "min": {
+            "file": "rule-parameters.json",
+            "path": [
+              "modules",
+              "babyEfficiency",
+              "validateBabyEfficiency",
+              "minIterations"
+            ]
+          },
+          "max": {
+            "file": "rule-parameters.json",
+            "path": [
+              "modules",
+              "babyEfficiency",
+              "validateBabyEfficiency",
+              "maxIterations"
+            ]
+          },
+          "step": 100
+        }
+      },
+      "EncounterTargetPane": {
+        "encounter_iterations": {
+          "min": {
+            "file": "rule-parameters.json",
+            "path": [
+              "modules",
+              "babyEfficiency",
+              "validateBabyEfficiency",
+              "minIterations"
+            ]
+          },
+          "max": {
+            "file": "rule-parameters.json",
+            "path": [
+              "modules",
+              "babyEfficiency",
+              "validateBabyEfficiency",
+              "maxIterations"
+            ]
+          },
+          "step": 100
+        }
+      },
+      "SleepPane": {
+        "plan_sleepScore": {
+          "min": 1,
+          "max": 100
+        },
+        "plan_snorlaxStrength": {
+          "min": 0
+        },
+        "researchedBefore": {
+          "min": 0,
+          "max": 20
+        },
+        "firstResearchExtras": {
+          "min": 0,
+          "max": 2
+        }
+      },
+      "SplitSleepPane": {
+        "split_strength": {
+          "min": 0,
+          "step": 1
+        },
+        "split_iterations": {
+          "min": {
+            "file": "rule-parameters.json",
+            "path": [
+              "modules",
+              "babyEfficiency",
+              "validateBabyEfficiency",
+              "minIterations"
+            ]
+          },
+          "max": {
+            "file": "rule-parameters.json",
+            "path": [
+              "modules",
+              "babyEfficiency",
+              "validateBabyEfficiency",
+              "maxIterations"
+            ]
+          },
+          "step": 100
+        },
+        "target_countWeight": {
+          "min": 0,
+          "step": 0.1
+        },
+        "target_candyWeight": {
+          "min": 0,
+          "step": 0.1
+        },
+        "target_probabilityWeight": {
+          "min": 0,
+          "step": 0.1
+        }
+      },
+      "TrainPane": {
+        "napDays": {
+          "min": 1
+        }
+      },
+      "WhistlePane": {
+        "whistle_current": {
+          "min": 0,
+          "step": 1
+        },
+        "whistle_target": {
+          "min": 0,
+          "step": 1
+        }
+      },
+      "BoxOverview": {
+        "overview_area": {
+          "min": 0,
+          "step": 0.01
+        }
+      },
+      "OcrCompletionDialog": {
+        "selections_field": {
+          "min": 1
+        }
+      },
+      "EnvironmentFields": {
+        "extra": {
+          "min": 0,
+          "max": 5,
+          "step": 1
+        }
+      },
+      "PanelFields": {
+        "level": {
+          "min": 1
+        },
+        "skillLevel": {
+          "min": 1
+        }
+      },
+      "MemberEditor": {
+        "model_level": {
+          "min": 1
+        },
+        "model_tune_exp": {
+          "min": 0
+        }
+      },
+      "ScorePlanPane": {
+        "score_initial": {
+          "min": 0,
+          "step": 1
+        },
+        "options_bag_ingredient_name": {
+          "min": 0,
+          "max": {
+            "file": "runtime-parameters.json",
+            "path": [
+              "modules",
+              "scorePlan",
+              "validateScoreOptions",
+              "values",
+              "p011"
+            ]
+          },
+          "step": 1
+        },
+        "score_days": {
+          "min": 1,
+          "max": {
+            "file": "runtime-parameters.json",
+            "path": [
+              "modules",
+              "scorePlan",
+              "validateScoreOptions",
+              "values",
+              "p002"
+            ]
+          }
+        },
+        "score_interval": {
+          "min": {
+            "file": "runtime-parameters.json",
+            "path": [
+              "modules",
+              "scorePlan",
+              "validateScoreOptions",
+              "values",
+              "p004"
+            ]
+          },
+          "max": {
+            "file": "runtime-parameters.json",
+            "path": [
+              "modules",
+              "scorePlan",
+              "validateScoreOptions",
+              "values",
+              "p005"
+            ]
+          }
+        },
+        "sleep_collectMinutes": {
+          "min": 0,
+          "max": {
+            "file": "runtime-parameters.json",
+            "path": [
+              "modules",
+              "scorePlan",
+              "validateScoreOptions",
+              "values",
+              "p013"
+            ]
+          }
+        },
+        "sleep_settleDelay": {
+          "min": 0,
+          "max": {
+            "file": "runtime-parameters.json",
+            "path": [
+              "modules",
+              "scorePlan",
+              "validateScoreOptions",
+              "values",
+              "p015"
+            ]
+          }
+        },
+        "score_crit": {
+          "min": 0,
+          "max": {
+            "file": "runtime-parameters.json",
+            "path": [
+              "modules",
+              "scorePlan",
+              "validateScoreOptions",
+              "values",
+              "p007"
+            ]
+          }
+        },
+        "score_pot": {
+          "min": 0,
+          "max": {
+            "file": "runtime-parameters.json",
+            "path": [
+              "modules",
+              "scorePlan",
+              "validateScoreOptions",
+              "values",
+              "p008"
+            ]
+          }
+        },
+        "score_zone": {
+          "min": 0,
+          "max": {
+            "file": "runtime-parameters.json",
+            "path": [
+              "modules",
+              "scorePlan",
+              "validateScoreOptions",
+              "values",
+              "p009"
+            ]
+          },
+          "step": 0.1
+        },
+        "score_juice": {
+          "min": 0,
+          "max": {
+            "file": "calc-tables.json",
+            "path": [
+              "modules",
+              "items",
+              "catalog"
+            ],
+            "id": 108,
+            "field": "maxHeld"
+          }
+        }
+      }
     }
   }
 }

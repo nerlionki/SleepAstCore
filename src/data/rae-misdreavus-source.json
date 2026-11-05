@@ -934,13 +934,17 @@
     "source": "https://cdn.raenonx.cc/api/content/pks?src=/images/...png",
     "newMainSkillIcon": {
       "id": 41,
-      "status": "unavailable-at-source",
-      "httpStatus": 404,
+      "status": "available-at-source",
+      "httpStatus": 200,
       "attemptedPaths": [
         "/images/mainSkill/41.png",
         "/images/mainSkill/icon/41.png"
       ],
-      "policy": "Do not substitute a different skill icon."
+      "policy": "Do not substitute a different skill icon.",
+      "source": "https://cdn.raenonx.cc/api/content/pks?src=/images/mainSkill/icon/41.png",
+      "checkedAt": "2026-11-05",
+      "imageFile": "mainSkill/41.webp",
+      "conversion": "PNG to lossless WebP; unchanged pixels"
     }
   }
 }

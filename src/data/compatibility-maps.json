@@ -1261,15 +1261,54 @@
       "selectByPokemon": {
         "27": 36,
         "28": 36,
+        "701": 38,
         "742": 33,
-        "743": 33,
-        "701": 38
+        "743": 33
       },
       "selectDefault": 28,
       "plusAlias": "正電（食材獲取S）",
       "plusPokemon": 849,
       "plusSkill": 27,
       "unknownSkillMaxLevel": 6
+    },
+    "ocrMatching": {
+      "subskillCorrections": [
+        [
+          "^[冀翼]忙速度([sm])$",
+          "帮忙速度$1"
+        ],
+        [
+          "^持有上限提开([sml])$",
+          "持有上限提升$1"
+        ],
+        [
+          "^技能等提升([sm])$",
+          "技能等级提升$1"
+        ],
+        [
+          "^忙速度([sm])$",
+          "帮忙速度$1"
+        ]
+      ],
+      "subskillAliases": {
+        "手": "helpingBonus",
+        "手厅": "helpingBonus",
+        "帮手厅": "helpingBonus",
+        "帮手厂": "helpingBonus",
+        "常手爽厅": "helpingBonus",
+        "活力回复厅": "energyRecover"
+      },
+      "mainSkillCorrections": [
+        [
+          "^手支援([sS])$",
+          "帮手支援$1"
+        ],
+        [
+          "^新月祈[（(]",
+          "新月祈祷("
+        ]
+      ],
+      "natureAliases": {}
     }
   }
 }
