@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedOn": "2026-11-04",
+  "checkedOn": "2026-11-06",
   "sourceNotes": "官方公告优先。RAE 页面本次未能读取，未标记为交叉核验。销售时间按玩家本地时间；展示到关联活动结束日结束。",
   "bundles": [
     {
@@ -274,6 +274,44 @@
         {
           "kind": "official",
           "url": "https://www.pokemonsleep.net/zh/news/343537363134323332373739373531343236/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-vol19",
+      "name": "新月日限定包vol.19",
+      "eventName": "第19次新月日",
+      "announcedOn": "2026-10-30",
+      "eventEndsOn": "2026-11-11",
+      "saleStartsAt": "2026-11-07T04:00:00",
+      "saleEndsAt": "2026-11-12T03:59:00",
+      "price": {
+        "amount": 1200,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "高级沙布蕾",
+          "quantity": 1
+        },
+        {
+          "name": "超级沙布蕾",
+          "quantity": 3
+        },
+        {
+          "name": "宝可沙布蕾",
+          "quantity": 10
+        },
+        {
+          "name": "友好薰香",
+          "quantity": 3
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537333436363938333630393133393236/"
         }
       ]
     }
