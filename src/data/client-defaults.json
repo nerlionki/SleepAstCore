@@ -266,7 +266,8 @@
       "dailyCandyInitial": 0,
       "boostInitial": "none",
       "boostCandyInitial": 0,
-      "groupInitial": "normal"
+      "groupInitial": "normal",
+      "relaxTicketCountInitial": ""
     },
     "components_pokemon_BoxOverview": {
       "tabInitial": "berries",

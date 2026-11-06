@@ -98,6 +98,13 @@
       "exp": 2,
       "shards": 4,
       "quota": 350
+    },
+    "normal": {
+      "id": "normal",
+      "name": "普通培养",
+      "exp": 1,
+      "shards": 1,
+      "quota": null
     }
   },
   "flower": {

@@ -412,6 +412,10 @@
       "TrainPane": {
         "napDays": {
           "min": 1
+        },
+        "relaxTicketCount": {
+          "min": 0,
+          "step": 1
         }
       },
       "WhistlePane": {
