@@ -1,4 +1,4 @@
 {
-  "151": { "seed": "灵感种子（梦幻）", "seedItemId": 109, "firstIngredient": "特选蛋", "appear": "仅限好眠日活动，不限岛屿" },
-  "491": { "seed": "灵感种子（达克莱伊）", "seedItemId": 101, "firstIngredient": "豆制肉", "appear": "仅限新月日活动，不限岛屿" }
+  "151": { "seed": "灵感种子（梦幻）", "seedItemId": 109, "firstIngredient": "特选蛋", "appear": "好眠日首次睡眠研究可能特别遇见，不限岛屿" },
+  "491": { "seed": "灵感种子（达克莱伊）", "seedItemId": 101, "firstIngredient": "豆制肉", "appear": "新月日首次睡眠研究可能特别遇见，不限岛屿" }
 }

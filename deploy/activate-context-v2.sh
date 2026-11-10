@@ -49,6 +49,16 @@ PYVERIFY
 exec 9>"$root/.deploy.lock"
 flock -x 9
 old=$(readlink "$root/current-v2" || true)
+if [ "$context" = prod ] && [ -n "$old" ]; then
+    python3 - "$root/current-v2/resources/v2/manifest.json" "$version" <<'PYVERSION'
+import json, sys
+with open(sys.argv[1]) as file:
+    active = json.load(file)['version']
+version = lambda value: tuple(map(int, value.split('.')))
+if version(sys.argv[2]) < version(active):
+    sys.exit(f'Refusing to downgrade active production v2 from {active} to {sys.argv[2]}')
+PYVERSION
+fi
 destination="$root/resources/v2/releases/$version"
 mkdir -p "$root/resources/v2/releases" "$root/deployments"
 if [ -d "$destination" ]; then

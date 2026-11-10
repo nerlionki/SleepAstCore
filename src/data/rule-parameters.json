@@ -358,14 +358,14 @@
     },
     "boxOverview": {
       "calculateBoxOverview": {
-        "areaBonusCap": 0.85,
+        "areaBonusCap": 0.95,
         "helpingBonusCap": 5,
         "fixedComparisonEnergy": 100
       }
     },
     "defaults": {
       "mergeSettings": {
-        "areaBonusCap": 0.85
+        "areaBonusCap": 0.95
       }
     },
     "whistle": {
@@ -375,7 +375,7 @@
         "findingM": 0.36
       },
       "planWhistle": {
-        "areaBonusCap": 0.85,
+        "areaBonusCap": 0.95,
         "teamSize": 5
       },
       "berryCount": {

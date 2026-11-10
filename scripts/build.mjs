@@ -5,7 +5,9 @@ import { installOcrNameCatalog } from './ocr-names.mjs'
 import { validateActivityResource } from './validate-activities.mjs'
 import { validateActivityCatalog } from './activity-model.mjs'
 import { installProductionRankings } from './production-rankings.mjs'
-import { validateEventBundles } from './event-bundles.mjs'
+import { buildEventBundles, bundleItemCatalog, validateBundleArtwork } from './event-bundles.mjs'
+import { validateI18n } from './i18n.mjs'
+import { validateActivityArchive } from './activity-archive.mjs'
 import { validateSkillResources } from './validate-skill-resources.mjs'
 import { validateIdImages } from './id-images.mjs'
 import { installItemCatalog } from './item-catalog.mjs'
@@ -33,7 +35,19 @@ if (api === '1') {
   data['meta.json'] = JSON.parse(await fs.readFile(path.join(root, 'src/compat/meta-v1.json'), 'utf8'))
 }
 if (Object.keys(data).length !== 43) throw new Error('Changing the data file set requires updating the client contract')
-data['meta.json'].eventBundles = validateEventBundles(JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/event-bundles.json'), 'utf8')))
+const bundleItems = bundleItemCatalog(data)
+const bundleTextPairs = data['compatibility-maps.json'].modules.text.PAIR
+data['meta.json'].eventBundles = buildEventBundles(JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/event-bundles.json'), 'utf8')), bundleItems, bundleTextPairs)
+if (api === '2') {
+  data['meta.json'].i18n = validateI18n(JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/i18n.json'), 'utf8')))
+  const archive = JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/activity-archive.json'), 'utf8'))
+  validateActivityArchive(archive)
+  data['meta.json'].activityArchive = archive
+  const archivedBundles = JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/archived-event-bundles.json'), 'utf8'))
+  data['meta.json'].archivedEventBundles = buildEventBundles(archivedBundles, bundleItems, bundleTextPairs, true)
+  const eventIds = new Set([...data['activities.json'].activities, ...archive.events].map(event => event.id))
+  if (archivedBundles.bundles.some(bundle => !eventIds.has(bundle.eventId))) throw Error('Archived bundle refers to an unknown activity')
+}
 await installProductionRankings(data, context)
 installItemCatalog(data)
 if (api === '1') validateActivityResource(data)
@@ -81,6 +95,7 @@ await copyImages(path.join(root, 'src/assets/imgs'), 'images/')
 await copyImages(path.join(root, 'public/items'), 'items/')
 await copyImages(path.join(root, 'public/sprites'), 'sprites/')
 validateIdImages(data, assets)
+validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], assets, bundleItems)
 if (api === '2') for (const rows of Object.values(data['meta.json'].announcedContent ?? {})) {
   if (!Array.isArray(rows)) continue
   for (const row of rows) if (row?.imageFile && !assets['images/' + row.imageFile]) throw new Error('Missing announced image: ' + row.imageFile)

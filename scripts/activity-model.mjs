@@ -203,6 +203,12 @@ export function validateActivityCatalog(value, data) {
                     requireValid(strings(feature.islands) && (!data || feature.islands.every(id => islandIds.has(id))));
                 if ('parameters' in feature)
                     requireValid(object(feature.parameters));
+                if (feature.id === 'shiny-boost' && object(feature.parameters) && ('rate' in feature.parameters || 'pokemonIds' in feature.parameters)) {
+                    const { rate, pokemonIds } = feature.parameters;
+                    requireValid(finite(rate) && rate >= 0 && rate <= 1 && feature.domains.includes('research'), '活动闪光模拟概率无效');
+                    if (pokemonIds !== undefined)
+                        requireValid(ids(pokemonIds) && (!data || pokemonIds.every(id => pokeIds.has(id))), '活动闪光物种引用无效');
+                }
             }
         }
     }

@@ -19,14 +19,17 @@
       "items": [
         {
           "name": "宝可沙布蕾",
+          "itemId": 9,
           "quantity": 5
         },
         {
           "name": "幽灵属性的糖果S",
+          "itemId": 51,
           "quantity": 3
         },
         {
           "name": "万能糖果S",
+          "itemId": 12,
           "quantity": 3
         }
       ],
@@ -53,18 +56,22 @@
       "items": [
         {
           "name": "超级沙布蕾",
+          "itemId": 10,
           "quantity": 6
         },
         {
           "name": "宝可沙布蕾",
+          "itemId": 9,
           "quantity": 7
         },
         {
           "name": "梦妖的薰香",
+          "pokemonItemId": "Incense-200",
           "quantity": 2
         },
         {
           "name": "暗之石",
+          "itemId": 102,
           "quantity": 1
         }
       ],
@@ -91,22 +98,27 @@
       "items": [
         {
           "name": "高级沙布蕾",
+          "itemId": 94,
           "quantity": 3
         },
         {
           "name": "超级沙布蕾",
+          "itemId": 10,
           "quantity": 13
         },
         {
           "name": "梦妖的薰香",
+          "pokemonItemId": "Incense-200",
           "quantity": 4
         },
         {
           "name": "梦妖的糖果",
+          "pokemonItemId": "Candy-200",
           "quantity": 90
         },
         {
           "name": "幽灵属性的糖果M",
+          "itemId": 69,
           "quantity": 3
         }
       ],
@@ -133,10 +145,12 @@
       "items": [
         {
           "name": "超级沙布蕾",
+          "itemId": 10,
           "quantity": 4
         },
         {
           "name": "成长薰香",
+          "itemId": 3,
           "quantity": 2
         },
         {
@@ -145,6 +159,7 @@
         },
         {
           "name": "梦妖的糖果",
+          "pokemonItemId": "Candy-200",
           "quantity": 70
         }
       ],
@@ -171,14 +186,17 @@
       "items": [
         {
           "name": "宝可沙布蕾",
+          "itemId": 9,
           "quantity": 4
         },
         {
           "name": "幸运薰香",
+          "itemId": 2,
           "quantity": 1
         },
         {
           "name": "万能糖果S",
+          "itemId": 12,
           "quantity": 3
         }
       ],
@@ -205,22 +223,27 @@
       "items": [
         {
           "name": "超级沙布蕾",
+          "itemId": 10,
           "quantity": 6
         },
         {
           "name": "宝可沙布蕾",
+          "itemId": 9,
           "quantity": 6
         },
         {
           "name": "石居蟹的薰香",
+          "pokemonItemId": "Incense-557",
           "quantity": 1
         },
         {
           "name": "南瓜精的薰香",
+          "pokemonItemId": "Incense-710",
           "quantity": 1
         },
         {
           "name": "万能糖果M",
+          "itemId": 13,
           "quantity": 2
         }
       ],
@@ -247,26 +270,32 @@
       "items": [
         {
           "name": "高级沙布蕾",
+          "itemId": 94,
           "quantity": 3
         },
         {
           "name": "超级沙布蕾",
+          "itemId": 10,
           "quantity": 13
         },
         {
           "name": "幸运薰香",
+          "itemId": 2,
           "quantity": 4
         },
         {
           "name": "大颚蚁的薰香",
+          "pokemonItemId": "Incense-328",
           "quantity": 1
         },
         {
           "name": "小猫怪的薰香",
+          "pokemonItemId": "Incense-403",
           "quantity": 1
         },
         {
           "name": "万能糖果L",
+          "itemId": 14,
           "quantity": 1
         }
       ],
@@ -293,18 +322,22 @@
       "items": [
         {
           "name": "高级沙布蕾",
+          "itemId": 94,
           "quantity": 1
         },
         {
           "name": "超级沙布蕾",
+          "itemId": 10,
           "quantity": 3
         },
         {
           "name": "宝可沙布蕾",
+          "itemId": 9,
           "quantity": 10
         },
         {
           "name": "友好薰香",
+          "itemId": 34,
           "quantity": 3
         }
       ],

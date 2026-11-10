@@ -4,7 +4,9 @@ import path from 'node:path'
 import { createHash } from 'node:crypto'
 import { validateActivityResource } from './validate-activities.mjs'
 import { validateActivityCatalog, ACTIVITY_CAPABILITIES } from './activity-model.mjs'
-import { validateEventBundles } from './event-bundles.mjs'
+import { buildEventBundles, bundleItemCatalog, validateBundleArtwork, validateEventBundles } from './event-bundles.mjs'
+import { validateI18n } from './i18n.mjs'
+import { validateActivityArchive } from './activity-archive.mjs'
 import { validateSkillResources } from './validate-skill-resources.mjs'
 import { validateIdImages } from './id-images.mjs'
 const root = path.resolve(process.argv[2] || path.join(import.meta.dirname, '../dist'))
@@ -57,4 +59,19 @@ else {
 }
 validateOcrNameCatalog(data)
 validateEventBundles(data['meta.json'].eventBundles)
+const bundleItems = bundleItemCatalog(data)
+const bundleTextPairs = data['compatibility-maps.json'].modules.text.PAIR
+validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], manifest.assets, bundleItems)
+if (api === '2') {
+  validateI18n(data['meta.json'].i18n)
+  validateActivityArchive(data['meta.json'].activityArchive)
+  const archive = data['meta.json'].archivedEventBundles
+  const eventIds = new Set([...data['activities.json'].activities, ...data['meta.json'].activityArchive.events].map(event => event.id))
+  const rebuilt = buildEventBundles(archive, bundleItems, bundleTextPairs, true)
+  if (JSON.stringify(archive) !== JSON.stringify(rebuilt) || archive.bundles.some(bundle => !eventIds.has(bundle.eventId))) {
+    throw Error('Invalid archived bundle references or precomputed valuations')
+  }
+}
+const rebuiltBundles = buildEventBundles(data['meta.json'].eventBundles, bundleItems, bundleTextPairs)
+if (JSON.stringify(rebuiltBundles) !== JSON.stringify(data['meta.json'].eventBundles)) throw Error('Invalid bundle item references or precomputed valuations')
 console.log(`Verified ${manifest.version}: data and all ${Object.keys(manifest.assets).length} images`)

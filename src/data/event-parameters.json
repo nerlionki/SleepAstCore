@@ -81,6 +81,8 @@
       }
     ],
     "shinyBase": 0.003,
+    "shinySimulationBase": 0.008,
+    "shinyNewMoon": 0.015,
     "shinyEvent": 0.075,
     "undiscoveredWeight": 2
   },

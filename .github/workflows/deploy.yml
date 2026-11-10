@@ -9,6 +9,11 @@ on:
         type: choice
         options: [prod, test]
         default: test
+      protocols:
+        description: Resource protocols to deploy
+        type: choice
+        options: [v2, both]
+        default: v2
       test_version:
         description: Numeric immutable version for test resources
         default: '1.0.0'
@@ -28,7 +33,7 @@ jobs:
     environment: production
     env:
       RESOURCE_CONTEXT: ${{ inputs.context || 'prod' }}
-      DEPLOY_RESOURCE_V2: ${{ vars.ENABLE_RESOURCE_V2 || 'false' }}
+      DEPLOY_RESOURCE_V1: ${{ github.event_name == 'workflow_dispatch' && inputs.protocols == 'both' }}
       RELEASE_TAG: ${{ inputs.release_tag || github.event.release.tag_name }}
       RESOURCE_VERSION: ${{ inputs.context == 'test' && inputs.test_version || inputs.release_tag || github.event.release.tag_name }}
     steps:
@@ -49,7 +54,9 @@ jobs:
       - name: Read current image baseline
         run: |
           set -euo pipefail
-          for api in 1 2; do
+          apis=(2)
+          if [ "$DEPLOY_RESOURCE_V1" = true ]; then apis=(1 2); fi
+          for api in "${apis[@]}"; do
             baseline="$RUNNER_TEMP/resource-image-baseline-v$api.json"
             status=$(curl --silent --show-error --location --retry 2 --max-time 30 --output "$baseline" --write-out '%{http_code}' "https://pokepokeshock.cn/$RESOURCE_CONTEXT/resources/v$api/manifest.json")
             if [ "$status" = 200 ]; then
@@ -65,8 +72,10 @@ jobs:
           done
       - name: Build and verify release
         run: |
-          npm run build
-          npm run verify
+          if [ "$DEPLOY_RESOURCE_V1" = true ]; then
+            npm run build
+            npm run verify
+          fi
           RESOURCE_BASE_MANIFEST="${RESOURCE_V2_BASE_MANIFEST:-}" npm run build:v2
           npm run verify:v2
       - uses: actions/upload-artifact@v4
@@ -100,8 +109,7 @@ jobs:
           [[ "$RESOURCE_CONTEXT" == prod || "$RESOURCE_CONTEXT" == test ]]
           ssh -p "$port" "$remote" "mkdir -p /var/www/sleepast-core/$RESOURCE_CONTEXT/incoming/$version"
           scp -P "$port" -r dist/"$RESOURCE_CONTEXT"/resources "$remote:/var/www/sleepast-core/$RESOURCE_CONTEXT/incoming/$version/"
-          ssh -p "$port" "$remote" "bash -s -- '$version' '$RESOURCE_CONTEXT'" < deploy/activate-context.sh
-          # Enable after installing the v2 nginx routes; v1 activation stays independent.
-          if [ "$DEPLOY_RESOURCE_V2" = true ]; then
-            ssh -p "$port" "$remote" "bash -s -- '$version' '$RESOURCE_CONTEXT'" < deploy/activate-context-v2.sh
+          if [ "$DEPLOY_RESOURCE_V1" = true ]; then
+            ssh -p "$port" "$remote" "bash -s -- '$version' '$RESOURCE_CONTEXT'" < deploy/activate-context.sh
           fi
+          ssh -p "$port" "$remote" "bash -s -- '$version' '$RESOURCE_CONTEXT'" < deploy/activate-context-v2.sh

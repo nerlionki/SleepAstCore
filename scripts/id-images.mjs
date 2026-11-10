@@ -23,7 +23,8 @@ export function validateIdImages(data, assets) {
   requireImage(`images/flower/${flower.id}.webp`);
   requireImage('images/berry/0.webp');
   requireImage('images/ingredient/0.webp');
-  requireImage('images/ribbon/2000.webp');
+  for (const hours of data['calc-tables.json'].modules.ribbon.RIBBON_HOURS)
+    if (hours > 0) requireImage(`images/ribbon/${hours}.webp`);
   const announced = data['meta.json'].announcedContent ?? {};
   for (const [kind, folder] of [
     ['ingredients', 'ingredient'],

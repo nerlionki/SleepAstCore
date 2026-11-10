@@ -38,6 +38,9 @@ export function validateSkillResources(data                         ) {
   const items = object(object(object(data['calc-tables.json']).modules).items)
   if (!Array.isArray(items.groups) || !items.groups.length || typeof items.evolutionShopAcquisition !== 'string'
     || !items.evolutionShopAcquisition.trim()) throw new Error('道具资料不完整')
+  if (!Array.isArray(items.catalog) || items.catalog.some((row) => row.diamondPrice !== undefined
+    && (!Number.isFinite(row.diamondPrice) || row.diamondPrice <= 0
+      || !Number.isSafeInteger(row.diamondPurchaseQuantity) || row.diamondPurchaseQuantity <= 0))) throw new Error('道具钻石单价资料无效')
   const natures = data['natures.json']
   const defaults = object(object(object(data['client-defaults.json']).modules).natureLabels)
   const factors = object(object(object(data['calc-tables.json']).modules).natureLabels).FACTOR

@@ -533,15 +533,24 @@
         "26": "成就：10 只宝可梦升至 5 级。",
         "27": "成就：以队伍 SP 4,700 进行睡眠研究。"
       },
+      "diamondPriceSource": {
+        "url": "https://wikiwiki.jp/poke_sleep/ショップ関連",
+        "checkedOn": "2026-11-06",
+        "basis": "常驻综合商店钻石售价，按单件折算；无钻石单买价的道具不估值。"
+      },
       "catalog": [
         {
           "id": 9,
+          "diamondPrice": 60,
+          "diamondPurchaseQuantity": 3,
           "name": "寶可沙布蕾",
           "category": "沙布蕾",
           "imageFile": "items/9.webp"
         },
         {
           "id": 10,
+          "diamondPrice": 200,
+          "diamondPurchaseQuantity": 3,
           "name": "超級沙布蕾",
           "category": "沙布蕾",
           "imageFile": "items/10.webp"
@@ -566,6 +575,8 @@
         },
         {
           "id": 94,
+          "diamondPrice": 400,
+          "diamondPurchaseQuantity": 1,
           "name": "高級沙布蕾",
           "category": "沙布蕾",
           "imageFile": "items/94.webp"
@@ -713,18 +724,25 @@
         },
         {
           "id": 1,
+          "diamondPrice": 150,
+          "diamondPurchaseQuantity": 1,
           "name": "專注薰香",
           "category": "功能型薰香",
           "imageFile": "items/1.webp"
         },
         {
           "id": 2,
+          "diamondPrice": 150,
+          "diamondPurchaseQuantity": 1,
           "name": "幸運薰香",
+          "aliases": ["幸运薰香"],
           "category": "功能型薰香",
           "imageFile": "items/2.webp"
         },
         {
           "id": 3,
+          "diamondPrice": 200,
+          "diamondPurchaseQuantity": 1,
           "name": "成長薰香",
           "category": "功能型薰香",
           "imageFile": "items/3.webp"
@@ -737,6 +755,8 @@
         },
         {
           "id": 34,
+          "diamondPrice": 150,
+          "diamondPurchaseQuantity": 1,
           "name": "友好薰香",
           "category": "功能型薰香",
           "imageFile": "items/34.webp"
@@ -1163,24 +1183,32 @@
         },
         {
           "id": 5,
+          "diamondPrice": 60,
+          "diamondPurchaseQuantity": 1,
           "name": "活力枕頭",
           "category": "其他",
           "imageFile": "items/5.webp"
         },
         {
           "id": 6,
+          "diamondPrice": 200,
+          "diamondPurchaseQuantity": 1,
           "name": "幫手哨子",
           "category": "其他",
           "imageFile": "items/6.webp"
         },
         {
           "id": 7,
+          "diamondPrice": 150,
+          "diamondPurchaseQuantity": 1,
           "name": "營地移動券",
           "category": "其他",
           "imageFile": "items/7.webp"
         },
         {
           "id": 8,
+          "diamondPrice": 500,
+          "diamondPurchaseQuantity": 1,
           "name": "好露營券",
           "category": "其他",
           "imageFile": "items/8.webp"
@@ -1223,6 +1251,8 @@
         },
         {
           "id": 32,
+          "diamondPrice": 900,
+          "diamondPurchaseQuantity": 1,
           "name": "主技能種子",
           "category": "其他",
           "imageFile": "items/32.webp"
@@ -1255,6 +1285,8 @@
         },
         {
           "id": 114,
+          "diamondPrice": 700,
+          "diamondPurchaseQuantity": 1,
           "name": "午睡放鬆券",
           "category": "其他",
           "imageFile": "items/114.webp"
@@ -1282,6 +1314,1591 @@
           "name": "主技能種子（寶可夢專屬）",
           "category": "其他",
           "imageFile": "items/120.webp"
+        }
+      ],
+      "pokemonCatalog": [
+        {
+          "id": "Incense-200",
+          "name": "梦妖的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-200.webp",
+          "pokemonItem": {"kind": "incense", "pokemonId": 200, "typeId": 14}
+        },
+        {
+          "id": "Incense-328",
+          "name": "大颚蚁的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-328.webp",
+          "pokemonItem": {"kind": "incense", "pokemonId": 328, "typeId": 9}
+        },
+        {
+          "id": "Incense-403",
+          "name": "小猫怪的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-403.webp",
+          "pokemonItem": {"kind": "incense", "pokemonId": 403, "typeId": 4}
+        },
+        {
+          "id": "Incense-557",
+          "name": "石居蟹的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-557.webp",
+          "pokemonItem": {"kind": "incense", "pokemonId": 557, "typeId": 12}
+        },
+        {
+          "id": "Incense-710",
+          "name": "南瓜精的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-710.webp",
+          "pokemonItem": {"kind": "incense", "pokemonId": 710, "typeId": 14}
+        },
+        {
+          "id": "Candy-1",
+          "name": "妙蛙種子的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-1.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 1}
+        },
+        {
+          "id": "Candy-4",
+          "name": "小火龍的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-4.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 4}
+        },
+        {
+          "id": "Candy-7",
+          "name": "傑尼龜的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-7.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 7}
+        },
+        {
+          "id": "Candy-10",
+          "name": "綠毛蟲的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-10.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 10}
+        },
+        {
+          "id": "Candy-19",
+          "name": "小拉達的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-19.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 19}
+        },
+        {
+          "id": "Candy-23",
+          "name": "阿柏蛇的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-23.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 23}
+        },
+        {
+          "id": "Candy-25",
+          "name": "皮卡丘的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-25.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 25}
+        },
+        {
+          "id": "Candy-27",
+          "name": "穿山鼠的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-27.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 27}
+        },
+        {
+          "id": "Candy-35",
+          "name": "皮皮的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-35.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 35}
+        },
+        {
+          "id": "Candy-37",
+          "name": "六尾的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-37.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 37}
+        },
+        {
+          "id": "Candy-39",
+          "name": "胖丁的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-39.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 39}
+        },
+        {
+          "id": "Candy-50",
+          "name": "地鼠的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-50.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 50}
+        },
+        {
+          "id": "Candy-52",
+          "name": "喵喵的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-52.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 52}
+        },
+        {
+          "id": "Candy-54",
+          "name": "可達鴨的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-54.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 54}
+        },
+        {
+          "id": "Candy-56",
+          "name": "猴怪的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-56.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 56}
+        },
+        {
+          "id": "Candy-58",
+          "name": "卡蒂狗的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-58.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 58}
+        },
+        {
+          "id": "Candy-69",
+          "name": "喇叭芽的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-69.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 69}
+        },
+        {
+          "id": "Candy-74",
+          "name": "小拳石的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-74.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 74}
+        },
+        {
+          "id": "Candy-79",
+          "name": "呆呆獸的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-79.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 79}
+        },
+        {
+          "id": "Candy-81",
+          "name": "小磁怪的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-81.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 81}
+        },
+        {
+          "id": "Candy-83",
+          "name": "大蔥鴨的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-83.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 83}
+        },
+        {
+          "id": "Candy-84",
+          "name": "嘟嘟的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-84.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 84}
+        },
+        {
+          "id": "Candy-92",
+          "name": "鬼斯的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-92.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 92}
+        },
+        {
+          "id": "Candy-95",
+          "name": "大岩蛇的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-95.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 95}
+        },
+        {
+          "id": "Candy-104",
+          "name": "卡拉卡拉的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-104.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 104}
+        },
+        {
+          "id": "Candy-113",
+          "name": "吉利蛋的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-113.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 113}
+        },
+        {
+          "id": "Candy-115",
+          "name": "袋獸的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-115.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 115}
+        },
+        {
+          "id": "Candy-122",
+          "name": "魔牆人偶的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-122.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 122}
+        },
+        {
+          "id": "Candy-127",
+          "name": "凱羅斯的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-127.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 127}
+        },
+        {
+          "id": "Candy-132",
+          "name": "百變怪的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-132.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 132}
+        },
+        {
+          "id": "Candy-133",
+          "name": "伊布的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-133.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 133}
+        },
+        {
+          "id": "Candy-147",
+          "name": "迷你龍的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-147.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 147}
+        },
+        {
+          "id": "Candy-150",
+          "name": "超夢的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-150.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 150}
+        },
+        {
+          "id": "Candy-151",
+          "name": "夢幻的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-151.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 151}
+        },
+        {
+          "id": "Candy-152",
+          "name": "菊草葉的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-152.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 152}
+        },
+        {
+          "id": "Candy-155",
+          "name": "火球鼠的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-155.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 155}
+        },
+        {
+          "id": "Candy-158",
+          "name": "小鋸鱷的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-158.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 158}
+        },
+        {
+          "id": "Candy-175",
+          "name": "波克比的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-175.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 175}
+        },
+        {
+          "id": "Candy-177",
+          "name": "天然雀的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-177.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 177}
+        },
+        {
+          "id": "Candy-179",
+          "name": "咩利羊的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-179.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 179}
+        },
+        {
+          "id": "Candy-185",
+          "name": "樹才怪的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-185.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 185}
+        },
+        {
+          "id": "Candy-194",
+          "name": "烏波的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-194.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 194}
+        },
+        {
+          "id": "Candy-198",
+          "name": "黑暗鴉的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-198.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 198}
+        },
+        {
+          "id": "Candy-200",
+          "name": "梦妖的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-200.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 200}
+        },
+        {
+          "id": "Candy-202",
+          "name": "果然翁的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-202.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 202}
+        },
+        {
+          "id": "Candy-213",
+          "name": "壺壺的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-213.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 213}
+        },
+        {
+          "id": "Candy-214",
+          "name": "赫拉克羅斯的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-214.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 214}
+        },
+        {
+          "id": "Candy-215",
+          "name": "狃拉的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-215.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 215}
+        },
+        {
+          "id": "Candy-225",
+          "name": "信使鳥的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-225.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 225}
+        },
+        {
+          "id": "Candy-228",
+          "name": "戴魯比的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-228.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 228}
+        },
+        {
+          "id": "Candy-243",
+          "name": "雷公的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-243.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 243}
+        },
+        {
+          "id": "Candy-244",
+          "name": "炎帝的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-244.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 244}
+        },
+        {
+          "id": "Candy-245",
+          "name": "水君的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-245.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 245}
+        },
+        {
+          "id": "Candy-246",
+          "name": "幼基拉斯的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-246.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 246}
+        },
+        {
+          "id": "Candy-252",
+          "name": "木守宮的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-252.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 252}
+        },
+        {
+          "id": "Candy-255",
+          "name": "火稚雞的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-255.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 255}
+        },
+        {
+          "id": "Candy-258",
+          "name": "水躍魚的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-258.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 258}
+        },
+        {
+          "id": "Candy-280",
+          "name": "拉魯拉絲的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-280.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 280}
+        },
+        {
+          "id": "Candy-287",
+          "name": "懶人獺的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-287.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 287}
+        },
+        {
+          "id": "Candy-302",
+          "name": "勾魂眼的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-302.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 302}
+        },
+        {
+          "id": "Candy-303",
+          "name": "大嘴娃的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-303.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 303}
+        },
+        {
+          "id": "Candy-304",
+          "name": "可可多拉的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-304.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 304}
+        },
+        {
+          "id": "Candy-311",
+          "name": "正電拍拍的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-311.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 311}
+        },
+        {
+          "id": "Candy-312",
+          "name": "負電拍拍的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-312.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 312}
+        },
+        {
+          "id": "Candy-316",
+          "name": "溶食獸的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-316.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 316}
+        },
+        {
+          "id": "Candy-328",
+          "name": "大顎蟻的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-328.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 328}
+        },
+        {
+          "id": "Candy-333",
+          "name": "青綿鳥的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-333.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 333}
+        },
+        {
+          "id": "Candy-353",
+          "name": "怨影娃娃的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-353.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 353}
+        },
+        {
+          "id": "Candy-359",
+          "name": "阿勃梭魯的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-359.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 359}
+        },
+        {
+          "id": "Candy-363",
+          "name": "海豹球的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-363.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 363}
+        },
+        {
+          "id": "Candy-371",
+          "name": "寶貝龍的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-371.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 371}
+        },
+        {
+          "id": "Candy-380",
+          "name": "拉帝亞斯的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-380.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 380}
+        },
+        {
+          "id": "Candy-381",
+          "name": "拉帝歐斯的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-381.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 381}
+        },
+        {
+          "id": "Candy-387",
+          "name": "草苗龜的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-387.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 387}
+        },
+        {
+          "id": "Candy-390",
+          "name": "小火焰猴的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-390.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 390}
+        },
+        {
+          "id": "Candy-393",
+          "name": "波加曼的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-393.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 393}
+        },
+        {
+          "id": "Candy-403",
+          "name": "小貓怪的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-403.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 403}
+        },
+        {
+          "id": "Candy-425",
+          "name": "飄飄球的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-425.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 425}
+        },
+        {
+          "id": "Candy-442",
+          "name": "花岩怪的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-442.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 442}
+        },
+        {
+          "id": "Candy-448",
+          "name": "路卡利歐的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-448.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 448}
+        },
+        {
+          "id": "Candy-453",
+          "name": "不良蛙的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-453.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 453}
+        },
+        {
+          "id": "Candy-459",
+          "name": "雪笠怪的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-459.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 459}
+        },
+        {
+          "id": "Candy-488",
+          "name": "克雷色利亞的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-488.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 488}
+        },
+        {
+          "id": "Candy-491",
+          "name": "達克萊伊的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-491.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 491}
+        },
+        {
+          "id": "Candy-517",
+          "name": "食夢夢的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-517.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 517}
+        },
+        {
+          "id": "Candy-557",
+          "name": "石居蟹的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-557.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 557}
+        },
+        {
+          "id": "Candy-590",
+          "name": "哎呀球菇的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-590.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 590}
+        },
+        {
+          "id": "Candy-627",
+          "name": "毛頭小鷹的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-627.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 627}
+        },
+        {
+          "id": "Candy-696",
+          "name": "寶寶暴龍的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-696.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 696}
+        },
+        {
+          "id": "Candy-701",
+          "name": "摔角鷹人的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-701.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 701}
+        },
+        {
+          "id": "Candy-702",
+          "name": "咚咚鼠的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-702.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 702}
+        },
+        {
+          "id": "Candy-710",
+          "name": "南瓜精的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-710.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 710}
+        },
+        {
+          "id": "Candy-714",
+          "name": "嗡蝠的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-714.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 714}
+        },
+        {
+          "id": "Candy-736",
+          "name": "強顎雞母蟲的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-736.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 736}
+        },
+        {
+          "id": "Candy-742",
+          "name": "萌虻的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-742.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 742}
+        },
+        {
+          "id": "Candy-759",
+          "name": "童偶熊的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-759.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 759}
+        },
+        {
+          "id": "Candy-764",
+          "name": "花療環環的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-764.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 764}
+        },
+        {
+          "id": "Candy-777",
+          "name": "托戈德瑪爾的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-777.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 777}
+        },
+        {
+          "id": "Candy-778",
+          "name": "謎擬Ｑ的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-778.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 778}
+        },
+        {
+          "id": "Candy-780",
+          "name": "老翁龍的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-780.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 780}
+        },
+        {
+          "id": "Candy-845",
+          "name": "古月鳥的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-845.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 845}
+        },
+        {
+          "id": "Candy-848",
+          "name": "毒電嬰的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-848.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 848}
+        },
+        {
+          "id": "Candy-906",
+          "name": "新葉喵的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-906.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 906}
+        },
+        {
+          "id": "Candy-909",
+          "name": "呆火鱷的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-909.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 909}
+        },
+        {
+          "id": "Candy-912",
+          "name": "潤水鴨的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-912.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 912}
+        },
+        {
+          "id": "Candy-921",
+          "name": "布撥的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-921.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 921}
+        },
+        {
+          "id": "Candy-957",
+          "name": "小鍛匠的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-957.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 957}
+        },
+        {
+          "id": "Candy-974",
+          "name": "走鯨的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-974.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 974}
+        },
+        {
+          "id": "Incense-133",
+          "name": "伊布的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-133.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 133,
+            "typeId": 1
+          }
+        },
+        {
+          "id": "Incense-1",
+          "name": "妙蛙種子的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-1.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 1,
+            "typeId": 5
+          }
+        },
+        {
+          "id": "Incense-4",
+          "name": "小火龍的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-4.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 4,
+            "typeId": 2
+          }
+        },
+        {
+          "id": "Incense-7",
+          "name": "傑尼龜的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-7.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 7,
+            "typeId": 3
+          }
+        },
+        {
+          "id": "Incense-147",
+          "name": "迷你龍的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-147.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 147,
+            "typeId": 15
+          }
+        },
+        {
+          "id": "Incense-280",
+          "name": "拉魯拉絲的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-280.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 280,
+            "typeId": 11
+          }
+        },
+        {
+          "id": "Incense-759",
+          "name": "童偶熊的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-759.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 759,
+            "typeId": 7
+          }
+        },
+        {
+          "id": "Incense-359",
+          "name": "阿勃梭魯的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-359.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 359,
+            "typeId": 16
+          }
+        },
+        {
+          "id": "Incense-79",
+          "name": "呆呆獸的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-79.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 79,
+            "typeId": 3
+          }
+        },
+        {
+          "id": "Incense-152",
+          "name": "菊草葉的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-152.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 152,
+            "typeId": 5
+          }
+        },
+        {
+          "id": "Incense-127",
+          "name": "凱羅斯的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-127.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 127,
+            "typeId": 12
+          }
+        },
+        {
+          "id": "Incense-39",
+          "name": "胖丁的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-39.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 39,
+            "typeId": 18
+          }
+        },
+        {
+          "id": "Incense-172",
+          "name": "皮丘的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-172.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 172,
+            "typeId": 4
+          }
+        },
+        {
+          "id": "Incense-702",
+          "name": "咚咚鼠的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-702.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 702,
+            "typeId": 4
+          }
+        },
+        {
+          "id": "Incense-179",
+          "name": "咩利羊的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-179.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 179,
+            "typeId": 4
+          }
+        },
+        {
+          "id": "Incense-764",
+          "name": "花療環環的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-764.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 764,
+            "typeId": 18
+          }
+        },
+        {
+          "id": "Incense-155",
+          "name": "火球鼠的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-155.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 155,
+            "typeId": 2
+          }
+        },
+        {
+          "id": "Incense-37",
+          "name": "六尾的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-37.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 37,
+            "typeId": 2
+          }
+        },
+        {
+          "id": "Incense-58",
+          "name": "卡蒂狗的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-58.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 58,
+            "typeId": 2
+          }
+        },
+        {
+          "id": "Incense-845",
+          "name": "古月鳥的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-845.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 845,
+            "typeId": 10
+          }
+        },
+        {
+          "id": "Incense-214",
+          "name": "赫拉克羅斯的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-214.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 214,
+            "typeId": 12
+          }
+        },
+        {
+          "id": "Incense-158",
+          "name": "小鋸鱷的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-158.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 158,
+            "typeId": 3
+          }
+        },
+        {
+          "id": "Incense-906",
+          "name": "新葉喵的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-906.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 906,
+            "typeId": 5
+          }
+        },
+        {
+          "id": "Incense-909",
+          "name": "呆火鱷的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-909.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 909,
+            "typeId": 2
+          }
+        },
+        {
+          "id": "Incense-912",
+          "name": "潤水鴨的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-912.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 912,
+            "typeId": 3
+          }
+        },
+        {
+          "id": "Incense-194",
+          "name": "烏波的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-194.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 194,
+            "typeId": 3
+          }
+        },
+        {
+          "id": "Incense-304",
+          "name": "可可多拉的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-304.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 304,
+            "typeId": 17
+          }
+        },
+        {
+          "id": "Incense-736",
+          "name": "強顎雞母蟲的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-736.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 736,
+            "typeId": 12
+          }
+        },
+        {
+          "id": "Incense-425",
+          "name": "飄飄球的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-425.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 425,
+            "typeId": 14
+          }
+        },
+        {
+          "id": "Incense-92",
+          "name": "鬼斯的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-92.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 92,
+            "typeId": 14
+          }
+        },
+        {
+          "id": "Incense-353",
+          "name": "怨影娃娃的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-353.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 353,
+            "typeId": 14
+          }
+        },
+        {
+          "id": "Incense-778",
+          "name": "謎擬Ｑ的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-778.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 778,
+            "typeId": 14
+          }
+        },
+        {
+          "id": "Incense-921",
+          "name": "布撥的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-921.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 921,
+            "typeId": 4
+          }
+        },
+        {
+          "id": "Incense-7006",
+          "name": "六尾（阿羅拉的樣子）的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-7006.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 7006,
+            "typeId": 6
+          }
+        },
+        {
+          "id": "Incense-9004",
+          "name": "伊布（佳節）的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-9004.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 9004,
+            "typeId": 1
+          }
+        },
+        {
+          "id": "Incense-9002",
+          "name": "皮卡丘（佳節）的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-9002.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 9002,
+            "typeId": 4
+          }
+        },
+        {
+          "id": "Incense-215",
+          "name": "狃拉的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-215.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 215,
+            "typeId": 16
+          }
+        },
+        {
+          "id": "Incense-627",
+          "name": "毛頭小鷹的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-627.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 627,
+            "typeId": 10
+          }
+        },
+        {
+          "id": "Incense-7054",
+          "name": "烏波（帕底亞的樣子）的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-7054.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 7054,
+            "typeId": 8
+          }
+        },
+        {
+          "id": "Incense-517",
+          "name": "食夢夢的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-517.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 517,
+            "typeId": 11
+          }
+        },
+        {
+          "id": "Incense-439",
+          "name": "魔尼尼的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-439.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 439,
+            "typeId": 11
+          }
+        },
+        {
+          "id": "Incense-360",
+          "name": "小果然的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-360.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 360,
+            "typeId": 11
+          }
+        },
+        {
+          "id": "Incense-440",
+          "name": "小福蛋的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-440.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 440,
+            "typeId": 1
+          }
+        },
+        {
+          "id": "Incense-303",
+          "name": "大嘴娃的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-303.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 303,
+            "typeId": 17
+          }
+        },
+        {
+          "id": "Incense-83",
+          "name": "大蔥鴨的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-83.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 83,
+            "typeId": 10
+          }
+        },
+        {
+          "id": "Incense-252",
+          "name": "木守宮的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-252.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 252,
+            "typeId": 5
+          }
+        },
+        {
+          "id": "Incense-255",
+          "name": "火稚雞的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-255.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 255,
+            "typeId": 2
+          }
+        },
+        {
+          "id": "Incense-258",
+          "name": "水躍魚的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-258.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 258,
+            "typeId": 3
+          }
+        },
+        {
+          "id": "Incense-311",
+          "name": "正電拍拍的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-311.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 311,
+            "typeId": 4
+          }
+        },
+        {
+          "id": "Incense-312",
+          "name": "負電拍拍的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-312.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 312,
+            "typeId": 4
+          }
+        },
+        {
+          "id": "Incense-848",
+          "name": "毒電嬰的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-848.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 848,
+            "typeId": 8
+          }
+        },
+        {
+          "id": "Incense-177",
+          "name": "天然雀的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-177.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 177,
+            "typeId": 11
+          }
+        },
+        {
+          "id": "Incense-132",
+          "name": "百變怪的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-132.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 132,
+            "typeId": 1
+          }
+        },
+        {
+          "id": "Incense-371",
+          "name": "寶貝龍的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-371.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 371,
+            "typeId": 15
+          }
+        },
+        {
+          "id": "Incense-442",
+          "name": "花岩怪的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-442.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 442,
+            "typeId": 16
+          }
+        },
+        {
+          "id": "Incense-974",
+          "name": "走鯨的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-974.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 974,
+            "typeId": 6
+          }
+        },
+        {
+          "id": "Incense-777",
+          "name": "托戈德瑪爾的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-777.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 777,
+            "typeId": 17
+          }
+        },
+        {
+          "id": "Incense-9006",
+          "name": "海豹球（佳節）的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-9006.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 9006,
+            "typeId": 6
+          }
+        },
+        {
+          "id": "Incense-198",
+          "name": "黑暗鴉的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-198.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 198,
+            "typeId": 16
+          }
+        },
+        {
+          "id": "Incense-213",
+          "name": "壺壺的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-213.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 213,
+            "typeId": 12
+          }
+        },
+        {
+          "id": "Incense-742",
+          "name": "萌虻的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-742.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 742,
+            "typeId": 18
+          }
+        },
+        {
+          "id": "Incense-714",
+          "name": "嗡蝠的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-714.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 714,
+            "typeId": 15
+          }
+        },
+        {
+          "id": "Incense-27",
+          "name": "穿山鼠的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-27.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 27,
+            "typeId": 9
+          }
+        },
+        {
+          "id": "Incense-696",
+          "name": "寶寶暴龍的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-696.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 696,
+            "typeId": 13
+          }
+        },
+        {
+          "id": "Incense-780",
+          "name": "老翁龍的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-780.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 780,
+            "typeId": 15
+          }
+        },
+        {
+          "id": "Incense-387",
+          "name": "草苗龜的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-387.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 387,
+            "typeId": 5
+          }
+        },
+        {
+          "id": "Incense-390",
+          "name": "小火焰猴的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-390.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 390,
+            "typeId": 2
+          }
+        },
+        {
+          "id": "Incense-393",
+          "name": "波加曼的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-393.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 393,
+            "typeId": 3
+          }
+        },
+        {
+          "id": "Incense-701",
+          "name": "摔角鷹人的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-701.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 701,
+            "typeId": 10
+          }
+        },
+        {
+          "id": "Incense-9007",
+          "name": "皮卡丘（船長）的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-9007.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 9007,
+            "typeId": 4
+          }
+        },
+        {
+          "id": "Incense-957",
+          "name": "小鍛匠的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-957.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 957,
+            "typeId": 18
+          }
+        },
+        {
+          "id": "Incense-590",
+          "name": "哎呀球菇的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-590.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 590,
+            "typeId": 8
+          }
         }
       ],
       "roles": {

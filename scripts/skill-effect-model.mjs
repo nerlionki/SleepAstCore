@@ -33,6 +33,19 @@ export function validateMainSkillModels(data                         ) {
     if (item.legacyRewardKey != null) valid(item.legacyRewardKey === 'berryJuice', '未支持的旧奖励映射')
   }
   valid(itemIds.has(obj(items.roles).berryJuice) && items.catalog.find((i     ) => i.id === items.roles.berryJuice)?.useEffect, '道具消费引用缺失')
+  if (items.pokemonCatalog !== undefined) {
+    valid(Array.isArray(items.pokemonCatalog), '宝可梦道具目录无效')
+    const pokemonItemIds = new Set()
+    for (const item of items.pokemonCatalog) {
+      const linked = obj(obj(item).pokemonItem)
+      const prefix = linked.kind === 'candy' ? 'Candy' : 'Incense'
+      valid((linked.kind === 'candy' || linked.kind === 'incense' && positiveInt(linked.typeId) && linked.typeId <= 18)
+        && pokeIds.has(linked.pokemonId) && item.id === `${prefix}-${linked.pokemonId}` && !pokemonItemIds.has(item.id)
+        && typeof item.name === 'string' && item.name.trim() && typeof item.category === 'string'
+        && item.imageFile === `items/${item.id}.webp` && item.diamondPrice === undefined, '宝可梦道具 ID 或图片无效')
+      pokemonItemIds.add(item.id)
+    }
+  }
   valid(new Set(berries.map(row => row.id)).size === berries.length && berries.every(row => positiveInt(row.id)), '树果缺少稳定 ID')
   const subskills = data['subskills.json']         
   valid(subskills.every(row => row.imageFile === `subSkill/${row.id}.webp`), '副技能图片必须对应 ID')
