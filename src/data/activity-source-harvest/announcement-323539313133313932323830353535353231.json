@@ -1,0 +1,35 @@
+{
+  "id": "announcement-323539313133313932323830353535353231",
+  "source": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/",
+  "fetchedFrom": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/",
+  "httpStatus": 200,
+  "textLength": 1762,
+  "textSample": "【企畫】「春日嘉年華2025」 《Pokémon Sleep》官方網站 Pokémon Sleep News Sleep Tracking Pokémon Contents Devices 常見問題 繁體中文 繁體中文 DOWNLOAD FOLLOW US NEW 企劃 2025/4/23 2025/4/23 --> 【企畫】「春日嘉年華2025」 概要 本企畫為期一週，在這特別的期間， 給卡比獸吃的料理必定會是「沙拉」，且料理的最終能量會變成1.5倍 。 配合本企畫登場，將自約 2025/5/1 3:00 起 追加2種「沙拉」的新食譜 ！ 此外，還會更容易遇見會帶回 「特選蛋」、「純粹油」 的部分寶可夢！ 敬請期待！ 【企畫期間】 ・ 5/5 (週一) 4:00 ～ 5/12 (週一) 3:59 【活動營地】 ・所有營地 【任務期間】 ・ 5/5 (週一) 4:00 ～ 5/12 (週一) 3:59 獎勵 企畫期間，在活動營地會發生下列效果。 【所有日子】 ・睡眠研究時， 特定寶可夢的出現機率提升 。 ・料理的最終能量為 1.5倍 ( 漂亮成功時為3倍，在週日漂亮成功時為4.5倍 ）。 ・料理必定會是「 沙拉 」。 ・睡眠研究時， 必定有1隻寶可夢 會處於「 貪吃 」狀態。 ・睡眠研究時，不論研究者當天的睡眠類型為何， 都也能遇見其他睡眠類型的寶可夢 。 機率提升 把握能比平時更常遇見下列寶可夢的好機會吧！ 【 機率中幅提升 】 小福蛋 、 吉利蛋 、 幸福蛋 【 機率小幅提升 】 小磁怪、百變怪、波克比、信使鳥、勾魂眼、青綿鳥、怨影娃娃、海豹球、利歐路、不良蛙、古月鳥 各營地能遇見的寶可夢 【 萌綠之島 】 小磁怪、 吉利蛋 、百變怪、波克比、信使鳥、 幸福蛋 、青綿鳥、怨影娃娃、海豹球、 小福蛋 、利歐路、不良蛙、古月鳥 【 天青沙灘 】 吉利蛋 、百變怪、 幸福蛋 、海豹球、 小福蛋 、不良蛙、古月鳥 【 灰褐洞窟 】 百變怪、波克比、勾魂眼、怨影娃娃、利歐路、不良蛙 【 白花雪原 】 吉利蛋 、百變怪、波克比、信使鳥、 幸福蛋 、青綿鳥、海豹球、 小福蛋 、利歐路、不良蛙、古月鳥 【 寶藍湖畔 】 百變怪、波克比、青綿鳥、利歐路 【 黃金舊發電廠 】 小磁怪、百變怪、怨影娃娃 注意事項 ・【重要】「【企畫】春日嘉年華2025」舉辦日期的切換時間為每日4:00。 ・獎勵僅適用於企畫期間內開始測量的睡眠資料。 若將「企畫開始前測量的睡眠資料」留到企畫期間內進行「稍後再報告」，則不適用獎勵。 若將「企畫期間內測量的睡眠資料」留到企畫結束後進行「稍後再報告」，則會適用獎勵。 ・獎勵不適用於新手教學中的睡眠測量。 ・不論在哪一個營地進行睡眠研究，皆適用獎勵。 ・相同的獎勵在不同的活動、企畫中同時登場時，僅適用倍率最大的獎勵。 繁體中文 繁體中文 DOWNLOAD 商品名稱 Pokémon Sleep 支援系統 iOS / Android 售價 本遊戲為免費遊玩 ※部分內容可付費購買 SHARE 寶可夢官方網站 FOLLOW US 應用程式版 使用條款 隱私權政策 網站版 使用條款 隱私權政策 關於Cookie 請注意遊戲時間，避免沉迷。 遊戲部分內容或服務需另行支付其他費用。 The Pokémon Company ©Pokémon/Nintendo/Creatures/GAME FREAK TM, ®, and character names are trademarks of Nintendo Apple, the Apple logo, Apple Watch, Apple Health, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android、Fitbit、Google Play、Google Health、Health Connect 以及相關標誌和標誌均為 Google LLC 的商標。 發行、銷售：The Pokémon Company",
+  "multiplierHits": [
+    {
+      "raw": "1.5倍",
+      "value": 1.5
+    },
+    {
+      "raw": "1.5倍",
+      "value": 1.5
+    },
+    {
+      "raw": "3倍",
+      "value": 3
+    },
+    {
+      "raw": "4.5倍",
+      "value": 4.5
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

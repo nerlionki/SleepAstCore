@@ -1,0 +1,31 @@
+{
+  "id": "flower-festival-2024",
+  "source": "https://web.archive.org/web/20240721141237/https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/",
+  "fetchedFrom": "https://web.archive.org/web/20240721141237/https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/",
+  "httpStatus": 200,
+  "textLength": 5722,
+  "textSample": "Event Notice: Flower Festival Pokémon Sleep Official Webpage 5 captures 16 Jun 2024 - 17 Dec 2025 Jun JUL Aug 21 2023 2024 2025 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20240721141237/https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/ Home News Sleep Tracking Pokémon Extra Content Frequently Asked Questions English English DOWNLOAD FOLLOW US New Special Campaigns 2024/4/12 Event Notice: Flower Festival The Flower Festival event lasts from 4:00 a.m. on Monday, April 22, until 3:59 a.m. on Monday, April 29, in all areas ! During this event, you’ll be able to meet Pokémon of various sleep types regardless of your own. In particular, Grass-type and Fairy-type Pokémon will be more likely to appear. You may even meet a Shiny Pokémon! Also during this event, Snorlax’s requested dishes will be set to “Salads” and the final Strength value for dishes will be multiplied by 1.5 . Note: The multiplier for Extra Tasty dishes will be different depending on the day. On Sunday, Extra Tasty dishes will give 4.5 times as much Strength, and on the other days, it will give 3 times as much. And during this week-long event, one of the Pokémon that visits during sleep research will for sure arrive hungry ! Notes: This applies to only one sleep session per day. This effect applies separately from the hungry effects of Friend Incense and Good Camp Tickets. Example: If you use a Good Camp Ticket and Friend Incense together during the event, at least three of the Pokémon that show up during sleep research will for sure be hungry. In addition, through limited-time missions during the event, you can get great rewards, such as Comfey Incense . We hope you’re looking forward to it! How to Progress in the Event Participating in the event is easy! Simply tap the Sleep button before going to sleep during the event period to track your sleep. A variety of event-related effects will trigger during your sleep research. Note: Event bonuses can trigger in any area during this event. Bonuses — Last Day of the Event (4/28) — • During sleep research, one Pokémon will for sure be hungry . • Dishes will be set to “Salads” . • Final Strength gains from dishes will be multiplied by 1.5 (or 4.5 for Extra Tasty dishes). • A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day. • Certain Pokémon will be more likely to appear during sleep research. • You may meet certain Shiny Pokémon — Other Days (4/22—4/27) — • During sleep research, one Pokémon will for sure be hungry . • Dishes will be set to “Salads” . • Final Strength gains from dishes will be multiplied by 1.5 (or 3 for Extra Tasty dishes). • A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day. • Certain Pokémon will be more likely to appear during sleep research. • You may meet certain Shiny Pokémon Pokémon That Are Easier to Encounter during the Event During the event, the following Pokémon are more likely to appear! Greater Appearance Rate (Grass types) • Bulbasaur, Ivysaur, Venusaur, Bellsprout, Weepinbell, Victreebel, Chikorita, Bayleef, Meganium, Leafeon (Fairy types) • Clefairy, Clefable, Jigglypuff, Wigglytuff, Cleffa, Igglybuff, Togepi, Togetic, Togekiss, Sylveon, Comfey Note: The greater appearance rate for these Pokémon applies only to the separate areas where each Pokémon appears. Greengrass Isle • Bulbasaur, Ivysaur, Venusaur, Bellsprout, Weepinbell, Victreebel, Chikorita, Leafeon • Clefairy, Clefable, Jigglypuff, Wigglytuff, Cleffa, Igglybuff, Togepi, Togetic, Togekiss, Sylveon, Comfey Cyan Beach • Bellsprout, Weepinbell, Chikorita • Clefairy, Clefable, Jigglypuff, Wigglytuff, Cleffa, Igglybuff, Comfey Taupe Hollow • Clefairy, Clefable, Jigglypuff, Wigglytuff, Cleffa, Igglybuff, Togepi Snowdrop Tundra • Bellsprout • Clefairy, Clefable, Jigglypuff, Cleffa, Togepi, Togetic Lapis Lakeside",
+  "multiplierHits": [
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

@@ -165,8 +165,16 @@ export function validateActivityCatalog(value, data) {
     }
     for (const event of value.activities) {
         requireValid(object(event));
-        keys(event, ['id', 'name', 'source', 'priority', 'stacking', 'startsOn', 'endsOn', 'weekdays', 'rules', 'phases', 'spawns', 'miniCandyBoost', 'favoriteBerries', 'features', 'tutorialEligible']);
+        keys(event, ['id', 'name', 'source', 'sources', 'priority', 'stacking', 'startsOn', 'endsOn', 'weekdays', 'rules', 'phases', 'spawns', 'miniCandyBoost', 'favoriteBerries', 'features', 'tutorialEligible']);
         requireValid(typeof event.id === 'string' && event.id.length > 0 && !unique.has(event.id) && typeof event.name === 'string' && event.name.length > 0 && typeof event.source === 'string' && event.source.length > 0 && Number.isSafeInteger(event.priority) && (event.stacking == null || event.stacking === 'max'));
+        if ('sources' in event) {
+            requireValid(Array.isArray(event.sources) && event.sources.length > 0);
+            for (const row of event.sources) {
+                requireValid(object(row));
+                keys(row, ['kind', 'url', 'note']);
+                requireValid(['official', 'rae', 'wiki'].includes(String(row.kind)) && typeof row.url === 'string' && row.url.length > 0 && (row.note == null || typeof row.note === 'string'));
+            }
+        }
         if ('tutorialEligible' in event)
             requireValid(typeof event.tutorialEligible === 'boolean');
         unique.add(event.id);

@@ -10,6 +10,7 @@
     "build": "node scripts/build.mjs",
     "verify": "node scripts/verify.mjs",
     "build:v2": "node scripts/resource-v2.mjs build",
-    "verify:v2": "node scripts/resource-v2.mjs verify"
+    "verify:v2": "node scripts/resource-v2.mjs verify",
+    "verify:activities": "node scripts/validate-activity-coverage.mjs"
   }
 }

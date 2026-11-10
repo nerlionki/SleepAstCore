@@ -1,0 +1,55 @@
+{
+  "id": "good-sleep-day-3",
+  "source": "https://web.archive.org/web/20231029114024/https://www.pokemonsleep.net/en/news/2742/",
+  "fetchedFrom": "https://web.archive.org/web/20231029114024/https://www.pokemonsleep.net/en/news/2742/",
+  "httpStatus": 200,
+  "textLength": 3403,
+  "textSample": "Happening Soon: the Third Good Sleep Day Event Pokémon Sleep Official Webpage 2 captures 21 Oct 2023 - 29 Oct 2023 Sep OCT Nov 29 2022 2023 2024 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20231029114024/https://www.pokemonsleep.net/en/news/2742/ Home News Sleep Tracking Pokémon Extra Content Frequently Asked Questions English English DOWNLOAD FOLLOW US New Events 2023/10/20 Happening Soon: the Third Good Sleep Day Event A Good Sleep Day event will begin at 4:00 a.m. on Saturday, October 28! Rest your very best on the night of a full moon! This event will be held once a month for a total of three days: on the day of the full moon and the days before and after it. During this time period, Drowsy Power will be multiplied by 1.5, and on the day of the full moon (October 29), it will be multiplied by 2. Let’s all try to get lots of sleep during the event and research loads of Pokémon sleep styles! Day 1: Saturday, October 28, at 4:00 a.m. to Sunday, October 29, at 3:59 a.m.​ Day 2 (the night of the full moon): Sunday, October 29, at 4:00 a.m. to Monday, October 30, at 3:59 a.m.​ Day 3: Monday, October 30, at 4:00 a.m. to Tuesday, October 1, at 3:59 a.m. How to Progress in the Event Participating in the event is easy! Simply press the “Sleep” button before going to sleep during the event period to track your sleep. A variety of event-related effects will be triggered during your sleep research. — Night of the full moon (October 29) — Drowsy Power ×2 Pokémon Sleep EXP ×3 Bonus Sleep Points +1,000 — Other days (October 28, October 30) — Drowsy Power ×1.5 Pokémon Sleep EXP ×2 Bonus Sleep Points +500 Notes about Good Sleep Day • [Important] Each day of the Good Sleep Day event rolls over at 4:00 a.m. • Event bonuses apply only to sleep data tracked within the event period. • If you wait to report sleep data tracked before the event begins, and select “Review Later” during the event, event bonuses will not be applied. • If you wait to report sleep data tracked during the event, and select “Review Later” after the event has ended, event bonuses will be applied. • You can only receive bonus sleep points once per day. You will not receive bonus sleep points for the second sleep session in a day. • Event bonuses do not apply to sleep tracking during the tutorial. • Event bonuses will be triggered regardless of which site you conduct your sleep research in. • The effects of incense stack with Good Sleep Day effects. If you use Growth Incense on the night of the full moon, EXP gains will be multiplied by 6 (×3 from the full moon bonus and ×2 from the Growth Incense bonus). English English DOWNLOAD Title Pokémon Sleep Platforms iOS/Android MSRP Free to play* *Features in-app purchases SHARE Official Pokémon Website Terms of Use Privacy Notice Cookie Page The Pokémon Company ©2023 Pokémon. ©1995-2023 Nintendo/Creatures Inc./GAME FREAK inc. Pokémon Sleep is developed by SELECT BUTTON inc. TM, ®, and character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC Pokémon Sleep is intended for entertainment purposes only and is not intended for use in detection, diagnosis, or treatment of any medical condition or disease.",
+  "multiplierHits": [
+    {
+      "raw": "Drowsy Power ×2",
+      "value": 2
+    },
+    {
+      "raw": "Drowsy Power ×1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "Pokémon Sleep EXP ×3",
+      "value": 3
+    },
+    {
+      "raw": "Pokémon Sleep EXP ×2",
+      "value": 2
+    },
+    {
+      "raw": "Sleep EXP ×3",
+      "value": 3
+    },
+    {
+      "raw": "Sleep EXP ×2",
+      "value": 2
+    },
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "multiplied by 2.",
+      "value": 2
+    },
+    {
+      "raw": "multiplied by 6",
+      "value": 6
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

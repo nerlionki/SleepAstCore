@@ -1,0 +1,23 @@
+{
+  "id": "suicune-research",
+  "source": "https://web.archive.org/web/20250409121105/https://www.pokemonsleep.net/en/news/313636333538303136313334373432303137/",
+  "fetchedFrom": "https://web.archive.org/web/20250409121105/https://www.pokemonsleep.net/en/news/313636333538303136313334373432303137/",
+  "httpStatus": 200,
+  "textLength": 10673,
+  "textSample": "Event: Suicune Research Pokémon Sleep Official Webpage 8 captures 16 Aug 2024 - 31 Jul 2025 Mar APR May 09 2024 2025 2026 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20250409121105/https://www.pokemonsleep.net/en/news/313636333538303136313334373432303137/ Home News Sleep Tracking Pokémon Extra Content Devices Frequently Asked Questions English English DOWNLOAD FOLLOW US New Events 8/16/2024 2024/8/16 --> Event: Suicune Research The Legendary Pokémon Suicune appears! North winds and freshly purified water have been reported on parts of Greengrass Isle! Follow-up research in the area revealed bits of Suicune Mane that Suicune left behind. According to Professor Neroli, he’ll be able to conduct research into Suicune’s sleep habits if you collect lots of Suicune Mane samples during your sleep research. You can trade these Suicune Mane samples via the Event Exchange for new items—Suicune Incense and Suicune Biscuits—to help you see Suicune’s sleep styles! Outline The Legendary Pokémon Suicune will appear during sleep research for the first time , and this two-week event is a special opportunity to concentrate on researching it ! During this event, you can collect samples of Suicune Mane to exchange via the Event Exchange for items, such as Suicune Incense and Suicune Biscuits . You can use Suicune Incense to research Suicune’s various sleep styles! Event Period: • Monday, September 2, at 4:00 a.m. to Monday, September 16, at 3:59 a.m. Event Areas: • Week 1: Greengrass Isle • Week 2: Greengrass Isle, Cyan Beach , and Lapis Lakeside Mission Periods: • Week 1 Missions: Monday, September 2, at 4:00 a.m. to Monday, September 16, at 3:59 a.m. • Week 2 Missions: Monday, September 9, at 4:00 a.m. to Monday, September 16, at 3:59 a.m. Event Exchange Period: Monday, September 2, at 4:00 a.m. to Thursday, September 19, at 3:59 a.m. Bonuses The following effects will trigger in the applicable areas during the event. — All Days (9/2−9/15) — • Each time a Water-type helper Pokémon brings you ingredients during regular helping, it will have one extra . • The chance of a Water-type helper Pokémon’s main skill being triggered will be multiplied by 1.5 . • The Snorlax in the event areas will have Oran Berries (Water type) set as one of its favorite Berries. The other two kinds of Berries are chosen at random. • A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day. • Certain Pokémon will be more likely to appear during sleep research. — Week 1 of the Event (9/2−9/8) — • Main skill levels of Water-type helper Pokémon will be boosted by 1 . — Week 2 of the Event (9/9−9/15) — • Main skill levels of Water-type helper Pokémon will be boosted by 3 . • A big Snorlax will appear, and it can be raised starting at a certain Strength . • Snorlax’s starting rating varies depending on the area. — Second Sunday of the Event (9/15) — • Drowsy Power will be multiplied by 1.5. Note: Water-type helper Pokémon: Squirtle, Wartortle, Blastoise, Psyduck, Golduck, Slowpoke, Slowbro, Vaporeon, Totodile, Croconaw, Feraligatr, Wooper, Quagsire, Slowking, Suicune , Quaxly, Quaxwell Pokémon You Can Encounter in Each Area During the event, the following Pokémon are more likely to appear! Note: For the first week, Suicune will appear only on Greengrass Isle. Slightly Greater Appearance Rate ・ Squirtle, Wartortle, Blastoise, Psyduck, Golduck, Slowpoke, Slowbro, Vaporeon, Totodile, Croconaw, Feraligatr, Wooper, Quagsire, Slowking, Suicune , Quaxly, and Quaxwell. Greengrass Isle ・ Squirtle, Wartortle, Blastoise, Psyduck, Slowpoke, Slowbro, Vaporeon, Totodile, Croconaw, Feraligatr, Wooper, Quagsire, Suicune , and Quaxly. Cyan Beach ・ Squirtle, Wartortle, Blastoise, Psyduck, Golduck, Slowpoke, Slowbro, Vaporeon, Totodile, Croconaw, Feraligatr, Wooper, Quagsire, Slowking, Suicune , Quaxly, and Quaxwell. Lapis Lakeside ・ Squirtle, Wartortle, Blastoise, Psyduck, Slo",
+  "multiplierHits": [
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

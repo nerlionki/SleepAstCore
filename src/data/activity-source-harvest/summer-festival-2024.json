@@ -1,0 +1,23 @@
+{
+  "id": "summer-festival-2024",
+  "source": "https://web.archive.org/web/20250707193138/https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/",
+  "fetchedFrom": "https://web.archive.org/web/20250707193138/https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/",
+  "httpStatus": 200,
+  "textLength": 7120,
+  "textSample": "Event: Summer Festival Pokémon Sleep Official Webpage 11 captures 15 Jun 2024 - 12 Feb 2026 Jun JUL Aug 07 2024 2025 2026 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20250707193138/https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/ Home News Sleep Tracking Pokémon Extra Content Devices Frequently Asked Questions English English DOWNLOAD FOLLOW US New Special Campaigns 6/6/2024 2024/6/6 --> Event: Summer Festival Event Outline This summery week-long event will feature greater appearance rates for Water-, Flying-, and Bug-type Pokémon ! Also, you’ll be able to use a limited-time function: the Candy Cram-o-matic ! This function allows you to get M-sized candies of various types by feeding Dream Shards and Pokémon Candies to the Candy Cram-o-matic . For more details, please see the information about the limited-time Candy Cram-o-matic function. You can complete limited-time event missions to get great rewards, such as Cramorant Incense . There will also be other various bonuses. We hope you’re looking forward to the event! Event Period: • Monday, June 17, at 4:00 a.m. to Monday, June 24, at 3:59 a.m. Event Areas: • All areas Limited-Time Function: “Candy Cram-o-matic” Only during the event , you can use the Candy Cram-o-matic from the home screen. If you spend Dream Shards and feed 40 of your Pokémon Candies to the Candy Cram-o-matic, you’ll get one M-sized candy of a random type . On rare occasions, you’ll get a Great Success when you use the Candy Cram-o-matic. When you get a Great Success, you’ll receive two M-sized candies. Also, the type of candy you receive depends partially on the type of Pokémon Candies you feed the Candy Cram-o-matic. Note: This does not guarantee that you will receive the same type of candy you fed the machine. Candy Cram-o-matic Use Examples • Feed it 40 Bulbasaur Candies (Grass-type) → The candy that comes out is slightly more likely to be a Grass-Type Candy M • Feed it 30 Bulbasaur Candies (Grass-type) and 10 Pikachu Candies (Electric-type) → The candy that comes out is slightly more likely to be a Grass-type Candy M and very slightly more likely to be an Electric-Type Candy M Notes: This function can be used up to four times per day. Each time this function is used, it will consume more Dream Shards than the previous time. The number of times you can use the Candy Cram-o-matic and the number of Dream Shards it consumes will reset each day. A function that allows you to see the number of Pokémon Candies you have in your Bag is included in the Version 1.7.2 update. You can use this function by selecting Menu &gt; Bag &gt; Pokémon Candies. Bonuses The following effects will trigger in the applicable areas during the event. — All Days (6/17 to 6/23) — • Dishes will be set to “Curries/Stews” . • Final Strength gains from dishes will be multiplied by 1.5 ( or 3 for Extra Tasty dishes or 4.5 for Extra Tasty dishes on Sunday only ). • A few Pokémon of different sleep types will appear during sleep research regardless of your sleep type for that day. • Certain Pokémon will be more likely to appear during sleep research. • You may meet certain Shiny Pokémon. Pokémon That Are Easier to Encounter during the Event The following Pokémon are more likely to appear during this event! Greater Appearance Rate (Water types) • Squirtle, Wartortle, Blastoise, Psyduck, Golduck, Slowpoke, Slowbro, Vaporeon, Totodile, Croconaw, Feraligatr, and Slowking. (Flying types) • Doduo, Dodrio, Delibird, Swablu, and Cramorant . (Bug types) • Caterpie, Metapod, Butterfree, Pinsir, and Heracross. Note: These Pokémon’s greater appearance rate applies only to the separate areas where each Pokémon appears. Greengrass Isle (Water types) • Squirtle, Wartortle, Blastoise, Psyduck, Slowpoke, Slowbro, Vaporeon, Totodile, Croconaw, and Feraligatr. (Flying types) • Doduo, Dodrio, Delibird, Swablu, and Cramorant . (Bug types) • Caterpie, Metapod, Butterfree, Pinsir, and Herac",
+  "multiplierHits": [
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}
