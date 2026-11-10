@@ -28,12 +28,12 @@ for (const e of activities.activities) {
   byYear[y] = (byYear[y] || 0) + 1
 }
 
-function hasNumericRules(a) {
-  const walk = (rules) => rules?.some(r => r.effects && Object.keys(r.effects).some(k => k !== 'eventMix' || r.effects[k] !== 'off'))
+function hasNumericEffects(a) {
+  const walk = (rules) => rules?.some(r => r.effects && Object.keys(r.effects).some(k => k !== 'eventMix' || (r.effects[k] && r.effects[k] !== 'off')))
   return walk(a.rules) || a.phases?.some(p => walk(p.rules))
 }
 
-const emptyNumeric = activities.activities.filter(a => !hasNumericRules(a) && !(a.features?.length))
+const qualitativeOnly = activities.activities.filter(a => !hasNumericEffects(a))
 
 const errors = []
 for (const a of activities.activities) {
@@ -54,7 +54,8 @@ const report = {
   activityEntries: activities.activities.length,
   missingFromActivities: missing.length,
   notInArchive: extra.map(a => a.id),
-  onlyQualitative: emptyNumeric.length,
+  numericEffects: activities.activities.length - qualitativeOnly.length,
+  onlyQualitative: qualitativeOnly.length,
   byYear,
   gaps: gapsJson.length,
   validationErrors: errors,

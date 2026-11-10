@@ -7,7 +7,8 @@ const act = JSON.parse(await fs.readFile(path.join(root, 'src/data/activities.js
 const baseline = '17eaae1308a3f06193200c7deda3b4105aa71c24'
 const curated = new Set(['good-sleep-day-40', 'halloween-2026', 'meal-prep-vol1-2026', 'new-moon-day-19', 'all-you-can-eat-vol1-2026'])
 
-const hasNum = (a) => {
+// 与用户核对一致：rules/phases 内存在除 eventMix=off 外的数值化 effects
+const hasNumericEffects = (a) => {
   const walk = (rs) => rs?.some((r) => Object.keys(r.effects || {}).some((k) => k !== 'eventMix' || (r.effects.eventMix && r.effects.eventMix !== 'off')))
   return walk(a.rules) || (a.phases ?? []).some((p) => walk(p.rules))
 }
@@ -22,8 +23,8 @@ for (const e of act.activities) {
 }
 
 const notInArchive = act.activities.filter((a) => !arch.events.some((e) => e.id === a.id)).map((a) => a.id)
-const onlyQualitative = act.activities.filter((a) => !hasNum(a)).length
-const withNum = act.activities.filter(hasNum).length
+const withNum = act.activities.filter(hasNumericEffects).length
+const onlyQualitative = act.activities.length - withNum
 
 let md = `# Pokémon Sleep 历年活动加成补全说明
 
