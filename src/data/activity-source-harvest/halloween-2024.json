@@ -1,0 +1,23 @@
+{
+  "id": "halloween-2024",
+  "source": "https://web.archive.org/web/20241230050121/https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/",
+  "fetchedFrom": "https://web.archive.org/web/20241230050121/https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/",
+  "httpStatus": 200,
+  "textLength": 5473,
+  "textSample": "Event: Halloween 2024 — Double Candy Research Pokémon Sleep Official Webpage 5 captures 21 Oct 2024 - 30 Dec 2024 Nov DEC Jan 30 2023 2024 2025 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20241230050121/https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/ Home News Sleep Tracking Pokémon Extra Content Devices Frequently Asked Questions English English DOWNLOAD FOLLOW US New Events 2024/10/18 Event: Halloween 2024 — Double Candy Research Outline Trick or treat! This week-long event is a special time when Ghost-type Pokémon are more likely to appear! During this event, you may even meet a Pikachu wearing a Halloween hat . You can get fun rewards—such as Handy Candy S —from limited-time missions . You can also get at least 2 times the usual number of candies from sleep research. Try getting lots of candies during this event! And during this event only, Gengar , Drifblim , and Skeledirge can appear on Greengrass Isle ! There will also be other bonuses. We hope you’re looking forward to this event! Event Period: • Monday, October 28, at 4:00 a.m. to Monday, November 4, 3:59 a.m. Event Area: • Greengrass Isle Mission Period: • Monday, October 28, at 4:00 a.m. to Monday, November 4, 3:59 a.m. Bonuses Note: The following effects will trigger in the applicable areas during this event. — All Days (10/28 to 11/3) — • Certain Pokémon will be more likely to appear during sleep research. • Each time a Ghost-type helper Pokémon brings you ingredients during regular helping, it will have one extra . • The chance of a Ghost-type helper Pokémon’s main skill being triggered will be multiplied by 1.5 . • Main skill levels of Ghost-type helper Pokémon will be boosted by 1 . • The Snorlax in the event area will have Bluk Berries (Ghost type) set as one of its favorite Berries. The other two kinds of Berries are chosen at random. • Many Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day. — Halloween (10/31) and the Last Day of the Event (11/3) — • Researchers will gain 3 times the usual number of candies for the first sleep research of the day. — Other Days (10/28 to 10/30 and 11/1 to 11/2) — • Researchers will gain 2 times the usual number of candies for the first sleep research of the day. Pokémon That Are Easier to Encounter during the Event The following Pokémon are more likely to appear during this event! Much Greater Appearance Rate Pikachu (Halloween) and Mimikyu. Greater Appearance Rate Gastly, Haunter, Gengar, Shuppet, Banette, Drifloon, Drifblim, and Skeledirge. About Pikachu (Halloween) To commemorate Halloween 2024 — Double Candy Research, Pikachu (Halloween) will be appearing with a new purple hat ! This is a great opportunity to use Pikachu (Halloween) Incense—which you can get as a reward for completing limited-time missions—to research this Pikachu’s sleep styles! Note: It’s also possible during sleep research to encounter a different version of Pikachu (Halloween) that appeared during the previous Halloween event. Notes • [Important] Each day of the Halloween 2024 — Double Candy Research event rolls over at 4:00 a.m. • Event bonuses apply only in the event area. • The event’s candy bonus does not apply to the second sleep session of the day. • Event bonuses apply only to sleep data tracked during the event. • If you wait to report sleep data tracked before the event began and select “Review Later” during the event, event bonuses will not be applied. • If you wait to report sleep data tracked during the event and select “Review Later” after the event has ended, event bonuses will be applied. • Event bonuses do not apply to sleep tracking during the tutorial. • Pikachu wearing Halloween hats will stop appearing during regular sleep research after the event has ended, but one will appear if you use Pikachu (Halloween) Incense. They may also appear in another event sometime. • Pikachu wearing Hall",
+  "multiplierHits": [
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

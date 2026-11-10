@@ -1,7 +1,5589 @@
 {
   "schemaVersion": 2,
-  "version": "2026-11-04-v2",
+  "modelVersion": 2,
+  "version": "2026-11-10-historical-backfill",
+  "requiredCapabilities": [
+    "numeric-effects",
+    "ingredient-effects",
+    "conditional-recipes",
+    "scoped-rules",
+    "phases",
+    "feature-status"
+  ],
   "activities": [
+    {
+      "id": "good-sleep-day-1",
+      "name": "第1次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/2485/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2023-08-30",
+      "endsOn": "2023-09-02",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/2485/"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2023-08-30",
+          "endsOn": "2023-08-31",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-08-31",
+          "endsOn": "2023-09-01",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-09-01",
+          "endsOn": "2023-09-02",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/2485/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-2",
+      "name": "第2次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/2686/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2023-09-28",
+      "endsOn": "2023-10-01",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/2686/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2023-09-28",
+          "endsOn": "2023-09-29",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-09-29",
+          "endsOn": "2023-09-30",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-09-30",
+          "endsOn": "2023-10-01",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/2686/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-3",
+      "name": "第3次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/2742/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2023-10-28",
+      "endsOn": "2023-10-31",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/2742/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2023-10-28",
+          "endsOn": "2023-10-29",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-10-29",
+          "endsOn": "2023-10-30",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-10-30",
+          "endsOn": "2023-10-31",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/2742/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "halloween-2023",
+      "name": "万圣节2023：糖果倍增研究",
+      "source": "https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2023-10-30",
+      "endsOn": "2023-11-06",
+      "rules": [
+        {
+          "target": {
+            "islands": [
+              "greengrass"
+            ]
+          },
+          "effects": {
+            "eventMix": "some"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2023-10-30",
+          "endsOn": "2023-11-06",
+          "rules": [
+            {
+              "target": {
+                "islands": [
+                  "greengrass"
+                ]
+              },
+              "effects": {
+                "researchCandyMultiplier": 2
+              },
+              "firstResearchOnly": true
+            }
+          ]
+        }
+      ],
+      "favoriteBerries": {
+        "greengrass": "墨莓果",
+        "greenex": "墨莓果"
+      }
+    },
+    {
+      "id": "eevee-week-2023",
+      "name": "伊布周2023",
+      "source": "https://www.pokemonsleep.net/en/news/3637333530393337393131343237303733/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2023-11-20",
+      "endsOn": "2023-11-27",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "pokemonNames": [
+              "伊布"
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/3637333530393337393131343237303733/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Eevee_Week",
+          "note": "伊布线大型UP=9 为项目 event-parameters 模拟权重"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-4",
+      "name": "第4次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/4076/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2023-11-26",
+      "endsOn": "2023-11-29",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/4076/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2023-11-26",
+          "endsOn": "2023-11-27",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-11-27",
+          "endsOn": "2023-11-28",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 4,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-11-28",
+          "endsOn": "2023-11-29",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/4076/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "holiday-2023",
+      "name": "佳节2023：梦之碎片倍增研究",
+      "source": "https://www.pokemonsleep.net/en/news/3736313136353239363434353638353737/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2023-12-18",
+      "endsOn": "2023-12-25",
+      "rules": [
+        {
+          "target": {
+            "islands": [
+              "greengrass"
+            ]
+          },
+          "effects": {
+            "eventMix": "some",
+            "dreamShardsMultiplier": 2
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass"
+            ],
+            "types": [
+              "冰"
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 6
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/3736313136353239363434353638353737/"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "官方定性描述；无数值倍率。",
+          "source": "https://www.pokemonsleep.net/en/news/3736313136353239363434353638353737/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-5",
+      "name": "第5次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/4413/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2023-12-26",
+      "endsOn": "2023-12-29",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/4413/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2023-12-26",
+          "endsOn": "2023-12-27",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-12-27",
+          "endsOn": "2023-12-28",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2.5,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2023-12-28",
+          "endsOn": "2023-12-29",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/4413/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "new-year-2024",
+      "name": "新年2024",
+      "source": "https://www.pokemonsleep.net/en/news/3831353531373238333532313635383839/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-01-01",
+      "endsOn": "2024-01-08",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/3831353531373238333532313635383839/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-6",
+      "name": "第6次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/4508/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-01-25",
+      "endsOn": "2024-01-28",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/4508/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-01-25",
+          "endsOn": "2024-01-26",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-01-26",
+          "endsOn": "2024-01-27",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-01-27",
+          "endsOn": "2024-01-28",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/4508/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lapis-lakeside-opening",
+      "name": "宝蓝湖畔登场活动",
+      "source": "https://www.pokemonsleep.net/en/news/3932303039353430313639343938363235/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-01-29",
+      "endsOn": "2024-02-12",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/3932303039353430313639343938363235/"
+        }
+      ]
+    },
+    {
+      "id": "valentines-2024",
+      "name": "情人节2024",
+      "source": "https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-02-12",
+      "endsOn": "2024-02-19",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "官方定性描述；无数值倍率。",
+          "source": "https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-7",
+      "name": "第7次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/4912/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-02-23",
+      "endsOn": "2024-02-26",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/4912/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-02-23",
+          "endsOn": "2024-02-24",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-02-24",
+          "endsOn": "2024-02-25",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-02-25",
+          "endsOn": "2024-02-26",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/4912/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "electric-type-week",
+      "name": "电属性周",
+      "source": "https://www.pokemonsleep.net/en/news/313037313831343637353934393135383431/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-03-11",
+      "endsOn": "2024-03-18",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "types": [
+              "电"
+            ]
+          },
+          "effects": {
+            "skillRateMultiplier": 1.25,
+            "encounterWeightMultiplier": 6
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313037313831343637353934393135383431/"
+        }
+      ],
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      }
+    },
+    {
+      "id": "good-sleep-day-8",
+      "name": "第8次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/5177/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-03-24",
+      "endsOn": "2024-03-27",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/5177/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-03-24",
+          "endsOn": "2024-03-25",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-03-25",
+          "endsOn": "2024-03-26",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 4,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-03-26",
+          "endsOn": "2024-03-27",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/5177/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "raikou-research",
+      "name": "雷公研究",
+      "source": "https://www.pokemonsleep.net/en/news/313130323133313435363533343131383431/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-03-25",
+      "endsOn": "2024-04-08",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313130323133313435363533343131383431/"
+        }
+      ]
+    },
+    {
+      "id": "flower-festival-2024",
+      "name": "花朵嘉年华2024",
+      "source": "https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-04-22",
+      "endsOn": "2024-04-29",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "types": [
+              "草"
+            ]
+          },
+          "effects": {
+            "skillRateMultiplier": 1.5,
+            "encounterWeightMultiplier": 6
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-9",
+      "name": "第9次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/5467/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-04-23",
+      "endsOn": "2024-04-26",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/5467/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-04-23",
+          "endsOn": "2024-04-24",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-04-24",
+          "endsOn": "2024-04-25",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2.5,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-04-25",
+          "endsOn": "2024-04-26",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/5467/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fire-type-week",
+      "name": "火属性周",
+      "source": "https://www.pokemonsleep.net/en/news/313238333136353339363937383839323831/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-05-06",
+      "endsOn": "2024-05-13",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "types": [
+              "火"
+            ]
+          },
+          "effects": {
+            "skillRateMultiplier": 1.25,
+            "encounterWeightMultiplier": 6
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313238333136353339363937383839323831/"
+        }
+      ],
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      }
+    },
+    {
+      "id": "entei-research",
+      "name": "炎帝研究",
+      "source": "https://www.pokemonsleep.net/en/news/313237393438363933393335343839303235/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-05-20",
+      "endsOn": "2024-06-03",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313237393438363933393335343839303235/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-10",
+      "name": "第10次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/5832/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-05-22",
+      "endsOn": "2024-05-25",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/5832/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-05-22",
+          "endsOn": "2024-05-23",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-05-23",
+          "endsOn": "2024-05-24",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-05-24",
+          "endsOn": "2024-05-25",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/5832/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "summer-festival-2024",
+      "name": "夏日嘉年华2024",
+      "source": "https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-06-17",
+      "endsOn": "2024-06-24",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ],
+            "types": [
+              "电"
+            ]
+          },
+          "effects": {
+            "skillRateMultiplier": 1.5,
+            "encounterWeightMultiplier": 6
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-11",
+      "name": "第11次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/313433343234323030393533303336383031/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-06-21",
+      "endsOn": "2024-06-24",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313433343234323030393533303336383031/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-06-21",
+          "endsOn": "2024-06-22",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-06-22",
+          "endsOn": "2024-06-23",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-06-23",
+          "endsOn": "2024-06-24",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/313433343234323030393533303336383031/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "growth-week-1",
+      "name": "宝可梦快快长大周",
+      "source": "https://www.pokemonsleep.net/en/news/313438343933333836333938303430303635/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-07-01",
+      "endsOn": "2024-07-08",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313438343933333836333938303430303635/"
+        }
+      ],
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      }
+    },
+    {
+      "id": "first-anniversary-lead-up",
+      "name": "1周年抢先庆礼物周",
+      "source": "https://www.pokemonsleep.net/en/news/313532323430313838323937333134333035/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-07-08",
+      "endsOn": "2024-07-15",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313532323430313838323937333134333035/"
+        }
+      ]
+    },
+    {
+      "id": "first-anniversary-fest",
+      "name": "1周年纪念嘉年华",
+      "source": "https://www.pokemonsleep.net/news/313533363332323730343932363331303431/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-07-15",
+      "endsOn": "2024-07-29",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/news/313533363332323730343932363331303431/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-12",
+      "name": "第12次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/313532323239393532333239303839303235/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-07-20",
+      "endsOn": "2024-07-23",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313532323239393532333239303839303235/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-07-20",
+          "endsOn": "2024-07-21",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-07-21",
+          "endsOn": "2024-07-22",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-07-22",
+          "endsOn": "2024-07-23",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/313532323239393532333239303839303235/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "growth-week-2",
+      "name": "宝可梦快快长大周vol.2",
+      "source": "https://www.serebii.net/pokemonsleep/events/pokemongrowthweekno.2.shtml",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-08-05",
+      "endsOn": "2024-08-12",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.serebii.net/pokemonsleep/events/pokemongrowthweekno.2.shtml"
+        }
+      ],
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      }
+    },
+    {
+      "id": "good-sleep-day-13",
+      "name": "第13次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/313634383536373939343931353232353631/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-08-19",
+      "endsOn": "2024-08-22",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313634383536373939343931353232353631/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-08-19",
+          "endsOn": "2024-08-20",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-08-20",
+          "endsOn": "2024-08-21",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 3,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-08-21",
+          "endsOn": "2024-08-22",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/313634383536373939343931353232353631/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "water-type-week",
+      "name": "水属性周",
+      "source": "https://www.pokemonsleep.net/en/news/313634393031393533323333343835383235/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-08-19",
+      "endsOn": "2024-08-26",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex",
+              "cyan",
+              "canyon",
+              "taupe",
+              "cyanex"
+            ],
+            "types": [
+              "水"
+            ]
+          },
+          "effects": {
+            "skillRateMultiplier": 1.25,
+            "encounterWeightMultiplier": 6
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313634393031393533323333343835383235/"
+        }
+      ],
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      }
+    },
+    {
+      "id": "suicune-research",
+      "name": "水君研究",
+      "source": "https://www.pokemonsleep.net/en/news/313636333538303136313334373432303137/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-09-02",
+      "endsOn": "2024-09-16",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313636333538303136313334373432303137/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-14",
+      "name": "第14次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-09-17",
+      "endsOn": "2024-09-20",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-09-17",
+          "endsOn": "2024-09-18",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-09-18",
+          "endsOn": "2024-09-19",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2.5,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-09-19",
+          "endsOn": "2024-09-20",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "unsupported",
+          "domains": [
+            "research"
+          ],
+          "description": "该期好眠日尚无此机制公告。",
+          "source": "https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sleep-style-discovery-week-1",
+      "name": "发现宝可梦睡姿周",
+      "source": "https://www.pokemonsleep.net/en/news/313737383435343734303531343839373933/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-09-23",
+      "endsOn": "2024-09-30",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313737383435343734303531343839373933/"
+        }
+      ]
+    },
+    {
+      "id": "old-gold-power-plant-debut",
+      "name": "黄金旧发电厂登场活动",
+      "source": "https://www.pokemonsleep.net/en/news/313832393933333030323432383235323137/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-10-07",
+      "endsOn": "2024-10-21",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313832393933333030323432383235323137/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-15",
+      "name": "第15次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/313836333231393335393937353939373435/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-10-16",
+      "endsOn": "2024-10-19",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313836333231393335393937353939373435/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-10-16",
+          "endsOn": "2024-10-17",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-10-17",
+          "endsOn": "2024-10-18",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-10-18",
+          "endsOn": "2024-10-19",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/en/news/313836333231393335393937353939373435/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "halloween-2024",
+      "name": "万圣节2024：糖果倍增研究",
+      "source": "https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-10-28",
+      "endsOn": "2024-11-04",
+      "rules": [
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex"
+            ]
+          },
+          "effects": {
+            "eventMix": "some"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-10-28",
+          "endsOn": "2024-11-04",
+          "rules": [
+            {
+              "target": {
+                "islands": [
+                  "greengrass",
+                  "greenex"
+                ]
+              },
+              "effects": {
+                "researchCandyMultiplier": 2
+              },
+              "firstResearchOnly": true
+            }
+          ]
+        }
+      ],
+      "favoriteBerries": {
+        "greengrass": "墨莓果",
+        "greenex": "墨莓果"
+      }
+    },
+    {
+      "id": "good-sleep-day-16",
+      "name": "第16次好眠日",
+      "source": "https://www.pokemonsleep.net/en/news/313936303934333338353333343235313533/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-11-15",
+      "endsOn": "2024-11-18",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313936303934333338353333343235313533/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-11-15",
+          "endsOn": "2024-11-16",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-11-16",
+          "endsOn": "2024-11-17",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-11-17",
+          "endsOn": "2024-11-18",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/en/news/313936303934333338353333343235313533/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eevee-week-2024",
+      "name": "伊布周2024",
+      "source": "https://www.pokemonsleep.net/en/news/313936383432303133383535383432333035/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-11-18",
+      "endsOn": "2024-11-25",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "greenex",
+              "cyan",
+              "canyon",
+              "taupe",
+              "cyanex"
+            ],
+            "pokemonNames": [
+              "伊布"
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/313936383432303133383535383432333035/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Eevee_Week",
+          "note": "伊布线大型UP=9 为项目 event-parameters 模拟权重"
+        }
+      ]
+    },
+    {
+      "id": "announcement-323035383532343335393838363131303733",
+      "name": "寶可夢快快長大週vol.3",
+      "source": "https://www.pokemonsleep.net/zh/news/323035383532343335393838363131303733/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-12-09",
+      "endsOn": "2024-12-16",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323035383532343335393838363131303733/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-17",
+      "name": "第17次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/323036393530373739303739303938333639/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2024-12-14",
+      "endsOn": "2024-12-17",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323036393530373739303739303938333639/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2024-12-14",
+          "endsOn": "2024-12-15",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-12-15",
+          "endsOn": "2024-12-16",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2024-12-16",
+          "endsOn": "2024-12-17",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/323036393530373739303739303938333639/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323039303336363938383838313735363137",
+      "name": "佳節2024：夢之碎片倍增研究",
+      "source": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-12-23",
+      "endsOn": "2024-12-30",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/"
+        }
+      ]
+    },
+    {
+      "id": "announcement-323135353933333136383332353039393533",
+      "name": "新年2025",
+      "source": "https://www.pokemonsleep.net/zh/news/323135353933333136383332353039393533/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2024-12-30",
+      "endsOn": "2025-01-13",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323135353933333136383332353039393533/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-18",
+      "name": "第18次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/323135353636373237383339323139373133/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-01-13",
+      "endsOn": "2025-01-16",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323135353636373237383339323139373133/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-01-13",
+          "endsOn": "2025-01-14",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-01-14",
+          "endsOn": "2025-01-15",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 3,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-01-15",
+          "endsOn": "2025-01-16",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/323135353636373237383339323139373133/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323233353831383735313439343731373435",
+      "name": "強化發動！技能週",
+      "source": "https://www.pokemonsleep.net/zh/news/323233353831383735313439343731373435/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-01-20",
+      "endsOn": "2025-01-27",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323233353831383735313439343731373435/"
+        }
+      ]
+    },
+    {
+      "id": "announcement-323239343339343138373233373239343039",
+      "name": "情人節2025",
+      "source": "https://www.pokemonsleep.net/zh/news/323239343339343138373233373239343039/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-02-10",
+      "endsOn": "2025-02-17",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323239343339343138373233373239343039/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-19",
+      "name": "第19次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/323238323134373036343333363837353533/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-02-11",
+      "endsOn": "2025-02-14",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323238323134373036343333363837353533/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-02-11",
+          "endsOn": "2025-02-12",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-02-12",
+          "endsOn": "2025-02-13",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2.5,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-02-13",
+          "endsOn": "2025-02-14",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/323238323134373036343333363837353533/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323335393339313032393239373135323031",
+      "name": "寶可夢快快長大週vol.4",
+      "source": "https://www.pokemonsleep.net/zh/news/323335393339313032393239373135323031/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-02-24",
+      "endsOn": "2025-03-03",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323335393339313032393239373135323031/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-20",
+      "name": "第20次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/323431373238353233313338343938353631/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-03-13",
+      "endsOn": "2025-03-16",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323431373238353233313338343938353631/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-03-13",
+          "endsOn": "2025-03-14",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-03-14",
+          "endsOn": "2025-03-15",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-03-15",
+          "endsOn": "2025-03-16",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/323431373238353233313338343938353631/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323430393532383930303939373631313533",
+      "name": "超能力屬性週",
+      "source": "https://www.pokemonsleep.net/zh/news/323430393532383930303939373631313533/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-03-17",
+      "endsOn": "2025-03-24",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323430393532383930303939373631313533/"
+        }
+      ]
+    },
+    {
+      "id": "announcement-323436343635363930323437313032343635",
+      "name": "克雷色利亞VS達克萊伊",
+      "source": "https://www.pokemonsleep.net/zh/news/323436343635363930323437313032343635/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-03-31",
+      "endsOn": "2025-04-14",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323436343635363930323437313032343635/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-21",
+      "name": "第21次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/323439363438353030313531363831303235/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-04-12",
+      "endsOn": "2025-04-15",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323439363438353030313531363831303235/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-04-12",
+          "endsOn": "2025-04-13",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-04-13",
+          "endsOn": "2025-04-14",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-04-14",
+          "endsOn": "2025-04-15",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/323439363438353030313531363831303235/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323536353039393833363832373233383431",
+      "name": "夢之碎片增量週vol.1",
+      "source": "https://www.pokemonsleep.net/zh/news/323536353039393833363832373233383431/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-04-21",
+      "endsOn": "2025-04-28",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323536353039393833363832373233383431/"
+        }
+      ]
+    },
+    {
+      "id": "announcement-323539313133313932323830353535353231",
+      "name": "春日嘉年華2025",
+      "source": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-05-05",
+      "endsOn": "2025-05-12",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-22",
+      "name": "第22次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/323631393938353937373730333133373239/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-05-12",
+      "endsOn": "2025-05-15",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323631393938353937373730333133373239/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-05-12",
+          "endsOn": "2025-05-13",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-05-13",
+          "endsOn": "2025-05-14",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 3,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-05-14",
+          "endsOn": "2025-05-15",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/323631393938353937373730333133373239/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323632303234393634313235373533333435",
+      "name": "寶可夢快快長大週vol.5",
+      "source": "https://www.pokemonsleep.net/zh/news/323632303234393634313235373533333435/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-05-19",
+      "endsOn": "2025-05-26",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323632303234393634313235373533333435/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-1",
+      "name": "第1次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-05-26",
+      "endsOn": "2025-05-29",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323731383335323433303637393938323039",
+      "name": "分量加大！料理週vol.1",
+      "source": "https://www.pokemonsleep.net/zh/news/323731383335323433303637393938323039/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-06-09",
+      "endsOn": "2025-06-16",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323731383335323433303637393938323039/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-23",
+      "name": "第23次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/323732343936353239323038353038343137/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-06-10",
+      "endsOn": "2025-06-13",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323732343936353239323038353038343137/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-06-10",
+          "endsOn": "2025-06-11",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-06-11",
+          "endsOn": "2025-06-12",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2.5,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-06-12",
+          "endsOn": "2025-06-13",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/323732343936353239323038353038343137/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323736383532313034303633303930363839",
+      "name": "夏日嘉年華2025",
+      "source": "https://www.pokemonsleep.net/zh/news/323736383532313034303633303930363839/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-06-23",
+      "endsOn": "2025-06-30",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323736383532313034303633303930363839/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-2",
+      "name": "第2次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-06-24",
+      "endsOn": "2025-06-27",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323834313039333536333138383531303733",
+      "name": "2週年搶先慶企畫",
+      "source": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-07-07",
+      "endsOn": "2025-07-14",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-24",
+      "name": "第24次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/323832363937363035333837393131313639/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-07-10",
+      "endsOn": "2025-07-13",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323832363937363035333837393131313639/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-07-10",
+          "endsOn": "2025-07-11",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-07-11",
+          "endsOn": "2025-07-12",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-07-12",
+          "endsOn": "2025-07-13",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/323832363937363035333837393131313639/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323836353834353335313337363438363431",
+      "name": "2週年紀念嘉年華",
+      "source": "https://www.pokemonsleep.net/zh/news/323836353834353335313337363438363431/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-07-14",
+      "endsOn": "2025-07-28",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323836353834353335313337363438363431/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-3",
+      "name": "第3次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-07-24",
+      "endsOn": "2025-07-27",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-25",
+      "name": "第25次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/323932383430323030363239393131353533/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-08-08",
+      "endsOn": "2025-08-11",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323932383430323030363239393131353533/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-08-08",
+          "endsOn": "2025-08-09",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-08-09",
+          "endsOn": "2025-08-10",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-08-10",
+          "endsOn": "2025-08-11",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/323932383430323030363239393131353533/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323934363038393532313033303130333035",
+      "name": "強化發動！技能週vol.2",
+      "source": "https://www.pokemonsleep.net/zh/news/323934363038393532313033303130333035/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-08-11",
+      "endsOn": "2025-08-18",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323934363038393532313033303130333035/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-4",
+      "name": "第4次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-08-22",
+      "endsOn": "2025-08-25",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-323938313634313238333131313438353435",
+      "name": "3屬性週",
+      "source": "https://www.pokemonsleep.net/zh/news/323938313634313238333131313438353435/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-08-25",
+      "endsOn": "2025-09-01",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323938313634313238333131313438353435/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-26",
+      "name": "第26次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333035343134343536363035363731343235/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-09-07",
+      "endsOn": "2025-09-10",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333035343134343536363035363731343235/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-09-07",
+          "endsOn": "2025-09-08",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-09-08",
+          "endsOn": "2025-09-09",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 4,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-09-09",
+          "endsOn": "2025-09-10",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333035343134343536363035363731343235/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333032323532323137353634333937353639",
+      "name": "雷公＆炎帝＆水君研究",
+      "source": "https://www.pokemonsleep.net/zh/news/333032323532323137353634333937353639/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-09-08",
+      "endsOn": "2025-09-22",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333032323532323137353634333937353639/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-5",
+      "name": "第5次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-09-21",
+      "endsOn": "2025-09-24",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333130353935313939363135313037303733",
+      "name": "果實纍纍！樹果週vol.1",
+      "source": "https://www.pokemonsleep.net/zh/news/333130353935313939363135313037303733/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-09-29",
+      "endsOn": "2025-10-06",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333130353935313939363135313037303733/"
+        }
+      ]
+    },
+    {
+      "id": "announcement-333133313133383732343835353830383031",
+      "name": "發現寶可夢睡姿週vol.2",
+      "source": "https://www.pokemonsleep.net/zh/news/333133313133383732343835353830383031/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-10-06",
+      "endsOn": "2025-10-13",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333133313133383732343835353830383031/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-27",
+      "name": "第27次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-10-06",
+      "endsOn": "2025-10-09",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-10-06",
+          "endsOn": "2025-10-07",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-10-07",
+          "endsOn": "2025-10-08",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 3,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-10-08",
+          "endsOn": "2025-10-09",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-6",
+      "name": "第6次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-10-20",
+      "endsOn": "2025-10-23",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333234393733393633373438383335333239",
+      "name": "萬聖節2025：糖果倍增研究",
+      "source": "https://www.pokemonsleep.net/zh/news/333234393733393633373438383335333239/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-10-27",
+      "endsOn": "2025-11-03",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333234393733393633373438383335333239/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-28",
+      "name": "第28次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333235373639333130363332393335343235/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-11-04",
+      "endsOn": "2025-11-07",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333235373639333130363332393335343235/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-11-04",
+          "endsOn": "2025-11-05",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-11-05",
+          "endsOn": "2025-11-06",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2.5,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-11-06",
+          "endsOn": "2025-11-07",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333235373639333130363332393335343235/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333237353138353233343831393135333933",
+      "name": "琥褐溪谷登場企畫",
+      "source": "https://www.pokemonsleep.net/zh/news/333237353138353233343831393135333933/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-11-10",
+      "endsOn": "2025-11-24",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333237353138353233343831393135333933/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-7",
+      "name": "第7次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-11-19",
+      "endsOn": "2025-11-22",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333335323431333932313634393632333035",
+      "name": "分量加大！料理週vol.2",
+      "source": "https://www.pokemonsleep.net/zh/news/333335323431333932313634393632333035/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-12-01",
+      "endsOn": "2025-12-08",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333335323431333932313634393632333035/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-29",
+      "name": "第29次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333335353539393939383236363930303439/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2025-12-04",
+      "endsOn": "2025-12-07",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333335353539393939383236363930303439/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2025-12-04",
+          "endsOn": "2025-12-05",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-12-05",
+          "endsOn": "2025-12-06",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2025-12-06",
+          "endsOn": "2025-12-07",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333335353539393939383236363930303439/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-8",
+      "name": "第8次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-12-19",
+      "endsOn": "2025-12-22",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333432383533383734343936383331343930",
+      "name": "佳節2025：夢之碎片倍增研究",
+      "source": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-12-22",
+      "endsOn": "2025-12-29",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/"
+        }
+      ]
+    },
+    {
+      "id": "announcement-333435333139353737393034373432343032",
+      "name": "新年2026",
+      "source": "https://www.pokemonsleep.net/zh/news/333435333139353737393034373432343032/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2025-12-29",
+      "endsOn": "2026-01-12",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333435333139353737393034373432343032/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-30",
+      "name": "第30次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333436303435323233303634383239393538/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-01-02",
+      "endsOn": "2026-01-05",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333436303435323233303634383239393538/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-01-02",
+          "endsOn": "2026-01-03",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-01-03",
+          "endsOn": "2026-01-04",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-01-04",
+          "endsOn": "2026-01-05",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333436303435323233303634383239393538/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-9",
+      "name": "第9次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-01-18",
+      "endsOn": "2026-01-21",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333532393033333230353235383634393631",
+      "name": "強化發動！技能週vol.3",
+      "source": "https://www.pokemonsleep.net/zh/news/333532393033333230353235383634393631/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-01-19",
+      "endsOn": "2026-01-26",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333532393033333230353235383634393631/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-31",
+      "name": "第31次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333538363838343831393630303031353431/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-02-01",
+      "endsOn": "2026-02-04",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333538363838343831393630303031353431/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-02-01",
+          "endsOn": "2026-02-02",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-02-02",
+          "endsOn": "2026-02-03",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 4,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-02-03",
+          "endsOn": "2026-02-04",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333538363838343831393630303031353431/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333630353432383839393136323335373832",
+      "name": "情人節2026",
+      "source": "https://www.pokemonsleep.net/zh/news/333630353432383839393136323335373832/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-02-09",
+      "endsOn": "2026-02-16",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333630353432383839393136323335373832/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-10",
+      "name": "第10次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-02-16",
+      "endsOn": "2026-02-19",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333731343130383939323833343736343931",
+      "name": "梦幻的奇迹快照任务",
+      "source": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-02-27",
+      "endsOn": "2026-03-30",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/"
+        }
+      ]
+    },
+    {
+      "id": "announcement-333731343130383939323833343736343831",
+      "name": "Pokémon Day紀念企畫vol.1",
+      "source": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343831/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-03-02",
+      "endsOn": "2026-03-09",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343831/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-32",
+      "name": "第32次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333639323434363634393032393735343935/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-03-02",
+      "endsOn": "2026-03-05",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333639323434363634393032393735343935/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-03-02",
+          "endsOn": "2026-03-03",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-03-03",
+          "endsOn": "2026-03-04",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 3,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-03-04",
+          "endsOn": "2026-03-05",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333639323434363634393032393735343935/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333733313838393931373938373338393435",
+      "name": "夢之碎片增量週vol.2",
+      "source": "https://www.pokemonsleep.net/zh/news/333733313838393931373938373338393435/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-03-16",
+      "endsOn": "2026-03-23",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333733313838393931373938373338393435/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-11",
+      "name": "第11次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-03-18",
+      "endsOn": "2026-03-21",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333736343238363738393233343139363534",
+      "name": "寶可夢機率提升週（技能）vol.1",
+      "source": "https://www.pokemonsleep.net/zh/news/333736343238363738393233343139363534/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-03-23",
+      "endsOn": "2026-03-30",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333736343238363738393233343139363534/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-33",
+      "name": "第33次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333739303632383739313632323034313634/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-04-01",
+      "endsOn": "2026-04-04",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333739303632383739313632323034313634/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-04-01",
+          "endsOn": "2026-04-02",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-04-02",
+          "endsOn": "2026-04-03",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-04-03",
+          "endsOn": "2026-04-04",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333739303632383739313632323034313634/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333738363536323735393239343937363031",
+      "name": "拉帝亞斯研究",
+      "source": "https://www.pokemonsleep.net/zh/news/333738363536323735393239343937363031/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-04-06",
+      "endsOn": "2026-04-20",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333738363536323735393239343937363031/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-12",
+      "name": "第12次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-04-16",
+      "endsOn": "2026-04-19",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333838303837343130373734323435333737",
+      "name": "春日嘉年華2026",
+      "source": "https://www.pokemonsleep.net/zh/news/333838303837343130373734323435333737/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-04-27",
+      "endsOn": "2026-05-04",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333838303837343130373734323435333737/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-34",
+      "name": "第34次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333839323033323330393030333535303734/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-05-01",
+      "endsOn": "2026-05-04",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333839323033323330393030333535303734/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-05-01",
+          "endsOn": "2026-05-02",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-05-02",
+          "endsOn": "2026-05-03",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-05-03",
+          "endsOn": "2026-05-04",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333839323033323330393030333535303734/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333933313532393833363139303736313030",
+      "name": "果實纍纍！樹果週vol.2",
+      "source": "https://www.pokemonsleep.net/zh/news/333933313532393833363139303736313030/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-05-11",
+      "endsOn": "2026-05-18",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333933313532393833363139303736313030/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-13",
+      "name": "第13次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-05-16",
+      "endsOn": "2026-05-19",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-333938393539333531343033393035303236",
+      "name": "寶可夢機率提升週（龍屬性）vol.1",
+      "source": "https://www.pokemonsleep.net/zh/news/333938393539333531343033393035303236/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-05-25",
+      "endsOn": "2026-06-01",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333938393539333531343033393035303236/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-35",
+      "name": "第35次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/333939363533323738373432323136373130/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-05-30",
+      "endsOn": "2026-06-02",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333939363533323738373432323136373130/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-05-30",
+          "endsOn": "2026-05-31",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-05-31",
+          "endsOn": "2026-06-01",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-06-01",
+          "endsOn": "2026-06-02",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/333939363533323738373432323136373130/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-343031343632313536343838333433353533",
+      "name": "拉帝歐斯與心之水滴",
+      "source": "https://www.pokemonsleep.net/zh/news/343031343632313536343838333433353533/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-06-08",
+      "endsOn": "2026-06-22",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343031343632313536343838333433353533/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-14",
+      "name": "第14次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-06-14",
+      "endsOn": "2026-06-17",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-36",
+      "name": "第36次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/343131363336303133303639323338323736/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-06-29",
+      "endsOn": "2026-07-02",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343131363336303133303639323338323736/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-06-29",
+          "endsOn": "2026-06-30",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-06-30",
+          "endsOn": "2026-07-01",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 3,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-07-01",
+          "endsOn": "2026-07-02",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/343131363336303133303639323338323736/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-343136333639393638323834363936353833",
+      "name": "3週年搶先慶企畫",
+      "source": "https://www.pokemonsleep.net/zh/news/343136333639393638323834363936353833/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-07-06",
+      "endsOn": "2026-07-13",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343136333639393638323834363936353833/"
+        }
+      ]
+    },
+    {
+      "id": "announcement-343138383632323539383937333638353830",
+      "name": "3週年紀念嘉年華",
+      "source": "https://www.pokemonsleep.net/zh/news/343138383632323539383937333638353830/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-07-13",
+      "endsOn": "2026-07-27",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343138383632323539383937333638353830/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-15",
+      "name": "第15次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-07-13",
+      "endsOn": "2026-07-16",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-37",
+      "name": "第37次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/343231333938343932383932363236393530/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-07-28",
+      "endsOn": "2026-07-31",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343231333938343932383932363236393530/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-07-28",
+          "endsOn": "2026-07-29",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-07-29",
+          "endsOn": "2026-07-30",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2.5,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-07-30",
+          "endsOn": "2026-07-31",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/343231333938343932383932363236393530/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-343233393938313932373939393733333835",
+      "name": "夏日嘉年華2026",
+      "source": "https://www.pokemonsleep.net/zh/news/343233393938313932373939393733333835/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-08-10",
+      "endsOn": "2026-08-17",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343233393938313932373939393733333835/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-16",
+      "name": "第16次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-08-12",
+      "endsOn": "2026-08-15",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-343238373030393436303937323432313138",
+      "name": "寶可夢動畫合作週",
+      "source": "https://www.pokemonsleep.net/zh/news/343238373030393436303937323432313138/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-08-17",
+      "endsOn": "2026-08-24",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343238373030393436303937323432313138/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-38",
+      "name": "第38次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/343239303435333138323139323032353638/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-08-27",
+      "endsOn": "2026-08-30",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343239303435333138323139323032353638/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-08-27",
+          "endsOn": "2026-08-28",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-08-28",
+          "endsOn": "2026-08-29",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-08-29",
+          "endsOn": "2026-08-30",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/343239303435333138323139323032353638/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-343239373432303836333334343437363238",
+      "name": "奇跡快照任務（迷你）",
+      "source": "https://www.pokemonsleep.net/zh/news/343239373432303836333334343437363238/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-08-31",
+      "endsOn": "2026-09-07",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343239373432303836333334343437363238/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-17",
+      "name": "第17次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-09-10",
+      "endsOn": "2026-09-13",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-343239383235333132353739313235323439",
+      "name": "秘境研究！追尋超夢吧",
+      "source": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-09-14",
+      "endsOn": "2026-09-28",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-39",
+      "name": "第39次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-09-26",
+      "endsOn": "2026-09-29",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "皮皮家族提升为社区整理，无官方数值"
+        }
+      ],
+      "phases": [
+        {
+          "startsOn": "2026-09-26",
+          "endsOn": "2026-09-27",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-09-27",
+          "endsOn": "2026-09-28",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 2,
+                "sleepExpMultiplier": 3
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-09-28",
+          "endsOn": "2026-09-29",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            }
+          ]
+        }
+      ],
+      "features": [
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "好眠日第15回起，官方表示更容易抽选未发现睡姿。",
+          "source": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/"
+        },
+        {
+          "id": "moon-pokemon-up",
+          "name": "皮皮家族出现率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "第2回起皮皮家族出现率提升；具体权重见 Wiki/RAE，非官方倍率。",
+          "source": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "parameters": {
+            "pokemonIds": [
+              173,
+              35,
+              36
+            ],
+            "encounterTier": "wiki-reported-up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-343430323735323935393936343737343435",
+      "name": "分量加大！料理週vol.3",
+      "source": "https://www.pokemonsleep.net/zh/news/343430323735323935393936343737343435/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-10-05",
+      "endsOn": "2026-10-12",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323735323935393936343737343435/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-18",
+      "name": "第18次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-10-10",
+      "endsOn": "2026-10-13",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/"
+        },
+        {
+          "kind": "rae",
+          "url": "https://github.com/RaenonX-PokemonSleep/SleepAPI",
+          "note": "模拟基础率 shinyNewMoon=0.015 见 src/data/event-parameters.json"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/New_Moon_Day",
+          "note": "机制说明"
+        }
+      ],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "更容易遇见异色",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日活动期间异色遇见概率提升；下方 rate 为项目 event-parameters.json 的模拟口径（非官方公布概率）。",
+          "source": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/",
+          "parameters": {
+            "rate": 0.015
+          }
+        }
+      ]
+    },
+    {
+      "id": "announcement-343430333034343435353738383035323530",
+      "name": "寶可夢快快長大週vol.6",
+      "source": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-10-12",
+      "endsOn": "2026-10-19",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/"
+        }
+      ]
+    },
     {
       "id": "good-sleep-day-40",
       "name": "第40次好眠日",
@@ -16,7 +5598,9 @@
           "id": "undiscovered-sleep-styles",
           "name": "未发现睡姿出现概率提升",
           "status": "informational",
-          "domains": ["research"],
+          "domains": [
+            "research"
+          ],
           "description": "好眠日期间，睡姿抽选默认优先未发现睡姿。",
           "source": "https://www.pokemonsleep.net/zh/news/343532363635313734343730343236363331/"
         },
@@ -72,6 +5656,22 @@
               }
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "announcement-343433383634343334323138313036383834",
+      "name": "萬聖節2026：糖果倍增研究",
+      "source": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-10-26",
+      "endsOn": "2026-11-02",
+      "rules": [],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/"
         }
       ]
     },
@@ -606,6 +6206,63 @@
         "greengrass": "墨莓果",
         "greenex": "墨莓果"
       }
+    },
+    {
+      "id": "new-moon-day-19",
+      "name": "第19次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-11-08",
+      "endsOn": "2026-11-11",
+      "rules": [],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "闪光出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日三天，项目使用 1.5% 作为每只宝可梦的模拟估计。",
+          "parameters": {
+            "rate": 0.015
+          },
+          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/"
+        },
+        {
+          "id": "special-encounter",
+          "name": "新月日特别出没",
+          "status": "requires-input",
+          "domains": [
+            "research"
+          ],
+          "description": "首次研究的特别出没概率及随未遇见次数变化的数值还未公布，暂无法给出包含该效果的完整遭遇结果。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+          "parameters": {
+            "pokemon": "达克莱伊",
+            "simulationDescription": "达克莱伊可能在每日首次研究特别出现。睡姿模拟仅抽选普通睡姿，达克莱伊不参与抽选。",
+            "firstResearchOnly": true,
+            "extraEncounterSlots": 1,
+            "researchRewardReductionStartsAt": 12,
+            "probability": null
+          }
+        },
+        {
+          "id": "snack-bonuses",
+          "name": "点心时间奖励",
+          "status": "informational",
+          "domains": [
+            "capture"
+          ],
+          "description": "每日首次点心时间不容易吃饱；遇见特别提升宝可梦时友情点数+3。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+          "parameters": {
+            "firstSnackOnly": true,
+            "friendshipPoints": 3
+          }
+        }
+      ]
     },
     {
       "id": "meal-prep-vol1-2026",
@@ -1642,59 +7299,6 @@
       ]
     },
     {
-      "id": "new-moon-day-19",
-      "name": "第19次新月日",
-      "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
-      "priority": 20,
-      "stacking": "max",
-      "startsOn": "2026-11-08",
-      "endsOn": "2026-11-11",
-      "rules": [],
-      "features": [
-        {
-          "id": "shiny-boost",
-          "name": "闪光出现概率提升",
-          "status": "informational",
-          "domains": ["research"],
-          "description": "新月日三天，项目使用 1.5% 作为每只宝可梦的模拟估计。",
-          "parameters": { "rate": 0.015 },
-          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/"
-        },
-        {
-          "id": "special-encounter",
-          "name": "新月日特别出没",
-          "status": "requires-input",
-          "domains": [
-            "research"
-          ],
-          "description": "首次研究的特别出没概率及随未遇见次数变化的数值还未公布，暂无法给出包含该效果的完整遭遇结果。",
-          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
-          "parameters": {
-            "pokemon": "达克莱伊",
-            "simulationDescription": "达克莱伊可能在每日首次研究特别出现。睡姿模拟仅抽选普通睡姿，达克莱伊不参与抽选。",
-            "firstResearchOnly": true,
-            "extraEncounterSlots": 1,
-            "researchRewardReductionStartsAt": 12,
-            "probability": null
-          }
-        },
-        {
-          "id": "snack-bonuses",
-          "name": "点心时间奖励",
-          "status": "informational",
-          "domains": [
-            "capture"
-          ],
-          "description": "每日首次点心时间不容易吃饱；遇见特别提升宝可梦时友情点数+3。",
-          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
-          "parameters": {
-            "firstSnackOnly": true,
-            "friendshipPoints": 3
-          }
-        }
-      ]
-    },
-    {
       "id": "all-you-can-eat-vol1-2026",
       "name": "来什么都吃光光！大餐周vol.1",
       "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
@@ -1776,14 +7380,5 @@
         }
       ]
     }
-  ],
-  "modelVersion": 2,
-  "requiredCapabilities": [
-    "numeric-effects",
-    "ingredient-effects",
-    "conditional-recipes",
-    "scoped-rules",
-    "phases",
-    "feature-status"
   ]
 }

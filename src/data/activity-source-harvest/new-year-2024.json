@@ -1,0 +1,35 @@
+{
+  "id": "new-year-2024",
+  "source": "https://web.archive.org/web/20250322032707/https://www.pokemonsleep.net/en/news/3831353531373238333532313635383839/",
+  "fetchedFrom": "https://web.archive.org/web/20250322032707/https://www.pokemonsleep.net/en/news/3831353531373238333532313635383839/",
+  "httpStatus": 200,
+  "textLength": 5247,
+  "textSample": "Event Notice: New Year 2024 Pokémon Sleep Official Webpage 2 captures 20 Jul 2024 - 22 Mar 2025 Feb MAR Apr 22 2024 2025 2026 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20250322032707/https://www.pokemonsleep.net/en/news/3831353531373238333532313635383839/ Home News Sleep Tracking Pokémon Extra Content Devices Frequently Asked Questions English English DOWNLOAD FOLLOW US New Special Campaigns 12/22/2023 2023/12/22 --> Event Notice: New Year 2024 In all areas, the New Year 2024 event begins at 4:00 a.m. on Monday, January 1! New Year 2024 is a week-long event to celebrate the beginning of the new year. During the event, you can get 1.5 times the usual Sleep EXP. Also, if you track your sleep every day during the event, you can get a total of 2,024 bonus sleep points . You’ll be able to meet Pokémon of different sleep types regardless of your own, and some Pokémon such as Bulbasaur, Charmander, and Squirtle will be more likely to appear . It’s easy to let our sleep become inconsistent at this time of year, but we hope you and your helper Pokémon can start off your year with good sleep consistency! We hope you’re looking forward to the event! Day 1: Monday, January 1 at 4:00 a.m. to Tuesday, January 2 at 3:59 a.m. Day 2: Tuesday, January 2 at 4:00 a.m. to Wednesday, January 3 at 3:59 a.m. Day 3: Wednesday, January 3 at 4:00 a.m. to Thursday, January 4 at 3:59 a.m. Day 4: Thursday, January 4 at 4:00 a.m. to Friday, January 5 at 3:59 a.m. Day 5: Friday, January 5 at 4:00 a.m. to Saturday, January 6 at 3:59 a.m. Day 6: Saturday, January 6 at 4:00 a.m. to Sunday, January 7 at 3:59 a.m. Day 7: Sunday, January 7 at 4:00 a.m. to Monday, January 8 at 3:59 a.m. How to Progress in the Event Participating in the event is easy! Simply tap the “Sleep” button before going to sleep during the event period to track your sleep. A variety of event-related effects will be triggered during your research. Note: Event bonuses can be triggered in any area for this event. Bonuses — New Year’s Day and Last Day of the Event — • Pokémon Sleep EXP ×1.5 • Bonus sleep points +512 • Many Pokémon of different sleep types will appear regardless of the researcher’s sleep type for that day • Certain Pokémon will be more likely to appear during sleep research — Other Days (1/2-6) — • Pokémon Sleep EXP ×1.5 • Bonus sleep points +200 • Many Pokémon of different sleep types will appear regardless of the researcher’s sleep type for that day • Certain Pokémon will be more likely to appear during sleep research Pokémon that are easier to encounter during the event During the event period, the following Pokémon are more likely to appear! Greater Appearance Rate Bulbasaur, Charmander, Squirtle, Pikachu, Snover, Abomasnow Note: The greater appearance rate for these Pokémon applies only to the separate areas where each Pokémon appears. Greengrass Isle: Bulbasaur, Charmander, Squirtle, Pikachu Cyan Beach: Squirtle, Pikachu Taupe Hollow: Charmander Snowdrop Tundra: Snover, Abomasnow Notes about New Year 2024 • [Important] Each day of the New Year event rolls over at 4:00 a.m. • Event bonuses apply only to sleep tracking that begins within the event period. • If you wait to report sleep data tracked before the event begins, and select “Review Later” during the event, event bonuses will not be applied. • If you wait to report sleep data tracked during the event, and select “Review Later” after the event has ended, event bonuses will be applied. • You can only receive bonus sleep points once per day. You will not receive bonus sleep points for the second sleep session in a day. • Event bonuses do not apply to sleep tracking during the tutorial. • Event bonuses will be triggered regardless of which site you conduct your sleep research in. English English DOWNLOAD Title Pokémon Sleep Platforms iOS/Android MSRP Free to play* *Features in-app purchases SHARE Official Pokémon Website Terms of Use Privacy Notice Cookie Page The Pokémon ",
+  "multiplierHits": [
+    {
+      "raw": "Pokémon Sleep EXP ×1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "Pokémon Sleep EXP ×1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "Sleep EXP ×1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "Sleep EXP ×1.5",
+      "value": 1.5
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

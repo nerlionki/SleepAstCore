@@ -1,0 +1,31 @@
+{
+  "id": "valentines-2024",
+  "source": "https://web.archive.org/web/20250707200346/https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/",
+  "fetchedFrom": "https://web.archive.org/web/20250707200346/https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/",
+  "httpStatus": 200,
+  "textLength": 5960,
+  "textSample": "Event: Valentine’s Day 2024 Pokémon Sleep Official Webpage 5 captures 16 Jun 2024 - 07 Jul 2025 Jun JUL Aug 07 2024 2025 2026 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20250707200346/https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/ Home News Sleep Tracking Pokémon Extra Content Devices Frequently Asked Questions English English DOWNLOAD FOLLOW US New Special Campaigns 2/2/2024 2024/2/2 --> Event: Valentine’s Day 2024 In all areas, the Valentine’s Day 2024 event lasts from 4:00 a.m. on Monday, February 12 ! Valentine’s Day 2024 is a week-long event during which Snorlax’s requested dishes will be set to “Desserts/Drinks,” and the final Strength value for dishes will be multiplied by 1.5 . Note: The multiplier for Extra Tasty dishes will be different depending on the day. On Sunday, Extra Tasty dishes will give 4.5 times as much Strength , and on the other days, it will give 3 times as much . Also, you’ll be able to meet Pokémon of various sleep types regardless of your own. In particular, Bulbasaur, Jigglypuff, Slowpoke, Pinsir, Chikorita, and Absol —all Pokémon that gather ingredients perfect for Valentine’s Day—will be more likely to appear . You may even meet a Shiny Bulbasaur, Jigglypuff, Slowpoke, Pinsir, Chikorita, or Absol! Through limited-time missions during the event, you can get great rewards such as 10 Poké Biscuits . And to commemorate this event, two new Dessert/Drink recipes will be added! Try various combinations of ingredients to discover these new recipes! We hope you’re looking forward to it! Event period Day 1: Monday, February 12 at 4:00 a.m. to Tuesday, February 13 at 3:59 a.m. Day 2: Tuesday, February 13 at 4:00 a.m. to Wednesday, February 14 at 3:59 a.m. Day 3: Wednesday, February 14 at 4:00 a.m. to Thursday, February 15 at 3:59 a.m. Day 4: Thursday, February 15 at 4:00 a.m. to Friday, February 16 at 3:59 a.m. Day 5: Friday, February 16 at 4:00 a.m. to Saturday, February 17 at 3:59 a.m. Day 6: Saturday, February 17 at 4:00 a.m. to Sunday, February 18 at 3:59 a.m. Day 7: Sunday, February 18 at 4:00 a.m. to Monday, February 19 at 3:59 a.m. How to Progress in the Event Participating in the event is easy! Simply press the “Sleep” button before going to sleep during the event period to track your sleep. A variety of event-related effects will be triggered during your sleep research. Note: Event bonuses can be triggered in any area during this event. Bonuses — Last Day of the Event (2/18) — • Dishes will be set to “Desserts/Drinks” • Final Strength gains from dishes will be multiplied by 1.5 (or 4.5 for Extra Tasty dishes) • A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day • Certain Pokémon will be more likely to appear during sleep research • You may meet certain Shiny Pokémon — Other Days (2/12—2/17) — • Dishes will be set to “Desserts/Drinks” • Final Strength gains from dishes will be multiplied by 1.5 (or 3 for Extra Tasty dishes) • A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day • Certain Pokémon will be more likely to appear during sleep research • You may meet certain Shiny Pokémon Pokémon that are easier to encounter during the event During the event, the following Pokémon are more likely to appear! Greater Appearance Rate Bulbasaur, Jigglypuff, Slowpoke, Pinsir, Chikorita, Absol Note: The greater appearance rate for these Pokémon applies only to the separate areas where each Pokémon appears. Greengrass Isle: Bulbasaur, Jigglypuff, Slowpoke, Pinsir, Chikorita, Absol Cyan Beach: Jigglypuff, Slowpoke, Pinsir, Chikorita Taupe Hollow: Jigglypuff Snowdrop Tundra: Jigglypuff, Slowpoke, Absol Lapis Lakeside: Bulbasaur, Jigglypuff, Slowpoke, Chikorita Notes about Valentine’s Day 2024 • [Important] Each day of the Valentine’s Day 2024 event rolls over at 4:00 a.m. • Event bonuses ap",
+  "multiplierHits": [
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

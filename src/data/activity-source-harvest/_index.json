@@ -1,0 +1,1007 @@
+{
+  "harvestedOn": "2026-11-10",
+  "events": 125,
+  "failures": 0,
+  "entries": [
+    {
+      "id": "good-sleep-day-1",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2969,
+      "multiplierCount": 8,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-2",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3188,
+      "multiplierCount": 8,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-3",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3403,
+      "multiplierCount": 9,
+      "shinyMention": false
+    },
+    {
+      "id": "halloween-2023",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 5906,
+      "multiplierCount": 1,
+      "shinyMention": false
+    },
+    {
+      "id": "eevee-week-2023",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 5797,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-4",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4114,
+      "multiplierCount": 10,
+      "shinyMention": false
+    },
+    {
+      "id": "holiday-2023",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 6549,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-5",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3794,
+      "multiplierCount": 10,
+      "shinyMention": false
+    },
+    {
+      "id": "new-year-2024",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 5247,
+      "multiplierCount": 4,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-6",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3769,
+      "multiplierCount": 10,
+      "shinyMention": false
+    },
+    {
+      "id": "lapis-lakeside-opening",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3979,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "valentines-2024",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 5960,
+      "multiplierCount": 3,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-7",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3789,
+      "multiplierCount": 10,
+      "shinyMention": false
+    },
+    {
+      "id": "electric-type-week",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 5218,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-8",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3910,
+      "multiplierCount": 10,
+      "shinyMention": false
+    },
+    {
+      "id": "raikou-research",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 8888,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "flower-festival-2024",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 5722,
+      "multiplierCount": 3,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-9",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3911,
+      "multiplierCount": 10,
+      "shinyMention": false
+    },
+    {
+      "id": "fire-type-week",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 6058,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "entei-research",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1993,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-10",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3668,
+      "multiplierCount": 10,
+      "shinyMention": false
+    },
+    {
+      "id": "summer-festival-2024",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 7120,
+      "multiplierCount": 1,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-11",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3672,
+      "multiplierCount": 8,
+      "shinyMention": false
+    },
+    {
+      "id": "growth-week-1",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3304,
+      "multiplierCount": 3,
+      "shinyMention": false
+    },
+    {
+      "id": "first-anniversary-lead-up",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3065,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "first-anniversary-fest",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1115,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-12",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3672,
+      "multiplierCount": 8,
+      "shinyMention": false
+    },
+    {
+      "id": "growth-week-2",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 10823,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-13",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3849,
+      "multiplierCount": 8,
+      "shinyMention": false
+    },
+    {
+      "id": "water-type-week",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 5389,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "suicune-research",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 10673,
+      "multiplierCount": 1,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-14",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4218,
+      "multiplierCount": 8,
+      "shinyMention": false
+    },
+    {
+      "id": "sleep-style-discovery-week-1",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3492,
+      "multiplierCount": 1,
+      "shinyMention": false
+    },
+    {
+      "id": "old-gold-power-plant-debut",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4616,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-15",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 5013,
+      "multiplierCount": 8,
+      "shinyMention": false
+    },
+    {
+      "id": "halloween-2024",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 5473,
+      "multiplierCount": 1,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-16",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4803,
+      "multiplierCount": 8,
+      "shinyMention": false
+    },
+    {
+      "id": "eevee-week-2024",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4260,
+      "multiplierCount": 1,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323035383532343335393838363131303733",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1251,
+      "multiplierCount": 5,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-17",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1724,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323039303336363938383838313735363137",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2940,
+      "multiplierCount": 9,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-323135353933333136383332353039393533",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3836,
+      "multiplierCount": 8,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-18",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1749,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323233353831383735313439343731373435",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2271,
+      "multiplierCount": 3,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323239343339343138373233373239343039",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1683,
+      "multiplierCount": 4,
+      "shinyMention": true
+    },
+    {
+      "id": "good-sleep-day-19",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1724,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323335393339313032393239373135323031",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1269,
+      "multiplierCount": 5,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-20",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1720,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323430393532383930303939373631313533",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1955,
+      "multiplierCount": 2,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323436343635363930323437313032343635",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4346,
+      "multiplierCount": 2,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-21",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1731,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323536353039393833363832373233383431",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1695,
+      "multiplierCount": 6,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323539313133313932323830353535353231",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1762,
+      "multiplierCount": 4,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-22",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1730,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323632303234393634313235373533333435",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1276,
+      "multiplierCount": 5,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-1",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1761,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-323731383335323433303637393938323039",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2293,
+      "multiplierCount": 9,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-23",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1732,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323736383532313034303633303930363839",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2275,
+      "multiplierCount": 3,
+      "shinyMention": true
+    },
+    {
+      "id": "new-moon-day-2",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1607,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-323834313039333536333138383531303733",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1604,
+      "multiplierCount": 3,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-24",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1732,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323836353834353335313337363438363431",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3071,
+      "multiplierCount": 11,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-3",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1601,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "good-sleep-day-25",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1729,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-323934363038393532313033303130333035",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2551,
+      "multiplierCount": 3,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-4",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1597,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-323938313634313238333131313438353435",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2641,
+      "multiplierCount": 2,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-26",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1735,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-333032323532323137353634333937353639",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4443,
+      "multiplierCount": 5,
+      "shinyMention": true
+    },
+    {
+      "id": "new-moon-day-5",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1601,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333130353935313939363135313037303733",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2384,
+      "multiplierCount": 3,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-333133313133383732343835353830383031",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1710,
+      "multiplierCount": 5,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-27",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1827,
+      "multiplierCount": 12,
+      "shinyMention": true
+    },
+    {
+      "id": "new-moon-day-6",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1735,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333234393733393633373438383335333239",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2555,
+      "multiplierCount": 4,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-28",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1735,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-333237353138353233343831393135333933",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1694,
+      "multiplierCount": 0,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-7",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1644,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333335323431333932313634393632333035",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2457,
+      "multiplierCount": 10,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-29",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1739,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-8",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1787,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333432383533383734343936383331343930",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3436,
+      "multiplierCount": 9,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333435333139353737393034373432343032",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4271,
+      "multiplierCount": 7,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-30",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1730,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-9",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1801,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333532393033333230353235383634393631",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2536,
+      "multiplierCount": 3,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-31",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1732,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-333630353432383839393136323335373832",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1942,
+      "multiplierCount": 5,
+      "shinyMention": true
+    },
+    {
+      "id": "new-moon-day-10",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1803,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333731343130383939323833343736343931",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1649,
+      "multiplierCount": 2,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-333731343130383939323833343736343831",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2545,
+      "multiplierCount": 6,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-32",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1732,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-333733313838393931373938373338393435",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1650,
+      "multiplierCount": 6,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-11",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1801,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333736343238363738393233343139363534",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2621,
+      "multiplierCount": 2,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-33",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1732,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-333738363536323735393239343937363031",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4065,
+      "multiplierCount": 2,
+      "shinyMention": true
+    },
+    {
+      "id": "new-moon-day-12",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1991,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333838303837343130373734323435333737",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1859,
+      "multiplierCount": 4,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-34",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1730,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-333933313532393833363139303736313030",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2720,
+      "multiplierCount": 4,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-13",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1906,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-333938393539333531343033393035303236",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2160,
+      "multiplierCount": 2,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-35",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1732,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-343031343632313536343838333433353533",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4900,
+      "multiplierCount": 4,
+      "shinyMention": true
+    },
+    {
+      "id": "new-moon-day-14",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1951,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "good-sleep-day-36",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2759,
+      "multiplierCount": 24,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-343136333639393638323834363936353833",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1749,
+      "multiplierCount": 5,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-343138383632323539383937333638353830",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3775,
+      "multiplierCount": 14,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-15",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1890,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "good-sleep-day-37",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1731,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-343233393938313932373939393733333835",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2756,
+      "multiplierCount": 4,
+      "shinyMention": true
+    },
+    {
+      "id": "new-moon-day-16",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1890,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-343238373030393436303937323432313138",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2639,
+      "multiplierCount": 6,
+      "shinyMention": true
+    },
+    {
+      "id": "good-sleep-day-38",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1737,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-343239373432303836333334343437363238",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 3076,
+      "multiplierCount": 4,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-17",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1898,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-343239383235333132353739313235323439",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 4922,
+      "multiplierCount": 3,
+      "shinyMention": true
+    },
+    {
+      "id": "good-sleep-day-39",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1793,
+      "multiplierCount": 12,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-343430323735323935393936343737343435",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2513,
+      "multiplierCount": 10,
+      "shinyMention": false
+    },
+    {
+      "id": "new-moon-day-18",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1885,
+      "multiplierCount": 0,
+      "shinyMention": true
+    },
+    {
+      "id": "announcement-343430333034343435353738383035323530",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 1265,
+      "multiplierCount": 5,
+      "shinyMention": false
+    },
+    {
+      "id": "good-sleep-day-40",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2278,
+      "multiplierCount": 12,
+      "shinyMention": false
+    },
+    {
+      "id": "announcement-343433383634343334323138313036383834",
+      "httpStatus": 200,
+      "shellPage": false,
+      "textLength": 2502,
+      "multiplierCount": 4,
+      "shinyMention": false
+    }
+  ]
+}

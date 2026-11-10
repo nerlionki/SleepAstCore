@@ -1,0 +1,51 @@
+{
+  "id": "good-sleep-day-2",
+  "source": "https://web.archive.org/web/20230928031018/https://www.pokemonsleep.net/en/news/2686/",
+  "fetchedFrom": "https://web.archive.org/web/20230928031018/https://www.pokemonsleep.net/en/news/2686/",
+  "httpStatus": 200,
+  "textLength": 3188,
+  "textSample": "Happening Now: the Second Good Sleep Day Event Pokémon Sleep Official Webpage 2 captures 28 Sep 2023 - 01 Oct 2023 Aug SEP Oct 28 2022 2023 2024 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20230928031018/https://www.pokemonsleep.net/en/news/2686/ Home News Sleep Tracking Pokémon Extra Content Frequently Asked Questions English English DOWNLOAD FOLLOW US New Events 2023/9/25 Happening Now: the Second Good Sleep Day Event A Good Sleep Day event will begin at 4:00 a.m. on Thursday, September 28! Rest your very best on the night of a full moon! This event will be held once a month for a total of three days: on the day of the full moon and the days before and after it. During this time period, Drowsy Power will be multiplied by 1.5, and on the day of the full moon (September 29), it will be multiplied by 2. Let’s all try to get lots of sleep during the event and research loads of Pokémon sleep styles! Day 1: Thursday, September 28, at 4:00 a.m. to Friday, September 29, at 3:59 a.m.​ Day 2 (the night of the full moon): Friday, September 29, at 4:00 a.m. to Saturday, September 30, at 3:59 a.m.​ Day 3: Saturday, September 30, at 4:00 a.m. to Sunday, October 1, at 3:59 a.m. How to Progress in the Event Participating in the event is easy! Simply press the “Sleep” button before going to sleep during the event period to track your sleep. A variety of event-related effects will be triggered during your sleep research. — Night of the full moon (Sep 29) — Drowsy Power ×2 Pokémon Sleep EXP ×3 Bonus Sleep Points +1,000 — Other days (Sep 28, Sep 30) — Drowsy Power ×1.5 Pokémon Sleep EXP ×2 Bonus Sleep Points +500 Notes about Good Sleep Day • [Important] Each day of the Good Sleep Day event rolls over at 4:00 a.m. • Event bonuses apply only to sleep data tracked within the event period. • If you wait to report sleep data tracked before the event begins, and select “Review Later” during the event, event bonuses will not be applied. • If you wait to report sleep data tracked during the event, and select “Review Later” after the event has ended, event bonuses will be applied. • You can only receive bonus sleep points once per day. You will not receive bonus sleep points for the second sleep session in a day. • Event bonuses do not apply to sleep tracking during the tutorial. • Event bonuses will be triggered regardless of which site you conduct your sleep research in. English English DOWNLOAD Title Pokémon Sleep Platforms iOS/Android MSRP Free to play* *Features in-app purchases SHARE Official Pokémon Website Terms of Use Privacy Notice Cookie Page The Pokémon Company ©2023 Pokémon. ©1995-2023 Nintendo/Creatures Inc./GAME FREAK inc. Pokémon Sleep is developed by SELECT BUTTON inc. TM, ®, and character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC Pokémon Sleep is intended for entertainment purposes only and is not intended for use in detection, diagnosis, or treatment of any medical condition or disease.",
+  "multiplierHits": [
+    {
+      "raw": "Drowsy Power ×2",
+      "value": 2
+    },
+    {
+      "raw": "Drowsy Power ×1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "Pokémon Sleep EXP ×3",
+      "value": 3
+    },
+    {
+      "raw": "Pokémon Sleep EXP ×2",
+      "value": 2
+    },
+    {
+      "raw": "Sleep EXP ×3",
+      "value": 3
+    },
+    {
+      "raw": "Sleep EXP ×2",
+      "value": 2
+    },
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "multiplied by 2.",
+      "value": 2
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

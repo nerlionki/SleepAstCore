@@ -1,0 +1,51 @@
+{
+  "id": "good-sleep-day-14",
+  "source": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/",
+  "fetchedFrom": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/",
+  "httpStatus": 200,
+  "textLength": 4218,
+  "textSample": "Event: Good Sleep Day #14 Pokémon Sleep Official Webpage 3 captures 07 Sep 2024 - 17 Sep 2024 Aug SEP Oct 17 2023 2024 2025 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/ Home News Sleep Tracking Pokémon Extra Content Frequently Asked Questions English English DOWNLOAD FOLLOW US New Events 2024/9/6 Event: Good Sleep Day #14 September’s full moon is a harvest moon! A fateful encounter on a gorgeous moonlit night It’s been reported that once a year around the time of the harvest moon—on the night of the full moon and the nights before and after it—in addition to Drowsy Power becoming stronger, Shiny Clefairy, Clefable, and Cleffa are more likely to appear. They may even show themselves to you researchers! There will also be other bonuses, such as bonus sleep points and increased sleep EXP for Pokémon. Let’s try to get lots of good sleep during this time and research loads of Pokémon sleep styles! Event Period: • Tuesday, September 17, at 4:00 a.m. to Friday, September 20, at 3:59 a.m. Note: The day of the full moon is Wednesday, September 18. Event Areas: • All areas Bonuses The following bonuses will trigger when you conduct sleep research in applicable areas during the event. — Night of the Full Moon (September 18) — ・ Drowsy Power ×2.5 ・ Helper Pokémon Sleep EXP ×3 ・ Bonus Sleep Points +1,000 ・ You may meet certain Shiny Pokémon — Other Days (September 17 and 19) — ・ Drowsy Power ×1.5 ・ Helper Pokémon Sleep EXP ×2 ・ Bonus Sleep Points +500 ・ You may meet certain Shiny Pokémon Pokémon You Can Encounter in Each Area The following Pokémon are more likely to appear during this event! — Night of the Full Moon (September 18) — Much Greater Appearance Rate • Clefairy, Clefable, and Cleffa. — Other Days (September 17 and 19) Greater Appearance Rate • Clefairy, Clefable, and Cleffa. Note: These Pokémon will appear in all areas. Details Multipliers for Drowsy Power The multipliers for Drowsy Power on the night of a full moon during Good Sleep Day depend on the day of the week . The planned multipliers are as follows. ■ Drowsy Power Multipliers on the Night of a Full Moon Monday: ×4 Tuesday: ×3 Wednesday: ×2.5 Other days: ×2 Notes: Drowsy Power on the days before and after a full moon will always be multiplied by 1.5 regardless of the day of the week. The above multipliers dependent on the day of the week are subject to change. Notes about Good Sleep Day • [Important] Each day of the Good Sleep Day event rolls over at 4:00 a.m. • Event bonuses apply only to sleep data tracked during the event. • If you wait to report sleep data tracked before the event began and select “Review Later” during the event, event bonuses will not be applied. • If you wait to report sleep data tracked during the event and select “Review Later” after the event has ended, event bonuses will be applied. • You can only receive bonus sleep points once per day. You will not receive bonus sleep points for the second sleep session of the day. • Event bonuses do not apply to sleep tracking during the tutorial. • Event bonuses will trigger regardless of which site you conduct your sleep research in. • The effects of incense stack with Good Sleep Day effects. If you use Growth Incense on the night of the full moon, EXP gains will be multiplied by 6 (×3 from the full moon bonus and ×2 from the Growth Incense bonus). English English DOWNLOAD Title Pokémon Sleep Platforms iOS/Android MSRP Free to play* *Features in-app purchases SHARE Official Pokémon Website Terms of Use Privacy Notice Cookie Page The Pokémon Company ©2023 Pokémon. ©1995-2023 Nintendo/Creatures Inc./GAME FREAK inc. Pokémon Sleep is developed by SELECT BUTTON inc. TM, ®, and character names are trademarks of Nintendo. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google P",
+  "multiplierHits": [
+    {
+      "raw": "Drowsy Power ×2.5",
+      "value": 2.5
+    },
+    {
+      "raw": "Drowsy Power ×1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "Pokémon Sleep EXP ×3",
+      "value": 3
+    },
+    {
+      "raw": "Pokémon Sleep EXP ×2",
+      "value": 2
+    },
+    {
+      "raw": "Sleep EXP ×3",
+      "value": 3
+    },
+    {
+      "raw": "Sleep EXP ×2",
+      "value": 2
+    },
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "multiplied by 6",
+      "value": 6
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

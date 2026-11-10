@@ -1,0 +1,27 @@
+{
+  "id": "announcement-333731343130383939323833343736343931",
+  "source": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/",
+  "fetchedFrom": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/",
+  "httpStatus": 200,
+  "textLength": 1649,
+  "textSample": "【特別任務】夢幻的奇跡快照任務 《Pokémon Sleep》官方網站 Pokémon Sleep News Sleep Tracking Pokémon Contents Devices 常見問題 繁體中文 繁體中文 DOWNLOAD FOLLOW US NEW 活動 2026/2/27 2026/2/27 --> 【特別任務】夢幻的奇跡快照任務 有目擊報告指出在許多區域發現了幻之寶可夢「 夢幻 」的身影。 經過進一步調查後，發現是夢幻對正在睡覺的寶可夢們充滿興趣，而在寶可夢的附近來回飛行。 為此， 在研究寶可夢的睡姿時，或許有可能意外拍攝到夢幻的身影。 為了更加詳細地調查，快收集許多有夢幻入鏡的 奇跡快照 ，完成奇跡快照任務吧！ 概要 這1個月是可以進行夢幻的 奇跡快照任務 的特別期間。 舉辦期間，在研究寶可夢的睡姿時，有可能 意外拍攝到夢幻的身影 ，而奇跡快照任務會隨著有夢幻入鏡的照片數量而有所進展。 不僅如此，出現奇跡快照時，還會有各種獎勵生效。 此外，進行「 奇跡快照任務 」還可獲得報酬。 完成奇跡快照任務後，或許會發生特別的事？ 敬請期待！ 【任務期間】 ・舉辦中～ 3/30 (週一) 3:59 【活動營地】 ・所有營地 夢幻的奇跡快照 有夢幻入鏡的睡姿照片稱為「奇跡快照」。 ・睡眠研究時，1天至少可以收集到1張以上的奇跡快照。 ・睡意之力越高，越容易收集到奇跡快照。 注意事項 ・進行一併研究也能收集奇跡快照。 ・在當天第2次的睡眠研究後並無法收集奇跡快照。 ・新手教學中無法收集奇跡快照。 ・任務的報酬領取期限為 2026/4/2 3:59 止。 獎勵 舉辦期間，在活動營地會發生下列效果。 【所有日子】 ・在當天第1次的睡眠研究可以拍攝奇跡快照。 ・奇跡快照的 糖果獲得量變成平常的1.25倍 。 ・奇跡快照的 研究EXP變成平常的1.25倍 。 ・奇跡快照的 夢之碎片獲得量會比平常多1,000個 。 ※以上所有獎勵效果皆不適用於沒有夢幻入鏡的睡姿照片。 各項目詳情 注意事項 ・若將「任務開始前測量的睡眠資料」留到任務舉辦期間內進行「稍後再報告」，則無法讓奇跡快照任務有所進展。 ・若將「任務舉辦期間內測量的睡眠資料」留到任務報酬領取期間的 2026/4/2 3:59 前進行「稍後再報告」，則能讓奇跡快照任務有所進展，獲得任務報酬。 ・新手教學中的睡眠測量無法讓奇跡快照任務有所進展。 ・相同的獎勵在不同的活動、企畫中同時登場時，一般而言僅會適用倍率最大的獎勵。但唯有特別任務的獎勵效果會疊加變大。 繁體中文 繁體中文 DOWNLOAD 商品名稱 Pokémon Sleep 支援系統 iOS / Android 售價 本遊戲為免費遊玩 ※部分內容可付費購買 SHARE 寶可夢官方網站 FOLLOW US 應用程式版 使用條款 隱私權政策 網站版 使用條款 隱私權政策 關於Cookie 請注意遊戲時間，避免沉迷。 遊戲部分內容或服務需另行支付其他費用。 The Pokémon Company ©Pokémon/Nintendo/Creatures/GAME FREAK TM, ®, and character names are trademarks of Nintendo Apple, the Apple logo, Apple Watch, Apple Health, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android、Fitbit、Google Play、Google Health、Health Connect 以及相關標誌和標誌均為 Google LLC 的商標。 發行、銷售：The Pokémon Company",
+  "multiplierHits": [
+    {
+      "raw": "1.25倍",
+      "value": 1.25
+    },
+    {
+      "raw": "1.25倍",
+      "value": 1.25
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}
