@@ -24,6 +24,8 @@ export function validateEventBundles(value, archive = false) {
       && (item.pokemonItemId === undefined || item.itemId === undefined && typeof item.pokemonItemId === 'string'
         && /^(?:Candy|Incense)-[1-9]\d*$/.test(item.pokemonItemId))
       && (item.unmapped === undefined || item.unmapped === true && item.itemId === undefined && item.pokemonItemId === undefined)
+      && (item.pokemonSeedId === undefined || Number.isSafeInteger(item.pokemonSeedId) && item.pokemonSeedId > 0
+        && item.itemId === undefined && item.pokemonItemId === undefined && item.pokemonIncense === undefined)
       && (item.pokemonIncense === undefined || object(item.pokemonIncense) && item.itemId === undefined
         && Number.isSafeInteger(item.pokemonIncense.pokemonId) && item.pokemonIncense.pokemonId > 0
         && Number.isSafeInteger(item.pokemonIncense.typeId) && item.pokemonIncense.typeId >= 1 && item.pokemonIncense.typeId <= 18)))
@@ -74,7 +76,7 @@ function bundleValue(bundle, resolve) {
   let biscuitDiamonds = 0, totalDiamonds = 0
   const excluded = []
   for (const content of bundle.items) {
-    const item = content.unmapped ? undefined : resolve(content)
+    const item = content.unmapped || content.pokemonSeedId !== undefined ? undefined : resolve(content)
     if (item?.diamondPrice === undefined) { excluded.push(content.name); continue }
     if (!Number.isFinite(item.diamondPrice) || item.diamondPrice <= 0) throw Error('Invalid diamond unit price')
     const diamonds = item.diamondPrice * content.quantity
@@ -91,6 +93,7 @@ export function buildEventBundles(value, items, pairs = [], archive = false) {
   const resolve = indexBundleItems(items, pairs)
   for (const bundle of catalog.bundles) {
     bundle.items = bundle.items.map(({ unmapped: _, ...content }) => {
+      if (content.pokemonSeedId !== undefined) return content
       const item = resolve(content)
       if (!item) return { ...content, unmapped: true }
       if (typeof item.id === 'number') return { ...content, itemId: item.id }
@@ -121,6 +124,10 @@ export function validateBundleArtwork(catalog, pokedex, assets, items) {
     }
   }
   for (const bundle of catalog.bundles) for (const row of bundle.items) {
+    if (row.pokemonSeedId !== undefined && (!pokedex.some(poke => poke.id === row.pokemonSeedId)
+      || !assets['items/32.webp'] || !assets[`images/pokemon/icons/${row.pokemonSeedId}.webp`])) {
+      throw Error(`Invalid Pokémon main skill seed artwork: ${bundle.id} / ${row.name}`)
+    }
     if (!row.pokemonIncense) continue
     const { pokemonId, typeId } = row.pokemonIncense
     const pokemon = pokedex.find(poke => poke.id === pokemonId)

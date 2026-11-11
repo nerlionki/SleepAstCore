@@ -11440,7 +11440,8 @@
         },
         {
           "name": "Main Skill Seed (Hawlucha)",
-          "quantity": 1
+          "quantity": 1,
+          "pokemonSeedId": 701
         },
         {
           "name": "摔角鷹人的糖果",
@@ -11769,7 +11770,8 @@
         },
         {
           "name": "Main Skill Seed (Tinkatink)",
-          "quantity": 1
+          "quantity": 1,
+          "pokemonSeedId": 957
         },
         {
           "name": "小鍛匠的糖果",
@@ -12163,7 +12165,8 @@
         },
         {
           "name": "Main Skill Seed (Mewtwo)",
-          "quantity": 1
+          "quantity": 1,
+          "pokemonSeedId": 150
         },
         {
           "name": "超夢的糖果",
@@ -12498,7 +12501,8 @@
         },
         {
           "name": "Main Skill Seed (Foongus)",
-          "quantity": 1
+          "quantity": 1,
+          "pokemonSeedId": 590
         },
         {
           "name": "哎呀球菇的糖果",

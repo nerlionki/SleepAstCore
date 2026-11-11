@@ -165,7 +165,11 @@ export function validateActivityCatalog(value, data) {
     }
     for (const event of value.activities) {
         requireValid(object(event));
-        keys(event, ['id', 'name', 'source', 'priority', 'stacking', 'startsOn', 'endsOn', 'weekdays', 'rules', 'phases', 'spawns', 'miniCandyBoost', 'favoriteBerries', 'features', 'tutorialEligible']);
+        keys(event, ['id', 'name', 'source', 'sources', 'priority', 'stacking', 'startsOn', 'endsOn', 'weekdays', 'rules', 'phases', 'spawns', 'miniCandyBoost', 'favoriteBerries', 'features', 'tutorialEligible']);
+        if ('sources' in event)
+            requireValid(Array.isArray(event.sources) && event.sources.length > 0 && event.sources.every(source => object(source) && ['official', 'rae', 'wiki'].includes(String(source.kind))
+                && typeof source.url === 'string' && /^https:\/\/[^\s]+$/.test(source.url)
+                && (source.note === undefined || typeof source.note === 'string')));
         requireValid(typeof event.id === 'string' && event.id.length > 0 && !unique.has(event.id) && typeof event.name === 'string' && event.name.length > 0 && typeof event.source === 'string' && event.source.length > 0 && Number.isSafeInteger(event.priority) && (event.stacking == null || event.stacking === 'max'));
         if ('tutorialEligible' in event)
             requireValid(typeof event.tutorialEligible === 'boolean');

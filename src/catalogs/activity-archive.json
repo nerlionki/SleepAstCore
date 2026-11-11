@@ -14,7 +14,26 @@
       "announcedOn": null,
       "startsOn": "2023-08-30",
       "endsOn": "2023-09-02",
-      "source": "https://web.archive.org/web/20230825205903/https://www.pokemonsleep.net/en/news/2485/"
+      "source": "https://web.archive.org/web/20230825205903/https://www.pokemonsleep.net/en/news/2485/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "good-sleep-day-2",
@@ -22,7 +41,26 @@
       "announcedOn": null,
       "startsOn": "2023-09-28",
       "endsOn": "2023-10-01",
-      "source": "https://web.archive.org/web/20230928031018/https://www.pokemonsleep.net/en/news/2686/"
+      "source": "https://web.archive.org/web/20230928031018/https://www.pokemonsleep.net/en/news/2686/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "good-sleep-day-3",
@@ -30,7 +68,26 @@
       "announcedOn": null,
       "startsOn": "2023-10-28",
       "endsOn": "2023-10-31",
-      "source": "https://web.archive.org/web/20231029114024/https://www.pokemonsleep.net/en/news/2742/"
+      "source": "https://web.archive.org/web/20231029114024/https://www.pokemonsleep.net/en/news/2742/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "halloween-2023",
@@ -54,7 +111,26 @@
       "announcedOn": null,
       "startsOn": "2023-11-26",
       "endsOn": "2023-11-29",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4076/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4076/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：4倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "holiday-2023",
@@ -70,7 +146,26 @@
       "announcedOn": null,
       "startsOn": "2023-12-26",
       "endsOn": "2023-12-29",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4413/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4413/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2.5倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "new-year-2024",
@@ -86,7 +181,26 @@
       "announcedOn": null,
       "startsOn": "2024-01-25",
       "endsOn": "2024-01-28",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4508/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4508/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "lapis-lakeside-opening",
@@ -110,7 +224,26 @@
       "announcedOn": null,
       "startsOn": "2024-02-23",
       "endsOn": "2024-02-26",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4912/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4912/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "electric-type-week",
@@ -126,7 +259,26 @@
       "announcedOn": null,
       "startsOn": "2024-03-24",
       "endsOn": "2024-03-27",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5177/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5177/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：4倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "raikou-research",
@@ -150,7 +302,26 @@
       "announcedOn": null,
       "startsOn": "2024-04-23",
       "endsOn": "2024-04-26",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5467/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5467/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2.5倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "fire-type-week",
@@ -174,7 +345,26 @@
       "announcedOn": null,
       "startsOn": "2024-05-22",
       "endsOn": "2024-05-25",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5832/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5832/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "summer-festival-2024",
@@ -190,7 +380,26 @@
       "announcedOn": null,
       "startsOn": "2024-06-21",
       "endsOn": "2024-06-24",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313433343234323030393533303336383031/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313433343234323030393533303336383031/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "growth-week-1",
@@ -222,7 +431,26 @@
       "announcedOn": null,
       "startsOn": "2024-07-20",
       "endsOn": "2024-07-23",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313532323239393532333239303839303235/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313532323239393532333239303839303235/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "growth-week-2",
@@ -238,7 +466,26 @@
       "announcedOn": null,
       "startsOn": "2024-08-19",
       "endsOn": "2024-08-22",
-      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313634383536373939343931353232353631/"
+      "source": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313634383536373939343931353232353631/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：3倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "water-type-week",
@@ -262,7 +509,26 @@
       "announcedOn": null,
       "startsOn": "2024-09-17",
       "endsOn": "2024-09-20",
-      "source": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/"
+      "source": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/",
+      "bonusSections": [
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2.5倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "sleep-style-discovery-week-1",
@@ -286,7 +552,32 @@
       "announcedOn": null,
       "startsOn": "2024-10-16",
       "endsOn": "2024-10-19",
-      "source": "https://web.archive.org/web/20241127050226/https://www.pokemonsleep.net/en/news/313836333231393335393937353939373435/"
+      "source": "https://web.archive.org/web/20241127050226/https://www.pokemonsleep.net/en/news/313836333231393335393937353939373435/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "halloween-2024",
@@ -302,7 +593,32 @@
       "announcedOn": null,
       "startsOn": "2024-11-15",
       "endsOn": "2024-11-18",
-      "source": "https://web.archive.org/web/20241213080938/https://www.pokemonsleep.net/en/news/313936303934333338353333343235313533/"
+      "source": "https://web.archive.org/web/20241213080938/https://www.pokemonsleep.net/en/news/313936303934333338353333343235313533/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
     },
     {
       "id": "eevee-week-2024",
@@ -318,7 +634,17 @@
       "announcedOn": "2024-11-29",
       "startsOn": "2024-12-09",
       "endsOn": "2024-12-16",
-      "source": "https://www.pokemonsleep.net/zh/news/323035383532343335393838363131303733/"
+      "source": "https://www.pokemonsleep.net/zh/news/323035383532343335393838363131303733/",
+      "bonusSections": [
+        {
+          "title": "所有日子（12/9～12/15）",
+          "lines": [
+            "帮手宝可梦的睡眠EXP：1.5倍",
+            "当天第1次睡眠研究后的糖果获得量：1.5倍"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323035383532343335393838363131303733/"
     },
     {
       "id": "good-sleep-day-17",
@@ -334,7 +660,51 @@
       "announcedOn": "2024-12-10",
       "startsOn": "2024-12-23",
       "endsOn": "2024-12-30",
-      "source": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/"
+      "source": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/",
+      "bonusSections": [
+        {
+          "title": "所有日子（12/23～12/29）",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "主技能「梦之碎片获取S」的效果量变成2倍。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "可以使用期间限定的「糖果增强」。",
+            "活动营地的「这周的卡比兽喜欢的树果」中，必定会有1种树果是莓莓果（冰属性），另外2种树果会随机决定。",
+            "冰属性帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "冰属性帮手宝可梦的主技能发动概率会是1.5倍。",
+            "冰属性帮手宝可梦发动主技能时，主技能等级+1。",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        },
+        {
+          "title": "12/24",
+          "lines": [
+            "可以领取期间限定「美梦好礼」。",
+            "睡眠研究后的梦之碎片获得量变成2倍。"
+          ]
+        },
+        {
+          "title": "12/25",
+          "lines": [
+            "可以领取期间限定「美梦好礼」。",
+            "睡眠研究后的梦之碎片获得量变成3倍。",
+            "红利睡眠点数+1225点。"
+          ]
+        },
+        {
+          "title": "最后一天（12/29）",
+          "lines": [
+            "睡眠研究后的梦之碎片获得量变成3倍。"
+          ]
+        },
+        {
+          "title": "其他日子（12/23、12/26～12/28）",
+          "lines": [
+            "睡眠研究后的梦之碎片获得量变成2倍。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/"
     },
     {
       "id": "announcement-323135353933333136383332353039393533",
@@ -342,7 +712,46 @@
       "announcedOn": "2024-12-27",
       "startsOn": "2024-12-30",
       "endsOn": "2025-01-13",
-      "source": "https://www.pokemonsleep.net/zh/news/323135353933333136383332353039393533/"
+      "source": "https://www.pokemonsleep.net/zh/news/323135353933333136383332353039393533/",
+      "bonusSections": [
+        {
+          "title": "所有日子（12/30～1/12）",
+          "lines": [
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "可以使用期间限定的「活动兑换处」。"
+          ]
+        },
+        {
+          "title": "第1周（12/30～1/5）",
+          "lines": [
+            "第1次睡眠研究后的糖果获得量变成1.5倍。",
+            "帮手宝可梦的主技能发动概率会是1.25倍。",
+            "帮手宝可梦发动主技能时，主技能等级+1。"
+          ]
+        },
+        {
+          "title": "第2周（1/6～1/12）",
+          "lines": [
+            "睡眠研究后的梦之碎片获得量变成1.5倍。",
+            "料理的最终能量为1.25倍。（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍。）",
+            "可以使用期间限定的「古月鸟扭糖机」。"
+          ]
+        },
+        {
+          "title": "1/1",
+          "lines": [
+            "睡意之力3倍。"
+          ]
+        },
+        {
+          "title": "1/2～1/3",
+          "lines": [
+            "睡意之力1.5倍。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323135353933333136383332353039393533/"
     },
     {
       "id": "good-sleep-day-18",
@@ -350,7 +759,32 @@
       "announcedOn": "2025-01-03",
       "startsOn": "2025-01-13",
       "endsOn": "2025-01-16",
-      "source": "https://www.pokemonsleep.net/zh/news/323135353636373237383339323139373133/"
+      "source": "https://www.pokemonsleep.net/zh/news/323135353636373237383339323139373133/",
+      "bonusSections": [
+        {
+          "title": "所有日子（1/13～1/15）",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "满月之日（1/14）",
+          "lines": [
+            "睡意之力：3倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1000pt"
+          ]
+        },
+        {
+          "title": "其他日子（1/13、1/15）",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323135353636373237383339323139373133/"
     },
     {
       "id": "announcement-323233353831383735313439343731373435",
@@ -358,7 +792,20 @@
       "announcedOn": "2025-01-15",
       "startsOn": "2025-01-20",
       "endsOn": "2025-01-27",
-      "source": "https://www.pokemonsleep.net/zh/news/323233353831383735313439343731373435/"
+      "source": "https://www.pokemonsleep.net/zh/news/323233353831383735313439343731373435/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "专长为「技能」的帮手宝可梦的主技能发动概率会是1.5倍。",
+            "专长为「技能」的帮手宝可梦发动主技能时，主技能等级+3。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323233353831383735313439343731373435/"
     },
     {
       "id": "announcement-323239343339343138373233373239343039",
@@ -366,7 +813,20 @@
       "announcedOn": "2025-01-31",
       "startsOn": "2025-02-10",
       "endsOn": "2025-02-17",
-      "source": "https://www.pokemonsleep.net/zh/news/323239343339343138373233373239343039/"
+      "source": "https://www.pokemonsleep.net/zh/news/323239343339343138373233373239343039/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "料理必定会是「点心、饮料」。",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "幸运的话，还能遇见特定的异色宝可梦。",
+            "料理的最终能量为1.5倍。（漂亮成功时为3倍，在周日漂亮成功时为4.5倍。）"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323239343339343138373233373239343039/"
     },
     {
       "id": "good-sleep-day-19",
@@ -374,7 +834,32 @@
       "announcedOn": "2025-01-30",
       "startsOn": "2025-02-11",
       "endsOn": "2025-02-14",
-      "source": "https://www.pokemonsleep.net/zh/news/323238323134373036343333363837353533/"
+      "source": "https://www.pokemonsleep.net/zh/news/323238323134373036343333363837353533/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2.5倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323238323134373036343333363837353533/"
     },
     {
       "id": "announcement-323335393339313032393239373135323031",
@@ -382,7 +867,17 @@
       "announcedOn": "2025-02-19",
       "startsOn": "2025-02-24",
       "endsOn": "2025-03-03",
-      "source": "https://www.pokemonsleep.net/zh/news/323335393339313032393239373135323031/"
+      "source": "https://www.pokemonsleep.net/zh/news/323335393339313032393239373135323031/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "帮手宝可梦的睡眠EXP：1.5倍",
+            "当天第1次睡眠研究后的糖果获得量：1.5倍"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323335393339313032393239373135323031/"
     },
     {
       "id": "good-sleep-day-20",
@@ -390,7 +885,32 @@
       "announcedOn": "2025-03-08",
       "startsOn": "2025-03-13",
       "endsOn": "2025-03-16",
-      "source": "https://www.pokemonsleep.net/zh/news/323431373238353233313338343938353631/"
+      "source": "https://www.pokemonsleep.net/zh/news/323431373238353233313338343938353631/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323431373238353233313338343938353631/"
     },
     {
       "id": "announcement-323430393532383930303939373631313533",
@@ -398,7 +918,19 @@
       "announcedOn": "2025-03-07",
       "startsOn": "2025-03-17",
       "endsOn": "2025-03-24",
-      "source": "https://www.pokemonsleep.net/zh/news/323430393532383930303939373631313533/"
+      "source": "https://www.pokemonsleep.net/zh/news/323430393532383930303939373631313533/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，必定有1只宝可梦会处于「贪吃」状态。",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "可以使用期间限定的「迷你糖果增强」。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323430393532383930303939373631313533/"
     },
     {
       "id": "announcement-323436343635363930323437313032343635",
@@ -406,7 +938,37 @@
       "announcedOn": "2025-03-20",
       "startsOn": "2025-03-31",
       "endsOn": "2025-04-14",
-      "source": "https://www.pokemonsleep.net/zh/news/323436343635363930323437313032343635/"
+      "source": "https://www.pokemonsleep.net/zh/news/323436343635363930323437313032343635/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "可以累积期间限定的「活动睡意之力」，并根据活动级别领取报酬。",
+            "可以使用期间限定的「活动兑换处」。",
+            "可透过睡眠研究获得活动道具。（1天仅限1次）",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "超能力属性帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "超能力属性帮手宝可梦的主技能发动概率会是1.5倍。",
+            "活动营地的「这周的卡比兽喜欢的树果」中，必定会有1种树果是芒芒果（超能力属性），另外2种树果会随机决定。",
+            "若将克雷色利亚编组在队伍中一起睡觉，睡意之力会变成1.2倍。",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        },
+        {
+          "title": "第1周 (3/31～4/6)",
+          "lines": [
+            "超能力属性帮手宝可梦发动主技能时，主技能等级+1。"
+          ]
+        },
+        {
+          "title": "第2周 (4/7～4/13)",
+          "lines": [
+            "超能力属性帮手宝可梦发动主技能时，主技能等级+3。",
+            "会出现大只的卡比兽，可以从已累积一定能量的状况开始培育卡比兽。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323436343635363930323437313032343635/"
     },
     {
       "id": "good-sleep-day-21",
@@ -414,7 +976,32 @@
       "announcedOn": "2025-03-29",
       "startsOn": "2025-04-12",
       "endsOn": "2025-04-15",
-      "source": "https://www.pokemonsleep.net/zh/news/323439363438353030313531363831303235/"
+      "source": "https://www.pokemonsleep.net/zh/news/323439363438353030313531363831303235/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323439363438353030313531363831303235/"
     },
     {
       "id": "announcement-323536353039393833363832373233383431",
@@ -422,7 +1009,18 @@
       "announcedOn": "2025-04-16",
       "startsOn": "2025-04-21",
       "endsOn": "2025-04-28",
-      "source": "https://www.pokemonsleep.net/zh/news/323536353039393833363832373233383431/"
+      "source": "https://www.pokemonsleep.net/zh/news/323536353039393833363832373233383431/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "研究后获得的梦之碎片变成1.5倍。",
+            "主技能「梦之碎片获取S」的效果量变成1.5倍。",
+            "帮手宝可梦的主技能发动概率会是1.25倍。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323536353039393833363832373233383431/"
     },
     {
       "id": "announcement-323539313133313932323830353535353231",
@@ -430,7 +1028,20 @@
       "announcedOn": "2025-04-23",
       "startsOn": "2025-05-05",
       "endsOn": "2025-05-12",
-      "source": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/"
+      "source": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "料理的最终能量为 1.5倍 (漂亮成功时为3倍，在周日漂亮成功时为4.5倍）。",
+            "料理必定会是「沙拉」。",
+            "睡眠研究时，必定有1只宝可梦会处于「贪吃」状态。",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/"
     },
     {
       "id": "good-sleep-day-22",
@@ -438,7 +1049,32 @@
       "announcedOn": "2025-05-02",
       "startsOn": "2025-05-12",
       "endsOn": "2025-05-15",
-      "source": "https://www.pokemonsleep.net/zh/news/323631393938353937373730333133373239/"
+      "source": "https://www.pokemonsleep.net/zh/news/323631393938353937373730333133373239/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天(满月之日)",
+          "lines": [
+            "睡意之力：3倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323631393938353937373730333133373239/"
     },
     {
       "id": "announcement-323632303234393634313235373533333435",
@@ -446,7 +1082,17 @@
       "announcedOn": "2025-05-07",
       "startsOn": "2025-05-19",
       "endsOn": "2025-05-26",
-      "source": "https://www.pokemonsleep.net/zh/news/323632303234393634313235373533333435/"
+      "source": "https://www.pokemonsleep.net/zh/news/323632303234393634313235373533333435/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "帮手宝可梦的睡眠EXP：1.5倍",
+            "当天第1次睡眠研究后的糖果获得量：1.5倍"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323632303234393634313235373533333435/"
     },
     {
       "id": "new-moon-day-1",
@@ -454,7 +1100,19 @@
       "announcedOn": "2025-05-23",
       "startsOn": "2025-05-26",
       "endsOn": "2025-05-29",
-      "source": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/"
+      "source": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/"
     },
     {
       "id": "announcement-323731383335323433303637393938323039",
@@ -462,7 +1120,22 @@
       "announcedOn": "2025-06-09",
       "startsOn": "2025-06-09",
       "endsOn": "2025-06-16",
-      "source": "https://www.pokemonsleep.net/zh/news/323731383335323433303637393938323039/"
+      "source": "https://www.pokemonsleep.net/zh/news/323731383335323433303637393938323039/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "锅子容量（可放的食材数量上限）变成1.6倍（周日为3.2倍）。",
+            "宝可梦透过料理回复的活力+5。",
+            "主技能「食材获取S」与「食材精选S」的效果量变成1.5倍。",
+            "料理的最终能量为 1.5倍 (漂亮成功时为3倍，在周日漂亮成功时为4.5倍）。",
+            "专长为「食材」的帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323731383335323433303637393938323039/"
     },
     {
       "id": "good-sleep-day-23",
@@ -470,7 +1143,32 @@
       "announcedOn": "2025-05-30",
       "startsOn": "2025-06-10",
       "endsOn": "2025-06-13",
-      "source": "https://www.pokemonsleep.net/zh/news/323732343936353239323038353038343137/"
+      "source": "https://www.pokemonsleep.net/zh/news/323732343936353239323038353038343137/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2.5倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323732343936353239323038353038343137/"
     },
     {
       "id": "announcement-323736383532313034303633303930363839",
@@ -478,7 +1176,21 @@
       "announcedOn": "2025-06-11",
       "startsOn": "2025-06-23",
       "endsOn": "2025-06-30",
-      "source": "https://www.pokemonsleep.net/zh/news/323736383532313034303633303930363839/"
+      "source": "https://www.pokemonsleep.net/zh/news/323736383532313034303633303930363839/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "料理必定会是「咖哩、浓汤」。",
+            "料理的最终能量为1.5倍。（漂亮成功时为3倍，在周日漂亮成功时为4.5倍。）",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见一些其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "幸运的话，还能遇见特定的异色宝可梦。",
+            "可以使用期间限定的「古月鸟扭糖机」。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323736383532313034303633303930363839/"
     },
     {
       "id": "new-moon-day-2",
@@ -486,7 +1198,18 @@
       "announcedOn": "2025-06-13",
       "startsOn": "2025-06-24",
       "endsOn": "2025-06-27",
-      "source": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/"
+      "source": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "特别概率提升的宝可梦为「达克莱伊」。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/"
     },
     {
       "id": "announcement-323834313039333536333138383531303733",
@@ -494,7 +1217,19 @@
       "announcedOn": "2025-06-30",
       "startsOn": "2025-07-07",
       "endsOn": "2025-07-14",
-      "source": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/"
+      "source": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "研究后获得的梦之碎片变成1.5倍。",
+            "锅子容量（可放的食材数量上限）变成 1.5倍（周日为3倍）。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/"
     },
     {
       "id": "good-sleep-day-24",
@@ -502,7 +1237,32 @@
       "announcedOn": "2025-06-27",
       "startsOn": "2025-07-10",
       "endsOn": "2025-07-13",
-      "source": "https://www.pokemonsleep.net/zh/news/323832363937363035333837393131313639/"
+      "source": "https://www.pokemonsleep.net/zh/news/323832363937363035333837393131313639/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323832363937363035333837393131313639/"
     },
     {
       "id": "announcement-323836353834353335313337363438363431",
@@ -510,7 +1270,37 @@
       "announcedOn": "2025-07-08",
       "startsOn": "2025-07-14",
       "endsOn": "2025-07-28",
-      "source": "https://www.pokemonsleep.net/zh/news/323836353834353335313337363438363431/"
+      "source": "https://www.pokemonsleep.net/zh/news/323836353834353335313337363438363431/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见一些其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。"
+          ]
+        },
+        {
+          "title": "第1周（7/14～7/20）",
+          "lines": [
+            "可让许多帮手宝可梦成为伙伴的1周",
+            "睡眠研究时，必定有1只宝可梦会处于贪吃状态。（1天仅限1次）",
+            "所有帮手宝可梦的主技能发动概率变成1.5倍。",
+            "帮手宝可梦的睡眠EXP变成1.5倍。",
+            "睡眠研究后的糖果获得量变成1.5倍。（1天仅限1次）",
+            "可以使用期间限定的「美梦好礼」。"
+          ]
+        },
+        {
+          "title": "第2周（7/21～7/27）",
+          "lines": [
+            "可以多多培育帮手宝可梦的1周",
+            "料理的最终能量为 1.5倍 (漂亮成功时为3倍，在周日漂亮成功时为4.5倍）。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "可以获得各种研究奖励的期间限定新功能。（日后发表详情）"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323836353834353335313337363438363431/"
     },
     {
       "id": "new-moon-day-3",
@@ -518,7 +1308,18 @@
       "announcedOn": "2025-07-11",
       "startsOn": "2025-07-24",
       "endsOn": "2025-07-27",
-      "source": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/"
+      "source": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "「达克莱伊」的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/"
     },
     {
       "id": "good-sleep-day-25",
@@ -526,7 +1327,32 @@
       "announcedOn": "2025-07-25",
       "startsOn": "2025-08-08",
       "endsOn": "2025-08-11",
-      "source": "https://www.pokemonsleep.net/zh/news/323932383430323030363239393131353533/"
+      "source": "https://www.pokemonsleep.net/zh/news/323932383430323030363239393131353533/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323932383430323030363239393131353533/"
     },
     {
       "id": "announcement-323934363038393532313033303130333035",
@@ -534,7 +1360,20 @@
       "announcedOn": "2025-07-30",
       "startsOn": "2025-08-11",
       "endsOn": "2025-08-18",
-      "source": "https://www.pokemonsleep.net/zh/news/323934363038393532313033303130333035/"
+      "source": "https://www.pokemonsleep.net/zh/news/323934363038393532313033303130333035/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "专长为「技能」的帮手宝可梦的主技能发动概率会是1.5倍。",
+            "专长为「技能」的帮手宝可梦发动主技能时，主技能等级+3。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323934363038393532313033303130333035/"
     },
     {
       "id": "new-moon-day-4",
@@ -542,7 +1381,18 @@
       "announcedOn": "2025-08-08",
       "startsOn": "2025-08-22",
       "endsOn": "2025-08-25",
-      "source": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/"
+      "source": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "「达克莱伊」的特别概率提升",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/"
     },
     {
       "id": "announcement-323938313634313238333131313438353435",
@@ -550,7 +1400,19 @@
       "announcedOn": "2025-08-13",
       "startsOn": "2025-08-25",
       "endsOn": "2025-09-01",
-      "source": "https://www.pokemonsleep.net/zh/news/323938313634313238333131313438353435/"
+      "source": "https://www.pokemonsleep.net/zh/news/323938313634313238333131313438353435/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，必定有1只宝可梦会处于贪吃状态。（1天仅限1次）",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323938313634313238333131313438353435/"
     },
     {
       "id": "good-sleep-day-26",
@@ -558,7 +1420,32 @@
       "announcedOn": "2025-08-29",
       "startsOn": "2025-09-07",
       "endsOn": "2025-09-10",
-      "source": "https://www.pokemonsleep.net/zh/news/333035343134343536363035363731343235/"
+      "source": "https://www.pokemonsleep.net/zh/news/333035343134343536363035363731343235/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：4倍",
+            "帮手宝可梦的睡眠EXP变成3倍。",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP变成2倍。",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333035343134343536363035363731343235/"
     },
     {
       "id": "announcement-333032323532323137353634333937353639",
@@ -566,7 +1453,47 @@
       "announcedOn": "2025-08-20",
       "startsOn": "2025-09-08",
       "endsOn": "2025-09-22",
-      "source": "https://www.pokemonsleep.net/zh/news/333032323532323137353634333937353639/"
+      "source": "https://www.pokemonsleep.net/zh/news/333032323532323137353634333937353639/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "活动营地的「这周的卡比兽喜欢的树果」，必定会是萄葡果（电属性）、苹野果（火属性）、橙橙果（水属性）。",
+            "料理的最终能量为1.1倍（漂亮成功时为2.2倍，在周日漂亮成功时为3.3倍）。",
+            "电属性、火属性、水属性帮手宝可梦的主技能发动概率会是1.25倍。",
+            "可以使用期间限定的「活动兑换处」。",
+            "可透过睡眠研究获得活动道具。（1天仅限1次）",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见一些其他睡眠类型的宝可梦。"
+          ]
+        },
+        {
+          "title": "第1周（9/8～9/14）",
+          "lines": [
+            "电属性、火属性、水属性帮手宝可梦发动主技能时，主技能等级+3。"
+          ]
+        },
+        {
+          "title": "第2周（9/15～9/21）",
+          "lines": [
+            "电属性、火属性、水属性帮手宝可梦发动主技能时，主技能等级+5。",
+            "会出现大只的卡比兽，可以从已累积一定能量的状况开始培育卡比兽。"
+          ]
+        },
+        {
+          "title": "第2周、周日（9/21）",
+          "lines": [
+            "睡意之力：1.5倍"
+          ]
+        },
+        {
+          "title": "EX营地奖励",
+          "lines": [
+            "活动营地的「这周的卡比兽喜欢的树果：主树果」会从萄葡果（电属性）、野苹果（火属性）、橙橙果（水属性）中随机选出，「这周的卡比兽喜欢的树果：副树果」则是没有被选中的剩下的2种树果。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333032323532323137353634333937353639/"
     },
     {
       "id": "new-moon-day-5",
@@ -574,7 +1501,18 @@
       "announcedOn": "2025-09-12",
       "startsOn": "2025-09-21",
       "endsOn": "2025-09-24",
-      "source": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/"
+      "source": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "「达克莱伊」的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/"
     },
     {
       "id": "announcement-333130353935313939363135313037303733",
@@ -582,7 +1520,20 @@
       "announcedOn": "2025-09-17",
       "startsOn": "2025-09-29",
       "endsOn": "2025-10-06",
-      "source": "https://www.pokemonsleep.net/zh/news/333130353935313939363135313037303733/"
+      "source": "https://www.pokemonsleep.net/zh/news/333130353935313939363135313037303733/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "专长为「树果」的帮手宝可梦在帮忙时捡来的树果数量会增加1个。",
+            "主技能「树果遽增」与「画皮（树果遽增）」的效果变成1.4倍。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333130353935313939363135313037303733/"
     },
     {
       "id": "announcement-333133313133383732343835353830383031",
@@ -590,7 +1541,19 @@
       "announcedOn": "2025-09-25",
       "startsOn": "2025-10-06",
       "endsOn": "2025-10-13",
-      "source": "https://www.pokemonsleep.net/zh/news/333133313133383732343835353830383031/"
+      "source": "https://www.pokemonsleep.net/zh/news/333133313133383732343835353830383031/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见一些其他睡眠类型的宝可梦。",
+            "料理的最终能量为1.25倍（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍）。",
+            "可以使用期间限定的「迷你糖果增强」。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333133313133383732343835353830383031/"
     },
     {
       "id": "good-sleep-day-27",
@@ -598,7 +1561,34 @@
       "announcedOn": "2025-09-26",
       "startsOn": "2025-10-06",
       "endsOn": "2025-10-09",
-      "source": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/"
+      "source": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：3倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt",
+            "幸运的话，还能遇见特定的异色宝可梦。"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt",
+            "幸运的话，还能遇见特定的异色宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/"
     },
     {
       "id": "new-moon-day-6",
@@ -606,7 +1596,18 @@
       "announcedOn": "2025-10-10",
       "startsOn": "2025-10-20",
       "endsOn": "2025-10-23",
-      "source": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/"
+      "source": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "「达克莱伊」的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/"
     },
     {
       "id": "announcement-333234393733393633373438383335333239",
@@ -614,7 +1615,39 @@
       "announcedOn": "2025-10-21",
       "startsOn": "2025-10-27",
       "endsOn": "2025-11-03",
-      "source": "https://www.pokemonsleep.net/zh/news/333234393733393633373438383335333239/"
+      "source": "https://www.pokemonsleep.net/zh/news/333234393733393633373438383335333239/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "幽灵属性帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "幽灵属性帮手宝可梦的主技能发动概率会是1.25倍。",
+            "幽灵属性帮手宝可梦发动主技能时，主技能等级+3。",
+            "活动营地的「这周的卡比兽喜欢的树果」中，必定会有1种树果是墨莓果（幽灵属性），另外2种树果会随机决定。",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见一些其他睡眠类型的宝可梦。"
+          ]
+        },
+        {
+          "title": "万圣节（10/31）＆活动最后一天（11/2）",
+          "lines": [
+            "第1次睡眠研究后的糖果获得量变成3倍。"
+          ]
+        },
+        {
+          "title": "其他日子（10/27～10/30、11/1）",
+          "lines": [
+            "第1次睡眠研究后的糖果获得量变成2倍。"
+          ]
+        },
+        {
+          "title": "EX营地奖励",
+          "lines": [
+            "活动营地的「这周的卡比兽喜欢的树果：主树果」必定会是墨莓果，而「这周的卡比兽喜欢的树果：副树果」则会随机决定。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333234393733393633373438383335333239/"
     },
     {
       "id": "good-sleep-day-28",
@@ -622,7 +1655,32 @@
       "announcedOn": "2025-10-24",
       "startsOn": "2025-11-04",
       "endsOn": "2025-11-07",
-      "source": "https://www.pokemonsleep.net/zh/news/333235373639333130363332393335343235/"
+      "source": "https://www.pokemonsleep.net/zh/news/333235373639333130363332393335343235/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2.5倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333235373639333130363332393335343235/"
     },
     {
       "id": "announcement-333237353138353233343831393135333933",
@@ -630,7 +1688,17 @@
       "announcedOn": "2025-10-29",
       "startsOn": "2025-11-10",
       "endsOn": "2025-11-24",
-      "source": "https://www.pokemonsleep.net/zh/news/333237353138353233343831393135333933/"
+      "source": "https://www.pokemonsleep.net/zh/news/333237353138353233343831393135333933/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333237353138353233343831393135333933/"
     },
     {
       "id": "new-moon-day-7",
@@ -638,7 +1706,19 @@
       "announcedOn": "2025-11-07",
       "startsOn": "2025-11-19",
       "endsOn": "2025-11-22",
-      "source": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/"
+      "source": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "「达克莱伊」的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/"
     },
     {
       "id": "announcement-333335323431333932313634393632333035",
@@ -646,7 +1726,22 @@
       "announcedOn": "2025-11-19",
       "startsOn": "2025-12-01",
       "endsOn": "2025-12-08",
-      "source": "https://www.pokemonsleep.net/zh/news/333335323431333932313634393632333035/"
+      "source": "https://www.pokemonsleep.net/zh/news/333335323431333932313634393632333035/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "锅子容量（可放的食材数量上限）变成2倍（周日为4倍）。 →数值已于上次活动、企画时进行了调整。",
+            "宝可梦透过料理回复的活力+5。",
+            "主技能「食材获取S」与「食材精选S」的效果量变成1.5倍。",
+            "专长为「食材」的帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "料理的最终能量为1.25倍（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍）。 →数值已于上次活动、企画时进行了调整。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333335323431333932313634393632333035/"
     },
     {
       "id": "good-sleep-day-29",
@@ -654,7 +1749,32 @@
       "announcedOn": "2025-11-20",
       "startsOn": "2025-12-04",
       "endsOn": "2025-12-07",
-      "source": "https://www.pokemonsleep.net/zh/news/333335353539393939383236363930303439/"
+      "source": "https://www.pokemonsleep.net/zh/news/333335353539393939383236363930303439/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP变成3倍。",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP变成2倍。",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333335353539393939383236363930303439/"
     },
     {
       "id": "new-moon-day-8",
@@ -662,7 +1782,19 @@
       "announcedOn": "2025-12-05",
       "startsOn": "2025-12-19",
       "endsOn": "2025-12-22",
-      "source": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/"
+      "source": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "「达克莱伊」的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/"
     },
     {
       "id": "announcement-333432383533383734343936383331343930",
@@ -670,7 +1802,56 @@
       "announcedOn": "2025-12-10",
       "startsOn": "2025-12-22",
       "endsOn": "2025-12-29",
-      "source": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/"
+      "source": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "冰属性、钢属性帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "冰属性、钢属性帮手宝可梦的主技能发动概率会是1.25倍。",
+            "冰属性、钢属性帮手宝可梦发动主技能时，主技能等级+3。",
+            "主技能「梦之碎片获取S」的效果量变成2倍。",
+            "活动营地的「这周的卡比兽喜欢的树果」中，必定会有2种树果是莓莓果（冰属性）和靛莓果（钢属性），另外1种树果会随机决定。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "可以使用期间限定的「糖果增强」。",
+            "幸运的话，也许还能遇见异色的宝可梦。"
+          ]
+        },
+        {
+          "title": "12/24",
+          "lines": [
+            "可以领取期间限定「美梦好礼」。",
+            "睡眠研究后的梦之碎片获得量变成2倍。"
+          ]
+        },
+        {
+          "title": "12/25",
+          "lines": [
+            "可以领取期间限定「美梦好礼」。",
+            "睡眠研究后的梦之碎片获得量变成3倍。"
+          ]
+        },
+        {
+          "title": "最后一天(12/28)",
+          "lines": [
+            "睡眠研究后的梦之碎片获得量变成3倍。"
+          ]
+        },
+        {
+          "title": "其他日子",
+          "lines": [
+            "睡眠研究后的梦之碎片获得量变成2倍。"
+          ]
+        },
+        {
+          "title": "EX营地奖励",
+          "lines": [
+            "活动营地的「这周的卡比兽喜欢的树果：主树果」必定会是莓莓果，「这周的卡比兽喜欢的树果：副树果」其中1种必定会是靛莓果，而另外的树果则会随机决定。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/"
     },
     {
       "id": "announcement-333435333139353737393034373432343032",
@@ -678,7 +1859,41 @@
       "announcedOn": "2025-12-17",
       "startsOn": "2025-12-29",
       "endsOn": "2026-01-12",
-      "source": "https://www.pokemonsleep.net/zh/news/333435333139353737393034373432343032/"
+      "source": "https://www.pokemonsleep.net/zh/news/333435333139353737393034373432343032/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "可透过睡眠研究获得活动道具。（1天仅限1次）",
+            "可以使用期间限定的「活动兑换处」。"
+          ]
+        },
+        {
+          "title": "第1周（12/29～1/4）",
+          "lines": [
+            "第1次睡眠研究后的糖果获得量变成1.5倍。",
+            "所有帮手宝可梦的主技能发动概率变成1.25倍。",
+            "所有帮手宝可梦发动主技能时，主技能等级+1。"
+          ]
+        },
+        {
+          "title": "第2周（1/5～1/11）",
+          "lines": [
+            "研究后获得的梦之碎片变成1.5倍。",
+            "料理的最终能量为1.25倍（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍）。",
+            "可以使用期间限定的「古月鸟扭糖机」。"
+          ]
+        },
+        {
+          "title": "1/1",
+          "lines": [
+            "睡意之力：3倍"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333435333139353737393034373432343032/"
     },
     {
       "id": "good-sleep-day-30",
@@ -686,7 +1901,32 @@
       "announcedOn": "2025-12-19",
       "startsOn": "2026-01-02",
       "endsOn": "2026-01-05",
-      "source": "https://www.pokemonsleep.net/zh/news/333436303435323233303634383239393538/"
+      "source": "https://www.pokemonsleep.net/zh/news/333436303435323233303634383239393538/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333436303435323233303634383239393538/"
     },
     {
       "id": "new-moon-day-9",
@@ -694,7 +1934,19 @@
       "announcedOn": "2026-01-09",
       "startsOn": "2026-01-18",
       "endsOn": "2026-01-21",
-      "source": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/"
+      "source": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "「达克莱伊」的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/"
     },
     {
       "id": "announcement-333532393033333230353235383634393631",
@@ -702,7 +1954,20 @@
       "announcedOn": "2026-01-07",
       "startsOn": "2026-01-19",
       "endsOn": "2026-01-26",
-      "source": "https://www.pokemonsleep.net/zh/news/333532393033333230353235383634393631/"
+      "source": "https://www.pokemonsleep.net/zh/news/333532393033333230353235383634393631/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "专长为「技能」的帮手宝可梦的主技能发动概率会是1.5倍。",
+            "专长为「技能」的帮手宝可梦发动主技能时，主技能等级+3。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333532393033333230353235383634393631/"
     },
     {
       "id": "good-sleep-day-31",
@@ -710,7 +1975,32 @@
       "announcedOn": "2026-01-23",
       "startsOn": "2026-02-01",
       "endsOn": "2026-02-04",
-      "source": "https://www.pokemonsleep.net/zh/news/333538363838343831393630303031353431/"
+      "source": "https://www.pokemonsleep.net/zh/news/333538363838343831393630303031353431/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：4倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333538363838343831393630303031353431/"
     },
     {
       "id": "announcement-333630353432383839393136323335373832",
@@ -718,7 +2008,21 @@
       "announcedOn": "2026-01-28",
       "startsOn": "2026-02-09",
       "endsOn": "2026-02-16",
-      "source": "https://www.pokemonsleep.net/zh/news/333630353432383839393136323335373832/"
+      "source": "https://www.pokemonsleep.net/zh/news/333630353432383839393136323335373832/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "料理必定会是「点心、饮料」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "幸运的话，还能遇见特定的异色宝可梦。",
+            "料理的最终能量为1.5倍（漂亮成功时为3倍，在周日漂亮成功时为4.5倍）。",
+            "透过主技能获得的食材数量变成1.25倍。 ※当主技能有多个效果时，只有食材数量会增加。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333630353432383839393136323335373832/"
     },
     {
       "id": "new-moon-day-10",
@@ -726,7 +2030,19 @@
       "announcedOn": "2026-02-06",
       "startsOn": "2026-02-16",
       "endsOn": "2026-02-19",
-      "source": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/"
+      "source": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "「达克莱伊」的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/"
     },
     {
       "id": "announcement-333731343130383939323833343736343931",
@@ -734,7 +2050,19 @@
       "announcedOn": "2026-02-27",
       "startsOn": "2026-02-27",
       "endsOn": "2026-03-30",
-      "source": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/"
+      "source": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "在当天第1次的睡眠研究可以拍摄奇迹快照。",
+            "奇迹快照的糖果获得量变成平常的1.25倍。",
+            "奇迹快照的研究EXP变成平常的1.25倍。",
+            "奇迹快照的梦之碎片获得量会比平常多1,000个。 ※以上所有奖励效果皆不适用于没有梦幻入镜的睡姿照片。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/"
     },
     {
       "id": "announcement-333731343130383939323833343736343831",
@@ -742,7 +2070,21 @@
       "announcedOn": "2026-02-27",
       "startsOn": "2026-03-02",
       "endsOn": "2026-03-09",
-      "source": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343831/"
+      "source": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343831/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "帮手宝可梦的睡眠EXP变成1.5倍。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "所有帮手宝可梦的主技能发动概率变成1.25倍。",
+            "料理的最终能量为1.25倍（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍）。",
+            "所有帮手宝可梦发动主技能时，主技能等级+1。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343831/"
     },
     {
       "id": "good-sleep-day-32",
@@ -750,7 +2092,32 @@
       "announcedOn": "2026-02-21",
       "startsOn": "2026-03-02",
       "endsOn": "2026-03-05",
-      "source": "https://www.pokemonsleep.net/zh/news/333639323434363634393032393735343935/"
+      "source": "https://www.pokemonsleep.net/zh/news/333639323434363634393032393735343935/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：3倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333639323434363634393032393735343935/"
     },
     {
       "id": "announcement-333733313838393931373938373338393435",
@@ -758,7 +2125,19 @@
       "announcedOn": "2026-03-04",
       "startsOn": "2026-03-16",
       "endsOn": "2026-03-23",
-      "source": "https://www.pokemonsleep.net/zh/news/333733313838393931373938373338393435/"
+      "source": "https://www.pokemonsleep.net/zh/news/333733313838393931373938373338393435/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "研究后获得的梦之碎片变成1.5倍。",
+            "所有帮手宝可梦的主技能发动概率变成1.25倍。",
+            "透过主技能获得的梦之碎片数量变成1.5倍。 ※当主技能有多个效果时，只有梦之碎片数量会增加。",
+            "可以使用期间限定的「迷你糖果增强」。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333733313838393931373938373338393435/"
     },
     {
       "id": "new-moon-day-11",
@@ -766,7 +2145,19 @@
       "announcedOn": "2026-03-06",
       "startsOn": "2026-03-18",
       "endsOn": "2026-03-21",
-      "source": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/"
+      "source": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "「达克莱伊」的特别概率提升",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/"
     },
     {
       "id": "announcement-333736343238363738393233343139363534",
@@ -774,7 +2165,19 @@
       "announcedOn": "2026-03-13",
       "startsOn": "2026-03-23",
       "endsOn": "2026-03-30",
-      "source": "https://www.pokemonsleep.net/zh/news/333736343238363738393233343139363534/"
+      "source": "https://www.pokemonsleep.net/zh/news/333736343238363738393233343139363534/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，必定有1只宝可梦会处于贪吃状态。（1天仅限1次）",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "可以使用期间限定的「迷你糖果增强」。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333736343238363738393233343139363534/"
     },
     {
       "id": "good-sleep-day-33",
@@ -782,7 +2185,32 @@
       "announcedOn": "2026-03-20",
       "startsOn": "2026-04-01",
       "endsOn": "2026-04-04",
-      "source": "https://www.pokemonsleep.net/zh/news/333739303632383739313632323034313634/"
+      "source": "https://www.pokemonsleep.net/zh/news/333739303632383739313632323034313634/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333739303632383739313632323034313634/"
     },
     {
       "id": "announcement-333738363536323735393239343937363031",
@@ -790,7 +2218,43 @@
       "announcedOn": "2026-03-19",
       "startsOn": "2026-04-06",
       "endsOn": "2026-04-20",
-      "source": "https://www.pokemonsleep.net/zh/news/333738363536323735393239343937363031/"
+      "source": "https://www.pokemonsleep.net/zh/news/333738363536323735393239343937363031/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "专长为「技能」的帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "专长为「技能」的帮手宝可梦的主技能发动概率会是1.25倍。",
+            "可以使用期间限定的「活动兑换处」。",
+            "可透过睡眠研究获得活动道具。（1天仅限1次）",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        },
+        {
+          "title": "第1周（4/6～4/12）",
+          "lines": [
+            "专长为「技能」的帮手宝可梦持有上限+8。",
+            "专长为「技能」的帮手宝可梦发动主技能时，主技能等级+2。"
+          ]
+        },
+        {
+          "title": "第2周（4/13～4/19）",
+          "lines": [
+            "专长为「技能」的帮手宝可梦持有上限+15。",
+            "专长为「技能」的帮手宝可梦在帮忙时捡来的树果数量会增加1个。",
+            "专长为「技能」的帮手宝可梦发动主技能时，主技能等级+5。",
+            "会出现大只的卡比兽，可以从已累积一定能量的状况开始培育卡比兽。"
+          ]
+        },
+        {
+          "title": "第2周、周日（4/19）",
+          "lines": [
+            "睡意之力：1.5倍"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333738363536323735393239343937363031/"
     },
     {
       "id": "new-moon-day-12",
@@ -798,7 +2262,19 @@
       "announcedOn": "2026-04-03",
       "startsOn": "2026-04-16",
       "endsOn": "2026-04-19",
-      "source": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/"
+      "source": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "幻之宝可梦的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/"
     },
     {
       "id": "announcement-333838303837343130373734323435333737",
@@ -806,7 +2282,20 @@
       "announcedOn": "2026-04-16",
       "startsOn": "2026-04-27",
       "endsOn": "2026-05-04",
-      "source": "https://www.pokemonsleep.net/zh/news/333838303837343130373734323435333737/"
+      "source": "https://www.pokemonsleep.net/zh/news/333838303837343130373734323435333737/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "料理的最终能量为1.5倍（漂亮成功时为3倍，在周日漂亮成功时为4.5倍）。",
+            "料理必定会是「沙拉」。",
+            "睡眠研究时，必定有1只宝可梦会处于贪吃状态。（1天仅限1次）",
+            "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见一些其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333838303837343130373734323435333737/"
     },
     {
       "id": "good-sleep-day-34",
@@ -814,7 +2303,32 @@
       "announcedOn": "2026-04-17",
       "startsOn": "2026-05-01",
       "endsOn": "2026-05-04",
-      "source": "https://www.pokemonsleep.net/zh/news/333839323033323330393030333535303734/"
+      "source": "https://www.pokemonsleep.net/zh/news/333839323033323330393030333535303734/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333839323033323330393030333535303734/"
     },
     {
       "id": "announcement-333933313532393833363139303736313030",
@@ -822,7 +2336,21 @@
       "announcedOn": "2026-04-29",
       "startsOn": "2026-05-11",
       "endsOn": "2026-05-18",
-      "source": "https://www.pokemonsleep.net/zh/news/333933313532393833363139303736313030/"
+      "source": "https://www.pokemonsleep.net/zh/news/333933313532393833363139303736313030/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "专长为「树果」的帮手宝可梦，其树果、食材的持有上限变成1.5倍。 →自本次活动／企画起追加。",
+            "专长为「树果」的帮手宝可梦在帮忙时捡来的树果数量会增加1个。",
+            "主技能「树果遽增」的效果变成1.4倍。 ※除了「画皮（树果遽增）」等名称中包含「树果遽增」的主技能，「新月祈祷（活力全体疗癒S）」也同样适用。 ※当主技能有多个效果时，只有树果数量会增加。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333933313532393833363139303736313030/"
     },
     {
       "id": "new-moon-day-13",
@@ -830,7 +2358,19 @@
       "announcedOn": "2026-05-01",
       "startsOn": "2026-05-16",
       "endsOn": "2026-05-19",
-      "source": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/"
+      "source": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "幻之宝可梦的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/"
     },
     {
       "id": "announcement-333938393539333531343033393035303236",
@@ -838,7 +2378,19 @@
       "announcedOn": "2026-05-14",
       "startsOn": "2026-05-25",
       "endsOn": "2026-06-01",
-      "source": "https://www.pokemonsleep.net/zh/news/333938393539333531343033393035303236/"
+      "source": "https://www.pokemonsleep.net/zh/news/333938393539333531343033393035303236/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，必定有1只宝可梦会处于贪吃状态。（1天仅限1次）",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "可以使用期间限定的「迷你糖果增强」。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333938393539333531343033393035303236/"
     },
     {
       "id": "good-sleep-day-35",
@@ -846,7 +2398,32 @@
       "announcedOn": "2026-05-16",
       "startsOn": "2026-05-30",
       "endsOn": "2026-06-02",
-      "source": "https://www.pokemonsleep.net/zh/news/333939363533323738373432323136373130/"
+      "source": "https://www.pokemonsleep.net/zh/news/333939363533323738373432323136373130/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333939363533323738373432323136373130/"
     },
     {
       "id": "announcement-343031343632313536343838333433353533",
@@ -854,7 +2431,49 @@
       "announcedOn": "2026-05-22",
       "startsOn": "2026-06-08",
       "endsOn": "2026-06-22",
-      "source": "https://www.pokemonsleep.net/zh/news/343031343632313536343838333433353533/"
+      "source": "https://www.pokemonsleep.net/zh/news/343031343632313536343838333433353533/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "龙属性帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "龙属性帮手宝可梦的主技能发动概率会是1.5倍。",
+            "活动营地的「这周的卡比兽喜欢的树果」中，必定会有1种树果是番荔果（龙属性），另外的2种树果会随机决定。",
+            "若将拉帝亚斯或拉帝欧斯编组在队伍中一起睡觉，睡意之力会变成1.1倍。",
+            "若将拉帝亚斯和拉帝欧斯同时编组在队伍中一起睡觉，睡意之力会变成1.3倍。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "可以使用期间限定的「活动兑换处」。",
+            "可透过睡眠研究获得活动道具。（1天仅限1次）",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        },
+        {
+          "title": "第1周（6/8～6/14）",
+          "lines": [
+            "龙属性帮手宝可梦发动主技能时，主技能等级+2。"
+          ]
+        },
+        {
+          "title": "第2周（6/15～6/21）",
+          "lines": [
+            "龙属性帮手宝可梦发动主技能时，主技能等级+5。",
+            "会出现大只的卡比兽，可以从已累积一定能量的状况开始培育卡比兽。"
+          ]
+        },
+        {
+          "title": "最后一天(6/21)",
+          "lines": [
+            "睡意之力：1.5倍 ※睡意之力的奖励同时登场时，仅适用倍率最大的奖励。"
+          ]
+        },
+        {
+          "title": "EX营地奖励",
+          "lines": [
+            "活动营地的「这周的卡比兽喜欢的树果：主树果」必定会是番荔果（龙属性），而「这周的卡比兽喜欢的树果：副树果」则会随机决定。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343031343632313536343838333433353533/"
     },
     {
       "id": "new-moon-day-14",
@@ -862,7 +2481,19 @@
       "announcedOn": "2026-06-05",
       "startsOn": "2026-06-14",
       "endsOn": "2026-06-17",
-      "source": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/"
+      "source": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "幻之宝可梦的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/"
     },
     {
       "id": "good-sleep-day-36",
@@ -870,7 +2501,32 @@
       "announcedOn": "2026-06-19",
       "startsOn": "2026-06-29",
       "endsOn": "2026-07-02",
-      "source": "https://www.pokemonsleep.net/zh/news/343131363336303133303639323338323736/"
+      "source": "https://www.pokemonsleep.net/zh/news/343131363336303133303639323338323736/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：3倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343131363336303133303639323338323736/"
     },
     {
       "id": "announcement-343136333639393638323834363936353833",
@@ -878,7 +2534,19 @@
       "announcedOn": "2026-06-30",
       "startsOn": "2026-07-06",
       "endsOn": "2026-07-13",
-      "source": "https://www.pokemonsleep.net/zh/news/343136333639393638323834363936353833/"
+      "source": "https://www.pokemonsleep.net/zh/news/343136333639393638323834363936353833/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "研究后获得的梦之碎片变成1.5倍。",
+            "睡眠研究后的研究EXP变成1.5倍。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343136333639393638323834363936353833/"
     },
     {
       "id": "announcement-343138383632323539383937333638353830",
@@ -886,7 +2554,37 @@
       "announcedOn": "2026-07-08",
       "startsOn": "2026-07-13",
       "endsOn": "2026-07-27",
-      "source": "https://www.pokemonsleep.net/zh/news/343138383632323539383937333638353830/"
+      "source": "https://www.pokemonsleep.net/zh/news/343138383632323539383937333638353830/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。"
+          ]
+        },
+        {
+          "title": "第1周（7/13～7/19）",
+          "lines": [
+            "可让许多帮手宝可梦成为伙伴的1周",
+            "睡眠研究时，必定有1只宝可梦会处于贪吃状态。（1天仅限1次）",
+            "所有帮手宝可梦的主技能发动概率变成1.5倍。",
+            "帮手宝可梦的睡眠EXP：1.5倍",
+            "睡眠研究后的糖果获得量变成1.5倍。（1天仅限1次）",
+            "可以使用期间限定的「美梦好礼」。"
+          ]
+        },
+        {
+          "title": "第2周（7/20～7/26）",
+          "lines": [
+            "可以多多培育帮手宝可梦的1周",
+            "料理的最终能量为1.5倍（漂亮成功时为3倍，在周日漂亮成功时为4.5倍）。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "可以使用期间限定的「彩庆花」。 ※关于可获得的奖励效果，详情请查看期间限定「彩庆花」的项目。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343138383632323539383937333638353830/"
     },
     {
       "id": "new-moon-day-15",
@@ -894,7 +2592,19 @@
       "announcedOn": "2026-07-09",
       "startsOn": "2026-07-13",
       "endsOn": "2026-07-16",
-      "source": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/"
+      "source": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "幻之宝可梦的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/"
     },
     {
       "id": "good-sleep-day-37",
@@ -902,7 +2612,32 @@
       "announcedOn": "2026-07-17",
       "startsOn": "2026-07-28",
       "endsOn": "2026-07-31",
-      "source": "https://www.pokemonsleep.net/zh/news/343231333938343932383932363236393530/"
+      "source": "https://www.pokemonsleep.net/zh/news/343231333938343932383932363236393530/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2.5倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343231333938343932383932363236393530/"
     },
     {
       "id": "announcement-343233393938313932373939393733333835",
@@ -910,7 +2645,21 @@
       "announcedOn": "2026-07-31",
       "startsOn": "2026-08-10",
       "endsOn": "2026-08-17",
-      "source": "https://www.pokemonsleep.net/zh/news/343233393938313932373939393733333835/"
+      "source": "https://www.pokemonsleep.net/zh/news/343233393938313932373939393733333835/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "料理必定会是「咖哩、浓汤」。",
+            "料理的最终能量为1.5倍（漂亮成功时为3倍，在周日漂亮成功时为4.5倍）。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "幸运的话，还能遇见特定的异色宝可梦。",
+            "可以使用期间限定的「古月鸟扭糖机」。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343233393938313932373939393733333835/"
     },
     {
       "id": "new-moon-day-16",
@@ -918,7 +2667,19 @@
       "announcedOn": "2026-08-01",
       "startsOn": "2026-08-12",
       "endsOn": "2026-08-15",
-      "source": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/"
+      "source": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "幻之宝可梦的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/"
     },
     {
       "id": "announcement-343238373030393436303937323432313138",
@@ -926,7 +2687,27 @@
       "announcedOn": "2026-08-12",
       "startsOn": "2026-08-17",
       "endsOn": "2026-08-24",
-      "source": "https://www.pokemonsleep.net/zh/news/343238373030393436303937323432313138/"
+      "source": "https://www.pokemonsleep.net/zh/news/343238373030393436303937323432313138/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "所有帮手宝可梦的主技能发动概率变成1.25倍。",
+            "帮手宝可梦的睡眠EXP：1.25倍",
+            "在当天第1次的睡眠研究，必定有1只宝可梦会处于贪吃状态。",
+            "料理的最终能量为1.25倍（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍）。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        },
+        {
+          "title": "8/21 (周五)～8/23 (周日)",
+          "lines": [
+            "睡意之力：1.3倍"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343238373030393436303937323432313138/"
     },
     {
       "id": "good-sleep-day-38",
@@ -934,7 +2715,32 @@
       "announcedOn": "2026-08-14",
       "startsOn": "2026-08-27",
       "endsOn": "2026-08-30",
-      "source": "https://www.pokemonsleep.net/zh/news/343239303435333138323139323032353638/"
+      "source": "https://www.pokemonsleep.net/zh/news/343239303435333138323139323032353638/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343239303435333138323139323032353638/"
     },
     {
       "id": "announcement-343239373432303836333334343437363238",
@@ -942,7 +2748,23 @@
       "announcedOn": "2026-08-22",
       "startsOn": "2026-08-31",
       "endsOn": "2026-09-07",
-      "source": "https://www.pokemonsleep.net/zh/news/343239373432303836333334343437363238/"
+      "source": "https://www.pokemonsleep.net/zh/news/343239373432303836333334343437363238/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "在当天第1次的睡眠研究可以拍摄奇迹快照。",
+            "奇迹快照的糖果获得量变成平常的1.25倍。",
+            "奇迹快照的研究EXP变成平常的1.25倍。",
+            "奇迹快照的梦之碎片获得量会比平常多1,000个。",
+            "在当天第1次的睡眠研究，必定有1只宝可梦会处于贪吃状态。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343239373432303836333334343437363238/"
     },
     {
       "id": "new-moon-day-17",
@@ -950,7 +2772,19 @@
       "announcedOn": "2026-08-28",
       "startsOn": "2026-09-10",
       "endsOn": "2026-09-13",
-      "source": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/"
+      "source": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "幻之宝可梦的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/"
     },
     {
       "id": "announcement-343239383235333132353739313235323439",
@@ -958,7 +2792,41 @@
       "announcedOn": "2026-09-03",
       "startsOn": "2026-09-14",
       "endsOn": "2026-09-28",
-      "source": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/"
+      "source": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "若将梦幻或超梦编组在队伍中一起睡觉，睡意之力会变成1.1倍。",
+            "所有帮手宝可梦在帮忙时，有时会额外捡来「超大芒芒果」。",
+            "超能力属性帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "超能力属性帮手宝可梦的主技能发动概率会是1.5倍。",
+            "活动营地的「这周的卡比兽喜欢的树果」中，必定会有1种树果是芒芒果（超能力属性），另外的2种树果会随机决定。",
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "在当天第1次的点心时间，超梦会变得不容易吃饱。",
+            "可以使用期间限定的「活动兑换处」。",
+            "可透过当天第1次的睡眠研究获得活动道具。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        },
+        {
+          "title": "第1周（9/14～9/20）",
+          "lines": [
+            "所有帮手宝可梦的持有上限会增加8个。",
+            "超能力属性帮手宝可梦发动主技能时，主技能等级+2。"
+          ]
+        },
+        {
+          "title": "第2周（9/21～9/27）",
+          "lines": [
+            "若将超梦编组在队伍中一起睡觉，睡意之力就会变成1.3倍。",
+            "所有帮手宝可梦的持有上限会增加15个。",
+            "超能力属性帮手宝可梦发动主技能时，主技能等级+5。",
+            "会出现大只的卡比兽，可以从已累积一定能量的状况开始培育卡比兽。 ※睡意之力的奖励同时登场时，仅适用倍率最大的奖励。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/"
     },
     {
       "id": "good-sleep-day-39",
@@ -966,7 +2834,33 @@
       "announcedOn": "2026-09-11",
       "startsOn": "2026-09-26",
       "endsOn": "2026-09-29",
-      "source": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/"
+      "source": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。",
+            "幸运的话，还能遇见特定的异色宝可梦。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：2倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/"
     },
     {
       "id": "announcement-343430323735323935393936343737343435",
@@ -974,7 +2868,23 @@
       "announcedOn": "2026-09-28",
       "startsOn": "2026-10-05",
       "endsOn": "2026-10-12",
-      "source": "https://www.pokemonsleep.net/zh/news/343430323735323935393936343737343435/"
+      "source": "https://www.pokemonsleep.net/zh/news/343430323735323935393936343737343435/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "锅子容量（可放的食材数量上限）变成 2倍（周日为4倍）。",
+            "料理为宝可梦带来的活力回复量+5。",
+            "专长为「食材」的帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "可以使用期间限定的「迷你糖果增强」。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
+            "料理的最终能量为1.25倍（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍）。",
+            "透过主技能获得的食材数量变成1.5倍。 ※当主技能有多个效果时，只有食材数量会增加。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430323735323935393936343737343435/"
     },
     {
       "id": "new-moon-day-18",
@@ -982,7 +2892,19 @@
       "announcedOn": "2026-09-25",
       "startsOn": "2026-10-10",
       "endsOn": "2026-10-13",
-      "source": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/"
+      "source": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "幻之宝可梦的特别概率提升。",
+            "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
+            "幸运的话，也许还能遇见异色的宝可梦。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/"
     },
     {
       "id": "announcement-343430333034343435353738383035323530",
@@ -990,7 +2912,17 @@
       "announcedOn": "2026-10-01",
       "startsOn": "2026-10-12",
       "endsOn": "2026-10-19",
-      "source": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/"
+      "source": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "帮手宝可梦的睡眠EXP：1.5倍",
+            "当天第1次睡眠研究后的糖果获得量变成1.5倍。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/"
     },
     {
       "id": "good-sleep-day-40",
@@ -998,7 +2930,35 @@
       "announcedOn": "2026-10-20",
       "startsOn": "2026-10-25",
       "endsOn": "2026-10-28",
-      "source": "https://www.pokemonsleep.net/zh/news/343532363635313734343730343236363331/"
+      "source": "https://www.pokemonsleep.net/zh/news/343532363635313734343730343236363331/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "幻之宝可梦的特别概率提升。",
+            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。",
+            "在当天第1次的点心时间时，特别概率提升的宝可梦会变得不容易吃饱。",
+            "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
+          ]
+        },
+        {
+          "title": "第2天（满月之日）",
+          "lines": [
+            "睡意之力：4倍",
+            "帮手宝可梦的睡眠EXP：3倍",
+            "红利睡眠点数：+1,000pt"
+          ]
+        },
+        {
+          "title": "第1天、第3天",
+          "lines": [
+            "睡意之力：1.5倍",
+            "帮手宝可梦的睡眠EXP：2倍",
+            "红利睡眠点数：+500pt"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343532363635313734343730343236363331/"
     },
     {
       "id": "announcement-343433383634343334323138313036383834",
@@ -1006,7 +2966,6158 @@
       "announcedOn": "2026-10-14",
       "startsOn": "2026-10-26",
       "endsOn": "2026-11-02",
-      "source": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/"
+      "source": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究时，特定宝可梦的出现概率提升。",
+            "幽灵属性帮手宝可梦在帮忙时捡来的食材数量会增加1个。",
+            "幽灵属性帮手宝可梦的主技能发动概率会是1.25倍。",
+            "幽灵属性帮手宝可梦发动主技能时，主技能等级+3。",
+            "活动营地的「这周的卡比兽喜欢的树果」中，必定会有1种树果是墨莓果（幽灵属性），另外2种树果会随机决定。",
+            "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
+          ]
+        },
+        {
+          "title": "万圣节（10/31）＆活动最后一天（11/1）",
+          "lines": [
+            "当天第1次睡眠研究后的糖果获得量变成3倍。"
+          ]
+        },
+        {
+          "title": "其他日子（10/26～10/30）",
+          "lines": [
+            "当天第1次睡眠研究后的糖果获得量变成2倍。"
+          ]
+        },
+        {
+          "title": "EX营地奖励",
+          "lines": [
+            "活动营地的「这周的卡比兽喜欢的树果：主树果」必定会是墨莓果，而「这周的卡比兽喜欢的树果：副树果」则会随机决定。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/"
     }
-  ]
+  ],
+  "encounterUps": {
+    "good-sleep-day-17": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "满月之日（12/15）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "其他日子（12/14、12/16）"
+      }
+    ],
+    "announcement-323039303336363938383838313735363137": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          9004,
+          9002
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          7006,
+          7007,
+          225,
+          363,
+          364,
+          365,
+          459,
+          460,
+          471,
+          921,
+          922,
+          923
+        ]
+      }
+    ],
+    "announcement-323135353933333136383332353039393533": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          37,
+          38,
+          147,
+          148,
+          149,
+          280,
+          281,
+          282,
+          475,
+          702,
+          759,
+          760,
+          764,
+          845
+        ],
+        "label": "第1周"
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          194,
+          195,
+          215,
+          304,
+          305,
+          306,
+          403,
+          404,
+          405,
+          425,
+          426,
+          461,
+          736,
+          737,
+          738,
+          778,
+          906,
+          907,
+          908,
+          909,
+          910,
+          911,
+          912,
+          913,
+          914
+        ],
+        "label": "第2周"
+      }
+    ],
+    "good-sleep-day-18": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "满月之日（1/14）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "其他日子（1/13、1/15）"
+      }
+    ],
+    "announcement-323233353831383735313439343731373435": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          627,
+          628
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          627,
+          628
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          627,
+          628
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          58,
+          79,
+          81,
+          133,
+          174,
+          175,
+          179,
+          214,
+          316,
+          360,
+          425,
+          438,
+          447,
+          702,
+          778,
+          921
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          58,
+          79,
+          133,
+          174,
+          214,
+          316,
+          438
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          58,
+          133,
+          174,
+          175,
+          302,
+          316,
+          360,
+          447
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          79,
+          133,
+          175,
+          179,
+          316,
+          360,
+          447,
+          921
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          79,
+          133,
+          174,
+          175,
+          360,
+          447,
+          280,
+          702
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          81,
+          133,
+          179,
+          425,
+          702,
+          778,
+          921
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      }
+    ],
+    "announcement-323239343339343138373233373239343039": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          7054,
+          980
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          7054,
+          980
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          127,
+          172,
+          359,
+          778,
+          909
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          127,
+          909
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          909
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          359
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          172,
+          280
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          172,
+          304,
+          736,
+          778,
+          909
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      }
+    ],
+    "good-sleep-day-19": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-20": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-323430393532383930303939373631313533": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          517,
+          518
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          517,
+          518
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          517,
+          518
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          196,
+          202,
+          360
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          122,
+          439
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          196,
+          202,
+          360
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          202,
+          360
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          196,
+          202,
+          280,
+          281,
+          282,
+          360
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          122,
+          439
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      }
+    ],
+    "announcement-323436343635363930323437313032343635": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          488,
+          196,
+          202,
+          360,
+          517,
+          518
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          488,
+          122,
+          439
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          488,
+          196,
+          202,
+          360
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          488,
+          202,
+          360
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          488,
+          196,
+          202,
+          280,
+          281,
+          282,
+          360,
+          517,
+          518
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          488,
+          122,
+          439,
+          517,
+          518
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      }
+    ],
+    "good-sleep-day-21": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-323539313133313932323830353535353231": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          440,
+          113,
+          242
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          440,
+          113,
+          242
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          440,
+          113,
+          242
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          81,
+          132,
+          175,
+          225,
+          333,
+          353,
+          363,
+          447,
+          453,
+          845
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          132,
+          363,
+          453,
+          845
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          132,
+          175,
+          302,
+          353,
+          447,
+          453
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          132,
+          175,
+          225,
+          333,
+          363,
+          447,
+          453,
+          845
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          132,
+          175,
+          333,
+          447
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          81,
+          132,
+          353
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      }
+    ],
+    "good-sleep-day-22": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "new-moon-day-1": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          198,
+          430
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-323731383335323433303637393938323039": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          303
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          303
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          303
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          1,
+          4,
+          7,
+          92,
+          127,
+          133,
+          194,
+          198,
+          214,
+          225,
+          440,
+          906,
+          909
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          127,
+          133,
+          194,
+          214,
+          440,
+          909
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          4,
+          92,
+          133,
+          194,
+          909
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          92,
+          133,
+          198,
+          225,
+          440
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          1,
+          7,
+          133,
+          147,
+          906
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          92,
+          133,
+          194,
+          198,
+          304,
+          906,
+          909
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      }
+    ],
+    "good-sleep-day-23": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-323736383532313034303633303930363839": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          83
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          83
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          83
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          10,
+          54,
+          79,
+          84,
+          127,
+          158,
+          194,
+          214,
+          225,
+          333,
+          627,
+          845,
+          912
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          10,
+          54,
+          79,
+          127,
+          158,
+          194,
+          214,
+          627,
+          845,
+          912
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          79,
+          225,
+          333,
+          627,
+          845
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          54,
+          79,
+          84,
+          333,
+          912
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          194,
+          736,
+          912
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          194
+        ],
+        "islands": [
+          "taupe"
+        ]
+      }
+    ],
+    "new-moon-day-2": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-323834313039333536333138383531303733": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          906,
+          907,
+          908,
+          909,
+          912
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          906,
+          907,
+          908,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          906,
+          907,
+          908,
+          909,
+          910,
+          911,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          909,
+          910,
+          911,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          909,
+          910,
+          911
+        ],
+        "islands": [
+          "taupe"
+        ]
+      }
+    ],
+    "good-sleep-day-24": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-323836353834353335313337363438363431": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          252,
+          255,
+          258,
+          311,
+          312
+        ],
+        "label": "第1周"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          311,
+          312
+        ],
+        "label": "第2周"
+      }
+    ],
+    "new-moon-day-3": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "good-sleep-day-25": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-323934363038393532313033303130333035": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          848,
+          849,
+          8001
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          848,
+          849,
+          8001
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          848,
+          849,
+          8001
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          58,
+          79,
+          81,
+          133,
+          174,
+          175,
+          179,
+          198,
+          214,
+          252,
+          311,
+          312,
+          316,
+          360,
+          425,
+          438,
+          447,
+          627,
+          702,
+          778,
+          921
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          58,
+          79,
+          133,
+          174,
+          214,
+          252,
+          316,
+          438,
+          627
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          58,
+          133,
+          174,
+          175,
+          302,
+          316,
+          360,
+          447
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          79,
+          133,
+          175,
+          179,
+          198,
+          316,
+          360,
+          447,
+          627,
+          921
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          79,
+          133,
+          174,
+          175,
+          252,
+          280,
+          360,
+          447,
+          702
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          58,
+          81,
+          133,
+          179,
+          198,
+          214,
+          252,
+          280,
+          302,
+          311,
+          312,
+          425,
+          438,
+          627,
+          702,
+          778,
+          921
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          81,
+          133,
+          179,
+          198,
+          252,
+          311,
+          312,
+          425,
+          702,
+          778,
+          921
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      }
+    ],
+    "new-moon-day-4": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-323938313634313238333131313438353435": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          25,
+          26,
+          135,
+          172,
+          179,
+          180,
+          311,
+          312,
+          702,
+          921,
+          4,
+          5,
+          6,
+          37,
+          38,
+          58,
+          136,
+          155,
+          156,
+          157,
+          255,
+          909,
+          7,
+          8,
+          9,
+          54,
+          79,
+          80,
+          134,
+          158,
+          159,
+          160,
+          194,
+          195,
+          258,
+          912
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          25,
+          58,
+          909,
+          910,
+          7,
+          8,
+          9,
+          54,
+          55,
+          79,
+          80,
+          134,
+          158,
+          159,
+          160,
+          194,
+          195,
+          199,
+          258,
+          912,
+          913
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          25,
+          172,
+          702,
+          255,
+          7,
+          8,
+          9,
+          54,
+          79,
+          80,
+          912,
+          913
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          25,
+          26,
+          135,
+          172,
+          179,
+          180,
+          181,
+          311,
+          312,
+          403,
+          404,
+          405,
+          702,
+          921,
+          922,
+          923,
+          909,
+          910,
+          194,
+          195,
+          912,
+          913
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          25,
+          26,
+          135,
+          172,
+          179,
+          180,
+          181,
+          311,
+          312,
+          702,
+          921,
+          922,
+          923,
+          4,
+          5,
+          6,
+          37,
+          38,
+          58,
+          59,
+          136,
+          155,
+          156,
+          157,
+          255,
+          909,
+          910,
+          7,
+          8,
+          9,
+          134,
+          158,
+          159,
+          160,
+          258,
+          912,
+          913
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          179,
+          180,
+          181,
+          921,
+          922,
+          923,
+          54,
+          79,
+          80
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          37,
+          38,
+          58,
+          59,
+          136,
+          155,
+          156,
+          157,
+          255,
+          909,
+          910,
+          194,
+          195,
+          258
+        ],
+        "islands": [
+          "taupe"
+        ]
+      }
+    ],
+    "good-sleep-day-26": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-333032323532323137353634333937353639": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          243,
+          244,
+          245
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          245
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          244
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          243
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          243,
+          244,
+          245
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          25,
+          26,
+          37,
+          38,
+          54,
+          58,
+          79,
+          80,
+          134,
+          135,
+          136,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          172,
+          179,
+          180,
+          194,
+          195,
+          255,
+          258,
+          311,
+          312,
+          702,
+          909,
+          912,
+          921
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          8,
+          9,
+          25,
+          54,
+          55,
+          58,
+          79,
+          80,
+          134,
+          158,
+          159,
+          160,
+          194,
+          195,
+          199,
+          258,
+          909,
+          910,
+          912,
+          913
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          37,
+          38,
+          58,
+          59,
+          136,
+          155,
+          156,
+          157,
+          194,
+          195,
+          255,
+          258,
+          909,
+          910
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          25,
+          26,
+          37,
+          38,
+          58,
+          59,
+          134,
+          135,
+          136,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          172,
+          179,
+          180,
+          181,
+          255,
+          258,
+          311,
+          312,
+          702,
+          909,
+          910,
+          912,
+          913,
+          921,
+          922,
+          923
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          25,
+          26,
+          135,
+          172,
+          179,
+          180,
+          181,
+          194,
+          195,
+          311,
+          312,
+          403,
+          404,
+          405,
+          702,
+          909,
+          910,
+          912,
+          913,
+          921,
+          922,
+          923
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      }
+    ],
+    "new-moon-day-5": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-333130353935313939363135313037303733": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          177,
+          178
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          177,
+          178
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          177,
+          178
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          19,
+          23,
+          37,
+          56,
+          84,
+          104,
+          152,
+          155,
+          158,
+          172,
+          173,
+          215,
+          228,
+          252,
+          255,
+          258,
+          287,
+          333,
+          353,
+          363,
+          517,
+          627,
+          778
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          19,
+          23,
+          56,
+          152,
+          158,
+          173,
+          252,
+          258,
+          363,
+          627
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          19,
+          23,
+          37,
+          95,
+          104,
+          155,
+          173,
+          228,
+          255,
+          258,
+          353
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          19,
+          7006,
+          56,
+          104,
+          173,
+          215,
+          287,
+          333,
+          363,
+          627
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          23,
+          56,
+          84,
+          152,
+          172,
+          173,
+          252,
+          255,
+          333,
+          517
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          23,
+          172,
+          173,
+          252,
+          353,
+          517,
+          778
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          37,
+          7006,
+          84,
+          95,
+          104,
+          152,
+          155,
+          158,
+          172,
+          173,
+          215,
+          228,
+          252,
+          255,
+          258,
+          287,
+          333,
+          353,
+          363,
+          517,
+          627,
+          778
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "good-sleep-day-27": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "new-moon-day-6": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-333234393733393633373438383335333239": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          9005,
+          710,
+          71002,
+          71003,
+          71004,
+          711,
+          71102,
+          71103,
+          71104
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9001,
+          92,
+          93,
+          94,
+          353,
+          354,
+          425,
+          426,
+          778,
+          911
+        ]
+      }
+    ],
+    "good-sleep-day-28": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-333237353138353233343831393135333933": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          328,
+          371,
+          557
+        ]
+      }
+    ],
+    "new-moon-day-7": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-333335323431333932313634393632333035": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          442
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          442
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          442
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          442
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          442
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          50,
+          69,
+          74,
+          83,
+          115,
+          132,
+          194,
+          7054,
+          246,
+          303,
+          359,
+          453,
+          710,
+          71002,
+          71003,
+          71004,
+          764,
+          845,
+          912
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          50,
+          69,
+          83,
+          115,
+          132,
+          194,
+          439,
+          453,
+          764,
+          845,
+          912
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          50,
+          74,
+          132,
+          194,
+          7054,
+          246,
+          303,
+          453
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          69,
+          74,
+          132,
+          359,
+          453,
+          459,
+          845
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          69,
+          132,
+          759,
+          764,
+          912
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          50,
+          74,
+          83,
+          132,
+          194,
+          303,
+          403,
+          439,
+          710,
+          71002,
+          71003,
+          71004,
+          736,
+          912
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          83,
+          115,
+          132,
+          7054,
+          246,
+          303,
+          359,
+          459,
+          710,
+          71002,
+          71003,
+          71004,
+          764,
+          845,
+          912
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          115,
+          132,
+          7054,
+          246,
+          303,
+          710,
+          71002,
+          71003,
+          71004
+        ],
+        "islands": [
+          "canyon"
+        ]
+      }
+    ],
+    "good-sleep-day-29": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "new-moon-day-8": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-333432383533383734343936383331343930": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          9006,
+          777,
+          974,
+          975
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9002,
+          9004
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7006,
+          7007,
+          225,
+          363,
+          364,
+          365,
+          459,
+          460,
+          471,
+          921,
+          922,
+          923
+        ]
+      }
+    ],
+    "announcement-333435333139353737393034373432343032": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          83,
+          113,
+          7054,
+          198,
+          242,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          303,
+          430,
+          440,
+          517,
+          518,
+          627,
+          628,
+          980
+        ],
+        "label": "第1周"
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          177,
+          178,
+          311,
+          312,
+          328,
+          329,
+          330,
+          371,
+          372,
+          373,
+          442,
+          557,
+          558,
+          710,
+          71002,
+          71003,
+          71004,
+          711,
+          71102,
+          71103,
+          71104,
+          848,
+          849,
+          8001
+        ],
+        "label": "第2周"
+      }
+    ],
+    "good-sleep-day-30": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "new-moon-day-9": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-333532393033333230353235383634393631": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          213
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          213
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          213
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          213
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          213
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          58,
+          79,
+          81,
+          133,
+          174,
+          175,
+          179,
+          198,
+          214,
+          252,
+          311,
+          312,
+          316,
+          360,
+          425,
+          438,
+          447,
+          627,
+          702,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          58,
+          79,
+          133,
+          174,
+          214,
+          252,
+          316,
+          438,
+          627
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          58,
+          133,
+          174,
+          175,
+          302,
+          316,
+          360,
+          447
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          79,
+          133,
+          175,
+          179,
+          198,
+          316,
+          360,
+          447,
+          627,
+          777,
+          921
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          79,
+          133,
+          174,
+          175,
+          252,
+          280,
+          360,
+          447,
+          702
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          58,
+          81,
+          133,
+          179,
+          198,
+          214,
+          252,
+          280,
+          302,
+          311,
+          312,
+          425,
+          438,
+          627,
+          702,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          81,
+          133,
+          179,
+          198,
+          252,
+          311,
+          312,
+          425,
+          702,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          133,
+          214,
+          311,
+          312,
+          557,
+          627,
+          777,
+          848
+        ],
+        "islands": [
+          "canyon"
+        ]
+      }
+    ],
+    "good-sleep-day-31": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-333630353432383839393136323335373832": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          742,
+          743
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          742,
+          743
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          742,
+          743
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          742,
+          743
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          742,
+          743
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          1,
+          127,
+          132,
+          7054,
+          303,
+          359,
+          453,
+          764,
+          845
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          127,
+          132,
+          453,
+          764,
+          845
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          132,
+          7054,
+          303,
+          453
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          132,
+          359,
+          453,
+          845
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          1,
+          132,
+          759,
+          764
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          132,
+          303
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          127,
+          132,
+          7054,
+          303
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          1,
+          127,
+          132,
+          7054,
+          303,
+          359,
+          764,
+          845
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "new-moon-day-10": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-333731343130383939323833343736343831": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          906,
+          907,
+          908,
+          909,
+          912
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          7,
+          8,
+          9,
+          152,
+          158,
+          159,
+          160,
+          252,
+          253,
+          254,
+          258,
+          259,
+          260,
+          909,
+          910,
+          911,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          155,
+          156,
+          157,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          909,
+          910,
+          911
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          1,
+          2,
+          3,
+          7,
+          8,
+          9,
+          152,
+          153,
+          154,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          906,
+          907,
+          908,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          252,
+          253,
+          254,
+          906,
+          907,
+          908,
+          909,
+          910,
+          911,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          906,
+          907,
+          908,
+          909,
+          910,
+          911,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "good-sleep-day-32": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "new-moon-day-11": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ],
+        "label": "所有日子"
+      }
+    ],
+    "announcement-333736343238363738393233343139363534": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          714,
+          715
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          714,
+          715
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          714,
+          715
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          714,
+          715
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          58,
+          79,
+          81,
+          133,
+          174,
+          175,
+          179,
+          198,
+          213,
+          214,
+          252,
+          311,
+          312,
+          316,
+          360,
+          425,
+          438,
+          447,
+          627,
+          702,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          58,
+          79,
+          133,
+          174,
+          213,
+          214,
+          252,
+          316,
+          438,
+          627
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          58,
+          133,
+          174,
+          175,
+          213,
+          302,
+          316,
+          360,
+          447
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          79,
+          133,
+          175,
+          179,
+          198,
+          316,
+          360,
+          447,
+          627,
+          777,
+          921
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          79,
+          133,
+          174,
+          175,
+          252,
+          280,
+          360,
+          447,
+          702
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          81,
+          133,
+          179,
+          198,
+          252,
+          311,
+          312,
+          425,
+          702,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          133,
+          213,
+          214,
+          311,
+          312,
+          557,
+          627,
+          777,
+          848
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          58,
+          81,
+          133,
+          179,
+          198,
+          213,
+          214,
+          252,
+          280,
+          302,
+          311,
+          312,
+          425,
+          438,
+          627,
+          702,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "good-sleep-day-33": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-333738363536323735393239343937363031": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          380
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          380
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          380
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          380
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          58,
+          79,
+          81,
+          133,
+          174,
+          175,
+          179,
+          198,
+          213,
+          214,
+          252,
+          311,
+          312,
+          316,
+          360,
+          425,
+          438,
+          447,
+          627,
+          702,
+          714,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          54,
+          79,
+          133,
+          174,
+          175,
+          252,
+          280,
+          360,
+          447,
+          702
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          133,
+          213,
+          214,
+          311,
+          312,
+          557,
+          627,
+          714,
+          777,
+          848
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          58,
+          81,
+          133,
+          179,
+          198,
+          213,
+          214,
+          252,
+          280,
+          302,
+          311,
+          312,
+          425,
+          438,
+          627,
+          702,
+          714,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "new-moon-day-12": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          151,
+          491
+        ]
+      }
+    ],
+    "announcement-333838303837343130373734323435333737": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          27,
+          28
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          27,
+          28
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          27,
+          28
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          27,
+          28
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          194,
+          255,
+          258,
+          425,
+          442,
+          710,
+          71002,
+          71003,
+          71004,
+          764,
+          906,
+          974
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          194,
+          258,
+          764
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          194,
+          255,
+          258
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          442,
+          974
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          255,
+          442,
+          759,
+          764,
+          906
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          194,
+          425,
+          710,
+          71002,
+          71003,
+          71004,
+          906
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          255,
+          258,
+          371,
+          442,
+          710,
+          71002,
+          71003,
+          71004
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          255,
+          258,
+          425,
+          442,
+          710,
+          71002,
+          71003,
+          71004,
+          764,
+          906,
+          974
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "good-sleep-day-34": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-333933313532393833363139303736313030": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          696,
+          697
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          696,
+          697
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          696,
+          697
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          696,
+          697
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          19,
+          23,
+          37,
+          56,
+          84,
+          104,
+          152,
+          155,
+          158,
+          172,
+          173,
+          177,
+          215,
+          228,
+          252,
+          255,
+          258,
+          287,
+          333,
+          353,
+          363,
+          517,
+          627,
+          778
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          19,
+          23,
+          56,
+          152,
+          158,
+          173,
+          252,
+          258,
+          363,
+          627
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          19,
+          23,
+          37,
+          95,
+          104,
+          155,
+          173,
+          228,
+          255,
+          258,
+          353
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          19,
+          7006,
+          56,
+          104,
+          173,
+          215,
+          287,
+          333,
+          363,
+          627
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          23,
+          56,
+          84,
+          152,
+          172,
+          173,
+          177,
+          252,
+          255,
+          333,
+          517
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          23,
+          172,
+          173,
+          252,
+          353,
+          517,
+          778
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          23,
+          37,
+          173,
+          177,
+          255,
+          258,
+          333,
+          371,
+          517,
+          627
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          37,
+          7006,
+          84,
+          95,
+          104,
+          152,
+          155,
+          158,
+          172,
+          173,
+          177,
+          215,
+          228,
+          252,
+          255,
+          258,
+          287,
+          333,
+          353,
+          363,
+          517,
+          627,
+          778
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "new-moon-day-13": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          151,
+          491
+        ]
+      }
+    ],
+    "announcement-333938393539333531343033393035303236": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          780
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          780
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          780
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          780
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          147,
+          371,
+          714,
+          715
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          714,
+          715
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          334
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          147,
+          148,
+          149,
+          334
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          334,
+          371,
+          372,
+          373,
+          714,
+          715
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          147,
+          334,
+          371,
+          714,
+          715
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "good-sleep-day-35": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-343031343632313536343838333433353533": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          381
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          381
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          381
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          381
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          147,
+          371,
+          380,
+          714,
+          715,
+          780
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          147,
+          148,
+          149,
+          334,
+          380,
+          780
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          334,
+          371,
+          372,
+          373,
+          380,
+          714,
+          715,
+          780
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          147,
+          334,
+          371,
+          380,
+          714,
+          715,
+          780
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "new-moon-day-14": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          151,
+          491
+        ]
+      }
+    ],
+    "good-sleep-day-36": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-343136333639393638323834363936353833": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          311,
+          312
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          252,
+          253,
+          254
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          258,
+          259,
+          260
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          252,
+          253,
+          254,
+          255,
+          256,
+          257
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          311,
+          312
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          311,
+          312
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          311,
+          312
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "announcement-343138383632323539383937333638353830": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          387,
+          390,
+          393
+        ],
+        "label": "第1周"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          387,
+          388,
+          389,
+          390,
+          391,
+          392,
+          393,
+          394,
+          395
+        ],
+        "label": "第2周"
+      }
+    ],
+    "new-moon-day-15": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          151,
+          491
+        ]
+      }
+    ],
+    "good-sleep-day-37": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-343233393938313932373939393733333835": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          701
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          701
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          701
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          701
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          701
+        ],
+        "islands": [
+          "cyanex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          10,
+          54,
+          79,
+          83,
+          84,
+          127,
+          158,
+          194,
+          213,
+          214,
+          225,
+          258,
+          333,
+          393,
+          627,
+          845,
+          912
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          10,
+          54,
+          79,
+          83,
+          127,
+          158,
+          194,
+          213,
+          214,
+          393,
+          627,
+          845
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          213,
+          258
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          225,
+          333,
+          393,
+          845
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          84,
+          912
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          10,
+          83,
+          736
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          127,
+          214,
+          557,
+          627
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          10,
+          83,
+          84,
+          127,
+          158,
+          213,
+          214,
+          225,
+          258,
+          333,
+          393,
+          627,
+          845,
+          912
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          54,
+          83,
+          127,
+          158,
+          213,
+          214,
+          258,
+          393,
+          627,
+          736,
+          845
+        ],
+        "islands": [
+          "cyanex"
+        ]
+      }
+    ],
+    "new-moon-day-16": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          151,
+          491
+        ]
+      }
+    ],
+    "announcement-343238373030393436303937323432313138": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9007,
+          957,
+          958,
+          959
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9007,
+          957,
+          958,
+          959
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9007
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9007
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9007
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9007,
+          957,
+          958,
+          959
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9007
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9007,
+          957,
+          958,
+          959
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9007,
+          957,
+          958,
+          959
+        ],
+        "islands": [
+          "cyanex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          113,
+          194,
+          195,
+          242,
+          440,
+          447,
+          906,
+          907,
+          908,
+          909,
+          912
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          194,
+          195,
+          909,
+          910,
+          911
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          302,
+          447,
+          909,
+          910,
+          911
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          113,
+          242,
+          440,
+          447,
+          448
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          147,
+          148,
+          149,
+          906,
+          907,
+          908,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          113,
+          242,
+          440
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          113,
+          242,
+          302,
+          440,
+          906,
+          907,
+          908,
+          909,
+          910,
+          911,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          113,
+          147,
+          148,
+          149,
+          242,
+          440
+        ],
+        "islands": [
+          "cyanex"
+        ]
+      }
+    ],
+    "good-sleep-day-38": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-343239373432303836333334343437363238": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          177,
+          178,
+          196,
+          202,
+          360,
+          517,
+          518
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          122,
+          439
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          177,
+          196,
+          202,
+          280,
+          281,
+          282,
+          360,
+          517,
+          518
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          177,
+          178
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          177,
+          178,
+          196,
+          280,
+          281,
+          282,
+          517,
+          518
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "new-moon-day-17": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          151,
+          491
+        ]
+      }
+    ],
+    "announcement-343239383235333132353739313235323439": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          150
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          150
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          177,
+          178,
+          196,
+          202,
+          360,
+          517,
+          518
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          177,
+          178,
+          196,
+          280,
+          281,
+          282,
+          517,
+          518
+        ],
+        "islands": [
+          "greenex"
+        ]
+      }
+    ],
+    "good-sleep-day-39": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-343430323735323935393936343737343435": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          590,
+          591
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          590,
+          591
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          590,
+          591
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          590,
+          591
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          590,
+          591
+        ],
+        "islands": [
+          "cyanex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          1,
+          4,
+          7,
+          83,
+          92,
+          127,
+          132,
+          194,
+          225,
+          303,
+          440,
+          442,
+          453,
+          742,
+          845,
+          906,
+          909,
+          974
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          83,
+          127,
+          132,
+          194,
+          453,
+          742,
+          845,
+          909
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          4,
+          92,
+          132,
+          909
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          132,
+          225,
+          440,
+          442,
+          845,
+          974
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          1,
+          132,
+          147,
+          906
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          83,
+          92,
+          132,
+          303,
+          304
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          127,
+          132,
+          303,
+          440,
+          442
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          1,
+          4,
+          7,
+          83,
+          127,
+          132,
+          225,
+          303,
+          304,
+          440,
+          442,
+          742,
+          845,
+          906,
+          909,
+          974
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          83,
+          127,
+          132,
+          147,
+          440,
+          453,
+          742,
+          845
+        ],
+        "islands": [
+          "cyanex"
+        ]
+      }
+    ],
+    "new-moon-day-18": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          151,
+          491
+        ]
+      }
+    ],
+    "good-sleep-day-40": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          151
+        ],
+        "label": "所有日子"
+      },
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "announcement-343433383634343334323138313036383834": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          9005,
+          200,
+          429
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9001
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          92,
+          93,
+          94,
+          353,
+          354,
+          425,
+          426,
+          710,
+          71002,
+          71003,
+          71004,
+          711,
+          71102,
+          71103,
+          71104,
+          778,
+          911
+        ]
+      }
+    ],
+    "halloween-2026": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          9005,
+          200,
+          429
+        ],
+        "islands": [
+          "greengrass",
+          "greenex"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          9001
+        ],
+        "islands": [
+          "greengrass",
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          92,
+          93,
+          94,
+          353,
+          354,
+          425,
+          426,
+          710,
+          71002,
+          71003,
+          71004,
+          711,
+          71102,
+          71103,
+          71104,
+          778,
+          911
+        ],
+        "islands": [
+          "greengrass",
+          "greenex"
+        ]
+      }
+    ],
+    "meal-prep-vol1-2026": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          27,
+          28,
+          50,
+          51,
+          69,
+          70,
+          71,
+          74,
+          75,
+          113,
+          115,
+          132,
+          198,
+          225,
+          242,
+          246,
+          303,
+          328,
+          403,
+          430,
+          439,
+          440,
+          459,
+          557,
+          701,
+          710,
+          71002,
+          71003,
+          71004,
+          711,
+          71102,
+          71103,
+          71104,
+          742,
+          743,
+          759,
+          764,
+          780,
+          912
+        ],
+        "islands": [
+          "greengrass"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          69,
+          115,
+          122,
+          132,
+          439,
+          701,
+          742,
+          743,
+          764
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          27,
+          28,
+          50,
+          51,
+          74,
+          75,
+          76,
+          132,
+          246,
+          247,
+          248,
+          328,
+          329,
+          330
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          113,
+          132,
+          198,
+          225,
+          242,
+          430,
+          440,
+          459,
+          460
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          69,
+          70,
+          71,
+          132,
+          701,
+          759,
+          760,
+          780,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          132,
+          198,
+          303,
+          403,
+          404,
+          405,
+          430,
+          710,
+          71002,
+          71003,
+          71004,
+          711,
+          71102,
+          71103,
+          71104
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          27,
+          28,
+          113,
+          132,
+          242,
+          246,
+          303,
+          328,
+          329,
+          330,
+          440,
+          557,
+          558,
+          780
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          27,
+          28,
+          50,
+          69,
+          74,
+          113,
+          115,
+          132,
+          198,
+          225,
+          242,
+          246,
+          247,
+          248,
+          303,
+          328,
+          403,
+          430,
+          439,
+          440,
+          459,
+          460,
+          557,
+          701,
+          710,
+          71002,
+          71003,
+          71004,
+          711,
+          71102,
+          71103,
+          71104,
+          742,
+          743,
+          759,
+          764,
+          780,
+          912,
+          913,
+          914
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          113,
+          132,
+          242,
+          440,
+          701,
+          742,
+          743,
+          764,
+          780
+        ],
+        "islands": [
+          "cyanex"
+        ]
+      }
+    ],
+    "new-moon-day-19": [
+      {
+        "tier": "special",
+        "pokemonIds": [
+          491
+        ]
+      }
+    ],
+    "all-you-can-eat-vol1-2026": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          546,
+          547
+        ],
+        "islands": [
+          "greengrass",
+          "cyan",
+          "canyon",
+          "greenex",
+          "cyanex"
+        ]
+      }
+    ],
+    "halloween-2023": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          9001,
+          92,
+          93,
+          94
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          52,
+          104
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          353,
+          354
+        ]
+      }
+    ],
+    "eevee-week-2023": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          133
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          134,
+          135,
+          136,
+          196,
+          197,
+          470,
+          471,
+          700
+        ]
+      }
+    ],
+    "holiday-2023": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          9002
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          225,
+          471,
+          363
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          459,
+          460
+        ]
+      }
+    ],
+    "new-year-2024": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          1,
+          4,
+          7,
+          25,
+          459,
+          460
+        ]
+      }
+    ],
+    "valentines-2024": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          1,
+          39,
+          79,
+          127,
+          152,
+          359
+        ]
+      }
+    ],
+    "electric-type-week": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          25,
+          26,
+          135,
+          172,
+          179,
+          180,
+          181,
+          702
+        ]
+      }
+    ],
+    "raikou-research": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          25,
+          26,
+          135,
+          243,
+          172,
+          179,
+          180,
+          702
+        ]
+      }
+    ],
+    "entei-research": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          37,
+          38,
+          58,
+          136,
+          155,
+          156,
+          157,
+          244
+        ]
+      }
+    ],
+    "water-type-week": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          7,
+          8,
+          9,
+          54,
+          55,
+          79,
+          80,
+          134,
+          158,
+          159,
+          160,
+          194,
+          195,
+          199,
+          912,
+          913
+        ]
+      }
+    ],
+    "suicune-research": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          7,
+          8,
+          9,
+          54,
+          55,
+          79,
+          80,
+          134,
+          158,
+          159,
+          160,
+          194,
+          195,
+          199,
+          245,
+          912,
+          913
+        ]
+      }
+    ],
+    "old-gold-power-plant-debut": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          304,
+          403,
+          736,
+          425
+        ]
+      }
+    ],
+    "halloween-2024": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          92,
+          93,
+          94,
+          353,
+          354,
+          425,
+          426,
+          911
+        ]
+      },
+      {
+        "tier": "large",
+        "pokemonIds": [
+          9001,
+          778
+        ]
+      }
+    ],
+    "eevee-week-2024": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          133
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          134,
+          135,
+          136,
+          196,
+          197,
+          470,
+          471,
+          700
+        ]
+      }
+    ],
+    "lapis-lakeside-opening": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          147,
+          280,
+          759
+        ]
+      }
+    ],
+    "good-sleep-day-2": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-3": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-4": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-5": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-6": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-7": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-8": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-9": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-10": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-11": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-12": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-13": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-14": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-15": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "good-sleep-day-16": [
+      {
+        "tier": "large",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第2天（满月之日）"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          35,
+          36,
+          173
+        ],
+        "label": "第1天、第3天"
+      }
+    ],
+    "flower-festival-2024": [
+      {
+        "pokemonIds": [
+          1,
+          2,
+          3,
+          69,
+          70,
+          71,
+          152,
+          153,
+          154,
+          470,
+          35,
+          36,
+          39,
+          40,
+          173,
+          174,
+          175,
+          176,
+          468,
+          700,
+          764
+        ]
+      }
+    ],
+    "fire-type-week": [
+      {
+        "pokemonIds": [
+          4,
+          5,
+          6,
+          37,
+          38,
+          58,
+          59,
+          136,
+          155,
+          156,
+          157
+        ]
+      }
+    ],
+    "summer-festival-2024": [
+      {
+        "pokemonIds": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          54,
+          55,
+          79,
+          80,
+          84,
+          85,
+          127,
+          134,
+          158,
+          159,
+          160,
+          199,
+          214,
+          225,
+          333,
+          845
+        ]
+      }
+    ],
+    "first-anniversary-fest": [
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          906,
+          909,
+          912
+        ],
+        "islands": [
+          "greengrass"
+        ],
+        "label": "第1周"
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          906,
+          907,
+          908,
+          909,
+          910,
+          911,
+          912,
+          913,
+          914
+        ],
+        "label": "第2周"
+      }
+    ]
+  }
 }

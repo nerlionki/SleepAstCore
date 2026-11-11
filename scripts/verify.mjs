@@ -64,8 +64,9 @@ const bundleTextPairs = data['compatibility-maps.json'].modules.text.PAIR
 validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], manifest.assets, bundleItems)
 if (api === '2') {
   validateI18n(data['meta.json'].i18n)
-  validateActivityArchive(data['meta.json'].activityArchive)
+  validateActivityArchive(data['meta.json'].activityArchive, data)
   const archive = data['meta.json'].archivedEventBundles
+  validateBundleArtwork(archive, data['pokedex.json'], manifest.assets, [])
   const eventIds = new Set([...data['activities.json'].activities, ...data['meta.json'].activityArchive.events].map(event => event.id))
   const rebuilt = buildEventBundles(archive, bundleItems, bundleTextPairs, true)
   if (JSON.stringify(archive) !== JSON.stringify(rebuilt) || archive.bundles.some(bundle => !eventIds.has(bundle.eventId))) {

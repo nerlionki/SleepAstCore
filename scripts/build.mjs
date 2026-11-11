@@ -41,7 +41,7 @@ data['meta.json'].eventBundles = buildEventBundles(JSON.parse(await fs.readFile(
 if (api === '2') {
   data['meta.json'].i18n = validateI18n(JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/i18n.json'), 'utf8')))
   const archive = JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/activity-archive.json'), 'utf8'))
-  validateActivityArchive(archive)
+  validateActivityArchive(archive, data)
   data['meta.json'].activityArchive = archive
   const archivedBundles = JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/archived-event-bundles.json'), 'utf8'))
   data['meta.json'].archivedEventBundles = buildEventBundles(archivedBundles, bundleItems, bundleTextPairs, true)
@@ -96,6 +96,7 @@ await copyImages(path.join(root, 'public/items'), 'items/')
 await copyImages(path.join(root, 'public/sprites'), 'sprites/')
 validateIdImages(data, assets)
 validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], assets, bundleItems)
+if (api === '2') validateBundleArtwork(data['meta.json'].archivedEventBundles, data['pokedex.json'], assets, [])
 if (api === '2') for (const rows of Object.values(data['meta.json'].announcedContent ?? {})) {
   if (!Array.isArray(rows)) continue
   for (const row of rows) if (row?.imageFile && !assets['images/' + row.imageFile]) throw new Error('Missing announced image: ' + row.imageFile)
