@@ -8,6 +8,7 @@ import { installProductionRankings } from './production-rankings.mjs'
 import { buildEventBundles, bundleItemCatalog, validateBundleArtwork } from './event-bundles.mjs'
 import { validateI18n } from './i18n.mjs'
 import { validateActivityArchive } from './activity-archive.mjs'
+import { validateShinyStacking } from './shiny-stacking.mjs'
 import { validateSkillResources } from './validate-skill-resources.mjs'
 import { validateIdImages } from './id-images.mjs'
 import { installItemCatalog } from './item-catalog.mjs'
@@ -43,6 +44,10 @@ if (api === '2') {
   const archive = JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/activity-archive.json'), 'utf8'))
   validateActivityArchive(archive, data)
   data['meta.json'].activityArchive = archive
+  data['meta.json'].shinyStacking = validateShinyStacking(
+    JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/shiny-stacking.json'), 'utf8')),
+    data
+  )
   const archivedBundles = JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/archived-event-bundles.json'), 'utf8'))
   data['meta.json'].archivedEventBundles = buildEventBundles(archivedBundles, bundleItems, bundleTextPairs, true)
   const eventIds = new Set([...data['activities.json'].activities, ...archive.events].map(event => event.id))
@@ -103,8 +108,9 @@ await copyImages(path.join(root, 'src/assets/imgs'), 'images/')
 await copyImages(path.join(root, 'public/items'), 'items/')
 await copyImages(path.join(root, 'public/sprites'), 'sprites/')
 validateIdImages(data, assets)
-validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], assets, bundleItems)
-if (api === '2') validateBundleArtwork(data['meta.json'].archivedEventBundles, data['pokedex.json'], assets, [])
+const announcedPokemon = data['meta.json'].announcedContent?.pokemon ?? []
+validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], assets, bundleItems, announcedPokemon)
+if (api === '2') validateBundleArtwork(data['meta.json'].archivedEventBundles, data['pokedex.json'], assets, [], announcedPokemon)
 if (api === '2') for (const rows of Object.values(data['meta.json'].announcedContent ?? {})) {
   if (!Array.isArray(rows)) continue
   for (const row of rows) if (row?.imageFile && !assets['images/' + row.imageFile]) throw new Error('Missing announced image: ' + row.imageFile)

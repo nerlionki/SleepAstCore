@@ -1,7 +1,7 @@
 {
   "version": "2026-10-26",
   "source": "Sleep游戏资料.md",
-  "pokedex": 251,
+  "pokedex": 252,
   "recipes": 81,
   "islands": 9,
   "sleepStyles": 2789,
@@ -169,7 +169,7 @@
   },
   "activityModel": {
     "version": 2,
-    "officialArchiveCheckedOn": "2026-11-04",
+    "officialArchiveCheckedOn": "2026-11-11",
     "archiveIndexPages": 79,
     "uniqueAnnouncements": 382,
     "integerSkillIngredientRounding": "floor-total-before-allocation",

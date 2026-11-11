@@ -1,0 +1,119 @@
+{
+  "directory": "/workspace/pokesleepast-notes/historical-activity-bonuses",
+  "files": [
+    {
+      "path": "activities.json",
+      "bytes": 353015,
+      "sha256": "7186ee94c0b3dd6dafb56202c2d4c59198e5d92f355033dcf44f8c3f12814f40"
+    },
+    {
+      "path": "activity-archive.json",
+      "bytes": 294717,
+      "sha256": "13e45b6b909d4382ed94c229ff3fdf7df41d53cc1d5807d8195aa80efe7650e5"
+    },
+    {
+      "path": "activity-audit.json",
+      "bytes": 82167,
+      "sha256": "d411b5511106df8156e15f7cece9d6f9992e272ad2d1226f5739411e1b0b3600"
+    },
+    {
+      "path": "archive-bonus-audit.json",
+      "bytes": 252427,
+      "sha256": "857ac4b0302f035b82f7f3db09e390d72cf6a6f25236a4a837d2274ea93ff130"
+    },
+    {
+      "path": "archived-event-bundles.json",
+      "bytes": 384349,
+      "sha256": "5a107b3b7c587ba1a43f7a8e99e606583dfe8a900f6f0325d14cad38c7aae75f"
+    },
+    {
+      "path": "collect.py",
+      "bytes": 34545,
+      "sha256": "a9e9ab035ad43c7593ab22910723fad061da28f8159d24d645c05b188acd15d3"
+    },
+    {
+      "path": "collect_i18n.py",
+      "bytes": 13050,
+      "sha256": "ec9b7322bd634902e85d68e90a18574b426e994576cc7e5ebd461c207992d9ad"
+    },
+    {
+      "path": "collect_packs.py",
+      "bytes": 7813,
+      "sha256": "7546838c2805202118d64ac962500afc6608717139ac6735c81a8f2113f12d84"
+    },
+    {
+      "path": "conflicts.json",
+      "bytes": 16125,
+      "sha256": "2eff6ab42481074971a0dc2c64711c061aecc5cb3168a4c6ac2e73e75a251988"
+    },
+    {
+      "path": "encounter-audit.json",
+      "bytes": 192357,
+      "sha256": "c6542c78e7f327dca5f9d1b456c2e8d872f48477ff0f04fa035305fe87e059eb"
+    },
+    {
+      "path": "event-bundles.json",
+      "bytes": 9061,
+      "sha256": "09ca70e89d733eadc7b3d3b969014d9f37507efb612a5d68df8b28d8a3b136c6"
+    },
+    {
+      "path": "fetch_sources.py",
+      "bytes": 1786,
+      "sha256": "97d16440cd86a1a42ba2e38e59c8cd3cf177858de51f0de6cf1a7de4332498c1"
+    },
+    {
+      "path": "fetch_wiki.py",
+      "bytes": 1247,
+      "sha256": "37237ecea1c16fcb6ddc1001ff4d7402fe556aa55c94e23434e6dd293117581a"
+    },
+    {
+      "path": "finalize.py",
+      "bytes": 26230,
+      "sha256": "f081c34a33e94a85a5ac08bd5eed9200c0f1b8f55c5ab77cfaef0900295f610b"
+    },
+    {
+      "path": "i18n-audit.json",
+      "bytes": 3252955,
+      "sha256": "c7804d51a432f95923cf30fcdf0a26a4b51fdf5056150aed1bbce76bf746391f"
+    },
+    {
+      "path": "i18n-entry-map.json",
+      "bytes": 820563,
+      "sha256": "ea5c699c3b293abdb4aedb605265c707c61d16a02733e36157aac816cd068c1a"
+    },
+    {
+      "path": "i18n-four-locales.json",
+      "bytes": 182124,
+      "sha256": "d12216b2cb6387e2be6a736b6fedb3fd29560378bb7887560d1a529653678f19"
+    },
+    {
+      "path": "i18n.json",
+      "bytes": 765394,
+      "sha256": "094efe7d5eec62ea58adf48a22aad886bea5e483c998166e9337ac36ca7b2952"
+    },
+    {
+      "path": "packs-audit.json",
+      "bytes": 486964,
+      "sha256": "cc3d0287d13ffa728498a39b5db013667da43c6595a7a516074b814e563e31d0"
+    },
+    {
+      "path": "shiny-stacking.json",
+      "bytes": 33472,
+      "sha256": "99d994b9dac80ac869b0a5baa1f16e7449dc7a014c4904a3e78122d43f9457f2"
+    },
+    {
+      "path": "validation-report.json",
+      "bytes": 3674,
+      "sha256": "631e7e6b31b94774f08770cbe2e3164722e42caabca09ca9e47b820ad8446710"
+    },
+    {
+      "path": "覆盖说明.md",
+      "bytes": 12386,
+      "sha256": "f24f499ca9d05d570df07d252b095b3db5658d3ed7f681a92330cf632f10b205"
+    }
+  ],
+  "evidenceFiles": 247,
+  "evidenceBytes": 6666275,
+  "repoModified": false,
+  "notes": "Standalone files only. .venv is an isolated helper environment, not a project build. Evidence and scripts do not modify any repository."
+}

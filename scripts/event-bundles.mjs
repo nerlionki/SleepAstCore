@@ -16,7 +16,9 @@ export function validateEventBundles(value, archive = false) {
     valid(date(row.eventEndsOn) && (archive && row.announcedOn === null || date(row.announcedOn) && row.announcedOn <= row.eventEndsOn))
     if (archive) valid(text(row.eventId))
     const dateTime = value => typeof value === 'string' && /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(value) && Number.isFinite(Date.parse(value))
-    valid(archive && date(row.saleStartsAt) && date(row.saleEndsAt) && row.saleStartsAt <= row.saleEndsAt
+    const unknownArchiveSale = archive && row.saleStartsAt === null && row.saleEndsAt === null
+    valid(unknownArchiveSale
+      || archive && date(row.saleStartsAt) && date(row.saleEndsAt) && row.saleStartsAt <= row.saleEndsAt
       || dateTime(row.saleStartsAt) && dateTime(row.saleEndsAt) && row.saleStartsAt < row.saleEndsAt)
     valid(object(row.price) && text(row.price.unit) && Number.isSafeInteger(row.price.amount) && row.price.amount >= 0 && Number.isSafeInteger(row.purchaseLimit) && row.purchaseLimit > 0)
     valid(Array.isArray(row.items) && row.items.length > 0 && row.items.every(item => object(item) && text(item.name) && Number.isSafeInteger(item.quantity) && item.quantity > 0
@@ -30,8 +32,13 @@ export function validateEventBundles(value, archive = false) {
         && Number.isSafeInteger(item.pokemonIncense.pokemonId) && item.pokemonIncense.pokemonId > 0
         && Number.isSafeInteger(item.pokemonIncense.typeId) && item.pokemonIncense.typeId >= 1 && item.pokemonIncense.typeId <= 18)))
     if (row.valuation !== undefined) valid(validateBundleValuation(row.valuation, row.items.map(item => item.name)))
+    const officialSourceUrl = url => {
+      if (/^https:\/\/www\.pokemonsleep\.net\//.test(url)) return true
+      const wrapped = url.match(/^https:\/\/web\.archive\.org\/web\/\d+(?:id_)?\/(https:\/\/www\.pokemonsleep\.net\/.*)$/)
+      return wrapped != null && /^https:\/\/www\.pokemonsleep\.net\//.test(wrapped[1])
+    }
     valid(Array.isArray(row.sources) && row.sources.length > 0 && row.sources.every(source => object(source) && typeof source.url === 'string'
-      && (source.kind === 'official' && /^https:\/\/www\.pokemonsleep\.net\//.test(source.url)
+      && (source.kind === 'official' && officialSourceUrl(source.url)
         || source.kind === 'rae' && /^https:\/\/pks\.raenonx\.cc\//.test(source.url)
         || archive && source.kind === 'wiki' && /^https:\/\/bulbapedia\.bulbagarden\.net\/wiki\//.test(source.url))))
   }
@@ -111,26 +118,34 @@ export function buildEventBundles(value, items, pairs = [], archive = false) {
 }
 // RAE PokemonType order from the attached incense manifest. These are image IDs, not item IDs.
 const incenseTypes = ['一般', '火', '水', '电', '草', '冰', '格斗', '毒', '地面', '飞行', '超能', '虫', '岩石', '幽灵', '龙', '恶', '钢', '妖精']
-export function validateBundleArtwork(catalog, pokedex, assets, items) {
+export function resolveBundlePokemon(pokedex, announcedPokemon, id) {
+  const fromPokedex = pokedex.find(poke => poke.id === id)
+  if (fromPokedex) return fromPokedex
+  const announced = announcedPokemon.find(row => row.imageId === id || row.nationalDex === id)
+  if (!announced || typeof announced.type !== 'string') return undefined
+  return { id, name: announced.name, berryType: announced.type }
+}
+export function validateBundleArtwork(catalog, pokedex, assets, items, announcedPokemon = []) {
+  const pokemonFor = id => resolveBundlePokemon(pokedex, announcedPokemon, id)
   for (const item of items) {
     const linked = item.pokemonItem
     if (!linked) continue
     if (!assets[item.imageFile]) throw Error(`Missing Pokémon item artwork: ${item.id}`)
     if (linked.kind !== 'incense') continue
-    const pokemon = pokedex.find(poke => poke.id === linked.pokemonId)
+    const pokemon = pokemonFor(linked.pokemonId)
     if (!pokemon || pokemon.berryType !== incenseTypes[linked.typeId - 1]
       || !assets[`images/incense/pokemon/${linked.typeId}.webp`] || !assets[`images/pokemon/icons/${linked.pokemonId}.webp`]) {
       throw Error(`Invalid Pokémon incense artwork: ${item.id}`)
     }
   }
   for (const bundle of catalog.bundles) for (const row of bundle.items) {
-    if (row.pokemonSeedId !== undefined && (!pokedex.some(poke => poke.id === row.pokemonSeedId)
+    if (row.pokemonSeedId !== undefined && (!pokemonFor(row.pokemonSeedId)
       || !assets['items/32.webp'] || !assets[`images/pokemon/icons/${row.pokemonSeedId}.webp`])) {
       throw Error(`Invalid Pokémon main skill seed artwork: ${bundle.id} / ${row.name}`)
     }
     if (!row.pokemonIncense) continue
     const { pokemonId, typeId } = row.pokemonIncense
-    const pokemon = pokedex.find(poke => poke.id === pokemonId)
+    const pokemon = pokemonFor(pokemonId)
     if (!pokemon || pokemon.berryType !== incenseTypes[typeId - 1] || !assets[`images/incense/pokemon/${typeId}.webp`] || !assets[`images/pokemon/icons/${pokemonId}.webp`]) {
       throw Error(`Invalid Pokémon incense artwork: ${bundle.id} / ${row.name}`)
     }
