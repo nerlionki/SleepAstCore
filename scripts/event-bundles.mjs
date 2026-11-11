@@ -16,7 +16,9 @@ export function validateEventBundles(value, archive = false) {
     valid(date(row.eventEndsOn) && (archive && row.announcedOn === null || date(row.announcedOn) && row.announcedOn <= row.eventEndsOn))
     if (archive) valid(text(row.eventId))
     const dateTime = value => typeof value === 'string' && /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(value) && Number.isFinite(Date.parse(value))
-    valid(archive && date(row.saleStartsAt) && date(row.saleEndsAt) && row.saleStartsAt <= row.saleEndsAt
+    const unknownArchiveSale = archive && row.saleStartsAt === null && row.saleEndsAt === null
+    valid(unknownArchiveSale
+      || archive && date(row.saleStartsAt) && date(row.saleEndsAt) && row.saleStartsAt <= row.saleEndsAt
       || dateTime(row.saleStartsAt) && dateTime(row.saleEndsAt) && row.saleStartsAt < row.saleEndsAt)
     valid(object(row.price) && text(row.price.unit) && Number.isSafeInteger(row.price.amount) && row.price.amount >= 0 && Number.isSafeInteger(row.purchaseLimit) && row.purchaseLimit > 0)
     valid(Array.isArray(row.items) && row.items.length > 0 && row.items.every(item => object(item) && text(item.name) && Number.isSafeInteger(item.quantity) && item.quantity > 0

@@ -1,0 +1,121 @@
+{
+  "status": "PASS",
+  "checks": [
+    "all standalone JSON parse",
+    "four current-only archive entries have bonusSections and encounterUps",
+    "129 unchanged activity IDs and outer endsOn",
+    "event key whitelist",
+    "source object kind / HTTPS URL / shape",
+    "archive bonusSections trimmed non-empty strings",
+    "encounter tiers / unique positive integer species IDs / allowed group keys",
+    "bundle event references and item quantities / mapping marker",
+    "no official numeric encounter weights or shiny rates",
+    "unchanged requiredCapabilities",
+    "pinned activity-model.mjs validateActivityCatalog PASS"
+  ],
+  "counts": {
+    "activities": {
+      "total": 129,
+      "baseline": {
+        "rulesOrPhases": 57,
+        "numericOrStructuredComputable": 53,
+        "rulesQualitativeOnly": 4,
+        "emptyRulesOrPhases": 72,
+        "excludedLoginOnly": 1
+      },
+      "after": {
+        "rulesOrPhases": 126,
+        "numericOrStructuredComputable": 105,
+        "rulesQualitativeOnly": 21,
+        "emptyRulesOrPhases": 3,
+        "excludedLoginOnly": 1
+      },
+      "baselineEmptyRulesFilled": 70,
+      "noRulesOrPhases": [
+        "lapis-lakeside-opening",
+        "first-anniversary-lead-up",
+        "announcement-333731343130383939323833343736343931"
+      ]
+    },
+    "archive": {
+      "total": 129,
+      "baselineBonusSections": 102,
+      "afterBonusSections": 128,
+      "baselineEncounterUps": 116,
+      "afterEncounterUps": 116,
+      "tiers": {
+        "large": 37,
+        "medium": 164,
+        "small": 180,
+        "special": 20,
+        "unlabeled": 14
+      },
+      "wikiOnlyEarlyGoodSleepEntries": 11
+    },
+    "packs": {
+      "current": 8,
+      "archived": 294,
+      "archivedOfficialProductBlockVerified": 123,
+      "correctedPrices": 201,
+      "allHaveEventId": true,
+      "speciesMainSkillSeedItems": 5,
+      "unmappedItems": 6,
+      "salesPrecision": {
+        "time": 116,
+        "unknown": 171,
+        "date-only": 15
+      },
+      "unknownAnnouncementDates": 171
+    },
+    "shiny": {
+      "events": 34,
+      "speciesScopedEvents": 6
+    },
+    "i18n": {
+      "baselineTotalKeys": 2747,
+      "baselineAlreadyCompleteKeys": 2745,
+      "afterTotalKeys": 3258,
+      "afterCompleteKeys": 3183,
+      "addedKeys": 511,
+      "changedExistingKeys": 164,
+      "changedOrAddedKeys": 675,
+      "relatedSimplifiedKeys": 943,
+      "relatedConfirmedCompleteFourLocaleKeys": 492,
+      "relatedMissingByLocale": {
+        "zh-TW": 365,
+        "ja": 450,
+        "en": 438
+      },
+      "unresolvedChineseKeyContexts": 195,
+      "sourceConfirmedLocaleCells": {
+        "gap": 4777,
+        "official": 398,
+        "rae": 4449
+      },
+      "note": "Full Core catalog completeness is not equivalent to this-run source verification. Legacy descriptive/Argos/UI translations are preserved without relabeling as RAE. Related companion contains only source-confirmed foreign text; unconfirmed cells are empty."
+    },
+    "sourceMixByEntry": {
+      "activities": {
+        "official": 129,
+        "rae": 20,
+        "wiki": 58
+      },
+      "archiveEvents": {
+        "official": 129,
+        "rae": 0,
+        "wiki": 16
+      },
+      "bundles": {
+        "official": 131,
+        "rae": 0,
+        "wiki": 294
+      }
+    },
+    "conflicts": 45
+  },
+  "limitations": [
+    "A passing schema does not prove every historical tier/island/week scope or every inherited translation is semantically verified. See separate ledgers.",
+    "No package build or repository test suite was run; only standalone JSON and the pinned pure validation function were executed."
+  ],
+  "repoModified": false
+}

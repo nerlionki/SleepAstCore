@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "collectedOn": "2026-11-11",
+  "release": "2.0.9",
+  "scopeNote": "历史活动奖励独立补全稿并入数据源；不代表所有历史档位、营地与翻译均已穷尽核实。",
+  "gaps": {
+    "emptyRulesOrPhases": [
+      "lapis-lakeside-opening",
+      "first-anniversary-lead-up",
+      "announcement-333731343130383939323833343736343931"
+    ],
+    "noEncounterUpsEvents": 13,
+    "archiveBundlesUnknownSaleDates": 171,
+    "archiveBundlesUnknownAnnouncementDates": 171,
+    "unmappedBundleItems": 6,
+    "i18nMissingForeignLocales": {
+      "zh-TW": 365,
+      "ja": 450,
+      "en": 438
+    },
+    "relatedFourLocaleCompleteKeys": 492,
+    "relatedFourLocaleTotalKeys": 943
+  },
+  "adaptations": [
+    "合并采集 activities / activity-archive / archived bundles / i18n / shiny-stacking 至仓库路径",
+    "favoriteBerries / favoredBerries 中「苹野果」规范为 berries 目录字形「蘋野果」",
+    "归档礼包允许 saleStartsAt/saleEndsAt 均为 null（未确认销售窗口，见 packs-audit）",
+    "v2 构建将 shinyStacking 写入 meta.json"
+  ],
+  "notIntegrated": [
+    "collect.py / evidence/ / sources/ 体积极大，保留在采集包中未入库",
+    "i18n-audit.json / encounter-audit.json 等巨型审计 JSON 未入库；冲突见 conflicts.json"
+  ],
+  "published": false
+}
