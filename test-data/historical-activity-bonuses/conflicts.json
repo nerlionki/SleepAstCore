@@ -1,0 +1,555 @@
+{
+  "entries": [
+    {
+      "id": "eevee-week-2023",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        9
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "holiday-2023",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        6
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "electric-type-week",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        6
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "flower-festival-2024",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        6
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "fire-type-week",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        6
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "summer-festival-2024",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        6
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "water-type-week",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        6
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "eevee-week-2024",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        9
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "halloween-2026",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        9,
+        6,
+        4
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "meal-prep-vol1-2026",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "all-you-can-eat-vol1-2026",
+      "field": "encounterWeightMultiplier",
+      "baseline": [
+        6
+      ],
+      "resolution": "移出官方计算字段；官方只公布档位，原始值仅存 evidence/baseline-activities.json。"
+    },
+    {
+      "id": "growth-week-1",
+      "field": "miniCandyBoost/eventMix",
+      "resolution": "该期官方仅公布睡眠EXP与首研糖果1.5倍；删除无公告支持的迷你糖果增强与混睡。"
+    },
+    {
+      "id": "growth-week-2",
+      "field": "miniCandyBoost/eventMix",
+      "resolution": "该期官方仅公布睡眠EXP与首研糖果1.5倍；删除无公告支持的迷你糖果增强与混睡。"
+    },
+    {
+      "id": "new-moon-day-1",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-2",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-3",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-4",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-5",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-6",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-7",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-8",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-9",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-10",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-11",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-12",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-13",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-14",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-15",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-16",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-17",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-18",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "new-moon-day-19",
+      "field": "features.shiny-boost.parameters.rate",
+      "baseline": 0.015,
+      "resolution": "未见官方公开概率；从官方计算目录移除。"
+    },
+    {
+      "id": "valentines-2024",
+      "field": "bonusSections.title",
+      "resolution": "将被页面解析器误拆为正文的日期后半段接回原始标题；不改奖励数值。"
+    },
+    {
+      "id": "flower-festival-2024",
+      "field": "bonusSections.title",
+      "resolution": "将被页面解析器误拆为正文的日期后半段接回原始标题；不改奖励数值。"
+    },
+    {
+      "id": "good-sleep-day-2",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-3",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-4",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-5",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-6",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-7",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-8",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-9",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-10",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-11",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    },
+    {
+      "id": "good-sleep-day-12",
+      "field": "encounterUps",
+      "baseline": [
+        {
+          "tier": "large",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第2天（满月之日）"
+        },
+        {
+          "tier": "medium",
+          "pokemonIds": [
+            35,
+            36,
+            173
+          ],
+          "label": "第1天、第3天"
+        }
+      ],
+      "resolution": "官方主公告未述档位；Wiki回顾页确认第二期起家族提升，但不把后期大/中分档倒推为本期官方数据，仅保留无档位定性组。",
+      "source": {
+        "kind": "wiki",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      }
+    }
+  ]
+}

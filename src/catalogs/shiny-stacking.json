@@ -1,0 +1,871 @@
+{
+  "schemaVersion": 1,
+  "officialRules": [
+    {
+      "id": "same-species-event-max",
+      "conclusion": "同种宝可梦同时受多个活动的异色出现加成时，只采用效果最大的奖励；不相加。",
+      "operation": "max",
+      "quote": "If there are multiple bonuses from different events that increase your chance of encountering Shiny Pokémon and apply to the same Pokémon, the bonus with the largest effect will be applied.",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/343330313733363436353339393830383039/"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/"
+        }
+      ]
+    },
+    {
+      "id": "expert-event-stack",
+      "conclusion": "EX模式异色奖励可以与正在举办的活动异色奖励叠加；官方未公开加法、乘法、绝对概率或其他计算公式。",
+      "stacks": true,
+      "arithmetic": null,
+      "quote": "The bonus that gives you an increased chance of encountering Shiny Pokémon in expert mode stacks with similar bonuses from ongoing events, further increasing your chances to encounter them.",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/323932383138363132393037393333363937/"
+        }
+      ]
+    },
+    {
+      "id": "befriending-badges-species",
+      "conclusion": "友情徽章按宝可梦物种提高异色出现机会；铜/银/金徽章均有相关描述。与活动或EX的叠加方式和确切概率未公开。",
+      "speciesScoped": true,
+      "eventStacking": null,
+      "expertStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/en/news/323537323733313434393837383737333737/"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventId": "eevee-week-2023",
+      "name": "伊布周2023",
+      "startsOn": "2023-11-20",
+      "endsOn": "2023-11-27",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": [
+        133
+      ],
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241126190938/https://www.pokemonsleep.net/en/news/3637333530393337393131343237303733/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ]
+    },
+    {
+      "eventId": "holiday-2023",
+      "name": "佳节2023：梦之碎片倍增研究",
+      "startsOn": "2023-12-18",
+      "endsOn": "2023-12-25",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240914152739/https://www.pokemonsleep.net/en/news/3736313136353239363434353638353737/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "islands": [
+        "greengrass"
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "valentines-2024",
+      "name": "情人节2024",
+      "startsOn": "2024-02-12",
+      "endsOn": "2024-02-19",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": [
+        1,
+        39,
+        79,
+        127,
+        152,
+        359
+      ],
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250707200346/https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ]
+    },
+    {
+      "eventId": "flower-festival-2024",
+      "name": "花朵嘉年华2024",
+      "startsOn": "2024-04-22",
+      "endsOn": "2024-04-29",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240721141237/https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "summer-festival-2024",
+      "name": "夏日嘉年华2024",
+      "startsOn": "2024-06-17",
+      "endsOn": "2024-06-24",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250707193138/https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "good-sleep-day-14",
+      "name": "第14次好眠日",
+      "startsOn": "2024-09-17",
+      "endsOn": "2024-09-20",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": [
+        35,
+        36,
+        173
+      ],
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ]
+    },
+    {
+      "eventId": "eevee-week-2024",
+      "name": "伊布周2024",
+      "startsOn": "2024-11-18",
+      "endsOn": "2024-11-25",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": [
+        133
+      ],
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250115050629/https://www.pokemonsleep.net/en/news/313936383432303133383535383432333035/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ]
+    },
+    {
+      "eventId": "announcement-323039303336363938383838313735363137",
+      "name": "佳節2024：夢之碎片倍增研究",
+      "startsOn": "2024-12-23",
+      "endsOn": "2024-12-30",
+      "effectsShinyUp": true,
+      "featureShinyBoost": false,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "islands": [
+        "greengrass"
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "announcement-323239343339343138373233373239343039",
+      "name": "情人節2025",
+      "startsOn": "2025-02-10",
+      "endsOn": "2025-02-17",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323239343339343138373233373239343039/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-1",
+      "name": "第1次新月日",
+      "startsOn": "2025-05-26",
+      "endsOn": "2025-05-29",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "announcement-323736383532313034303633303930363839",
+      "name": "夏日嘉年華2025",
+      "startsOn": "2025-06-23",
+      "endsOn": "2025-06-30",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323736383532313034303633303930363839/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-2",
+      "name": "第2次新月日",
+      "startsOn": "2025-06-24",
+      "endsOn": "2025-06-27",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-3",
+      "name": "第3次新月日",
+      "startsOn": "2025-07-24",
+      "endsOn": "2025-07-27",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-4",
+      "name": "第4次新月日",
+      "startsOn": "2025-08-22",
+      "endsOn": "2025-08-25",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-5",
+      "name": "第5次新月日",
+      "startsOn": "2025-09-21",
+      "endsOn": "2025-09-24",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "good-sleep-day-27",
+      "name": "第27次好眠日",
+      "startsOn": "2025-10-06",
+      "endsOn": "2025-10-09",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": [
+        35,
+        36,
+        173
+      ],
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ]
+    },
+    {
+      "eventId": "new-moon-day-6",
+      "name": "第6次新月日",
+      "startsOn": "2025-10-20",
+      "endsOn": "2025-10-23",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-7",
+      "name": "第7次新月日",
+      "startsOn": "2025-11-19",
+      "endsOn": "2025-11-22",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-8",
+      "name": "第8次新月日",
+      "startsOn": "2025-12-19",
+      "endsOn": "2025-12-22",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "announcement-333432383533383734343936383331343930",
+      "name": "佳節2025：夢之碎片倍增研究",
+      "startsOn": "2025-12-22",
+      "endsOn": "2025-12-29",
+      "effectsShinyUp": true,
+      "featureShinyBoost": false,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "islands": [
+        "greengrass",
+        "greenex"
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-9",
+      "name": "第9次新月日",
+      "startsOn": "2026-01-18",
+      "endsOn": "2026-01-21",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "announcement-333630353432383839393136323335373832",
+      "name": "情人節2026",
+      "startsOn": "2026-02-09",
+      "endsOn": "2026-02-16",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333630353432383839393136323335373832/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-10",
+      "name": "第10次新月日",
+      "startsOn": "2026-02-16",
+      "endsOn": "2026-02-19",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-11",
+      "name": "第11次新月日",
+      "startsOn": "2026-03-18",
+      "endsOn": "2026-03-21",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-12",
+      "name": "第12次新月日",
+      "startsOn": "2026-04-16",
+      "endsOn": "2026-04-19",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-13",
+      "name": "第13次新月日",
+      "startsOn": "2026-05-16",
+      "endsOn": "2026-05-19",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-14",
+      "name": "第14次新月日",
+      "startsOn": "2026-06-14",
+      "endsOn": "2026-06-17",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "islands": [
+        "greengrass",
+        "lapis",
+        "canyon",
+        "greenex"
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-15",
+      "name": "第15次新月日",
+      "startsOn": "2026-07-13",
+      "endsOn": "2026-07-16",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "announcement-343233393938313932373939393733333835",
+      "name": "夏日嘉年華2026",
+      "startsOn": "2026-08-10",
+      "endsOn": "2026-08-17",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343233393938313932373939393733333835/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-16",
+      "name": "第16次新月日",
+      "startsOn": "2026-08-12",
+      "endsOn": "2026-08-15",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-17",
+      "name": "第17次新月日",
+      "startsOn": "2026-09-10",
+      "endsOn": "2026-09-13",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "good-sleep-day-39",
+      "name": "第39次好眠日",
+      "startsOn": "2026-09-26",
+      "endsOn": "2026-09-29",
+      "effectsShinyUp": false,
+      "featureShinyBoost": true,
+      "pokemonIds": [
+        35,
+        36,
+        173
+      ],
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ]
+    },
+    {
+      "eventId": "new-moon-day-18",
+      "name": "第18次新月日",
+      "startsOn": "2026-10-10",
+      "endsOn": "2026-10-13",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    },
+    {
+      "eventId": "new-moon-day-19",
+      "name": "第19次新月日",
+      "startsOn": "2026-11-08",
+      "endsOn": "2026-11-11",
+      "effectsShinyUp": true,
+      "featureShinyBoost": true,
+      "pokemonIds": null,
+      "publishedRate": null,
+      "sameSpeciesEventStacking": "max",
+      "exStacksWhenModeAvailable": true,
+      "historicalExAvailabilityNotInferred": true,
+      "exArithmetic": null,
+      "badgeStacking": null,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "scopeNote": "公告未逐一列出受异色奖励影响的物种，或为不指定物种的定性异色奖励；不得据此导出每个物种的数值概率。"
+    }
+  ],
+  "contractNote": "ff5334f的validateActivityCatalog在shiny-boost.parameters含pokemonIds但无rate时会拒绝。为不捏造概率，活动中保留shiny-boost定性feature，物种范围改存同活动shiny-scope.parameters.pokemonIds，并在本表复列。未修改验证器。",
+  "excluded": [
+    "unpublished base rate",
+    "community simulation shiny rates",
+    "unpublished EX × event arithmetic",
+    "unpublished badge stacking formula"
+  ]
+}

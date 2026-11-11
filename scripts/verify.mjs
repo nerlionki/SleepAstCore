@@ -7,6 +7,7 @@ import { validateActivityCatalog, ACTIVITY_CAPABILITIES } from './activity-model
 import { buildEventBundles, bundleItemCatalog, validateBundleArtwork, validateEventBundles } from './event-bundles.mjs'
 import { validateI18n } from './i18n.mjs'
 import { validateActivityArchive } from './activity-archive.mjs'
+import { validateShinyStacking } from './shiny-stacking.mjs'
 import { validateSkillResources } from './validate-skill-resources.mjs'
 import { validateIdImages } from './id-images.mjs'
 const root = path.resolve(process.argv[2] || path.join(import.meta.dirname, '../dist'))
@@ -65,6 +66,7 @@ validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], mani
 if (api === '2') {
   validateI18n(data['meta.json'].i18n)
   validateActivityArchive(data['meta.json'].activityArchive, data)
+  validateShinyStacking(data['meta.json'].shinyStacking, data)
   const archive = data['meta.json'].archivedEventBundles
   validateBundleArtwork(archive, data['pokedex.json'], manifest.assets, [])
   const eventIds = new Set([...data['activities.json'].activities, ...data['meta.json'].activityArchive.events].map(event => event.id))

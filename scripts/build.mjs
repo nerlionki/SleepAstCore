@@ -8,6 +8,7 @@ import { installProductionRankings } from './production-rankings.mjs'
 import { buildEventBundles, bundleItemCatalog, validateBundleArtwork } from './event-bundles.mjs'
 import { validateI18n } from './i18n.mjs'
 import { validateActivityArchive } from './activity-archive.mjs'
+import { validateShinyStacking } from './shiny-stacking.mjs'
 import { validateSkillResources } from './validate-skill-resources.mjs'
 import { validateIdImages } from './id-images.mjs'
 import { installItemCatalog } from './item-catalog.mjs'
@@ -43,6 +44,10 @@ if (api === '2') {
   const archive = JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/activity-archive.json'), 'utf8'))
   validateActivityArchive(archive, data)
   data['meta.json'].activityArchive = archive
+  data['meta.json'].shinyStacking = validateShinyStacking(
+    JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/shiny-stacking.json'), 'utf8')),
+    data
+  )
   const archivedBundles = JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/archived-event-bundles.json'), 'utf8'))
   data['meta.json'].archivedEventBundles = buildEventBundles(archivedBundles, bundleItems, bundleTextPairs, true)
   const eventIds = new Set([...data['activities.json'].activities, ...archive.events].map(event => event.id))

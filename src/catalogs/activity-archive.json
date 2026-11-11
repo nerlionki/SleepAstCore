@@ -33,7 +33,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20230825205903/https://www.pokemonsleep.net/en/news/2485/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-2",
@@ -60,7 +72,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20230928031018/https://www.pokemonsleep.net/en/news/2686/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-3",
@@ -87,7 +111,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20231029114024/https://www.pokemonsleep.net/en/news/2742/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "halloween-2023",
@@ -95,7 +131,42 @@
       "announcedOn": null,
       "startsOn": "2023-10-30",
       "endsOn": "2023-11-06",
-      "source": "https://web.archive.org/web/20250725141956/https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/"
+      "source": "https://web.archive.org/web/20250725141956/https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250725141956/https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "Halloween (10/31) and Last Day of the Event (11/5)",
+          "lines": [
+            "Researchers will gain 3 times the usual number of candies for the first sleep research of the day",
+            "Many Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day",
+            "Certain Pokémon will be more likely to appear during sleep research"
+          ]
+        },
+        {
+          "title": "Other Days (10/30, 11/1−4)",
+          "lines": [
+            "Researchers will gain 2 times the usual number of candies for the first sleep research of the day",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for the day",
+            "Certain Pokémon will be more likely to appear during sleep research"
+          ]
+        },
+        {
+          "title": "Pokémon That Are Easier to Encounter Throughout the Event",
+          "lines": [
+            "During the event period, you’ll have more opportunities to meet the following Pokémon!",
+            "Much Greater Appearance Rate : Pikachu (Halloween), Gastly, Haunter, Gengar",
+            "Greater Appearance Rate : Meowth, Cubone",
+            "Slightly Greater Appearance Rate : Shuppet, Banette Note: Because 10/30 overlaps with a Good Sleep Day event, the effects of both Halloween 2023 — Double Candy Research and Good Sleep Day (Drowsy Power ×1.5) will be applied."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250725141956/https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/"
     },
     {
       "id": "eevee-week-2023",
@@ -103,7 +174,42 @@
       "announcedOn": null,
       "startsOn": "2023-11-20",
       "endsOn": "2023-11-27",
-      "source": "https://web.archive.org/web/20241126190938/https://www.pokemonsleep.net/en/news/3637333530393337393131343237303733/"
+      "source": "https://web.archive.org/web/20241126190938/https://www.pokemonsleep.net/en/news/3637333530393337393131343237303733/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241126190938/https://www.pokemonsleep.net/en/news/3637333530393337393131343237303733/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "Eevee Day (November 21)",
+          "lines": [
+            "Greater appearance rate for Eevee and its Evolutions during sleep research",
+            "Many Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for the day.",
+            "You may encounter a Shiny Eevee.",
+            "+1,121 bonus sleep points",
+            "Main skills for all helper Pokémon are 1.5 times more likely to be triggered."
+          ]
+        },
+        {
+          "title": "Other Days (November 20 and November 22−26)",
+          "lines": [
+            "Greater appearance rate for Eevee and its Evolutions during sleep research",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for the day.",
+            "You may encounter a Shiny Eevee.",
+            "Main skills for all helper Pokémon are 1.5 times more likely to be triggered."
+          ]
+        },
+        {
+          "title": "Pokémon That Are Easier to Encounter Throughout the Event",
+          "lines": [
+            "During the event period, the following Pokémon will be more likely to appear! Much Greater Appearance Rate Eevee Greater Appearance Rate Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20241126190938/https://www.pokemonsleep.net/en/news/3637333530393337393131343237303733/"
     },
     {
       "id": "good-sleep-day-4",
@@ -130,7 +236,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4076/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "holiday-2023",
@@ -138,7 +256,38 @@
       "announcedOn": null,
       "startsOn": "2023-12-18",
       "endsOn": "2023-12-25",
-      "source": "https://web.archive.org/web/20240914152739/https://www.pokemonsleep.net/en/news/3736313136353239363434353638353737/"
+      "source": "https://web.archive.org/web/20240914152739/https://www.pokemonsleep.net/en/news/3736313136353239363434353638353737/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240914152739/https://www.pokemonsleep.net/en/news/3736313136353239363434353638353737/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "Last Day of the Event (12/24)",
+          "lines": [
+            "Researchers will gain twice the usual number of Dream Shards through sleep research.",
+            "Many Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for the day.",
+            "Certain Pokémon will be more likely to appear during sleep research.",
+            "Main skill Dream Shard Magnet S will be twice as effective.",
+            "You may be able to meet a Shiny Pokémon.",
+            "Researchers will receive 1,225 bonus sleep points ."
+          ]
+        },
+        {
+          "title": "Other Days",
+          "lines": [
+            "Researchers will gain twice the usual number of Dream Shards through sleep research.",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for the day.",
+            "Certain Pokémon will be more likely to appear during sleep research.",
+            "Main skill Dream Shard Magnet S will be twice as effective.",
+            "You may be able to meet a Shiny Pokémon."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20240914152739/https://www.pokemonsleep.net/en/news/3736313136353239363434353638353737/"
     },
     {
       "id": "good-sleep-day-5",
@@ -165,7 +314,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4413/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "new-year-2024",
@@ -173,7 +334,35 @@
       "announcedOn": null,
       "startsOn": "2024-01-01",
       "endsOn": "2024-01-08",
-      "source": "https://web.archive.org/web/20250322032707/https://www.pokemonsleep.net/en/news/3831353531373238333532313635383839/"
+      "source": "https://web.archive.org/web/20250322032707/https://www.pokemonsleep.net/en/news/3831353531373238333532313635383839/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250322032707/https://www.pokemonsleep.net/en/news/3831353531373238333532313635383839/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "New Year’s Day and Last Day of the Event",
+          "lines": [
+            "Pokémon Sleep EXP ×1.5",
+            "Bonus sleep points +512",
+            "Many Pokémon of different sleep types will appear regardless of the researcher’s sleep type for that day",
+            "Certain Pokémon will be more likely to appear during sleep research"
+          ]
+        },
+        {
+          "title": "Other Days (1/2-6)",
+          "lines": [
+            "Pokémon Sleep EXP ×1.5",
+            "Bonus sleep points +200",
+            "Many Pokémon of different sleep types will appear regardless of the researcher’s sleep type for that day",
+            "Certain Pokémon will be more likely to appear during sleep research"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250322032707/https://www.pokemonsleep.net/en/news/3831353531373238333532313635383839/"
     },
     {
       "id": "good-sleep-day-6",
@@ -200,7 +389,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4508/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "lapis-lakeside-opening",
@@ -208,7 +409,23 @@
       "announcedOn": null,
       "startsOn": "2024-01-29",
       "endsOn": "2024-02-12",
-      "source": "https://web.archive.org/web/20240720191920/https://www.pokemonsleep.net/en/news/3932303039353430313639343938363235/"
+      "source": "https://web.archive.org/web/20240720191920/https://www.pokemonsleep.net/en/news/3932303039353430313639343938363235/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240720191920/https://www.pokemonsleep.net/en/news/3932303039353430313639343938363235/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "Slightly Greater Appearance Rate",
+          "lines": [
+            "Dratini, Ralts, and Stufful"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20240720191920/https://www.pokemonsleep.net/en/news/3932303039353430313639343938363235/"
     },
     {
       "id": "valentines-2024",
@@ -216,7 +433,37 @@
       "announcedOn": null,
       "startsOn": "2024-02-12",
       "endsOn": "2024-02-19",
-      "source": "https://web.archive.org/web/20250707200346/https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/"
+      "source": "https://web.archive.org/web/20250707200346/https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250707200346/https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "Last Day of the Event (2/18)",
+          "lines": [
+            "Dishes will be set to “Desserts/Drinks”",
+            "Final Strength gains from dishes will be multiplied by 1.5 (or 4.5 for Extra Tasty dishes)",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day",
+            "Certain Pokémon will be more likely to appear during sleep research",
+            "You may meet certain Shiny Pokémon"
+          ]
+        },
+        {
+          "title": "Other Days (2/12—2/17)",
+          "lines": [
+            "Dishes will be set to “Desserts/Drinks”",
+            "Final Strength gains from dishes will be multiplied by 1.5 (or 3 for Extra Tasty dishes)",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day",
+            "Certain Pokémon will be more likely to appear during sleep research",
+            "You may meet certain Shiny Pokémon"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250707200346/https://www.pokemonsleep.net/en/news/3936333536353936323132333031383235/"
     },
     {
       "id": "good-sleep-day-7",
@@ -243,7 +490,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/4912/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "electric-type-week",
@@ -251,7 +510,31 @@
       "announcedOn": null,
       "startsOn": "2024-03-11",
       "endsOn": "2024-03-18",
-      "source": "https://web.archive.org/web/20240722221901/https://www.pokemonsleep.net/en/news/313037313831343637353934393135383431/"
+      "source": "https://web.archive.org/web/20240722221901/https://www.pokemonsleep.net/en/news/313037313831343637353934393135383431/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240722221901/https://www.pokemonsleep.net/en/news/313037313831343637353934393135383431/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (3/11 to 3/17)",
+          "lines": [
+            "During sleep research, one Pokémon will for sure be hungry .",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day.",
+            "Certain Pokémon will be more likely to appear during sleep research."
+          ]
+        },
+        {
+          "title": "Mini Candy Boost",
+          "lines": [
+            "Using Mini Candy Boost lets your helper Pokémon get twice the usual amount of EXP from candies in exchange for consuming four times the usual amount of Dream Shards per candy. It can be used with up to 50 candies per day ."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20240722221901/https://www.pokemonsleep.net/en/news/313037313831343637353934393135383431/"
     },
     {
       "id": "good-sleep-day-8",
@@ -278,7 +561,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5177/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "raikou-research",
@@ -286,7 +581,27 @@
       "announcedOn": null,
       "startsOn": "2024-03-25",
       "endsOn": "2024-04-08",
-      "source": "https://web.archive.org/web/20240722230939/https://www.pokemonsleep.net/en/news/313130323133313435363533343131383431/"
+      "source": "https://web.archive.org/web/20240722230939/https://www.pokemonsleep.net/en/news/313130323133313435363533343131383431/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240722230939/https://www.pokemonsleep.net/en/news/313130323133313435363533343131383431/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (3/25−4/7)",
+          "lines": [
+            "Each time an Electric-type helper Pokémon brings you ingredients, it will have one extra.",
+            "The chance of an Electric-type helper Pokémon’s main skill being triggered will be multiplied by 1.5.",
+            "The Snorlax on Greengrass Isle will have Grepa Berries (Electric type) set as one of its favorite Berries.",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day.",
+            "Certain Pokémon will be more likely to appear during sleep research. Note: Electric-type helper Pokémon Raikou, Pikachu, Raichu, Jolteon, Pichu, Mareep, Flaaffy, Ampharos, Dedenne"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20240722230939/https://www.pokemonsleep.net/en/news/313130323133313435363533343131383431/"
     },
     {
       "id": "flower-festival-2024",
@@ -294,7 +609,39 @@
       "announcedOn": null,
       "startsOn": "2024-04-22",
       "endsOn": "2024-04-29",
-      "source": "https://web.archive.org/web/20240721141237/https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/"
+      "source": "https://web.archive.org/web/20240721141237/https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240721141237/https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "Last Day of the Event (4/28)",
+          "lines": [
+            "During sleep research, one Pokémon will for sure be hungry .",
+            "Dishes will be set to “Salads” .",
+            "Final Strength gains from dishes will be multiplied by 1.5 (or 4.5 for Extra Tasty dishes).",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day.",
+            "Certain Pokémon will be more likely to appear during sleep research.",
+            "You may meet certain Shiny Pokémon"
+          ]
+        },
+        {
+          "title": "Other Days (4/22—4/27)",
+          "lines": [
+            "During sleep research, one Pokémon will for sure be hungry .",
+            "Dishes will be set to “Salads” .",
+            "Final Strength gains from dishes will be multiplied by 1.5 (or 3 for Extra Tasty dishes).",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day.",
+            "Certain Pokémon will be more likely to appear during sleep research.",
+            "You may meet certain Shiny Pokémon"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20240721141237/https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/"
     },
     {
       "id": "good-sleep-day-9",
@@ -321,7 +668,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5467/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "fire-type-week",
@@ -329,7 +688,31 @@
       "announcedOn": null,
       "startsOn": "2024-05-06",
       "endsOn": "2024-05-13",
-      "source": "https://web.archive.org/web/20250623004328/https://www.pokemonsleep.net/en/news/313238333136353339363937383839323831/"
+      "source": "https://web.archive.org/web/20250623004328/https://www.pokemonsleep.net/en/news/313238333136353339363937383839323831/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250623004328/https://www.pokemonsleep.net/en/news/313238333136353339363937383839323831/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (5/6 to 5/12)",
+          "lines": [
+            "During sleep research, one Pokémon will for sure be hungry .",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day.",
+            "Certain Pokémon will be more likely to appear during sleep research."
+          ]
+        },
+        {
+          "title": "Mini Candy Boost",
+          "lines": [
+            "Using Mini Candy Boost lets your helper Pokémon get twice the usual amount of EXP from candies in exchange for using four times the usual amount of Dream Shards per candy. This function can be used with up to 50 candies per day ."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250623004328/https://www.pokemonsleep.net/en/news/313238333136353339363937383839323831/"
     },
     {
       "id": "entei-research",
@@ -337,7 +720,45 @@
       "announcedOn": null,
       "startsOn": "2024-05-20",
       "endsOn": "2024-06-03",
-      "source": "https://web.archive.org/web/20240722223825/https://www.pokemonsleep.net/en/news/313237393438363933393335343839303235/"
+      "source": "https://web.archive.org/web/20240722223825/https://www.pokemonsleep.net/en/news/313237393438363933393335343839303235/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5798/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (5/20−6/2)",
+          "lines": [
+            "Each time a Fire-type helper Pokémon brings you ingredients during regular helping, it will have one extra .",
+            "The chance of a Fire-type helper Pokémon’s main skill being triggered will be multiplied by 1.5 .",
+            "The Snorlax on Greengrass Isle will have Leppa Berries (Fire type) set as one of its favorite Berries.",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day.",
+            "Certain Pokémon will be more likely to appear during sleep research."
+          ]
+        },
+        {
+          "title": "Week 1 of the Event (5/20−5/26)",
+          "lines": [
+            "Main skill levels of Fire-type helper Pokémon will be boosted by 1 ."
+          ]
+        },
+        {
+          "title": "Week 2 of the Event (5/27−6/2)",
+          "lines": [
+            "Main skill levels of Fire-type helper Pokémon will be boosted by 3 ."
+          ]
+        },
+        {
+          "title": "Second Sunday of the Event (6/2)",
+          "lines": [
+            "Drowsy Power will be multiplied by 1.5 . Note: Fire-type helper Pokémon Charmander, Charmeleon, Charizard, Vulpix, Ninetales, Growlithe, Arcanine, Flareon, Cyndaquil, Quilava, Typhlosion, Entei"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5798/"
     },
     {
       "id": "good-sleep-day-10",
@@ -364,7 +785,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/5832/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "summer-festival-2024",
@@ -372,7 +805,27 @@
       "announcedOn": null,
       "startsOn": "2024-06-17",
       "endsOn": "2024-06-24",
-      "source": "https://web.archive.org/web/20250707193138/https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/"
+      "source": "https://web.archive.org/web/20250707193138/https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250707193138/https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (6/17 to 6/23)",
+          "lines": [
+            "Dishes will be set to “Curries/Stews” .",
+            "Final Strength gains from dishes will be multiplied by 1.5 ( or 3 for Extra Tasty dishes or 4.5 for Extra Tasty dishes on Sunday only ).",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of your sleep type for that day.",
+            "Certain Pokémon will be more likely to appear during sleep research.",
+            "You may meet certain Shiny Pokémon."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250707193138/https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/"
     },
     {
       "id": "good-sleep-day-11",
@@ -399,7 +852,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313433343234323030393533303336383031/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "growth-week-1",
@@ -407,7 +872,24 @@
       "announcedOn": null,
       "startsOn": "2024-07-01",
       "endsOn": "2024-07-08",
-      "source": "https://web.archive.org/web/20250217064544/https://www.pokemonsleep.net/en/news/313438343933333836333938303430303635/"
+      "source": "https://web.archive.org/web/20250217064544/https://www.pokemonsleep.net/en/news/313438343933333836333938303430303635/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250217064544/https://www.pokemonsleep.net/en/news/313438343933333836333938303430303635/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (7/1 to 7/7)",
+          "lines": [
+            "Helper Pokémon Sleep EXP ×1.5",
+            "Candies gained from the first sleep research of the day ×1.5"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250217064544/https://www.pokemonsleep.net/en/news/313438343933333836333938303430303635/"
     },
     {
       "id": "first-anniversary-lead-up",
@@ -415,7 +897,14 @@
       "announcedOn": null,
       "startsOn": "2024-07-08",
       "endsOn": "2024-07-15",
-      "source": "https://web.archive.org/web/20250217075118/https://www.pokemonsleep.net/en/news/313532323430313838323937333134333035/"
+      "source": "https://web.archive.org/web/20250217075118/https://www.pokemonsleep.net/en/news/313532323430313838323937333134333035/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250217075118/https://www.pokemonsleep.net/en/news/313532323430313838323937333134333035/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "first-anniversary-fest",
@@ -423,7 +912,55 @@
       "announcedOn": null,
       "startsOn": "2024-07-15",
       "endsOn": "2024-07-29",
-      "source": "https://www.pokemonsleep.net/news/313533363332323730343932363331303431/"
+      "source": "https://www.pokemonsleep.net/news/313533363332323730343932363331303431/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/news/313533363332323730343932363331303431/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "Bonuses",
+          "lines": [
+            "ボーナス 期間中、開催フィールドで以下の効果が発生します。"
+          ]
+        },
+        {
+          "title": "全日程 (7/15～7/28)",
+          "lines": [
+            "睡眠リサーチにて、その日のリサーチャーの睡眠タイプに限らず、 他の睡眠タイプのポケモンも少し出現",
+            "睡眠リサーチでの リサーチEXP1.5倍"
+          ]
+        },
+        {
+          "title": "1週目 (7/15 ~ 7/21)",
+          "lines": [
+            "おてつだいポケモンをたくさん仲間にできる1週間",
+            "睡眠リサーチにて、 チャンス1匹確定 (1日1回のみ)",
+            "すべてのおてつだいポケモンの メインスキル発生確率1.5倍",
+            "睡眠リサーチにて、 特定のポケモンの出現確率UP"
+          ]
+        },
+        {
+          "title": "2週目 (7/22 ~ 7/28)",
+          "lines": [
+            "おてつだいポケモンをたくさん育成できる1週間",
+            "睡眠リサーチでの アメ獲得量1.5倍 (1日1回のみ)",
+            "料理の最終エナジー 1.5倍 ( 大成功：3倍 / 日曜日のみ4.5倍 )",
+            "睡眠リサーチにて、 特定のポケモンの出現確率UP",
+            "期間限定「 ミニアメブースト 」が使用可能"
+          ]
+        },
+        {
+          "title": "ミニアメブースト（第2週）",
+          "lines": [
+            "「ミニアメブースト」を使うと、アメを使用して得られるおてつだいポケモンのEXPの獲得量が 2倍 になる代わりに、アメ1個あたりのゆめのかけらの使用量が通常の 4倍 になります。 1日アメ50個 まで利用可能です。"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/0/https://www.pokemonsleep.net/news/313533363332323730343932363331303431/"
     },
     {
       "id": "good-sleep-day-12",
@@ -450,7 +987,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313532323239393532333239303839303235/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "growth-week-2",
@@ -458,7 +1007,24 @@
       "announcedOn": null,
       "startsOn": "2024-08-05",
       "endsOn": "2024-08-12",
-      "source": "https://www.serebii.net/pokemonsleep/events/pokemongrowthweekno.2.shtml"
+      "source": "https://www.serebii.net/pokemonsleep/events/pokemongrowthweekno.2.shtml",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313630393538373733363232343732373035/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (8/5 to 8/11)",
+          "lines": [
+            "Helper Pokémon Sleep EXP ×1.5",
+            "Candies gained from the first sleep research of the day × 1.5"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313630393538373733363232343732373035/"
     },
     {
       "id": "good-sleep-day-13",
@@ -485,7 +1051,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/0/https://www.pokemonsleep.net/en/news/313634383536373939343931353232353631/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "water-type-week",
@@ -493,7 +1071,32 @@
       "announcedOn": null,
       "startsOn": "2024-08-19",
       "endsOn": "2024-08-26",
-      "source": "https://web.archive.org/web/20250217064333/https://www.pokemonsleep.net/en/news/313634393031393533323333343835383235/"
+      "source": "https://web.archive.org/web/20250217064333/https://www.pokemonsleep.net/en/news/313634393031393533323333343835383235/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250217064333/https://www.pokemonsleep.net/en/news/313634393031393533323333343835383235/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (8/19 to 8/25)",
+          "lines": [
+            "During sleep research, one Pokémon will for sure arrive hungry .",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of your sleep type for that day.",
+            "Certain Pokémon will be more likely to appear during sleep research.",
+            "The limited-time Mini Candy Boost function will be available."
+          ]
+        },
+        {
+          "title": "Mini Candy Boost",
+          "lines": [
+            "Using Mini Candy Boost lets your helper Pokémon get twice the usual amount of EXP from candies in exchange for using four times the usual amount of Dream Shards per candy. This function can be used with up to 50 candies per day ."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250217064333/https://www.pokemonsleep.net/en/news/313634393031393533323333343835383235/"
     },
     {
       "id": "suicune-research",
@@ -501,7 +1104,47 @@
       "announcedOn": null,
       "startsOn": "2024-09-02",
       "endsOn": "2024-09-16",
-      "source": "https://web.archive.org/web/20250409121105/https://www.pokemonsleep.net/en/news/313636333538303136313334373432303137/"
+      "source": "https://web.archive.org/web/20250409121105/https://www.pokemonsleep.net/en/news/313636333538303136313334373432303137/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250409121105/https://www.pokemonsleep.net/en/news/313636333538303136313334373432303137/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (9/2−9/15)",
+          "lines": [
+            "Each time a Water-type helper Pokémon brings you ingredients during regular helping, it will have one extra .",
+            "The chance of a Water-type helper Pokémon’s main skill being triggered will be multiplied by 1.5 .",
+            "The Snorlax in the event areas will have Oran Berries (Water type) set as one of its favorite Berries. The other two kinds of Berries are chosen at random.",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day.",
+            "Certain Pokémon will be more likely to appear during sleep research."
+          ]
+        },
+        {
+          "title": "Week 1 of the Event (9/2−9/8)",
+          "lines": [
+            "Main skill levels of Water-type helper Pokémon will be boosted by 1 ."
+          ]
+        },
+        {
+          "title": "Week 2 of the Event (9/9−9/15)",
+          "lines": [
+            "Main skill levels of Water-type helper Pokémon will be boosted by 3 .",
+            "A big Snorlax will appear, and it can be raised starting at a certain Strength .",
+            "Snorlax’s starting rating varies depending on the area."
+          ]
+        },
+        {
+          "title": "Second Sunday of the Event (9/15)",
+          "lines": [
+            "Drowsy Power will be multiplied by 1.5. Note: Water-type helper Pokémon: Squirtle, Wartortle, Blastoise, Psyduck, Golduck, Slowpoke, Slowbro, Vaporeon, Totodile, Croconaw, Feraligatr, Wooper, Quagsire, Slowking, Suicune , Quaxly, Quaxwell"
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250409121105/https://www.pokemonsleep.net/en/news/313636333538303136313334373432303137/"
     },
     {
       "id": "good-sleep-day-14",
@@ -528,7 +1171,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313735333339333139363531373239343039/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "sleep-style-discovery-week-1",
@@ -536,7 +1191,25 @@
       "announcedOn": null,
       "startsOn": "2024-09-23",
       "endsOn": "2024-09-30",
-      "source": "https://web.archive.org/web/20250707184311/https://www.pokemonsleep.net/en/news/313737383435343734303531343839373933/"
+      "source": "https://web.archive.org/web/20250707184311/https://www.pokemonsleep.net/en/news/313737383435343734303531343839373933/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250707184311/https://www.pokemonsleep.net/en/news/313737383435343734303531343839373933/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (9/23 to 9/29)",
+          "lines": [
+            "Pokémon sleep styles that you haven’t discovered yet are more likely to appear during sleep research.",
+            "Final Strength gains from dishes will be multiplied by 1.25 (or 2.5 for Extra Tasty dishes or 3.75 for Extra Tasty dishes on Sunday only) .",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250707184311/https://www.pokemonsleep.net/en/news/313737383435343734303531343839373933/"
     },
     {
       "id": "old-gold-power-plant-debut",
@@ -544,7 +1217,24 @@
       "announcedOn": null,
       "startsOn": "2024-10-07",
       "endsOn": "2024-10-21",
-      "source": "https://web.archive.org/web/20250818082626/https://www.pokemonsleep.net/en/news/313832393933333030323432383235323137/"
+      "source": "https://web.archive.org/web/20250818082626/https://www.pokemonsleep.net/en/news/313832393933333030323432383235323137/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250818082626/https://www.pokemonsleep.net/en/news/313832393933333030323432383235323137/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "All Days (10/7 to 10/20)",
+          "lines": [
+            "Certain Pokémon will be more likely to appear during sleep research.",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of your sleep type for that day."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250818082626/https://www.pokemonsleep.net/en/news/313832393933333030323432383235323137/"
     },
     {
       "id": "good-sleep-day-15",
@@ -577,7 +1267,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241127050226/https://www.pokemonsleep.net/en/news/313836333231393335393937353939373435/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "halloween-2024",
@@ -585,7 +1287,46 @@
       "announcedOn": null,
       "startsOn": "2024-10-28",
       "endsOn": "2024-11-04",
-      "source": "https://web.archive.org/web/20241230050121/https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/"
+      "source": "https://web.archive.org/web/20241230050121/https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241230050121/https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "Bonuses",
+          "lines": [
+            "Note: The following effects will trigger in the applicable areas during this event."
+          ]
+        },
+        {
+          "title": "All Days (10/28 to 11/3)",
+          "lines": [
+            "Certain Pokémon will be more likely to appear during sleep research.",
+            "Each time a Ghost-type helper Pokémon brings you ingredients during regular helping, it will have one extra .",
+            "The chance of a Ghost-type helper Pokémon’s main skill being triggered will be multiplied by 1.5 .",
+            "Main skill levels of Ghost-type helper Pokémon will be boosted by 1 .",
+            "The Snorlax in the event area will have Bluk Berries (Ghost type) set as one of its favorite Berries. The other two kinds of Berries are chosen at random.",
+            "Many Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day."
+          ]
+        },
+        {
+          "title": "Halloween (10/31) and the Last Day of the Event (11/3)",
+          "lines": [
+            "Researchers will gain 3 times the usual number of candies for the first sleep research of the day."
+          ]
+        },
+        {
+          "title": "Other Days (10/28 to 10/30 and 11/1 to 11/2)",
+          "lines": [
+            "Researchers will gain 2 times the usual number of candies for the first sleep research of the day."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20241230050121/https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/"
     },
     {
       "id": "good-sleep-day-16",
@@ -618,7 +1359,19 @@
           ]
         }
       ],
-      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day"
+      "bonusSource": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241213080938/https://www.pokemonsleep.net/en/news/313936303934333338353333343235313533/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Good_Sleep_Day",
+          "note": "原有 bonusSections 文案来源；数值另据官方核对。"
+        }
+      ]
     },
     {
       "id": "eevee-week-2024",
@@ -626,7 +1379,38 @@
       "announcedOn": null,
       "startsOn": "2024-11-18",
       "endsOn": "2024-11-25",
-      "source": "https://web.archive.org/web/20250115050629/https://www.pokemonsleep.net/en/news/313936383432303133383535383432333035/"
+      "source": "https://web.archive.org/web/20250115050629/https://www.pokemonsleep.net/en/news/313936383432303133383535383432333035/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250115050629/https://www.pokemonsleep.net/en/news/313936383432303133383535383432333035/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "Bonuses",
+          "lines": [
+            "Note: The following effects will trigger in the applicable areas during this event."
+          ]
+        },
+        {
+          "title": "All Days (11/18 to 11/24)",
+          "lines": [
+            "During sleep research, Eevee and its Evolutions will be more likely to appear .",
+            "You may meet a Shiny Eevee.",
+            "A few Pokémon of different sleep types will appear during sleep research regardless of your sleep type for that day.",
+            "The chance of any helper Pokémon’s main skill being triggered will be multiplied by 1.5 ."
+          ]
+        },
+        {
+          "title": "Eevee Day (11/21)",
+          "lines": [
+            "+1,121 bonus sleep points."
+          ]
+        }
+      ],
+      "bonusSource": "https://web.archive.org/web/20250115050629/https://www.pokemonsleep.net/en/news/313936383432303133383535383432333035/"
     },
     {
       "id": "announcement-323035383532343335393838363131303733",
@@ -644,7 +1428,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323035383532343335393838363131303733/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323035383532343335393838363131303733/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323035383532343335393838363131303733/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-17",
@@ -652,7 +1443,35 @@
       "announcedOn": "2024-12-02",
       "startsOn": "2024-12-14",
       "endsOn": "2024-12-17",
-      "source": "https://www.pokemonsleep.net/zh/news/323036393530373739303739303938333639/"
+      "source": "https://www.pokemonsleep.net/zh/news/323036393530373739303739303938333639/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323036393530373739303739303938333639/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "所有日子（12/14～12/16）",
+          "lines": [
+            "睡眠研究時， 尚未發現的寶可夢睡姿出現機率提升 。"
+          ]
+        },
+        {
+          "title": "滿月之日（12/15）",
+          "lines": [
+            "睡意之力： 2倍 幫手寶可夢的睡眠EXP：3倍 紅利睡眠點數：+1000點"
+          ]
+        },
+        {
+          "title": "其他日子（12/14、12/16）",
+          "lines": [
+            "睡意之力： 1.5倍 幫手寶可夢的睡眠EXP：2倍 紅利睡眠點數：+500點"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323036393530373739303739303938333639/"
     },
     {
       "id": "announcement-323039303336363938383838313735363137",
@@ -679,14 +1498,12 @@
         {
           "title": "12/24",
           "lines": [
-            "可以领取期间限定「美梦好礼」。",
             "睡眠研究后的梦之碎片获得量变成2倍。"
           ]
         },
         {
           "title": "12/25",
           "lines": [
-            "可以领取期间限定「美梦好礼」。",
             "睡眠研究后的梦之碎片获得量变成3倍。",
             "红利睡眠点数+1225点。"
           ]
@@ -704,7 +1521,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323135353933333136383332353039393533",
@@ -751,7 +1575,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323135353933333136383332353039393533/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323135353933333136383332353039393533/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323135353933333136383332353039393533/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-18",
@@ -784,7 +1615,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323135353636373237383339323139373133/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323135353636373237383339323139373133/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323135353636373237383339323139373133/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323233353831383735313439343731373435",
@@ -803,9 +1641,22 @@
             "睡眠研究时，不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
             "睡眠研究时，特定宝可梦的出现概率提升。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323233353831383735313439343731373435/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323233353831383735313439343731373435/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323233353831383735313439343731373435/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323239343339343138373233373239343039",
@@ -826,7 +1677,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323239343339343138373233373239343039/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323239343339343138373233373239343039/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323239343339343138373233373239343039/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-19",
@@ -859,7 +1717,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323238323134373036343333363837353533/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323238323134373036343333363837353533/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323238323134373036343333363837353533/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323335393339313032393239373135323031",
@@ -877,7 +1742,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323335393339313032393239373135323031/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323335393339313032393239373135323031/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323335393339313032393239373135323031/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-20",
@@ -910,7 +1782,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323431373238353233313338343938353631/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323431373238353233313338343938353631/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323431373238353233313338343938353631/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323430393532383930303939373631313533",
@@ -928,9 +1807,22 @@
             "睡眠研究时，特定宝可梦的出现概率提升。",
             "可以使用期间限定的「迷你糖果增强」。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323430393532383930303939373631313533/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323430393532383930303939373631313533/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323430393532383930303939373631313533/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323436343635363930323437313032343635",
@@ -968,7 +1860,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323436343635363930323437313032343635/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323436343635363930323437313032343635/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323436343635363930323437313032343635/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-21",
@@ -1001,7 +1900,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323439363438353030313531363831303235/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323439363438353030313531363831303235/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323439363438353030313531363831303235/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323536353039393833363832373233383431",
@@ -1018,9 +1924,22 @@
             "主技能「梦之碎片获取S」的效果量变成1.5倍。",
             "帮手宝可梦的主技能发动概率会是1.25倍。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323536353039393833363832373233383431/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323536353039393833363832373233383431/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323536353039393833363832373233383431/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323539313133313932323830353535353231",
@@ -1041,7 +1960,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323539313133313932323830353535353231/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-22",
@@ -1074,7 +2000,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323631393938353937373730333133373239/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323631393938353937373730333133373239/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323631393938353937373730333133373239/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323632303234393634313235373533333435",
@@ -1092,7 +2025,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323632303234393634313235373533333435/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323632303234393634313235373533333435/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323632303234393634313235373533333435/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-1",
@@ -1110,9 +2050,23 @@
             "幸运的话，也许还能遇见异色的宝可梦。",
             "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323637343533323435323630303338313435/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323731383335323433303637393938323039",
@@ -1133,9 +2087,22 @@
             "可以使用期间限定的「迷你糖果增强」。",
             "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323731383335323433303637393938323039/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323731383335323433303637393938323039/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323731383335323433303637393938323039/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-23",
@@ -1168,7 +2135,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323732343936353239323038353038343137/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323732343936353239323038353038343137/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323732343936353239323038353038343137/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323736383532313034303633303930363839",
@@ -1190,7 +2164,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323736383532313034303633303930363839/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323736383532313034303633303930363839/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323736383532313034303633303930363839/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-2",
@@ -1207,9 +2188,23 @@
             "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
             "幸运的话，也许还能遇见异色的宝可梦。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323737363331363635323938323130383137/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323834313039333536333138383531303733",
@@ -1229,7 +2224,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-24",
@@ -1262,7 +2264,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323832363937363035333837393131313639/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323832363937363035333837393131313639/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323832363937363035333837393131313639/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323836353834353335313337363438363431",
@@ -1286,8 +2295,7 @@
             "睡眠研究时，必定有1只宝可梦会处于贪吃状态。（1天仅限1次）",
             "所有帮手宝可梦的主技能发动概率变成1.5倍。",
             "帮手宝可梦的睡眠EXP变成1.5倍。",
-            "睡眠研究后的糖果获得量变成1.5倍。（1天仅限1次）",
-            "可以使用期间限定的「美梦好礼」。"
+            "睡眠研究后的糖果获得量变成1.5倍。（1天仅限1次）"
           ]
         },
         {
@@ -1298,9 +2306,36 @@
             "可以使用期间限定的「迷你糖果增强」。",
             "可以获得各种研究奖励的期间限定新功能。（日后发表详情）"
           ]
+        },
+        {
+          "title": "迷你糖果增強（第2週）",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
+        },
+        {
+          "title": "期間限定「彩慶花」",
+          "lines": [
+            "當天第1次睡眠研究後的糖果獲得量變成2.5倍。",
+            "幫手寶可夢的睡眠EXP變成3倍。",
+            "一旦獲得研究獎勵，該獎勵就會在活動期間持續發揮效果。",
+            "研究獎勵僅適用於種下種子後開始測量的睡眠資料。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323836353834353335313337363438363431/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323836353834353335313337363438363431/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323836353834353335313337363438363431/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323930363038373331333038313633303733/",
+          "note": "彩庆花补充段来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-3",
@@ -1317,9 +2352,23 @@
             "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
             "幸运的话，也许还能遇见异色的宝可梦。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323837373732343132303334393430393239/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-25",
@@ -1352,7 +2401,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323932383430323030363239393131353533/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323932383430323030363239393131353533/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323932383430323030363239393131353533/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323934363038393532313033303130333035",
@@ -1371,9 +2427,22 @@
             "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
             "睡眠研究时，特定宝可梦的出现概率提升。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323934363038393532313033303130333035/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323934363038393532313033303130333035/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323934363038393532313033303130333035/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-4",
@@ -1390,9 +2459,23 @@
             "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
             "幸运的话，也许还能遇见异色的宝可梦。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323937313337363839353534303539323635/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-323938313634313238333131313438353435",
@@ -1410,9 +2493,22 @@
             "可以使用期间限定的「迷你糖果增强」。",
             "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/323938313634313238333131313438353435/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/323938313634313238333131313438353435/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323938313634313238333131313438353435/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-26",
@@ -1445,7 +2541,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333035343134343536363035363731343235/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333035343134343536363035363731343235/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333035343134343536363035363731343235/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333032323532323137353634333937353639",
@@ -1493,7 +2596,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333032323532323137353634333937353639/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333032323532323137353634333937353639/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333032323532323137353634333937353639/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-5",
@@ -1510,9 +2620,23 @@
             "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
             "幸运的话，也许还能遇见异色的宝可梦。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333130353931353435363333393331323635/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333130353935313939363135313037303733",
@@ -1531,9 +2655,22 @@
             "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
             "睡眠研究时，特定宝可梦的出现概率提升。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333130353935313939363135313037303733/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333130353935313939363135313037303733/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333130353935313939363135313037303733/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333133313133383732343835353830383031",
@@ -1551,9 +2688,22 @@
             "料理的最终能量为1.25倍（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍）。",
             "可以使用期间限定的「迷你糖果增强」。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333133313133383732343835353830383031/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333133313133383732343835353830383031/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333133313133383732343835353830383031/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-27",
@@ -1588,7 +2738,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333133313139393539333236363534343635/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-6",
@@ -1605,9 +2762,23 @@
             "在当天第1次的点心时间，宝可梦会变得不容易吃饱。",
             "幸运的话，也许还能遇见异色的宝可梦。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333230363231343938333037393639303235/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333234393733393633373438383335333239",
@@ -1647,7 +2818,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333234393733393633373438383335333239/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333234393733393633373438383335333239/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333234393733393633373438383335333239/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-28",
@@ -1680,7 +2858,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333235373639333130363332393335343235/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333235373639333130363332393335343235/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333235373639333130363332393335343235/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333237353138353233343831393135333933",
@@ -1698,7 +2883,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333237353138353233343831393135333933/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333237353138353233343831393135333933/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333237353138353233343831393135333933/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-7",
@@ -1716,9 +2908,23 @@
             "幸运的话，也许还能遇见异色的宝可梦。",
             "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333330373737343834323031303333373239/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333335323431333932313634393632333035",
@@ -1739,9 +2945,22 @@
             "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
             "料理的最终能量为1.25倍（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍）。 →数值已于上次活动、企画时进行了调整。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333335323431333932313634393632333035/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333335323431333932313634393632333035/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333335323431333932313634393632333035/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-29",
@@ -1774,7 +2993,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333335353539393939383236363930303439/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333335353539393939383236363930303439/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333335353539393939383236363930303439/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-8",
@@ -1792,9 +3018,23 @@
             "幸运的话，也许还能遇见异色的宝可梦。",
             "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333431303134343534323032323639373031/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333432383533383734343936383331343930",
@@ -1821,14 +3061,12 @@
         {
           "title": "12/24",
           "lines": [
-            "可以领取期间限定「美梦好礼」。",
             "睡眠研究后的梦之碎片获得量变成2倍。"
           ]
         },
         {
           "title": "12/25",
           "lines": [
-            "可以领取期间限定「美梦好礼」。",
             "睡眠研究后的梦之碎片获得量变成3倍。"
           ]
         },
@@ -1849,9 +3087,22 @@
           "lines": [
             "活动营地的「这周的卡比兽喜欢的树果：主树果」必定会是莓莓果，「这周的卡比兽喜欢的树果：副树果」其中1种必定会是靛莓果，而另外的树果则会随机决定。"
           ]
+        },
+        {
+          "title": "糖果增強",
+          "lines": [
+            "使用「糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 5倍 。 每天 最多可使用 500個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333432383533383734343936383331343930/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333435333139353737393034373432343032",
@@ -1893,7 +3144,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333435333139353737393034373432343032/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333435333139353737393034373432343032/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333435333139353737393034373432343032/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-30",
@@ -1926,7 +3184,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333436303435323233303634383239393538/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333436303435323233303634383239393538/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333436303435323233303634383239393538/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-9",
@@ -1944,9 +3209,23 @@
             "幸运的话，也许还能遇见异色的宝可梦。",
             "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333533363135363439313036323936383337/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333532393033333230353235383634393631",
@@ -1965,9 +3244,22 @@
             "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
             "睡眠研究时，特定宝可梦的出现概率提升。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333532393033333230353235383634393631/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333532393033333230353235383634393631/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333532393033333230353235383634393631/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-31",
@@ -2000,7 +3292,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333538363838343831393630303031353431/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333538363838343831393630303031353431/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333538363838343831393630303031353431/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333630353432383839393136323335373832",
@@ -2022,7 +3321,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333630353432383839393136323335373832/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333630353432383839393136323335373832/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333630353432383839393136323335373832/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-10",
@@ -2040,9 +3346,23 @@
             "幸运的话，也许还能遇见异色的宝可梦。",
             "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333633343635393438323035363738353933/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333731343130383939323833343736343931",
@@ -2060,9 +3380,22 @@
             "奇迹快照的研究EXP变成平常的1.25倍。",
             "奇迹快照的梦之碎片获得量会比平常多1,000个。 ※以上所有奖励效果皆不适用于没有梦幻入镜的睡姿照片。"
           ]
+        },
+        {
+          "title": "奇跡快照的條件",
+          "lines": [
+            "有夢幻入鏡的睡姿照片稱為「奇跡快照」。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333731343130383939323833343736343831",
@@ -2084,7 +3417,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343831/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343831/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343831/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-32",
@@ -2117,7 +3457,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333639323434363634393032393735343935/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333639323434363634393032393735343935/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333639323434363634393032393735343935/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333733313838393931373938373338393435",
@@ -2135,9 +3482,22 @@
             "透过主技能获得的梦之碎片数量变成1.5倍。 ※当主技能有多个效果时，只有梦之碎片数量会增加。",
             "可以使用期间限定的「迷你糖果增强」。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333733313838393931373938373338393435/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333733313838393931373938373338393435/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333733313838393931373938373338393435/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-11",
@@ -2155,9 +3515,23 @@
             "幸运的话，也许还能遇见异色的宝可梦。",
             "每次在睡眠研究遇见特别概率提升的宝可梦时，该宝可梦的友情点数皆会提升3。"
           ]
+        },
+        {
+          "title": "特別機率提升的條件",
+          "lines": [
+            "「達克萊伊」只有可能會在當天第1次的睡眠研究中出現，並不會在當天第2次的睡眠研究中出現。",
+            "此外，若未能在睡眠研究中遇見「達克萊伊」，在新月日的睡眠研究中能遇見牠的機率將會漸漸提升，直到遇見「達克萊伊」為止。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333733393033373130323039373033393430/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333736343238363738393233343139363534",
@@ -2175,9 +3549,22 @@
             "睡眠研究时，特定宝可梦的出现概率提升。",
             "可以使用期间限定的「迷你糖果增强」。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333736343238363738393233343139363534/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333736343238363738393233343139363534/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333736343238363738393233343139363534/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-33",
@@ -2210,7 +3597,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333739303632383739313632323034313634/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333739303632383739313632323034313634/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333739303632383739313632323034313634/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333738363536323735393239343937363031",
@@ -2254,7 +3648,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333738363536323735393239343937363031/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333738363536323735393239343937363031/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333738363536323735393239343937363031/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-12",
@@ -2274,7 +3675,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333832393738363232333538353532353739/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333838303837343130373734323435333737",
@@ -2295,7 +3703,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333838303837343130373734323435333737/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333838303837343130373734323435333737/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333838303837343130373734323435333737/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-34",
@@ -2328,7 +3743,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333839323033323330393030333535303734/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333839323033323330393030333535303734/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333839323033323330393030333535303734/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333933313532393833363139303736313030",
@@ -2348,9 +3770,22 @@
             "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。",
             "睡眠研究时，特定宝可梦的出现概率提升。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333933313532393833363139303736313030/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333933313532393833363139303736313030/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333933313532393833363139303736313030/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-13",
@@ -2370,7 +3805,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333933353136303639373134363537323837/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-333938393539333531343033393035303236",
@@ -2388,9 +3830,22 @@
             "睡眠研究时，特定宝可梦的出现概率提升。",
             "可以使用期间限定的「迷你糖果增强」。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333938393539333531343033393035303236/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333938393539333531343033393035303236/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333938393539333531343033393035303236/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-35",
@@ -2423,7 +3878,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/333939363533323738373432323136373130/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/333939363533323738373432323136373130/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333939363533323738373432323136373130/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343031343632313536343838333433353533",
@@ -2473,7 +3935,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343031343632313536343838333433353533/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343031343632313536343838333433353533/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343031343632313536343838333433353533/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-14",
@@ -2493,7 +3962,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343036323233393435343430363930313739/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-36",
@@ -2526,7 +4002,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343131363336303133303639323338323736/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343131363336303133303639323338323736/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343131363336303133303639323338323736/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343136333639393638323834363936353833",
@@ -2546,7 +4029,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343136333639393638323834363936353833/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343136333639393638323834363936353833/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343136333639393638323834363936353833/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343138383632323539383937333638353830",
@@ -2570,8 +4060,7 @@
             "睡眠研究时，必定有1只宝可梦会处于贪吃状态。（1天仅限1次）",
             "所有帮手宝可梦的主技能发动概率变成1.5倍。",
             "帮手宝可梦的睡眠EXP：1.5倍",
-            "睡眠研究后的糖果获得量变成1.5倍。（1天仅限1次）",
-            "可以使用期间限定的「美梦好礼」。"
+            "睡眠研究后的糖果获得量变成1.5倍。（1天仅限1次）"
           ]
         },
         {
@@ -2582,9 +4071,33 @@
             "可以使用期间限定的「迷你糖果增强」。",
             "可以使用期间限定的「彩庆花」。 ※关于可获得的奖励效果，详情请查看期间限定「彩庆花」的项目。"
           ]
+        },
+        {
+          "title": "迷你糖果增強（第2週）",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
+        },
+        {
+          "title": "期間限定「彩慶花」",
+          "lines": [
+            "紅花種子：第1次睡眠研究後的糖果獲得量變成2.5倍。",
+            "藍花種子：幫手寶可夢獲得的睡眠EXP變成3倍。",
+            "黃花種子：在點心時間時，必定會有1隻寶可夢處於貪吃狀態。（1天僅限1次）",
+            "紫花種子：睡眠研究後的夢之碎片獲得量變成2.5倍。",
+            "一旦獲得研究獎勵，該獎勵就會在活動期間持續發揮效果。",
+            "研究獎勵僅適用於種下種子後開始測量的睡眠資料。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343138383632323539383937333638353830/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343138383632323539383937333638353830/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343138383632323539383937333638353830/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-15",
@@ -2604,7 +4117,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343138393436383030343433393831383237/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-37",
@@ -2637,7 +4157,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343231333938343932383932363236393530/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343231333938343932383932363236393530/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343231333938343932383932363236393530/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343233393938313932373939393733333835",
@@ -2659,7 +4186,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343233393938313932373939393733333835/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343233393938313932373939393733333835/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343233393938313932373939393733333835/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-16",
@@ -2679,7 +4213,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343234333332383739323936373235303033/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343238373030393436303937323432313138",
@@ -2707,7 +4248,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343238373030393436303937323432313138/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343238373030393436303937323432313138/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343238373030393436303937323432313138/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-38",
@@ -2740,7 +4288,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343239303435333138323139323032353638/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343239303435333138323139323032353638/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343239303435333138323139323032353638/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343239373432303836333334343437363238",
@@ -2762,9 +4317,28 @@
             "可以使用期间限定的「迷你糖果增强」。",
             "不论研究者当天的睡眠类型为何，都也能遇见其他睡眠类型的宝可梦。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
+        },
+        {
+          "title": "奇跡快照的條件",
+          "lines": [
+            "有夢幻入鏡的睡姿照片稱為「奇跡快照」。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343239373432303836333334343437363238/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343239373432303836333334343437363238/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343239373432303836333334343437363238/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-17",
@@ -2784,7 +4358,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343330313733363437303535383830323037/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343239383235333132353739313235323439",
@@ -2826,7 +4407,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-39",
@@ -2860,7 +4448,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323231373034373238333436363337/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343430323735323935393936343737343435",
@@ -2882,9 +4477,22 @@
             "料理的最终能量为1.25倍（漂亮成功时为2.5倍，在周日漂亮成功时为3.75倍）。",
             "透过主技能获得的食材数量变成1.5倍。 ※当主技能有多个效果时，只有食材数量会增加。"
           ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430323735323935393936343737343435/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430323735323935393936343737343435/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323735323935393936343737343435/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "new-moon-day-18",
@@ -2904,7 +4512,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323635313031313832373633303133/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343430333034343435353738383035323530",
@@ -2922,7 +4537,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "good-sleep-day-40",
@@ -2958,7 +4580,14 @@
           ]
         }
       ],
-      "bonusSource": "https://www.pokemonsleep.net/zh/news/343532363635313734343730343236363331/"
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343532363635313734343730343236363331/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343532363635313734343730343236363331/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     },
     {
       "id": "announcement-343433383634343334323138313036383834",
@@ -2998,7 +4627,154 @@
           ]
         }
       ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
+    },
+    {
+      "id": "halloween-2026",
+      "name": "万圣节2026：糖果倍增研究",
+      "startsOn": "2026-10-26",
+      "endsOn": "2026-11-02",
+      "source": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
+      "announcedOn": "2026-10-14",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究時， 特定寶可夢的出現機率提升 。",
+            "幽靈屬性幫手寶可夢在幫忙時撿來的 食材數量會增加1個 。",
+            "幽靈屬性幫手寶可夢的 主技能發動機率會是1.25倍 。",
+            "幽靈屬性幫手寶可夢發動主技能時， 主技能等級+3 。",
+            "活動營地的「這週的卡比獸喜歡的樹果」中，必定會有1種樹果是 墨莓果 （幽靈屬性），另外2種樹果會隨機決定。",
+            "不論研究者當天的睡眠類型為何， 都也能遇見其他睡眠類型的寶可夢 。"
+          ]
+        },
+        {
+          "title": "萬聖節（ 10/31 ）＆活動最後一天（ 11/1 ）",
+          "lines": [
+            "當天第1次睡眠研究後的 糖果獲得量變成3倍 。"
+          ]
+        },
+        {
+          "title": "其他日子（ 10/26 ～ 10/30 ）",
+          "lines": [
+            "當天第1次睡眠研究後的 糖果獲得量變成2倍 。"
+          ]
+        }
+      ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/"
+    },
+    {
+      "id": "new-moon-day-19",
+      "name": "第19次新月日",
+      "startsOn": "2026-11-08",
+      "endsOn": "2026-11-11",
+      "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+      "announcedOn": "2026-10-30",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "在 當天第1次 的點心時間，寶可夢會變得 不容易吃飽 。",
+            "幸運的話，也許還能遇見異色的寶可夢。",
+            "幻之寶可夢的 特別機率提升 。",
+            "每次在睡眠研究遇見特別機率提升的寶可夢時，該寶可夢的友情點數皆會提升 3 。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/"
+    },
+    {
+      "id": "meal-prep-vol1-2026",
+      "name": "备料周vol.1",
+      "startsOn": "2026-11-09",
+      "endsOn": "2026-11-16",
+      "source": "https://www.pokemonsleep.net/zh/news/343537333139333632303937383430313332/",
+      "announcedOn": "2026-10-28",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537333139333632303937383430313332/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "睡眠研究時， 特定寶可夢的出現機率提升 。",
+            "不論研究者當天的睡眠類型為何， 都也能遇見其他睡眠類型的寶可夢 。",
+            "可以使用期間限定的「 迷你糖果增強 」。",
+            "透過料理可獲得的 能量會變成1.25倍 。",
+            "研究專長為食材的寶可夢時， 糖果獲得量變成1.5倍 。",
+            "研究專長為食材的寶可夢時， 夢之碎片獲得量變成1.5倍 。 ※糖果與夢之碎片獲得量的獎勵若遇到重複的情況，僅適用倍率最大的獎勵。",
+            "研究主技能是「食材精選S」的寶可夢時， 糖果獲得量變成1.5倍 。",
+            "研究主技能是「食材精選S」的寶可夢時， 夢之碎片獲得量變成1.5倍 。 ※「怪力鉗（食材精選S）」等名稱中包含「食材精選S」的主技能也同樣適用。"
+          ]
+        },
+        {
+          "title": "迷你糖果增強",
+          "lines": [
+            "使用「迷你糖果增強」後， 幫手寶可夢在使用糖果時可獲得的EXP 會變成 2倍 ，但使用1個糖果所需的 夢之碎片消耗量會是平時的 4倍 。 每天 最多可使用 50個糖果 。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343537333139333632303937383430313332/"
+    },
+    {
+      "id": "all-you-can-eat-vol1-2026",
+      "name": "来什么都吃光光！大餐周vol.1",
+      "startsOn": "2026-11-16",
+      "endsOn": "2026-11-23",
+      "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+      "announcedOn": "2026-11-04",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ],
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "專長為食材的幫手寶可夢 在幫忙時撿來的食材數量會增加1個，並且會額外獲得1個「一口堅果」 。",
+            "專長為食材的幫手寶可夢，其 樹果、食材的持有上限會增加10個 。",
+            "製作食譜裡含有 「一口堅果」 的料理時，從食譜指定的食材份量獲得的能量會變成 1.5倍 。",
+            "作為額外食材使用的每1個 「一口堅果」可獲得的能量 會變成 1.5倍 。",
+            "鍋子容量（可放的食材數量上限） 增加30 。",
+            "睡眠研究時， 特定寶可夢的出現機率提升 。",
+            "不論研究者當天的睡眠類型為何， 都也能遇見其他睡眠類型的寶可夢 。 關於含有「一口堅果」的料理的獎勵 透過含有「一口堅果」的料理可獲得的能量倍率會根據 製作的料理和「一口堅果」的使用數量 而不同。 例1：料理的所需食材包含「一口堅果」，且只使用了和所需食材量同數量的「一口堅果」。",
+            "顯示於食譜一覽的料理能量變成1.5倍。 例2：料理的所需食材包含「一口堅果」，且使用了比所需食材量還多的「一口堅果」。",
+            "顯示於食譜一覽的料理能量變成1.5倍。",
+            "超過料理所需數量而額外加入的「一口堅果」能量變成1.5倍。 例3：料理的所需食材不包含「一口堅果」，並且使用了「一口堅果」。",
+            "顯示於食譜一覽的料理能量倍率不變。",
+            "額外使用的「一口堅果」能量變成1.5倍。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/"
     }
   ],
   "encounterUps": {
@@ -8720,242 +10496,123 @@
     ],
     "good-sleep-day-2": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-3": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-4": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-5": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-6": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-7": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-8": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-9": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-10": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-11": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-12": [
       {
-        "tier": "large",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第2天（满月之日）"
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第1天、第3天"
+        "label": "皮皮家族出现提升（Wiki补缺；官方当期档位未确认）"
       }
     ],
     "good-sleep-day-13": [
       {
-        "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
-        "label": "第2天（满月之日）"
-      },
-      {
         "tier": "medium",
         "pokemonIds": [
           35,
           36,
           173
         ],
-        "label": "第1天、第3天"
+        "label": "Greater Appearance Rate"
       }
     ],
     "good-sleep-day-14": [
