@@ -11626,6 +11626,41 @@
         }
       ],
       "tutorialEligible": false
+    },
+    {
+      "id": "announcement-343537363333323535313433373638303639",
+      "name": "梦之碎片增量周vol.3",
+      "source": "https://www.pokemonsleep.net/zh/news/343537363333323535313433373638303639/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-11-23",
+      "endsOn": "2026-11-30",
+      "rules": [
+        {
+          "effects": {
+            "dreamShardsMultiplier": 1.5,
+            "skillRateMultiplier": 1.25
+          }
+        },
+        {
+          "effects": {
+            "skillDreamShardsMultiplier": 1.5
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537363333323535313433373638303639/",
+          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+        }
+      ],
+      "tutorialEligible": false,
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      }
     }
   ]
 }

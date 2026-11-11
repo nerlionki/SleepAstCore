@@ -10991,5 +10991,12 @@
       }
     ],
     "formKey": "夢妖魔"
+  },
+  {
+    "id": 546,
+    "name": "木棉球",
+    "sleepType": "安然入睡",
+    "berryType": "妖精",
+    "formKey": "木棉球"
   }
 ]

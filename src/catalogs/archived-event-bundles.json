@@ -50,10 +50,10 @@
       "eventId": "good-sleep-day-2",
       "eventName": "第2次好眠日",
       "name": "好眠日礼包 Vol. 2",
-      "announcedOn": null,
+      "announcedOn": "2023-09-27",
       "eventEndsOn": "2023-10-01",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-09-27T12:00:00",
+      "saleEndsAt": "2023-10-02T12:00:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -83,9 +83,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20231003102825/https://www.pokemonsleep.net/zh/news/2684/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -94,10 +99,10 @@
       "eventId": "good-sleep-day-3",
       "eventName": "第3次好眠日",
       "name": "好眠日礼包 Vol. 3",
-      "announcedOn": null,
+      "announcedOn": "2023-10-23",
       "eventEndsOn": "2023-10-31",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-10-27T12:00:00",
+      "saleEndsAt": "2023-11-01T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -127,9 +132,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20231109013826/https://www.pokemonsleep.net/en/news/2785/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -138,10 +148,10 @@
       "eventId": "halloween-2023",
       "eventName": "万圣节2023：糖果倍增研究",
       "name": "Halloween 2023 Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2023-10-23",
       "eventEndsOn": "2023-11-06",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-10-29T12:00:00",
+      "saleEndsAt": "2023-11-06T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -171,9 +181,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20231109013826/https://www.pokemonsleep.net/en/news/2783/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -182,10 +197,10 @@
       "eventId": "halloween-2023",
       "eventName": "万圣节2023：糖果倍增研究",
       "name": "Halloween 2023 Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2023-10-23",
       "eventEndsOn": "2023-11-06",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-10-29T12:00:00",
+      "saleEndsAt": "2023-11-06T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -215,9 +230,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20231109013826/https://www.pokemonsleep.net/en/news/2783/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -226,10 +246,10 @@
       "eventId": "halloween-2023",
       "eventName": "万圣节2023：糖果倍增研究",
       "name": "Halloween 2023 Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2023-10-23",
       "eventEndsOn": "2023-11-06",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-10-29T12:00:00",
+      "saleEndsAt": "2023-11-06T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -254,9 +274,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20231109013826/https://www.pokemonsleep.net/en/news/2783/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -265,10 +290,10 @@
       "eventId": "eevee-week-2023",
       "eventName": "伊布周2023",
       "name": "Eevee Week 2023 Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2023-11-13",
       "eventEndsOn": "2023-11-27",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-11-19T12:00:00",
+      "saleEndsAt": "2023-11-28T12:00:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -298,9 +323,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4044/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -309,10 +339,10 @@
       "eventId": "eevee-week-2023",
       "eventName": "伊布周2023",
       "name": "Eevee Week 2023 Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2023-11-13",
       "eventEndsOn": "2023-11-27",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-11-19T12:00:00",
+      "saleEndsAt": "2023-11-28T12:00:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -342,9 +372,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4044/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -353,10 +388,10 @@
       "eventId": "eevee-week-2023",
       "eventName": "伊布周2023",
       "name": "Eevee Week 2023 Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2023-11-13",
       "eventEndsOn": "2023-11-27",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-11-19T12:00:00",
+      "saleEndsAt": "2023-11-28T12:00:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -381,9 +416,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4044/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -392,10 +432,10 @@
       "eventId": "good-sleep-day-4",
       "eventName": "第4次好眠日",
       "name": "好眠日礼包 Vol. 4",
-      "announcedOn": null,
+      "announcedOn": "2023-11-17",
       "eventEndsOn": "2023-11-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-11-25T12:00:00",
+      "saleEndsAt": "2023-11-30T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -425,9 +465,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4109/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -436,10 +481,10 @@
       "eventId": "holiday-2023",
       "eventName": "佳节2023：梦之碎片倍增研究",
       "name": "Holiday 2023 Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2023-12-07",
       "eventEndsOn": "2023-12-25",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-12-17T12:00:00",
+      "saleEndsAt": "2023-12-26T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -469,9 +514,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4302/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -480,10 +530,10 @@
       "eventId": "holiday-2023",
       "eventName": "佳节2023：梦之碎片倍增研究",
       "name": "Holiday 2023 Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2023-12-07",
       "eventEndsOn": "2023-12-25",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-12-17T12:00:00",
+      "saleEndsAt": "2023-12-26T11:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -513,9 +563,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4302/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -524,10 +579,10 @@
       "eventId": "holiday-2023",
       "eventName": "佳节2023：梦之碎片倍增研究",
       "name": "Holiday 2023 Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2023-12-07",
       "eventEndsOn": "2023-12-25",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-12-17T12:00:00",
+      "saleEndsAt": "2023-12-26T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -552,9 +607,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4302/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -563,10 +623,10 @@
       "eventId": "good-sleep-day-5",
       "eventName": "第5次好眠日",
       "name": "好眠日礼包 Vol. 5",
-      "announcedOn": null,
+      "announcedOn": "2023-12-15",
       "eventEndsOn": "2023-12-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-12-25T12:00:00",
+      "saleEndsAt": "2023-12-30T12:00:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -596,9 +656,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4443/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -607,10 +672,10 @@
       "eventId": "new-year-2024",
       "eventName": "新年2024",
       "name": "New Year 2024 Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2023-12-22",
       "eventEndsOn": "2024-01-08",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-12-31T23:00:00",
+      "saleEndsAt": "2024-01-09T11:59:00",
       "price": {
         "amount": 5000,
         "unit": "钻石"
@@ -655,9 +720,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4488/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -666,10 +736,10 @@
       "eventId": "new-year-2024",
       "eventName": "新年2024",
       "name": "New Year 2024 Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2023-12-22",
       "eventEndsOn": "2024-01-08",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-12-31T23:00:00",
+      "saleEndsAt": "2024-01-09T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -699,9 +769,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4488/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -710,10 +785,10 @@
       "eventId": "new-year-2024",
       "eventName": "新年2024",
       "name": "New Year 2024 Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2023-12-22",
       "eventEndsOn": "2024-01-08",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2023-12-31T23:00:00",
+      "saleEndsAt": "2024-01-09T11:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -738,9 +813,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240114145623/https://www.pokemonsleep.net/zh/news/4488/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -749,10 +829,10 @@
       "eventId": "good-sleep-day-6",
       "eventName": "第6次好眠日",
       "name": "好眠日礼包 Vol. 6",
-      "announcedOn": null,
+      "announcedOn": "2024-01-15",
       "eventEndsOn": "2024-01-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-01-24T12:00:00",
+      "saleEndsAt": "2024-01-29T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -782,9 +862,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240226235133/https://www.pokemonsleep.net/zh/news/4538/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -793,10 +878,10 @@
       "eventId": "lapis-lakeside-opening",
       "eventName": "宝蓝湖畔登场活动",
       "name": "Lapis Lakeside Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2024-01-19",
       "eventEndsOn": "2024-02-12",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-01-29T03:00:00",
+      "saleEndsAt": "2024-02-13T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -841,9 +926,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240226235133/https://www.pokemonsleep.net/zh/news/4594/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -852,10 +942,10 @@
       "eventId": "lapis-lakeside-opening",
       "eventName": "宝蓝湖畔登场活动",
       "name": "Lapis Lakeside Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2024-01-19",
       "eventEndsOn": "2024-02-12",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-01-29T03:00:00",
+      "saleEndsAt": "2024-02-13T11:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -890,9 +980,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240226235133/https://www.pokemonsleep.net/zh/news/4594/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -901,10 +996,10 @@
       "eventId": "lapis-lakeside-opening",
       "eventName": "宝蓝湖畔登场活动",
       "name": "Lapis Lakeside Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2024-01-19",
       "eventEndsOn": "2024-02-12",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-01-29T03:00:00",
+      "saleEndsAt": "2024-02-13T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -924,9 +1019,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240226235133/https://www.pokemonsleep.net/zh/news/4594/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -935,10 +1035,10 @@
       "eventId": "valentines-2024",
       "eventName": "情人节2024",
       "name": "Valentine's Day 2024 Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2024-02-05",
       "eventEndsOn": "2024-02-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-02-11T12:00:00",
+      "saleEndsAt": "2024-02-20T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -973,9 +1073,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240226235133/https://www.pokemonsleep.net/zh/news/4692/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -984,10 +1089,10 @@
       "eventId": "valentines-2024",
       "eventName": "情人节2024",
       "name": "Valentine's Day 2024 Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2024-02-05",
       "eventEndsOn": "2024-02-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-02-11T12:00:00",
+      "saleEndsAt": "2024-02-20T11:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -1022,9 +1127,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240226235133/https://www.pokemonsleep.net/zh/news/4692/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1033,10 +1143,10 @@
       "eventId": "valentines-2024",
       "eventName": "情人节2024",
       "name": "Valentine's Day 2024 Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2024-02-05",
       "eventEndsOn": "2024-02-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-02-11T12:00:00",
+      "saleEndsAt": "2024-02-20T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -1066,9 +1176,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240226235133/https://www.pokemonsleep.net/zh/news/4692/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1077,10 +1192,10 @@
       "eventId": "good-sleep-day-7",
       "eventName": "第7次好眠日",
       "name": "好眠日礼包 Vol. 7",
-      "announcedOn": null,
+      "announcedOn": "2024-02-15",
       "eventEndsOn": "2024-02-26",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-02-22T12:00:00",
+      "saleEndsAt": "2024-02-27T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -1110,9 +1225,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240417215415/https://www.pokemonsleep.net/zh/news/4942/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1121,10 +1241,10 @@
       "eventId": "electric-type-week",
       "eventName": "电属性周",
       "name": "Electric Type Week Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2024-03-06",
       "eventEndsOn": "2024-03-18",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-03-11T14:00:00",
+      "saleEndsAt": "2024-03-19T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -1164,9 +1284,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240417215415/https://www.pokemonsleep.net/zh/news/5171/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1175,10 +1300,10 @@
       "eventId": "electric-type-week",
       "eventName": "电属性周",
       "name": "Electric Type Week Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2024-03-06",
       "eventEndsOn": "2024-03-18",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-03-11T14:00:00",
+      "saleEndsAt": "2024-03-19T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -1203,9 +1328,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240417215415/https://www.pokemonsleep.net/zh/news/5171/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1214,10 +1344,10 @@
       "eventId": "electric-type-week",
       "eventName": "电属性周",
       "name": "Electric Type Week Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2024-03-06",
       "eventEndsOn": "2024-03-18",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-03-11T14:00:00",
+      "saleEndsAt": "2024-03-19T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -1237,9 +1367,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240417215415/https://www.pokemonsleep.net/zh/news/5171/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1248,10 +1383,10 @@
       "eventId": "good-sleep-day-8",
       "eventName": "第8次好眠日",
       "name": "好眠日礼包 Vol. 8",
-      "announcedOn": null,
+      "announcedOn": "2024-03-07",
       "eventEndsOn": "2024-03-27",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-03-23T12:00:00",
+      "saleEndsAt": "2024-03-28T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -1281,9 +1416,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240417215415/https://www.pokemonsleep.net/zh/news/5207/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1292,10 +1432,10 @@
       "eventId": "raikou-research",
       "eventName": "雷公研究",
       "name": "Raikou Research Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-03-15",
       "eventEndsOn": "2024-04-08",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-03-24T12:00:00",
+      "saleEndsAt": "2024-04-09T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -1330,9 +1470,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240320112224/https://www.pokemonsleep.net/en/news/5265/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1341,10 +1486,10 @@
       "eventId": "raikou-research",
       "eventName": "雷公研究",
       "name": "Raikou Research Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-03-15",
       "eventEndsOn": "2024-04-08",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-03-24T12:00:00",
+      "saleEndsAt": "2024-04-09T11:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -1374,9 +1519,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240320112224/https://www.pokemonsleep.net/en/news/5265/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1385,10 +1535,10 @@
       "eventId": "raikou-research",
       "eventName": "雷公研究",
       "name": "Raikou Research Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-03-15",
       "eventEndsOn": "2024-04-08",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-03-24T12:00:00",
+      "saleEndsAt": "2024-04-09T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -1413,9 +1563,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240320112224/https://www.pokemonsleep.net/en/news/5265/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1424,10 +1579,10 @@
       "eventId": "raikou-research",
       "eventName": "雷公研究",
       "name": "Raikou Last Chance Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-03-15",
       "eventEndsOn": "2024-04-08",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-04-01T12:00:00",
+      "saleEndsAt": "2024-04-09T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -1447,9 +1602,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240320112224/https://www.pokemonsleep.net/en/news/5265/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1458,10 +1618,10 @@
       "eventId": "raikou-research",
       "eventName": "雷公研究",
       "name": "Raikou Last Chance Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-03-15",
       "eventEndsOn": "2024-04-08",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-04-01T12:00:00",
+      "saleEndsAt": "2024-04-09T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -1481,9 +1641,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240320112224/https://www.pokemonsleep.net/en/news/5265/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1536,10 +1701,10 @@
       "eventId": "flower-festival-2024",
       "eventName": "花朵嘉年华2024",
       "name": "Flower Festival Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-04-16",
       "eventEndsOn": "2024-04-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-04-22T14:00:00",
+      "saleEndsAt": "2024-04-30T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -1569,9 +1734,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240419213806/https://www.pokemonsleep.net/zh/news/5592/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1580,10 +1750,10 @@
       "eventId": "flower-festival-2024",
       "eventName": "花朵嘉年华2024",
       "name": "Flower Festival Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-04-16",
       "eventEndsOn": "2024-04-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-04-22T14:00:00",
+      "saleEndsAt": "2024-04-30T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -1608,9 +1778,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240419213806/https://www.pokemonsleep.net/zh/news/5592/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1619,10 +1794,10 @@
       "eventId": "flower-festival-2024",
       "eventName": "花朵嘉年华2024",
       "name": "Flower Festival Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-04-16",
       "eventEndsOn": "2024-04-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-04-22T14:00:00",
+      "saleEndsAt": "2024-04-30T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -1642,9 +1817,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240419213806/https://www.pokemonsleep.net/zh/news/5592/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1653,10 +1833,10 @@
       "eventId": "fire-type-week",
       "eventName": "火属性周",
       "name": "Fire Type Week Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-05-01",
       "eventEndsOn": "2024-05-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-06T14:00:00",
+      "saleEndsAt": "2024-05-14T08:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -1696,9 +1876,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5772/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1707,10 +1892,10 @@
       "eventId": "fire-type-week",
       "eventName": "火属性周",
       "name": "Fire Type Week Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-05-01",
       "eventEndsOn": "2024-05-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-06T14:00:00",
+      "saleEndsAt": "2024-05-14T08:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -1735,9 +1920,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5772/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1746,10 +1936,10 @@
       "eventId": "fire-type-week",
       "eventName": "火属性周",
       "name": "Fire Type Week Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-05-01",
       "eventEndsOn": "2024-05-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-06T14:00:00",
+      "saleEndsAt": "2024-05-14T08:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -1769,9 +1959,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5772/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1780,10 +1975,10 @@
       "eventId": "entei-research",
       "eventName": "炎帝研究",
       "name": "Entei Research Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-05-09",
       "eventEndsOn": "2024-06-03",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-20T12:00:00",
+      "saleEndsAt": "2024-06-04T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -1818,9 +2013,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5883/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1829,10 +2029,10 @@
       "eventId": "entei-research",
       "eventName": "炎帝研究",
       "name": "Entei Research Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-05-09",
       "eventEndsOn": "2024-06-03",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-20T12:00:00",
+      "saleEndsAt": "2024-06-04T11:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -1862,9 +2062,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5883/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1873,10 +2078,10 @@
       "eventId": "entei-research",
       "eventName": "炎帝研究",
       "name": "Entei Research Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-05-09",
       "eventEndsOn": "2024-06-03",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-20T12:00:00",
+      "saleEndsAt": "2024-06-04T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -1901,9 +2106,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5883/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1912,10 +2122,10 @@
       "eventId": "good-sleep-day-10",
       "eventName": "第10次好眠日",
       "name": "好眠日礼包 Vol. 10",
-      "announcedOn": null,
+      "announcedOn": "2024-05-08",
       "eventEndsOn": "2024-05-25",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-21T12:00:00",
+      "saleEndsAt": "2024-05-26T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -1945,9 +2155,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5864/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1956,10 +2171,10 @@
       "eventId": "entei-research",
       "eventName": "炎帝研究",
       "name": "Entei Last Chance Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-05-09",
       "eventEndsOn": "2024-06-03",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-27T12:00:00",
+      "saleEndsAt": "2024-06-04T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -1979,9 +2194,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5883/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -1990,10 +2210,10 @@
       "eventId": "entei-research",
       "eventName": "炎帝研究",
       "name": "Entei Last Chance Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-05-09",
       "eventEndsOn": "2024-06-03",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-27T12:00:00",
+      "saleEndsAt": "2024-06-04T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -2013,9 +2233,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5883/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2024,10 +2249,10 @@
       "eventId": "entei-research",
       "eventName": "炎帝研究",
       "name": "Entei Last Chance Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-05-09",
       "eventEndsOn": "2024-06-03",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-05-27T12:00:00",
+      "saleEndsAt": "2024-06-04T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -2047,9 +2272,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240519231337/https://www.pokemonsleep.net/zh/news/5883/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2058,10 +2288,10 @@
       "eventId": "summer-festival-2024",
       "eventName": "夏日嘉年华2024",
       "name": "Summer Festival Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-06-10",
       "eventEndsOn": "2024-06-24",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-06-17T14:00:00",
+      "saleEndsAt": "2024-06-25T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -2106,9 +2336,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240616184006/https://www.pokemonsleep.net/en/news/313434353135333632383538323035313835/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2117,10 +2352,10 @@
       "eventId": "summer-festival-2024",
       "eventName": "夏日嘉年华2024",
       "name": "Summer Festival Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-06-10",
       "eventEndsOn": "2024-06-24",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-06-17T14:00:00",
+      "saleEndsAt": "2024-06-25T11:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -2155,9 +2390,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240616184006/https://www.pokemonsleep.net/en/news/313434353135333632383538323035313835/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2166,10 +2406,10 @@
       "eventId": "summer-festival-2024",
       "eventName": "夏日嘉年华2024",
       "name": "Summer Festival Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-06-10",
       "eventEndsOn": "2024-06-24",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-06-17T14:00:00",
+      "saleEndsAt": "2024-06-25T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -2194,9 +2434,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240616184006/https://www.pokemonsleep.net/en/news/313434353135333632383538323035313835/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2205,10 +2450,10 @@
       "eventId": "good-sleep-day-11",
       "eventName": "第11次好眠日",
       "name": "好眠日礼包 Vol. 11",
-      "announcedOn": null,
+      "announcedOn": "2024-06-07",
       "eventEndsOn": "2024-06-24",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-06-20T12:00:00",
+      "saleEndsAt": "2024-06-25T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -2238,9 +2483,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240616184006/https://www.pokemonsleep.net/en/news/313433343331343334323130363339383733/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2249,10 +2499,10 @@
       "eventId": "growth-week-1",
       "eventName": "宝可梦快快长大周",
       "name": "Pokémon Growth Bundle Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2024-06-27",
       "eventEndsOn": "2024-07-08",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-06-30T12:00:00",
+      "saleEndsAt": "2024-07-09T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -2282,9 +2532,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240716050646/https://www.pokemonsleep.net/en/news/313530363734333430353730393838353435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2293,10 +2548,10 @@
       "eventId": "first-anniversary-fest",
       "eventName": "1周年纪念嘉年华",
       "name": "Pokémon Befriending Bundle (Fuecoco) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2024-07-10",
       "eventEndsOn": "2024-07-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-07-15T14:00:00",
+      "saleEndsAt": "2024-07-30T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -2326,9 +2581,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240716050646/https://www.pokemonsleep.net/en/news/313534363533373434343839383234323537/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2337,10 +2597,10 @@
       "eventId": "first-anniversary-fest",
       "eventName": "1周年纪念嘉年华",
       "name": "Pokémon Befriending Bundle (Quaxly) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2024-07-10",
       "eventEndsOn": "2024-07-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-07-15T14:00:00",
+      "saleEndsAt": "2024-07-30T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -2370,9 +2630,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240716050646/https://www.pokemonsleep.net/en/news/313534363533373434343839383234323537/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2381,10 +2646,10 @@
       "eventId": "first-anniversary-fest",
       "eventName": "1周年纪念嘉年华",
       "name": "Pokémon Befriending Bundle (Sprigatito) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2024-07-10",
       "eventEndsOn": "2024-07-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-07-15T14:00:00",
+      "saleEndsAt": "2024-07-30T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -2414,9 +2679,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240716050646/https://www.pokemonsleep.net/en/news/313534363533373434343839383234323537/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2425,10 +2695,10 @@
       "eventId": "good-sleep-day-12",
       "eventName": "第12次好眠日",
       "name": "好眠日礼包 Vol. 12",
-      "announcedOn": null,
+      "announcedOn": "2024-07-04",
       "eventEndsOn": "2024-07-23",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-07-19T12:00:00",
+      "saleEndsAt": "2024-07-24T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -2458,9 +2728,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240716050646/https://www.pokemonsleep.net/en/news/313532323335333339353732383338343031/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2469,10 +2744,10 @@
       "eventId": "first-anniversary-fest",
       "eventName": "1周年纪念嘉年华",
       "name": "First Anniversary Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2024-07-15",
       "eventEndsOn": "2024-07-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-07-20T12:00:00",
+      "saleEndsAt": "2024-08-03T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -2502,9 +2777,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240716050646/https://www.pokemonsleep.net/en/news/313535343435353936303034353438363039/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2513,10 +2793,10 @@
       "eventId": "first-anniversary-fest",
       "eventName": "1周年纪念嘉年华",
       "name": "First Anniversary Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2024-07-15",
       "eventEndsOn": "2024-07-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-07-20T12:00:00",
+      "saleEndsAt": "2024-08-03T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -2551,9 +2831,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240716050646/https://www.pokemonsleep.net/en/news/313535343435353936303034353438363039/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2562,10 +2847,10 @@
       "eventId": "first-anniversary-fest",
       "eventName": "1周年纪念嘉年华",
       "name": "First Anniversary Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2024-07-15",
       "eventEndsOn": "2024-07-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-07-20T12:00:00",
+      "saleEndsAt": "2024-08-03T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -2595,9 +2880,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240716050646/https://www.pokemonsleep.net/en/news/313535343435353936303034353438363039/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2606,10 +2896,10 @@
       "eventId": "growth-week-2",
       "eventName": "宝可梦快快长大周vol.2",
       "name": "Pokémon Growth Week Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2024-07-31",
       "eventEndsOn": "2024-08-12",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-08-04T12:00:00",
+      "saleEndsAt": "2024-08-13T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -2634,9 +2924,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240914134941/https://www.pokemonsleep.net/zh/news/313632373033343037373330313330393435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2645,10 +2940,10 @@
       "eventId": "growth-week-2",
       "eventName": "宝可梦快快长大周vol.2",
       "name": "Pokémon Growth Week Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2024-07-31",
       "eventEndsOn": "2024-08-12",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-08-04T12:00:00",
+      "saleEndsAt": "2024-08-13T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -2673,9 +2968,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240914134941/https://www.pokemonsleep.net/zh/news/313632373033343037373330313330393435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2684,10 +2984,10 @@
       "eventId": "growth-week-2",
       "eventName": "宝可梦快快长大周vol.2",
       "name": "Pokémon Growth Week Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2024-07-31",
       "eventEndsOn": "2024-08-12",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-08-04T12:00:00",
+      "saleEndsAt": "2024-08-13T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -2712,9 +3012,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240914134941/https://www.pokemonsleep.net/zh/news/313632373033343037373330313330393435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2723,10 +3028,10 @@
       "eventId": "good-sleep-day-13",
       "eventName": "第13次好眠日",
       "name": "好眠日礼包 Vol. 13",
-      "announcedOn": null,
+      "announcedOn": "2024-08-07",
       "eventEndsOn": "2024-08-22",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-08-18T12:00:00",
+      "saleEndsAt": "2024-08-23T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -2756,9 +3061,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313634383831333532353639363531323031/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2767,10 +3077,10 @@
       "eventId": "water-type-week",
       "eventName": "水属性周",
       "name": "Water Type Week Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-08-14",
       "eventEndsOn": "2024-08-26",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-08-19T14:00:00",
+      "saleEndsAt": "2024-08-27T08:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -2810,9 +3120,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313635353332363635373936313030303937/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2821,10 +3136,10 @@
       "eventId": "water-type-week",
       "eventName": "水属性周",
       "name": "Water Type Week Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-08-14",
       "eventEndsOn": "2024-08-26",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-08-19T14:00:00",
+      "saleEndsAt": "2024-08-27T08:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -2849,9 +3164,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313635353332363635373936313030303937/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2860,10 +3180,10 @@
       "eventId": "water-type-week",
       "eventName": "水属性周",
       "name": "Water Type Week Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-08-14",
       "eventEndsOn": "2024-08-26",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-08-19T14:00:00",
+      "saleEndsAt": "2024-08-27T08:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -2883,9 +3203,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240917224514/https://www.pokemonsleep.net/en/news/313635353332363635373936313030303937/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2894,10 +3219,10 @@
       "eventId": "suicune-research",
       "eventName": "水君研究",
       "name": "Suicune Research Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-08-21",
       "eventEndsOn": "2024-09-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-02T12:00:00",
+      "saleEndsAt": "2024-09-17T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -2937,9 +3262,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240901220941/https://www.pokemonsleep.net/en/news/313730333435353134393030393134313737/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2948,10 +3278,10 @@
       "eventId": "suicune-research",
       "eventName": "水君研究",
       "name": "Suicune Research Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-08-21",
       "eventEndsOn": "2024-09-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-02T12:00:00",
+      "saleEndsAt": "2024-09-17T11:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -2981,9 +3311,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240901220941/https://www.pokemonsleep.net/en/news/313730333435353134393030393134313737/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -2992,10 +3327,10 @@
       "eventId": "suicune-research",
       "eventName": "水君研究",
       "name": "Suicune Research Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-08-21",
       "eventEndsOn": "2024-09-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-02T12:00:00",
+      "saleEndsAt": "2024-09-17T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -3020,9 +3355,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240901220941/https://www.pokemonsleep.net/en/news/313730333435353134393030393134313737/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3031,10 +3371,10 @@
       "eventId": "suicune-research",
       "eventName": "水君研究",
       "name": "Suicune Last Chance Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-08-21",
       "eventEndsOn": "2024-09-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-09T12:00:00",
+      "saleEndsAt": "2024-09-17T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -3054,9 +3394,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240901220941/https://www.pokemonsleep.net/en/news/313730333435353134393030393134313737/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3065,10 +3410,10 @@
       "eventId": "suicune-research",
       "eventName": "水君研究",
       "name": "Suicune Last Chance Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-08-21",
       "eventEndsOn": "2024-09-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-09T12:00:00",
+      "saleEndsAt": "2024-09-17T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -3088,9 +3433,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240901220941/https://www.pokemonsleep.net/en/news/313730333435353134393030393134313737/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3099,10 +3449,10 @@
       "eventId": "suicune-research",
       "eventName": "水君研究",
       "name": "Suicune Last Chance Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-08-21",
       "eventEndsOn": "2024-09-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-09T12:00:00",
+      "saleEndsAt": "2024-09-17T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -3122,9 +3472,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240901220941/https://www.pokemonsleep.net/en/news/313730333435353134393030393134313737/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3133,10 +3488,10 @@
       "eventId": "good-sleep-day-14",
       "eventName": "第14次好眠日",
       "name": "好眠日礼包 Vol. 14",
-      "announcedOn": null,
+      "announcedOn": "2024-09-06",
       "eventEndsOn": "2024-09-20",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-16T12:00:00",
+      "saleEndsAt": "2024-09-21T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -3166,9 +3521,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240907182942/https://www.pokemonsleep.net/en/news/313735333431393438393138333030363733/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3177,10 +3537,10 @@
       "eventId": "sleep-style-discovery-week-1",
       "eventName": "发现宝可梦睡姿周",
       "name": "Sleep Style Discovery Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2024-09-18",
       "eventEndsOn": "2024-09-30",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-22T12:00:00",
+      "saleEndsAt": "2024-10-01T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -3205,9 +3565,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240920020911/https://www.pokemonsleep.net/en/news/313737383537303937303235373136323235/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3216,10 +3581,10 @@
       "eventId": "sleep-style-discovery-week-1",
       "eventName": "发现宝可梦睡姿周",
       "name": "Sleep Style Discovery Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2024-09-18",
       "eventEndsOn": "2024-09-30",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-22T12:00:00",
+      "saleEndsAt": "2024-10-01T11:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -3244,9 +3609,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240920020911/https://www.pokemonsleep.net/en/news/313737383537303937303235373136323235/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3255,10 +3625,10 @@
       "eventId": "sleep-style-discovery-week-1",
       "eventName": "发现宝可梦睡姿周",
       "name": "Sleep Style Discovery Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2024-09-18",
       "eventEndsOn": "2024-09-30",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-09-22T12:00:00",
+      "saleEndsAt": "2024-10-01T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -3278,9 +3648,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20240920020911/https://www.pokemonsleep.net/en/news/313737383537303937303235373136323235/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3289,10 +3664,10 @@
       "eventId": "old-gold-power-plant-debut",
       "eventName": "黄金旧发电厂登场活动",
       "name": "Old Gold Power Plant Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2024-10-02",
       "eventEndsOn": "2024-10-21",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-10-07T14:00:00",
+      "saleEndsAt": "2024-10-22T11:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -3337,9 +3712,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241006104700/https://www.pokemonsleep.net/en/news/313835353535373937363633353437333933/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3348,10 +3728,10 @@
       "eventId": "old-gold-power-plant-debut",
       "eventName": "黄金旧发电厂登场活动",
       "name": "Old Gold Power Plant Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2024-10-02",
       "eventEndsOn": "2024-10-21",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-10-07T14:00:00",
+      "saleEndsAt": "2024-10-22T11:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -3386,9 +3766,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241006104700/https://www.pokemonsleep.net/en/news/313835353535373937363633353437333933/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3397,10 +3782,10 @@
       "eventId": "old-gold-power-plant-debut",
       "eventName": "黄金旧发电厂登场活动",
       "name": "Old Gold Power Plant Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2024-10-02",
       "eventEndsOn": "2024-10-21",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-10-07T14:00:00",
+      "saleEndsAt": "2024-10-22T11:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -3420,9 +3805,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241006104700/https://www.pokemonsleep.net/en/news/313835353535373937363633353437333933/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3431,10 +3821,10 @@
       "eventId": "old-gold-power-plant-debut",
       "eventName": "黄金旧发电厂登场活动",
       "name": "Pokémon Befriending Bundle (Drifloon) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2024-10-12",
       "eventEndsOn": "2024-10-21",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-10-14",
+      "saleEndsAt": "2024-10-22",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -3464,9 +3854,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250809212555/https://www.pokemonsleep.net/en/news/313839313733393639333138383338323733/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3475,10 +3870,10 @@
       "eventId": "good-sleep-day-15",
       "eventName": "第15次好眠日",
       "name": "好眠日礼包 Vol. 15",
-      "announcedOn": null,
+      "announcedOn": "2024-10-04",
       "eventEndsOn": "2024-10-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-10-15T12:00:00",
+      "saleEndsAt": "2024-10-20T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -3508,9 +3903,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241006104700/https://www.pokemonsleep.net/en/news/313836353331333537353735333438323235/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3519,10 +3919,10 @@
       "eventId": "halloween-2024",
       "eventName": "万圣节2024：糖果倍增研究",
       "name": "Halloween 2024 Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2024-10-23",
       "eventEndsOn": "2024-11-04",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-10-28",
+      "saleEndsAt": "2024-11-05",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -3557,9 +3957,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250719114740/https://www.pokemonsleep.net/news/313933343132323731343932333030383031/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3568,10 +3973,10 @@
       "eventId": "halloween-2024",
       "eventName": "万圣节2024：糖果倍增研究",
       "name": "Halloween 2024 Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2024-10-23",
       "eventEndsOn": "2024-11-04",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-10-28",
+      "saleEndsAt": "2024-11-05",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -3611,9 +4016,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250719114740/https://www.pokemonsleep.net/news/313933343132323731343932333030383031/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3622,10 +4032,10 @@
       "eventId": "halloween-2024",
       "eventName": "万圣节2024：糖果倍增研究",
       "name": "Halloween 2024 Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2024-10-23",
       "eventEndsOn": "2024-11-04",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-10-28",
+      "saleEndsAt": "2024-11-05",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -3650,9 +4060,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20250719114740/https://www.pokemonsleep.net/news/313933343132323731343932333030383031/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3661,10 +4076,10 @@
       "eventId": "good-sleep-day-16",
       "eventName": "第16次好眠日",
       "name": "好眠日礼包 Vol. 16",
-      "announcedOn": null,
+      "announcedOn": "2024-11-01",
       "eventEndsOn": "2024-11-18",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-11-14T12:00:00",
+      "saleEndsAt": "2024-11-19T11:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -3694,9 +4109,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://web.archive.org/web/20241111014127/https://www.pokemonsleep.net/en/news/313935363534313730383233333630353133/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。 原页空白time标签按官方历史single-news.js及用户明确的Asia/Shanghai时区还原；原始epoch与HTML存evidence，不采用默认开售时刻。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3844,10 +4264,10 @@
       "eventId": "announcement-323035383532343335393838363131303733",
       "eventName": "寶可夢快快長大週vol.3",
       "name": "Pokémon Growth Week Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2024-12-04",
       "eventEndsOn": "2024-12-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-12-08",
+      "saleEndsAt": "2024-12-17",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -3872,9 +4292,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323038323738373632363435363138363839/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3883,10 +4308,10 @@
       "eventId": "announcement-323035383532343335393838363131303733",
       "eventName": "寶可夢快快長大週vol.3",
       "name": "Pokémon Growth Week Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2024-12-04",
       "eventEndsOn": "2024-12-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-12-08",
+      "saleEndsAt": "2024-12-17",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -3911,9 +4336,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323038323738373632363435363138363839/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3922,10 +4352,10 @@
       "eventId": "announcement-323035383532343335393838363131303733",
       "eventName": "寶可夢快快長大週vol.3",
       "name": "Pokémon Growth Week Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2024-12-04",
       "eventEndsOn": "2024-12-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-12-08",
+      "saleEndsAt": "2024-12-17",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -3950,9 +4380,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323038323738373632363435363138363839/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -3961,10 +4396,10 @@
       "eventId": "good-sleep-day-17",
       "eventName": "第17次好眠日",
       "name": "好眠日礼包 Vol. 17",
-      "announcedOn": null,
+      "announcedOn": "2024-12-02",
       "eventEndsOn": "2024-12-17",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2024-12-13",
+      "saleEndsAt": "2024-12-18",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -3994,9 +4429,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323036393437373134333137393432373835/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -4472,10 +4912,10 @@
       "eventId": "good-sleep-day-18",
       "eventName": "第18次好眠日",
       "name": "好眠日礼包 Vol. 18",
-      "announcedOn": null,
+      "announcedOn": "2025-01-03",
       "eventEndsOn": "2025-01-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-01-12",
+      "saleEndsAt": "2025-01-17",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -4505,9 +4945,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323135353731333437323134393538353933/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -4761,10 +5206,10 @@
       "eventId": "good-sleep-day-19",
       "eventName": "第19次好眠日",
       "name": "好眠日礼包 Vol. 19",
-      "announcedOn": null,
+      "announcedOn": "2025-01-30",
       "eventEndsOn": "2025-02-14",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-02-10",
+      "saleEndsAt": "2025-02-15",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -4794,9 +5239,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323239303932323131373539373735373435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -4853,10 +5303,10 @@
       "eventId": "announcement-323335393339313032393239373135323031",
       "eventName": "寶可夢快快長大週vol.4",
       "name": "Pokémon Growth Week Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2025-02-19",
       "eventEndsOn": "2025-03-03",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-02-23T04:00:00",
+      "saleEndsAt": "2025-03-04T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -4881,9 +5331,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323336333037363639353436313732343137/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -4892,10 +5347,10 @@
       "eventId": "announcement-323335393339313032393239373135323031",
       "eventName": "寶可夢快快長大週vol.4",
       "name": "Pokémon Growth Week Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2025-02-19",
       "eventEndsOn": "2025-03-03",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-02-23T04:00:00",
+      "saleEndsAt": "2025-03-04T03:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -4920,9 +5375,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323336333037363639353436313732343137/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -4931,10 +5391,10 @@
       "eventId": "announcement-323335393339313032393239373135323031",
       "eventName": "寶可夢快快長大週vol.4",
       "name": "Pokémon Growth Week Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2025-02-19",
       "eventEndsOn": "2025-03-03",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-02-23T04:00:00",
+      "saleEndsAt": "2025-03-04T03:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -4959,9 +5419,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323336333037363639353436313732343137/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -4970,10 +5435,10 @@
       "eventId": "good-sleep-day-20",
       "eventName": "第20次好眠日",
       "name": "好眠日礼包 Vol. 20",
-      "announcedOn": null,
+      "announcedOn": "2025-03-08",
       "eventEndsOn": "2025-03-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-03-12T04:00:00",
+      "saleEndsAt": "2025-03-17T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -5003,9 +5468,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323431373130313139313238313337373239/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -5421,10 +5891,10 @@
       "eventId": "good-sleep-day-21",
       "eventName": "第21次好眠日",
       "name": "好眠日礼包 Vol. 21",
-      "announcedOn": null,
+      "announcedOn": "2025-03-29",
       "eventEndsOn": "2025-04-15",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-04-11T04:00:00",
+      "saleEndsAt": "2025-04-16T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -5454,9 +5924,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323439363537343338343438333836303439/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -5758,10 +6233,10 @@
       "eventId": "good-sleep-day-22",
       "eventName": "第22次好眠日",
       "name": "好眠日礼包 Vol. 22",
-      "announcedOn": null,
+      "announcedOn": "2025-05-02",
       "eventEndsOn": "2025-05-15",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-05-11T04:00:00",
+      "saleEndsAt": "2025-05-16T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -5791,9 +6266,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323631393739343239373735383637393035/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -5802,10 +6282,10 @@
       "eventId": "announcement-323632303234393634313235373533333435",
       "eventName": "寶可夢快快長大週vol.5",
       "name": "Pokémon Growth Week Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2025-05-14",
       "eventEndsOn": "2025-05-26",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-05-18T04:00:00",
+      "saleEndsAt": "2025-05-27T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -5830,9 +6310,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323636363937323034343430323336303333/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -5841,10 +6326,10 @@
       "eventId": "announcement-323632303234393634313235373533333435",
       "eventName": "寶可夢快快長大週vol.5",
       "name": "Pokémon Growth Week Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2025-05-14",
       "eventEndsOn": "2025-05-26",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-05-18T04:00:00",
+      "saleEndsAt": "2025-05-27T03:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -5869,9 +6354,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323636363937323034343430323336303333/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -5880,10 +6370,10 @@
       "eventId": "announcement-323632303234393634313235373533333435",
       "eventName": "寶可夢快快長大週vol.5",
       "name": "Pokémon Growth Week Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2025-05-14",
       "eventEndsOn": "2025-05-26",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-05-18T04:00:00",
+      "saleEndsAt": "2025-05-27T03:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -5908,9 +6398,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323636363937323034343430323336303333/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -5919,10 +6414,10 @@
       "eventId": "new-moon-day-1",
       "eventName": "第1次新月日",
       "name": "新月日礼包 Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2025-05-21",
       "eventEndsOn": "2025-05-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-05-25T04:00:00",
+      "saleEndsAt": "2025-05-30T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -5952,9 +6447,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323639323236393538323235363730313435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6064,10 +6564,10 @@
       "eventId": "good-sleep-day-23",
       "eventName": "第23次好眠日",
       "name": "好眠日礼包 Vol. 23",
-      "announcedOn": null,
+      "announcedOn": "2025-05-30",
       "eventEndsOn": "2025-06-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-06-09T04:00:00",
+      "saleEndsAt": "2025-06-14T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -6097,9 +6597,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323732353032373030393231333233353231/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6257,10 +6762,10 @@
       "eventId": "new-moon-day-2",
       "eventName": "第2次新月日",
       "name": "新月日礼包 Vol. 2",
-      "announcedOn": null,
+      "announcedOn": "2025-06-13",
       "eventEndsOn": "2025-06-27",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-06-23T04:00:00",
+      "saleEndsAt": "2025-06-28T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -6290,9 +6795,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323737363337303134363132383639313231/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6493,10 +7003,10 @@
       "eventId": "good-sleep-day-24",
       "eventName": "第24次好眠日",
       "name": "好眠日礼包 Vol. 24",
-      "announcedOn": null,
+      "announcedOn": "2025-06-27",
       "eventEndsOn": "2025-07-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-07-09T04:00:00",
+      "saleEndsAt": "2025-07-14T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -6526,9 +7036,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323832363539353930343638373936343137/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6537,10 +7052,10 @@
       "eventId": "announcement-323836353834353335313337363438363431",
       "eventName": "2週年紀念嘉年華",
       "name": "Pokémon Befriending Bundle (Mudkip) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2025-07-08",
       "eventEndsOn": "2025-07-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-07-14T06:00:00",
+      "saleEndsAt": "2025-07-29T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -6570,9 +7085,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323836363132323636333037303236393435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6581,10 +7101,10 @@
       "eventId": "announcement-323836353834353335313337363438363431",
       "eventName": "2週年紀念嘉年華",
       "name": "Pokémon Befriending Bundle (Plusle and Minun) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2025-07-08",
       "eventEndsOn": "2025-07-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-07-14T06:00:00",
+      "saleEndsAt": "2025-07-29T03:59:00",
       "price": {
         "amount": 2500,
         "unit": "钻石"
@@ -6624,9 +7144,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323836363132323636333037303236393435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6635,10 +7160,10 @@
       "eventId": "announcement-323836353834353335313337363438363431",
       "eventName": "2週年紀念嘉年華",
       "name": "Pokémon Befriending Bundle (Torchic) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2025-07-08",
       "eventEndsOn": "2025-07-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-07-14T06:00:00",
+      "saleEndsAt": "2025-07-29T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -6668,9 +7193,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323836363132323636333037303236393435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6679,10 +7209,10 @@
       "eventId": "announcement-323836353834353335313337363438363431",
       "eventName": "2週年紀念嘉年華",
       "name": "Pokémon Befriending Bundle (Treecko) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2025-07-08",
       "eventEndsOn": "2025-07-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-07-14T06:00:00",
+      "saleEndsAt": "2025-07-29T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -6712,9 +7242,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323836363132323636333037303236393435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6723,10 +7258,10 @@
       "eventId": "announcement-323836353834353335313337363438363431",
       "eventName": "2週年紀念嘉年華",
       "name": "Second Anniversary Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2025-07-14",
       "eventEndsOn": "2025-07-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-07-20T04:00:00",
+      "saleEndsAt": "2025-07-29T03:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -6761,9 +7296,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323838303836383635373034313234343137/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6772,10 +7312,10 @@
       "eventId": "announcement-323836353834353335313337363438363431",
       "eventName": "2週年紀念嘉年華",
       "name": "Second Anniversary Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2025-07-14",
       "eventEndsOn": "2025-07-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-07-20T04:00:00",
+      "saleEndsAt": "2025-07-29T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -6810,9 +7350,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323838303836383635373034313234343137/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6821,10 +7366,10 @@
       "eventId": "announcement-323836353834353335313337363438363431",
       "eventName": "2週年紀念嘉年華",
       "name": "Second Anniversary Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2025-07-14",
       "eventEndsOn": "2025-07-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-07-20T04:00:00",
+      "saleEndsAt": "2025-07-29T03:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -6854,9 +7399,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323838303836383635373034313234343137/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6865,10 +7415,10 @@
       "eventId": "new-moon-day-3",
       "eventName": "第3次新月日",
       "name": "新月日礼包 Vol. 3",
-      "announcedOn": null,
+      "announcedOn": "2025-07-11",
       "eventEndsOn": "2025-07-27",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-07-23T04:00:00",
+      "saleEndsAt": "2025-07-28T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -6898,9 +7448,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323837373731323036303633343839303235/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -6909,10 +7464,10 @@
       "eventId": "good-sleep-day-25",
       "eventName": "第25次好眠日",
       "name": "好眠日礼包 Vol. 25",
-      "announcedOn": null,
+      "announcedOn": "2025-07-25",
       "eventEndsOn": "2025-08-11",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-08-07T04:00:00",
+      "saleEndsAt": "2025-08-12T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -6942,9 +7497,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323932383334313338333235353136323839/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7092,10 +7652,10 @@
       "eventId": "new-moon-day-4",
       "eventName": "第4次新月日",
       "name": "新月日礼包 Vol. 4",
-      "announcedOn": null,
+      "announcedOn": "2025-08-08",
       "eventEndsOn": "2025-08-25",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-08-21T04:00:00",
+      "saleEndsAt": "2025-08-26T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -7125,9 +7685,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/323937313331303639323831343032383831/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7136,10 +7701,10 @@
       "eventId": "announcement-323938313634313238333131313438353435",
       "eventName": "3屬性週",
       "name": "Triple Week Bundle (Electric) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2025-08-20",
       "eventEndsOn": "2025-09-01",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-08-24T04:00:00",
+      "saleEndsAt": "2025-09-02T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -7174,9 +7739,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333032323433323833303539333433333631/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7185,10 +7755,10 @@
       "eventId": "announcement-323938313634313238333131313438353435",
       "eventName": "3屬性週",
       "name": "Triple Week Bundle (Fire) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2025-08-20",
       "eventEndsOn": "2025-09-01",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-08-24T04:00:00",
+      "saleEndsAt": "2025-09-02T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -7218,9 +7788,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333032323433323833303539333433333631/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7229,10 +7804,10 @@
       "eventId": "announcement-323938313634313238333131313438353435",
       "eventName": "3屬性週",
       "name": "Triple Week Bundle (Water) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2025-08-20",
       "eventEndsOn": "2025-09-01",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-08-24T04:00:00",
+      "saleEndsAt": "2025-09-02T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -7262,9 +7837,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333032323433323833303539333433333631/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7273,10 +7853,10 @@
       "eventId": "good-sleep-day-26",
       "eventName": "第26次好眠日",
       "name": "好眠日礼包 Vol. 26",
-      "announcedOn": null,
+      "announcedOn": "2025-08-29",
       "eventEndsOn": "2025-09-10",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-09-06T04:00:00",
+      "saleEndsAt": "2025-09-11T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -7306,9 +7886,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333035343137393738393635333933343039/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7317,10 +7902,10 @@
       "eventId": "announcement-333032323532323137353634333937353639",
       "eventName": "雷公＆炎帝＆水君研究",
       "name": "Legendary Research Bundle Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2025-09-03",
       "eventEndsOn": "2025-09-22",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-09-08T04:00:00",
+      "saleEndsAt": "2025-09-23T03:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -7360,9 +7945,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333037323432333331363231323934303831/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7371,10 +7961,10 @@
       "eventId": "announcement-333032323532323137353634333937353639",
       "eventName": "雷公＆炎帝＆水君研究",
       "name": "Legendary Research Bundle Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2025-09-03",
       "eventEndsOn": "2025-09-22",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-09-08T04:00:00",
+      "saleEndsAt": "2025-09-23T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -7404,9 +7994,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333037323432333331363231323934303831/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7415,10 +8010,10 @@
       "eventId": "announcement-333032323532323137353634333937353639",
       "eventName": "雷公＆炎帝＆水君研究",
       "name": "Legendary Research Bundle Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2025-09-03",
       "eventEndsOn": "2025-09-22",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-09-08T04:00:00",
+      "saleEndsAt": "2025-09-23T03:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -7443,9 +8038,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333037323432333331363231323934303831/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7454,10 +8054,10 @@
       "eventId": "announcement-333032323532323137353634333937353639",
       "eventName": "雷公＆炎帝＆水君研究",
       "name": "Legendary Last Chance Bundles Vol. 1 L",
-      "announcedOn": null,
+      "announcedOn": "2025-09-03",
       "eventEndsOn": "2025-09-22",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-09-15T04:00:00",
+      "saleEndsAt": "2025-09-23T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -7477,9 +8077,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333037323432333331363231323934303831/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7488,10 +8093,10 @@
       "eventId": "announcement-333032323532323137353634333937353639",
       "eventName": "雷公＆炎帝＆水君研究",
       "name": "Legendary Last Chance Bundles Vol. 1 M",
-      "announcedOn": null,
+      "announcedOn": "2025-09-03",
       "eventEndsOn": "2025-09-22",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-09-15T04:00:00",
+      "saleEndsAt": "2025-09-23T03:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -7511,9 +8116,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333037323432333331363231323934303831/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7522,10 +8132,10 @@
       "eventId": "announcement-333032323532323137353634333937353639",
       "eventName": "雷公＆炎帝＆水君研究",
       "name": "Legendary Last Chance Bundles Vol. 1 S",
-      "announcedOn": null,
+      "announcedOn": "2025-09-03",
       "eventEndsOn": "2025-09-22",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-09-15T04:00:00",
+      "saleEndsAt": "2025-09-23T03:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -7545,9 +8155,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333037323432333331363231323934303831/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7556,10 +8171,10 @@
       "eventId": "new-moon-day-5",
       "eventName": "第5次新月日",
       "name": "新月日礼包 Vol. 5",
-      "announcedOn": null,
+      "announcedOn": "2025-09-12",
       "eventEndsOn": "2025-09-24",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-09-20T04:00:00",
+      "saleEndsAt": "2025-09-25T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -7589,9 +8204,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333130353838313339343138363831333435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7739,10 +8359,10 @@
       "eventId": "announcement-333133313133383732343835353830383031",
       "eventName": "發現寶可夢睡姿週vol.2",
       "name": "Sleep Style Discovery Bundle Vol. 2 L",
-      "announcedOn": null,
+      "announcedOn": "2025-10-01",
       "eventEndsOn": "2025-10-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-10-05T04:00:00",
+      "saleEndsAt": "2025-10-14T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -7767,9 +8387,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333137343535313835353233373639333435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7778,10 +8403,10 @@
       "eventId": "announcement-333133313133383732343835353830383031",
       "eventName": "發現寶可夢睡姿週vol.2",
       "name": "Sleep Style Discovery Bundle Vol. 2 M",
-      "announcedOn": null,
+      "announcedOn": "2025-10-01",
       "eventEndsOn": "2025-10-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-10-05T04:00:00",
+      "saleEndsAt": "2025-10-14T03:59:00",
       "price": {
         "amount": 600,
         "unit": "钻石"
@@ -7806,9 +8431,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333137343535313835353233373639333435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7817,10 +8447,10 @@
       "eventId": "announcement-333133313133383732343835353830383031",
       "eventName": "發現寶可夢睡姿週vol.2",
       "name": "Sleep Style Discovery Bundle Vol. 2 S",
-      "announcedOn": null,
+      "announcedOn": "2025-10-01",
       "eventEndsOn": "2025-10-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-10-05T04:00:00",
+      "saleEndsAt": "2025-10-14T03:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -7840,9 +8470,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333137343535313835353233373639333435/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7851,10 +8486,10 @@
       "eventId": "good-sleep-day-27",
       "eventName": "第27次好眠日",
       "name": "好眠日礼包 Vol. 27",
-      "announcedOn": null,
+      "announcedOn": "2025-09-26",
       "eventEndsOn": "2025-10-09",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-10-05T04:00:00",
+      "saleEndsAt": "2025-10-10T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -7884,9 +8519,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333133313136363539353632383430303635/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -7895,10 +8535,10 @@
       "eventId": "new-moon-day-6",
       "eventName": "第6次新月日",
       "name": "新月日礼包 Vol. 6",
-      "announcedOn": null,
+      "announcedOn": "2025-10-10",
       "eventEndsOn": "2025-10-23",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-10-19T04:00:00",
+      "saleEndsAt": "2025-10-24T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -7928,9 +8568,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333230363233303533383431313034383937/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -8083,10 +8728,10 @@
       "eventId": "good-sleep-day-28",
       "eventName": "第28次好眠日",
       "name": "好眠日礼包 Vol. 28",
-      "announcedOn": null,
+      "announcedOn": "2025-10-24",
       "eventEndsOn": "2025-11-07",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-11-03T04:00:00",
+      "saleEndsAt": "2025-11-08T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -8116,9 +8761,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333235373637343234383930363334323431/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -8127,10 +8777,10 @@
       "eventId": "announcement-333237353138353233343831393135333933",
       "eventName": "琥褐溪谷登場企畫",
       "name": "Amber Canyon Bundle L",
-      "announcedOn": null,
+      "announcedOn": "2025-11-06",
       "eventEndsOn": "2025-11-24",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-11-09T04:00:00",
+      "saleEndsAt": "2025-11-25T03:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -8175,9 +8825,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333330343739333539373538343334333035/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -8186,10 +8841,10 @@
       "eventId": "announcement-333237353138353233343831393135333933",
       "eventName": "琥褐溪谷登場企畫",
       "name": "Amber Canyon Bundle M",
-      "announcedOn": null,
+      "announcedOn": "2025-11-06",
       "eventEndsOn": "2025-11-24",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-11-09T04:00:00",
+      "saleEndsAt": "2025-11-25T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -8224,9 +8879,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333330343739333539373538343334333035/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -8235,10 +8895,10 @@
       "eventId": "announcement-333237353138353233343831393135333933",
       "eventName": "琥褐溪谷登場企畫",
       "name": "Amber Canyon Bundle S",
-      "announcedOn": null,
+      "announcedOn": "2025-11-06",
       "eventEndsOn": "2025-11-24",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-11-09T04:00:00",
+      "saleEndsAt": "2025-11-25T03:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -8258,9 +8918,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333330343739333539373538343334333035/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -8269,10 +8934,10 @@
       "eventId": "new-moon-day-7",
       "eventName": "第7次新月日",
       "name": "新月日礼包 Vol. 7",
-      "announcedOn": null,
+      "announcedOn": "2025-11-07",
       "eventEndsOn": "2025-11-22",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-11-18T04:00:00",
+      "saleEndsAt": "2025-11-23T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -8302,9 +8967,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333330373735303733333836333937363937/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -8462,10 +9132,10 @@
       "eventId": "good-sleep-day-29",
       "eventName": "第29次好眠日",
       "name": "好眠日礼包 Vol. 29",
-      "announcedOn": null,
+      "announcedOn": "2025-11-20",
       "eventEndsOn": "2025-12-07",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-12-03T04:00:00",
+      "saleEndsAt": "2025-12-08T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -8495,9 +9165,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333335353538303439323738313937373631/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -8506,10 +9181,10 @@
       "eventId": "new-moon-day-8",
       "eventName": "第8次新月日",
       "name": "新月日礼包 Vol. 8",
-      "announcedOn": null,
+      "announcedOn": "2025-12-05",
       "eventEndsOn": "2025-12-22",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2025-12-18T04:00:00",
+      "saleEndsAt": "2025-12-23T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -8539,9 +9214,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333431303133393531343331303439323137/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -8868,10 +9548,10 @@
       "eventId": "good-sleep-day-30",
       "eventName": "第30次好眠日",
       "name": "好眠日礼包 Vol. 30",
-      "announcedOn": null,
+      "announcedOn": "2025-12-19",
       "eventEndsOn": "2026-01-05",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-01-01T04:00:00",
+      "saleEndsAt": "2026-01-06T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -8901,9 +9581,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333436303434393331393834333236363539/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -9076,10 +9761,10 @@
       "eventId": "new-moon-day-9",
       "eventName": "第9次新月日",
       "name": "新月日礼包 Vol. 9",
-      "announcedOn": null,
+      "announcedOn": "2026-01-09",
       "eventEndsOn": "2026-01-21",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-01-17T04:00:00",
+      "saleEndsAt": "2026-01-22T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -9109,9 +9794,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333533363134383130343338343334383139/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -9259,10 +9949,10 @@
       "eventId": "good-sleep-day-31",
       "eventName": "第31次好眠日",
       "name": "好眠日礼包 Vol. 31",
-      "announcedOn": null,
+      "announcedOn": "2026-01-23",
       "eventEndsOn": "2026-02-04",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-01-31T04:00:00",
+      "saleEndsAt": "2026-02-05T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -9292,9 +9982,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333538363836343233313532333238373039/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -9462,10 +10157,10 @@
       "eventId": "new-moon-day-10",
       "eventName": "第10次新月日",
       "name": "新月日礼包 Vol. 10",
-      "announcedOn": null,
+      "announcedOn": "2026-02-06",
       "eventEndsOn": "2026-02-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-02-15T04:00:00",
+      "saleEndsAt": "2026-02-20T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -9495,9 +10190,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333633353134303338363536363936333231/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -9655,10 +10355,10 @@
       "eventId": "announcement-333731343130383939323833343736343831",
       "eventName": "Pokémon Day紀念企畫vol.1",
       "name": "Pokémon Day Celebration Bundle (Hoenn & Paldea) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2026-02-28",
       "eventEndsOn": "2026-03-09",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-03-01T04:00:00",
+      "saleEndsAt": "2026-03-10T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -9703,9 +10403,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333731373339333536383738303737393538/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -9714,10 +10419,10 @@
       "eventId": "announcement-333731343130383939323833343736343831",
       "eventName": "Pokémon Day紀念企畫vol.1",
       "name": "Pokémon Day Celebration Bundle (Kanto & Johto) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2026-02-28",
       "eventEndsOn": "2026-03-09",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-03-01T04:00:00",
+      "saleEndsAt": "2026-03-10T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -9762,9 +10467,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333731373339333536383738303737393538/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -9773,10 +10483,10 @@
       "eventId": "good-sleep-day-32",
       "eventName": "第32次好眠日",
       "name": "好眠日礼包 Vol. 32",
-      "announcedOn": null,
+      "announcedOn": "2026-02-21",
       "eventEndsOn": "2026-03-05",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-03-01T04:00:00",
+      "saleEndsAt": "2026-03-06T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -9806,9 +10516,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333639323434343431363237353930363537/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -9966,10 +10681,10 @@
       "eventId": "new-moon-day-11",
       "eventName": "第11次新月日",
       "name": "新月日礼包 Vol. 11",
-      "announcedOn": null,
+      "announcedOn": "2026-03-06",
       "eventEndsOn": "2026-03-21",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-03-17T04:00:00",
+      "saleEndsAt": "2026-03-22T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -9999,9 +10714,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333733393030353130323939363834383730/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -10154,10 +10874,10 @@
       "eventId": "good-sleep-day-33",
       "eventName": "第33次好眠日",
       "name": "好眠日礼包 Vol. 33",
-      "announcedOn": null,
+      "announcedOn": "2026-03-20",
       "eventEndsOn": "2026-04-04",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-04-01T04:00:00",
+      "saleEndsAt": "2026-04-05T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -10187,9 +10907,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333739303632373230343435353436353032/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -10466,10 +11191,10 @@
       "eventId": "new-moon-day-12",
       "eventName": "第12次新月日",
       "name": "新月日礼包 Vol. 12",
-      "announcedOn": null,
+      "announcedOn": "2026-04-03",
       "eventEndsOn": "2026-04-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-04-15T04:00:00",
+      "saleEndsAt": "2026-04-20T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -10499,9 +11224,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333833363938373632363739313839353038/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -10649,10 +11379,10 @@
       "eventId": "good-sleep-day-34",
       "eventName": "第34次好眠日",
       "name": "好眠日礼包 Vol. 34",
-      "announcedOn": null,
+      "announcedOn": "2026-04-17",
       "eventEndsOn": "2026-05-04",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-04-30T04:00:00",
+      "saleEndsAt": "2026-05-05T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -10682,9 +11412,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333839323034303738373533373432383530/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -10832,10 +11567,10 @@
       "eventId": "new-moon-day-13",
       "eventName": "第13次新月日",
       "name": "新月日礼包 Vol. 13",
-      "announcedOn": null,
+      "announcedOn": "2026-05-01",
       "eventEndsOn": "2026-05-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-05-15T04:00:00",
+      "saleEndsAt": "2026-05-20T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -10865,9 +11600,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333933353136323634353335383833373831/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -11020,10 +11760,10 @@
       "eventId": "good-sleep-day-35",
       "eventName": "第35次好眠日",
       "name": "好眠日礼包 Vol. 35",
-      "announcedOn": null,
+      "announcedOn": "2026-05-16",
       "eventEndsOn": "2026-06-02",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-05-29T04:00:00",
+      "saleEndsAt": "2026-06-03T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -11053,9 +11793,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/333939363732393837343230313936383636/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -11213,10 +11958,10 @@
       "eventId": "new-moon-day-14",
       "eventName": "第14次新月日",
       "name": "新月日礼包 Vol. 14",
-      "announcedOn": null,
+      "announcedOn": "2026-06-05",
       "eventEndsOn": "2026-06-17",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-06-13T04:00:00",
+      "saleEndsAt": "2026-06-18T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -11246,9 +11991,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343036323233393435353931363835313238/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -11376,10 +12126,10 @@
       "eventId": "good-sleep-day-36",
       "eventName": "第36次好眠日",
       "name": "好眠日礼包 Vol. 36",
-      "announcedOn": null,
+      "announcedOn": "2026-06-19",
       "eventEndsOn": "2026-07-02",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-06-28T04:00:00",
+      "saleEndsAt": "2026-07-03T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -11409,9 +12159,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343131363336303133303134373132333233/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -11574,10 +12329,10 @@
       "eventId": "new-moon-day-15",
       "eventName": "第15次新月日",
       "name": "新月日礼包 Vol. 15",
-      "announcedOn": null,
+      "announcedOn": "2026-07-09",
       "eventEndsOn": "2026-07-16",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-07-12T04:00:00",
+      "saleEndsAt": "2026-07-17T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -11607,9 +12362,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343138393434393330313738363632343034/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -11618,10 +12378,10 @@
       "eventId": "announcement-343138383632323539383937333638353830",
       "eventName": "3週年紀念嘉年華",
       "name": "Pokémon Befriending Bundle (Chimchar) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2026-07-09",
       "eventEndsOn": "2026-07-27",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-07-13T06:00:00",
+      "saleEndsAt": "2026-07-28T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -11651,9 +12411,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343138393435363336333934353938343035/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -11662,10 +12427,10 @@
       "eventId": "announcement-343138383632323539383937333638353830",
       "eventName": "3週年紀念嘉年華",
       "name": "Pokémon Befriending Bundle (Piplup) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2026-07-09",
       "eventEndsOn": "2026-07-27",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-07-13T06:00:00",
+      "saleEndsAt": "2026-07-28T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -11695,9 +12460,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343138393435363336333934353938343035/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -11706,10 +12476,10 @@
       "eventId": "announcement-343138383632323539383937333638353830",
       "eventName": "3週年紀念嘉年華",
       "name": "Pokémon Befriending Bundle (Turtwig) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2026-07-09",
       "eventEndsOn": "2026-07-27",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-07-13T06:00:00",
+      "saleEndsAt": "2026-07-28T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -11739,9 +12509,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343138393435363336333934353938343035/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -11899,10 +12674,10 @@
       "eventId": "good-sleep-day-37",
       "eventName": "第37次好眠日",
       "name": "好眠日礼包 Vol. 37",
-      "announcedOn": null,
+      "announcedOn": "2026-07-17",
       "eventEndsOn": "2026-07-31",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-07-27T04:00:00",
+      "saleEndsAt": "2026-08-01T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -11932,9 +12707,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343231343531373436373136343138303533/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -11943,10 +12723,10 @@
       "eventId": "announcement-343233393938313932373939393733333835",
       "eventName": "夏日嘉年華2026",
       "name": "Pokémon Raising Bundle (Hawlucha) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2026-08-05",
       "eventEndsOn": "2026-08-17",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-08-10T06:00:00",
+      "saleEndsAt": "2026-08-18T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -11976,9 +12756,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343237363433303335323333323838313938/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -12146,10 +12931,10 @@
       "eventId": "new-moon-day-16",
       "eventName": "第16次新月日",
       "name": "新月日礼包 Vol. 16",
-      "announcedOn": null,
+      "announcedOn": "2026-08-01",
       "eventEndsOn": "2026-08-15",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-08-11T04:00:00",
+      "saleEndsAt": "2026-08-16T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -12179,9 +12964,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343234333431393630303635353438323839/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -12296,10 +13086,10 @@
       "eventId": "announcement-343238373030393436303937323432313138",
       "eventName": "寶可夢動畫合作週",
       "name": "Pokémon Raising Bundle (Tinkatink) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2026-08-13",
       "eventEndsOn": "2026-08-24",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-08-17T06:00:00",
+      "saleEndsAt": "2026-08-25T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -12329,9 +13119,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343238373339373232363531363331363139/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -12378,10 +13173,10 @@
       "eventId": "good-sleep-day-38",
       "eventName": "第38次好眠日",
       "name": "好眠日礼包 Vol. 38",
-      "announcedOn": null,
+      "announcedOn": "2026-08-14",
       "eventEndsOn": "2026-08-30",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-08-26T04:00:00",
+      "saleEndsAt": "2026-08-31T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -12411,9 +13206,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343239303435333138333139383635383638/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -12566,10 +13366,10 @@
       "eventId": "new-moon-day-17",
       "eventName": "第17次新月日",
       "name": "新月日礼包 Vol. 17",
-      "announcedOn": null,
+      "announcedOn": "2026-08-28",
       "eventEndsOn": "2026-09-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-09-10T04:00:00",
+      "saleEndsAt": "2026-09-14T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -12599,9 +13399,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343330313733363437313032303137353532/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -12716,10 +13521,10 @@
       "eventId": "announcement-343239383235333132353739313235323439",
       "eventName": "秘境研究！追尋超夢吧",
       "name": "Pokémon Raising Bundle (Mewtwo) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2026-09-10",
       "eventEndsOn": "2026-09-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-09-14T04:00:00",
+      "saleEndsAt": "2026-09-29T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -12749,9 +13554,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323132353238383439343835383336/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -12922,10 +13732,10 @@
       "eventId": "good-sleep-day-39",
       "eventName": "第39次好眠日",
       "name": "好眠日礼包 Vol. 39",
-      "announcedOn": null,
+      "announcedOn": "2026-09-11",
       "eventEndsOn": "2026-09-29",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-09-25T04:00:00",
+      "saleEndsAt": "2026-09-30T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -12955,9 +13765,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323231373034343638323939373739/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -13072,10 +13887,10 @@
       "eventId": "announcement-343430323735323935393936343737343435",
       "eventName": "分量加大！料理週vol.3",
       "name": "Pokémon Raising Bundle (Foongus) Vol. 1",
-      "announcedOn": null,
+      "announcedOn": "2026-09-30",
       "eventEndsOn": "2026-10-12",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-10-05T06:00:00",
+      "saleEndsAt": "2026-10-13T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -13105,9 +13920,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430333030373430303738393933343232/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -13159,10 +13979,10 @@
       "eventId": "new-moon-day-18",
       "eventName": "第18次新月日",
       "name": "新月日礼包 Vol. 18",
-      "announcedOn": null,
+      "announcedOn": "2026-09-25",
       "eventEndsOn": "2026-10-13",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-10-09T04:00:00",
+      "saleEndsAt": "2026-10-14T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -13192,9 +14012,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343430323635323930323131363535363832/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -13203,10 +14028,10 @@
       "eventId": "announcement-343430333034343435353738383035323530",
       "eventName": "寶可夢快快長大週vol.6",
       "name": "Pokémon Growth Bundle Vol. 6 L",
-      "announcedOn": null,
+      "announcedOn": "2026-10-07",
       "eventEndsOn": "2026-10-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-10-11T04:00:00",
+      "saleEndsAt": "2026-10-20T03:59:00",
       "price": {
         "amount": 3000,
         "unit": "钻石"
@@ -13241,9 +14066,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343531343533393333363232313332373433/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -13252,10 +14082,10 @@
       "eventId": "announcement-343430333034343435353738383035323530",
       "eventName": "寶可夢快快長大週vol.6",
       "name": "Pokémon Growth Bundle Vol. 6 M",
-      "announcedOn": null,
+      "announcedOn": "2026-10-07",
       "eventEndsOn": "2026-10-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-10-11T04:00:00",
+      "saleEndsAt": "2026-10-20T03:59:00",
       "price": {
         "amount": 1200,
         "unit": "钻石"
@@ -13285,9 +14115,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343531343533393333363232313332373433/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -13296,10 +14131,10 @@
       "eventId": "announcement-343430333034343435353738383035323530",
       "eventName": "寶可夢快快長大週vol.6",
       "name": "Pokémon Growth Bundle Vol. 6 S",
-      "announcedOn": null,
+      "announcedOn": "2026-10-07",
       "eventEndsOn": "2026-10-19",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-10-11T04:00:00",
+      "saleEndsAt": "2026-10-20T03:59:00",
       "price": {
         "amount": 250,
         "unit": "钻石"
@@ -13324,9 +14159,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343531343533393333363232313332373433/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     },
@@ -13335,10 +14175,10 @@
       "eventId": "good-sleep-day-40",
       "eventName": "第40次好眠日",
       "name": "好眠日礼包 Vol. 40",
-      "announcedOn": null,
+      "announcedOn": "2026-10-21",
       "eventEndsOn": "2026-10-28",
-      "saleStartsAt": null,
-      "saleEndsAt": null,
+      "saleStartsAt": "2026-10-24T04:00:00",
+      "saleEndsAt": "2026-10-29T03:59:00",
       "price": {
         "amount": 1500,
         "unit": "钻石"
@@ -13368,9 +14208,14 @@
       ],
       "sources": [
         {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343532363638373030383434303937353438/",
+          "note": "本次从官方公告商品块唯一匹配确认销售区间；保留公告原有日期/时分精度。"
+        },
+        {
           "kind": "wiki",
           "url": "https://bulbapedia.bulbagarden.net/wiki/Shop_(Sleep)#Limited-Time_Bundles",
-          "note": "价格、数量与限购采用 Wiki 补缺；销售时间未获官方逐商品确认，留空。原始日期保存在 packs-audit.json。"
+          "note": "价格、内容、数量与限购保留原Wiki补缺值；本次销售区间及公告日期改据所附官方公告，不再采用Wiki销售日期。Wiki基线日期仍单列于packs-audit.json。"
         }
       ]
     }

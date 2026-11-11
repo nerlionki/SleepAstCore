@@ -356,6 +356,182 @@
           "url": "https://www.pokemonsleep.net/zh/news/343537333436363938333630393133393236/"
         }
       ]
+    },
+    {
+      "eventName": "来什么都吃光光！大餐周vol.1",
+      "eventId": "all-you-can-eat-vol1-2026",
+      "announcedOn": "2026-11-11",
+      "eventEndsOn": "2026-11-23",
+      "saleStartsAt": "2026-11-16T06:00:00",
+      "saleEndsAt": "2026-11-24T03:59:00",
+      "id": "all-you-can-eat-vol1-2026-s",
+      "name": "大餐周满足包 S vol.1",
+      "price": {
+        "amount": 250,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 3,
+      "items": [
+        {
+          "name": "宝可沙布蕾",
+          "itemId": 9,
+          "quantity": 5
+        },
+        {
+          "name": "万能糖果S",
+          "itemId": 12,
+          "quantity": 4
+        },
+        {
+          "name": "食材券S",
+          "itemId": 15,
+          "quantity": 1
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537363931393639323633353031333137/"
+        }
+      ]
+    },
+    {
+      "eventName": "来什么都吃光光！大餐周vol.1",
+      "eventId": "all-you-can-eat-vol1-2026",
+      "announcedOn": "2026-11-11",
+      "eventEndsOn": "2026-11-23",
+      "saleStartsAt": "2026-11-16T06:00:00",
+      "saleEndsAt": "2026-11-24T03:59:00",
+      "id": "all-you-can-eat-vol1-2026-m",
+      "name": "大餐周满足包 M vol.1",
+      "price": {
+        "amount": 1200,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "超级沙布蕾",
+          "itemId": 10,
+          "quantity": 6
+        },
+        {
+          "name": "宝可沙布蕾",
+          "itemId": 9,
+          "quantity": 7
+        },
+        {
+          "name": "木棉球的薰香",
+          "pokemonItemId": "Incense-546",
+          "quantity": 2
+        },
+        {
+          "name": "日之石",
+          "quantity": 1
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537363931393639323633353031333137/"
+        }
+      ]
+    },
+    {
+      "eventName": "来什么都吃光光！大餐周vol.1",
+      "eventId": "all-you-can-eat-vol1-2026",
+      "announcedOn": "2026-11-11",
+      "eventEndsOn": "2026-11-23",
+      "saleStartsAt": "2026-11-16T06:00:00",
+      "saleEndsAt": "2026-11-24T03:59:00",
+      "id": "all-you-can-eat-vol1-2026-l",
+      "name": "大餐周满足包 L vol.1",
+      "price": {
+        "amount": 3000,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "高级沙布蕾",
+          "itemId": 94,
+          "quantity": 3
+        },
+        {
+          "name": "超级沙布蕾",
+          "itemId": 10,
+          "quantity": 12
+        },
+        {
+          "name": "木棉球的薰香",
+          "pokemonItemId": "Incense-546",
+          "quantity": 4
+        },
+        {
+          "name": "木棉球的糖果",
+          "pokemonItemId": "Candy-546",
+          "quantity": 120
+        },
+        {
+          "name": "万能糖果M",
+          "itemId": 13,
+          "quantity": 2
+        },
+        {
+          "name": "食材券M",
+          "itemId": 16,
+          "quantity": 2
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537363931393639323633353031333137/"
+        }
+      ]
+    },
+    {
+      "eventName": "来什么都吃光光！大餐周vol.1",
+      "eventId": "all-you-can-eat-vol1-2026",
+      "announcedOn": "2026-11-11",
+      "eventEndsOn": "2026-11-23",
+      "saleStartsAt": "2026-11-16T06:00:00",
+      "saleEndsAt": "2026-11-24T03:59:00",
+      "id": "cottonee-training-vol1",
+      "name": "宝可梦培育包（木棉球）vol.1",
+      "price": {
+        "amount": 1200,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "超级沙布蕾",
+          "itemId": 10,
+          "quantity": 4
+        },
+        {
+          "name": "成长薰香",
+          "itemId": 3,
+          "quantity": 2
+        },
+        {
+          "name": "主技能种子（木棉球）",
+          "quantity": 1,
+          "pokemonSeedId": 546
+        },
+        {
+          "name": "木棉球的糖果",
+          "pokemonItemId": "Candy-546",
+          "quantity": 70
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537363333323535313634373339353930/"
+        }
+      ]
     }
   ]
 }
