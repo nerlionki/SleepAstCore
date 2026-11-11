@@ -1,30 +1,57 @@
-import fs from 'node:fs/promises'
-import path from 'node:path'
+import fs from 'node:fs/promises';
+import path from 'node:path';
 
-const root = path.resolve(import.meta.dirname, '..')
-const arch = JSON.parse(await fs.readFile(path.join(root, 'src/catalogs/activity-archive.json'), 'utf8'))
-const act = JSON.parse(await fs.readFile(path.join(root, 'src/data/activities.json'), 'utf8'))
-const baseline = '17eaae1308a3f06193200c7deda3b4105aa71c24'
-const curated = new Set(['good-sleep-day-40', 'halloween-2026', 'meal-prep-vol1-2026', 'new-moon-day-19', 'all-you-can-eat-vol1-2026'])
+const root = path.resolve(import.meta.dirname, '..');
+const arch = JSON.parse(
+  await fs.readFile(
+    path.join(root, 'src/catalogs/activity-archive.json'),
+    'utf8'
+  )
+);
+const act = JSON.parse(
+  await fs.readFile(path.join(root, 'src/data/activities.json'), 'utf8')
+);
+const baseline = '17eaae1308a3f06193200c7deda3b4105aa71c24';
+const curated = new Set([
+  'good-sleep-day-40',
+  'announcement-343433383634343334323138313036383834',
+  'meal-prep-vol1-2026',
+  'new-moon-day-19',
+  'all-you-can-eat-vol1-2026'
+]);
 
 // 与用户核对一致：rules/phases 内存在除 eventMix=off 外的数值化 effects
-const hasNumericEffects = (a) => {
-  const walk = (rs) => rs?.some((r) => Object.keys(r.effects || {}).some((k) => k !== 'eventMix' || (r.effects.eventMix && r.effects.eventMix !== 'off')))
-  return walk(a.rules) || (a.phases ?? []).some((p) => walk(p.rules))
-}
+const hasNumericEffects = a => {
+  const walk = rs =>
+    rs?.some(r =>
+      Object.keys(r.effects || {}).some(
+        k =>
+          k !== 'eventMix' ||
+          (r.effects.eventMix && r.effects.eventMix !== 'off')
+      )
+    );
+  return walk(a.rules) || (a.phases ?? []).some(p => walk(p.rules));
+};
 
-const stats = { 2023: { existing: 0, new: 0, extra: 0 }, 2024: { existing: 0, new: 0, extra: 0 }, 2025: { existing: 0, new: 0, extra: 0 }, 2026: { existing: 0, new: 0, extra: 0 } }
+const stats = {
+  2023: { existing: 0, new: 0, extra: 0 },
+  2024: { existing: 0, new: 0, extra: 0 },
+  2025: { existing: 0, new: 0, extra: 0 },
+  2026: { existing: 0, new: 0, extra: 0 }
+};
 for (const e of act.activities) {
-  const y = e.startsOn.slice(0, 4)
-  if (!stats[y]) continue
-  if (curated.has(e.id)) stats[y].existing++
-  else if (arch.events.some((x) => x.id === e.id)) stats[y].new++
-  else stats[y].extra++
+  const y = e.startsOn.slice(0, 4);
+  if (!stats[y]) continue;
+  if (curated.has(e.id)) stats[y].existing++;
+  else if (arch.events.some(x => x.id === e.id)) stats[y].new++;
+  else stats[y].extra++;
 }
 
-const notInArchive = act.activities.filter((a) => !arch.events.some((e) => e.id === a.id)).map((a) => a.id)
-const withNum = act.activities.filter(hasNumericEffects).length
-const onlyQualitative = act.activities.length - withNum
+const notInArchive = act.activities
+  .filter(a => !arch.events.some(e => e.id === a.id))
+  .map(a => a.id);
+const withNum = act.activities.filter(hasNumericEffects).length;
+const onlyQualitative = act.activities.length - withNum;
 
 let md = `# Pokémon Sleep 历年活动加成补全说明
 
@@ -46,10 +73,10 @@ let md = `# Pokémon Sleep 历年活动加成补全说明
 
 | 年份 | 精校保留 | 自档案新增 | 档案外当期 |
 | --- | --- | --- | --- |
-`
+`;
 
 for (const [y, s] of Object.entries(stats)) {
-  md += `| ${y} | ${s.existing} | ${s.new} | ${s.extra} |\n`
+  md += `| ${y} | ${s.existing} | ${s.new} | ${s.extra} |\n`;
 }
 
 md += `
@@ -71,10 +98,10 @@ md += `
 
 ## 档案外活动
 
-`
+`;
 for (const id of notInArchive) {
-  const row = act.activities.find((a) => a.id === id)
-  md += `- ${id}（${row.name}）：${row.source}\n`
+  const row = act.activities.find(a => a.id === id);
+  md += `- ${id}（${row.name}）：${row.source}\n`;
 }
 
 md += `
@@ -87,9 +114,9 @@ md += `
 ## 闪光叠加（附件线索）
 
 不同活动异色取最大；EX 与活动 stack 但合成公式未公开——features 分轴记录出现率与异色。
-`
+`;
 
-const out = '/opt/cursor/artifacts/pokemon-sleep-activity-backfill-2026-11-10.md'
-await fs.mkdir(path.dirname(out), { recursive: true })
-await fs.writeFile(out, md)
-console.log(`Wrote ${out}`)
+const out = path.join(root, '.tmp', 'pokemon-sleep-activity-backfill-2026-11-10.md');
+await fs.mkdir(path.dirname(out), { recursive: true });
+await fs.writeFile(out, md);
+console.log(`Wrote ${out}`);

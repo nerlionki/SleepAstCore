@@ -54,6 +54,14 @@ if (api === '1') validateActivityResource(data)
 else {
   if (data['activities.json'].schemaVersion !== 2) throw new Error('v2 requires activity schema 2')
   validateActivityCatalog(data['activities.json'], data)
+  // Older v2 clients reject unknown activity fields, including source annotations.
+  const activitySources = {}
+  for (const activity of data['activities.json'].activities) {
+    if (activity.sources === undefined) continue
+    activitySources[activity.id] = activity.sources
+    delete activity.sources
+  }
+  data['meta.json'].activitySources = activitySources
 }
 installOcrNameCatalog(data)
 validateSkillResources(data)

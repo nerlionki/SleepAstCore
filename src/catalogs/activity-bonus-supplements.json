@@ -78,7 +78,7 @@
       ]
     },
     {
-      "id": "halloween-2026",
+      "id": "announcement-343433383634343334323138313036383834",
       "name": "万圣节2026：糖果倍增研究",
       "source": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
       "priority": 20,
@@ -607,7 +607,70 @@
       "favoriteBerries": {
         "greengrass": "墨莓果",
         "greenex": "墨莓果"
-      }
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/"
+        }
+      ]
+    },
+    {
+      "id": "new-moon-day-19",
+      "name": "第19次新月日",
+      "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-11-08",
+      "endsOn": "2026-11-11",
+      "rules": [],
+      "features": [
+        {
+          "id": "shiny-boost",
+          "name": "闪光出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "新月日三天，项目使用 1.5% 作为每只宝可梦的模拟估计。",
+          "parameters": {
+            "rate": 0.015
+          },
+          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/"
+        },
+        {
+          "id": "special-encounter",
+          "name": "新月日特别出没",
+          "status": "requires-input",
+          "domains": [
+            "research"
+          ],
+          "description": "首次研究的特别出没概率及随未遇见次数变化的数值还未公布，暂无法给出包含该效果的完整遭遇结果。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+          "parameters": {
+            "pokemon": "达克莱伊",
+            "simulationDescription": "达克莱伊可能在每日首次研究特别出现。睡姿模拟仅抽选普通睡姿，达克莱伊不参与抽选。",
+            "firstResearchOnly": true,
+            "extraEncounterSlots": 1,
+            "researchRewardReductionStartsAt": 12,
+            "probability": null
+          }
+        },
+        {
+          "id": "snack-bonuses",
+          "name": "点心时间奖励",
+          "status": "informational",
+          "domains": [
+            "capture"
+          ],
+          "description": "每日首次点心时间不容易吃饱；遇见特别提升宝可梦时友情点数+3。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
+          "parameters": {
+            "firstSnackOnly": true,
+            "friendshipPoints": 3
+          }
+        }
+      ]
     },
     {
       "id": "meal-prep-vol1-2026",
@@ -1640,63 +1703,6 @@
           "dprSettled": true,
           "dprEstimated": false,
           "unlockRank": 11
-        }
-      ]
-    },
-    {
-      "id": "new-moon-day-19",
-      "name": "第19次新月日",
-      "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
-      "priority": 20,
-      "stacking": "max",
-      "startsOn": "2026-11-08",
-      "endsOn": "2026-11-11",
-      "rules": [],
-      "features": [
-        {
-          "id": "shiny-boost",
-          "name": "闪光出现概率提升",
-          "status": "informational",
-          "domains": [
-            "research"
-          ],
-          "description": "新月日三天，项目使用 1.5% 作为每只宝可梦的模拟估计。",
-          "parameters": {
-            "rate": 0.015
-          },
-          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/"
-        },
-        {
-          "id": "special-encounter",
-          "name": "新月日特别出没",
-          "status": "requires-input",
-          "domains": [
-            "research"
-          ],
-          "description": "首次研究的特别出没概率及随未遇见次数变化的数值还未公布，暂无法给出包含该效果的完整遭遇结果。",
-          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
-          "parameters": {
-            "pokemon": "达克莱伊",
-            "simulationDescription": "达克莱伊可能在每日首次研究特别出现。睡姿模拟仅抽选普通睡姿，达克莱伊不参与抽选。",
-            "firstResearchOnly": true,
-            "extraEncounterSlots": 1,
-            "researchRewardReductionStartsAt": 12,
-            "probability": null
-          }
-        },
-        {
-          "id": "snack-bonuses",
-          "name": "点心时间奖励",
-          "status": "informational",
-          "domains": [
-            "capture"
-          ],
-          "description": "每日首次点心时间不容易吃饱；遇见特别提升宝可梦时友情点数+3。",
-          "source": "https://www.pokemonsleep.net/zh/news/343537333337383034343630393136373338/",
-          "parameters": {
-            "firstSnackOnly": true,
-            "friendshipPoints": 3
-          }
         }
       ]
     },

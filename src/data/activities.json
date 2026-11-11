@@ -5661,22 +5661,6 @@
     },
     {
       "id": "announcement-343433383634343334323138313036383834",
-      "name": "萬聖節2026：糖果倍增研究",
-      "source": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
-      "priority": 20,
-      "stacking": "max",
-      "startsOn": "2026-10-26",
-      "endsOn": "2026-11-02",
-      "rules": [],
-      "sources": [
-        {
-          "kind": "official",
-          "url": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/"
-        }
-      ]
-    },
-    {
-      "id": "halloween-2026",
       "name": "万圣节2026：糖果倍增研究",
       "source": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
       "priority": 20,
@@ -6205,7 +6189,13 @@
       "favoriteBerries": {
         "greengrass": "墨莓果",
         "greenex": "墨莓果"
-      }
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/"
+        }
+      ]
     },
     {
       "id": "new-moon-day-19",
