@@ -1,0 +1,51 @@
+{
+  "id": "good-sleep-day-16",
+  "source": "https://web.archive.org/web/20241213080938/https://www.pokemonsleep.net/en/news/313936303934333338353333343235313533/",
+  "fetchedFrom": "https://web.archive.org/web/20241213080938/https://www.pokemonsleep.net/en/news/313936303934333338353333343235313533/",
+  "httpStatus": 200,
+  "textLength": 4803,
+  "textSample": "Event: Good Sleep Day #16 Pokémon Sleep Official Webpage 4 captures 07 Nov 2024 - 13 Dec 2024 Nov DEC Jan 13 2023 2024 2025 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20241213080938/https://www.pokemonsleep.net/en/news/313936303934333338353333343235313533/ Home News Sleep Tracking Pokémon Extra Content Devices Frequently Asked Questions English English DOWNLOAD FOLLOW US New Events 2024/11/1 Event: Good Sleep Day #16 Outline Rest your very best on the night of the full moon! This event is held once a month for a total of three days—on the day of the full moon and the days before and after it—and provides a boost to Drowsy Power! Let’s try to get lots of good sleep during this time and research loads of Pokémon sleep styles! The event also includes bonus sleep points and bonuses to Pokémon’s Sleep EXP gains. We hope you’re looking forward to the event! Event Period: • Friday, November 15, at 4:00 a.m. to Monday, November 18, at 3:59 a.m. Note: The day of the full moon is Saturday, November 16 . Event Areas: • All areas Bonuses The following bonuses will trigger when you conduct sleep research in applicable areas during the event. — All Days (November 15 to 17) — Pokémon sleep styles that you haven’t discovered yet are more likely to appear during sleep research. — Night of the Full Moon (November 16) — Drowsy Power ×2 Helper Pokémon Sleep EXP ×3 Bonus sleep points +1,000 — Other Days (November 15 and 17) — Drowsy Power ×1.5 Helper Pokémon Sleep EXP ×2 Bonus sleep points +500 Pokémon You Can Encounter in Each Area The following Pokémon are more likely to appear during this event! — Night of the Full Moon (November 16) — Much Greater Appearance Rate: • Clefairy, Clefable, and Cleffa. — Other Days (November 15 and 17) — Greater Appearance Rate: • Clefairy, Clefable, and Cleffa. Note: These Pokémon will appear in all areas. Details Multipliers for Drowsy Power The multipliers for Drowsy Power on the night of a full moon during Good Sleep Day depend on the day of the week . The planned multipliers are as follows. ■ Drowsy Power Multipliers on the Night of a Full Moon Monday: ×4 Tuesday: ×3 Wednesday: ×2.5 Other days: ×2 Notes: Drowsy Power on the days before and after a full moon will always be multiplied by 1.5 regardless of the day of the week. The above multipliers dependent on the day of the week are subject to change. Notes • [Important] Each day of the Good Sleep Day event rolls over at 4:00 a.m. • Event bonuses apply only to sleep data tracked during the event. • If you wait to report sleep data tracked before the event began and select “Review Later” during the event, event bonuses will not be applied. • If you wait to report sleep data tracked during the event and select “Review Later” after the event has ended, event bonuses will be applied. • You can only receive bonus sleep points once per day. You will not receive bonus sleep points for the second sleep session of the day. • Event bonuses do not apply to sleep tracking during the tutorial. • Event bonuses will trigger regardless of which site you conduct your sleep research in. • The effects of incense stack with Good Sleep Day effects. If you use Growth Incense on the night of the full moon, EXP gains will be multiplied by 6 (×3 from the full moon bonus and ×2 from the Growth Incense bonus). English English DOWNLOAD Title Pokémon Sleep Platforms iOS/Android MSRP Free to play* *Features in-app purchases SHARE Official Pokémon Website Terms of Use Privacy Notice Cookie Page The Pokémon Company ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. Pokémon Sleep is developed by SELECT BUTTON inc. TM, ®, and character names are trademarks of Nintendo. Apple, the Apple logo, Apple Watch, Apple Health, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Fitbit, Google Play, the Google Play logo, and Health Connect are trademarks",
+  "multiplierHits": [
+    {
+      "raw": "Drowsy Power ×2",
+      "value": 2
+    },
+    {
+      "raw": "Drowsy Power ×1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "Pokémon Sleep EXP ×3",
+      "value": 3
+    },
+    {
+      "raw": "Pokémon Sleep EXP ×2",
+      "value": 2
+    },
+    {
+      "raw": "Sleep EXP ×3",
+      "value": 3
+    },
+    {
+      "raw": "Sleep EXP ×2",
+      "value": 2
+    },
+    {
+      "raw": "multiplied by 1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "multiplied by 6",
+      "value": 6
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

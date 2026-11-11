@@ -1,0 +1,23 @@
+{
+  "id": "halloween-2023",
+  "source": "https://web.archive.org/web/20250725141956/https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/",
+  "fetchedFrom": "https://web.archive.org/web/20250725141956/https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/",
+  "httpStatus": 200,
+  "textLength": 5906,
+  "textSample": "Halloween 2023 — Double Candy Research Pokémon Sleep Official Webpage 6 captures 22 Jul 2024 - 10 Aug 2025 Jun JUL Aug 25 2024 2025 2026 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20250725141956/https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/ Home News Sleep Tracking Pokémon Extra Content Devices Frequently Asked Questions English English DOWNLOAD FOLLOW US New Events 10/31/2023 2023/10/31 --> Halloween 2023 — Double Candy Research Beginning at 4:00 a.m. on Monday, October 30, we will be holding an event: Halloween 2023 — Double Candy Research ! Trick or treat! During the week-long Halloween 2023 — Double Candy Research event, you’ll be able to encounter Pokémon of different sleep types , regardless of your own sleep type. Also, you can get lavish rewards such as a total of Handy Candy S ×25 through special missions that will be added to the usual missions, and you can get at least twice the usual number of Pokémon candies from sleep research. Try to get lots of candies during this event! Also, this time you’ll have lots of opportunities to meet Pikachu wearing a Halloween hat and also Ghost-type Pokémon such as Gastly ! We hope you’re looking forward to it! Day 1: Monday, October 30, at 4:00 a.m. to Tuesday, October 31, at 3:59 a.m. Day 2 (Halloween): Tuesday, October 31, at 4:00 a.m. to Wednesday, November 1, at 3:59 a.m. Day 3: Wednesday, November 1, at 4:00 a.m. to Thursday, November 2, at 3:59 a.m. Day 4: Thursday, November 2, at 4:00 a.m. to Friday, November 3, at 3:59 a.m. Day 5: Friday, November 3, at 4:00 a.m. to Saturday, November 4, at 3:59 a.m. Day 6: Saturday, November 4, at 4.00 a.m. to Sunday, November 5, at 3:59 a.m. Day 7 (last day of the event): Sunday, November 5, at 4:00 a.m. to Monday, November 6, at 3:59 a.m. How to Progress in the Event Participating in the event is easy! Simply press the “Sleep” button on Greengrass Isle before going to sleep during the event period to track your sleep. A variety of event-related effects will be triggered during your sleep research. Note: Tracking sleep on any map other than Greengrass Isle will not trigger the event bonuses. Event Bonuses 2023/10/31 Update — Halloween (10/31) and Last Day of the Event (11/5) — • Researchers will gain 3 times the usual number of candies for the first sleep research of the day • Many Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for that day • Certain Pokémon will be more likely to appear during sleep research — Other Days (10/30, 11/1−4) — • Researchers will gain 2 times the usual number of candies for the first sleep research of the day • A few Pokémon of different sleep types will appear during sleep research regardless of the researcher’s sleep type for the day • Certain Pokémon will be more likely to appear during sleep research — Pokémon That Are Easier to Encounter Throughout the Event — During the event period, you’ll have more opportunities to meet the following Pokémon! • Much Greater Appearance Rate : Pikachu (Halloween), Gastly, Haunter, Gengar • Greater Appearance Rate : Meowth, Cubone • Slightly Greater Appearance Rate : Shuppet, Banette Note: Because 10/30 overlaps with a Good Sleep Day event, the effects of both Halloween 2023 — Double Candy Research and Good Sleep Day (Drowsy Power ×1.5) will be applied. Notes about Halloween 2023 — Double Candy Research • [Important] Each day of the Halloween 2023 — Double Candy Research event rolls over at 4:00 a.m. • [Important] Event bonuses apply only to sleep data tracked on Greengrass Isle . • The event bonus for the number of candies you gain does not apply to the second sleep session in a day. • Event bonuses apply only to sleep tracking that begins within the event period. • If you wait to report sleep data tracked before the event begins, and select “Review Later” during the event, event bonuses will not be applied. • If you wait to report s",
+  "multiplierHits": [
+    {
+      "raw": "Drowsy Power ×1.5",
+      "value": 1.5
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

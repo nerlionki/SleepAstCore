@@ -1,0 +1,31 @@
+{
+  "id": "growth-week-1",
+  "source": "https://web.archive.org/web/20250217064544/https://www.pokemonsleep.net/en/news/313438343933333836333938303430303635/",
+  "fetchedFrom": "https://web.archive.org/web/20250217064544/https://www.pokemonsleep.net/en/news/313438343933333836333938303430303635/",
+  "httpStatus": 200,
+  "textLength": 3304,
+  "textSample": "Event: Pokémon Growth Week Pokémon Sleep Official Webpage 6 captures 26 Jun 2024 - 14 Feb 2026 Jan FEB Mar 17 2024 2025 2026 success fail About this capture TIMESTAMPS The Wayback Machine - https://web.archive.org/web/20250217064544/https://www.pokemonsleep.net/en/news/313438343933333836333938303430303635/ Home News Sleep Tracking Pokémon Extra Content Devices Frequently Asked Questions English English DOWNLOAD FOLLOW US New Special Campaigns 6/21/2024 2024/6/21 --> Event: Pokémon Growth Week Event Outline Sleep well to grow well! It’s time for Pokémon Growth Week! This week-long event is a special opportunity to get more Sleep EXP and candies than usual. Let’s all try to get plenty of sleep to help raise our favorite helper Pokémon! Event Period: • Monday, July 1, at 4:00 a.m. to Monday, July 8, at 3:59 a.m. Event Areas: • All areas Bonuses — All Days (7/1 to 7/7) — • Helper Pokémon Sleep EXP ×1.5 • Candies gained from the first sleep research of the day ×1.5 Notes about the Event • [Important] Each day of Pokémon Growth Week rolls over at 4:00 a.m. • The event’s candy bonus does not apply to the second sleep session of the day. • Event bonuses apply only to sleep data tracked during the event. • If you wait to report sleep data tracked before the event began and select “Review Later” during the event, event bonuses will not be applied. • If you wait to report sleep data tracked during the event and select “Review Later” after the event has ended, event bonuses will be applied. • Event bonuses do not apply to sleep tracking during the tutorial. • Event bonuses will trigger regardless of which site you conduct your sleep research in. • The effects of incense stack with the event bonuses. If you use Growth Incense during the event, EXP gains will be multiplied by 3 (×1.5 from the event bonus and ×2 from the Growth Incense bonus). English English DOWNLOAD Title Pokémon Sleep Platforms iOS/Android MSRP Free to play* *Features in-app purchases SHARE Official Pokémon Website Terms of Use Privacy Notice Cookie Page The Pokémon Company ©2023 Pokémon. ©1995–2023 Nintendo / Creatures Inc. / GAME FREAK inc. Pokémon Sleep is developed by SELECT BUTTON inc. TM, ®, and character names are trademarks of Nintendo. Apple, the Apple logo, Apple Watch, Apple Health, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Fitbit, Google Play, the Google Play logo, and Health Connect are trademarks of Google LLC. Pokémon Sleep is intended for entertainment purposes only and is not intended for use in detection, diagnosis, or treatment of any medical condition or disease. Free-to-start; optional purchases available. Data charges may apply for mobile version. Message to minors: Please get the permission of your parent or guardian before purchasing paid items. Pokémon Sleep is intended for entertainment purposes only and is not intended for use in detection, diagnosis, or treatment of any medical condition or disease. It is not recommended that you place your device under your pillow or blankets as it may overheat. Pokémon Sleep cannot be used directly on a smartwatch. Supported smartwatch functionality requires a device running Android or iOS with the Pokémon Sleep application installed.",
+  "multiplierHits": [
+    {
+      "raw": "Pokémon Sleep EXP ×1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "Sleep EXP ×1.5",
+      "value": 1.5
+    },
+    {
+      "raw": "multiplied by 3",
+      "value": 3
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

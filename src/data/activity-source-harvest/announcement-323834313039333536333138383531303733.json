@@ -1,0 +1,31 @@
+{
+  "id": "announcement-323834313039333536333138383531303733",
+  "source": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/",
+  "fetchedFrom": "https://www.pokemonsleep.net/zh/news/323834313039333536333138383531303733/",
+  "httpStatus": 200,
+  "textLength": 1604,
+  "textSample": "【企畫】「2週年搶先慶企畫」 《Pokémon Sleep》官方網站 Pokémon Sleep News Sleep Tracking Pokémon Contents Devices 常見問題 繁體中文 繁體中文 DOWNLOAD FOLLOW US NEW 企劃 2025/6/30 2025/7/1 --> 【企畫】「2週年搶先慶企畫」 概要 邁向2週年！慶祝的季節來了！ 《Pokémon Sleep》將在 7/20 (週日) 迎來全球上線2週年！ 為此，我們將推出「2週年搶先慶企畫」，與各位玩家共度一段特別的慶祝時光。 企畫期間，將 每天贈送 紅利睡眠點數x150 。曾在「1週年紀念嘉年華」登場的 新葉喵、呆火鱷、潤水鴨都會再次列入機率提升的行列，此外也會有各式各樣的獎勵生效。 敬請期待！ 【企畫期間】 ・ 7/7 (週一) 4:00 ～ 7/14 (週一) 3:59 【活動營地】 ・所有營地 獎勵 企畫期間，在活動營地會發生下列效果。 【所有日子】 ・睡眠研究時， 特定寶可夢的出現機率提升 。 ・研究後獲得的 夢之碎片變成1.5倍 。 ・鍋子容量（可放的食材數量上限）變成 1.5倍 （ 週日為3倍 ）。 ・不論研究者當天的睡眠類型為何， 都也能遇見其他睡眠類型的寶可夢 。 機率提升 把握能比平時更常遇見下列寶可夢的好機會吧！ 【 機率中幅提升 】 新葉喵、蒂蕾喵、魔幻假面喵、 呆火鱷、炙燙鱷、骨紋巨聲鱷、 潤水鴨、湧躍鴨、狂歡浪舞鴨 各營地能遇見的寶可夢 【 萌綠之島 】 新葉喵、蒂蕾喵、魔幻假面喵、 呆火鱷、潤水鴨 【 天青沙灘 】 呆火鱷、炙燙鱷、骨紋巨聲鱷、 潤水鴨、湧躍鴨、狂歡浪舞鴨 【 灰褐洞窟 】 呆火鱷、炙燙鱷、骨紋巨聲鱷 【 寶藍湖畔 】 新葉喵、蒂蕾喵、魔幻假面喵、 潤水鴨、湧躍鴨、狂歡浪舞鴨 【 黃金舊發電廠 】 新葉喵、蒂蕾喵、魔幻假面喵、 呆火鱷、炙燙鱷、骨紋巨聲鱷、 潤水鴨、湧躍鴨、狂歡浪舞鴨 各項目詳情 注意事項 ・【重要】活動、企畫舉辦日期的切換時間為每日4:00。 ・獎勵僅適用於企畫期間內開始測量的睡眠資料。 若將「企畫開始前測量的睡眠資料」留到企畫期間內進行「稍後再報告」，則不適用獎勵。 若將「企畫期間內測量的睡眠資料」留到企畫結束後進行「稍後再報告」，則會適用獎勵。 ・獎勵不適用於新手教學中的睡眠測量。 ・相同的獎勵在不同的活動、企畫中同時登場時，僅適用倍率最大的獎勵。 繁體中文 繁體中文 DOWNLOAD 商品名稱 Pokémon Sleep 支援系統 iOS / Android 售價 本遊戲為免費遊玩 ※部分內容可付費購買 SHARE 寶可夢官方網站 FOLLOW US 應用程式版 使用條款 隱私權政策 網站版 使用條款 隱私權政策 關於Cookie 請注意遊戲時間，避免沉迷。 遊戲部分內容或服務需另行支付其他費用。 The Pokémon Company ©Pokémon/Nintendo/Creatures/GAME FREAK TM, ®, and character names are trademarks of Nintendo Apple, the Apple logo, Apple Watch, Apple Health, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android、Fitbit、Google Play、Google Health、Health Connect 以及相關標誌和標誌均為 Google LLC 的商標。 發行、銷售：The Pokémon Company",
+  "multiplierHits": [
+    {
+      "raw": "1.5倍",
+      "value": 1.5
+    },
+    {
+      "raw": "1.5倍",
+      "value": 1.5
+    },
+    {
+      "raw": "3倍",
+      "value": 3
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}

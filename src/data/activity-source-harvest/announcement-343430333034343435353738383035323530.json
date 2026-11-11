@@ -1,0 +1,39 @@
+{
+  "id": "announcement-343430333034343435353738383035323530",
+  "source": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/",
+  "fetchedFrom": "https://www.pokemonsleep.net/zh/news/343430333034343435353738383035323530/",
+  "httpStatus": 200,
+  "textLength": 1265,
+  "textSample": "【企畫】寶可夢快快長大週vol.6 《Pokémon Sleep》官方網站 Pokémon Sleep News Sleep Tracking Pokémon Contents Devices 常見問題 繁體中文 繁體中文 DOWNLOAD FOLLOW US NEW 企劃 2026/10/1 2026/10/1 --> 【企畫】寶可夢快快長大週vol.6 概要 睡得好的孩子長得快！快快長大週！ 本企畫為期1週，是 睡眠EXP 和 糖果獲得量 都會增加的特別期間。 睡飽睡足，培育心愛的幫手寶可夢們吧！ 【舉辦期間】 ・ 10/12 (週一) 4:00 ～ 10/19 (週一) 3:59 【活動營地】 ・所有營地 獎勵 期間內在活動營地會發生下列效果。 【所有日子】 ・幫手寶可夢的睡眠EXP： 1.5倍 ・當天第1次睡眠研究後的 糖果獲得量變成1.5倍 。 注意事項 ・【重要】活動、企畫舉辦日期的切換時間為每日4:00。 ・獎勵僅適用於活動／企畫期間內開始測量的睡眠資料。 ・若將「活動／企畫開始前測量的睡眠資料」留到活動／企畫期間內進行「稍後再報告」，則不適用獎勵。 ・若將「活動／企畫期間內測量的睡眠資料」留到活動／企畫結束後進行「稍後再報告」，則會適用獎勵。 ・獎勵不適用於新手教學中的睡眠測量。 ・相同的獎勵在不同的活動、企畫中同時登場時，僅適用倍率最大的獎勵。 ・若是對當天第2次的睡眠進行睡眠研究，獎勵將不適用於該次的糖果獲得量。 ・薰香的效果和獎勵效果可疊加。若在企畫期間使用成長薰香，獲得的EXP會是1.5倍（獎勵）×2倍（成長薰香），總計3倍。 繁體中文 繁體中文 DOWNLOAD 商品名稱 Pokémon Sleep 支援系統 iOS / Android 售價 本遊戲為免費遊玩 ※部分內容可付費購買 SHARE 寶可夢官方網站 FOLLOW US 應用程式版 使用條款 隱私權政策 網站版 使用條款 隱私權政策 關於Cookie 請注意遊戲時間，避免沉迷。 遊戲部分內容或服務需另行支付其他費用。 The Pokémon Company ©Pokémon/Nintendo/Creatures/GAME FREAK TM, ®, and character names are trademarks of Nintendo Apple, the Apple logo, Apple Watch, Apple Health, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android、Fitbit、Google Play、Google Health、Health Connect 以及相關標誌和標誌均為 Google LLC 的商標。 發行、銷售：The Pokémon Company",
+  "multiplierHits": [
+    {
+      "raw": "1.5倍",
+      "value": 1.5
+    },
+    {
+      "raw": "1.5倍",
+      "value": 1.5
+    },
+    {
+      "raw": "1.5倍",
+      "value": 1.5
+    },
+    {
+      "raw": "2倍",
+      "value": 2
+    },
+    {
+      "raw": "3倍",
+      "value": 3
+    }
+  ],
+  "flags": {
+    "shinyMention": false,
+    "shinyQualitativeOnly": false,
+    "specialAppearance": false,
+    "eventMixSome": false,
+    "encounterUp": false,
+    "firstResearchOnly": false
+  },
+  "shellPage": false
+}
