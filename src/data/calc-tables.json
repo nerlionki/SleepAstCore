@@ -1661,6 +1661,13 @@
           "pokemonItem": {"kind": "candy", "pokemonId": 200}
         },
         {
+          "id": "Candy-546",
+          "name": "木棉球的糖果",
+          "category": "糖果",
+          "imageFile": "items/Candy-546.webp",
+          "pokemonItem": {"kind": "candy", "pokemonId": 546}
+        },
+        {
           "id": "Candy-202",
           "name": "果然翁的糖果",
           "category": "糖果",
@@ -2898,6 +2905,17 @@
             "kind": "incense",
             "pokemonId": 590,
             "typeId": 8
+          }
+        },
+        {
+          "id": "Incense-546",
+          "name": "木棉球的薰香",
+          "category": "宝可梦薰香",
+          "imageFile": "items/Incense-546.webp",
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 546,
+            "typeId": 18
           }
         }
       ],

@@ -4775,6 +4775,39 @@
         }
       ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/"
+    },
+    {
+      "id": "announcement-343537363333323535313433373638303639",
+      "name": "梦之碎片增量周vol.3",
+      "announcedOn": "2026-11-11",
+      "startsOn": "2026-11-23",
+      "endsOn": "2026-11-30",
+      "source": "https://www.pokemonsleep.net/zh/news/343537363333323535313433373638303639/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "研究后获得的梦之碎片变成1.5倍。",
+            "透过主技能获得的梦之碎片数量变成1.5倍。 ※当主技能有多个效果时，只有梦之碎片数量会增加。",
+            "所有帮手宝可梦的主技能发动概率变成1.25倍。",
+            "可以使用期间限定的「迷你糖果增强」。"
+          ]
+        },
+        {
+          "title": "迷你糖果增强",
+          "lines": [
+            "使用「迷你糖果增强」后， 帮手宝可梦在使用糖果时可获得的EXP 会变成 2倍 ，但使用1个糖果所需的 梦之碎片消耗量会是平时的 4倍 。 每天 最多可使用 50个糖果 。"
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343537363333323535313433373638303639/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537363333323535313433373638303639/",
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+        }
+      ]
     }
   ],
   "encounterUps": {

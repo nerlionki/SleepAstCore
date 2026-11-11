@@ -5656,5 +5656,59 @@
     "zh-TW": "",
     "ja": "",
     "en": ""
+  },
+  "梦之碎片增量周vol.3": {
+    "zh": "梦之碎片增量周vol.3",
+    "zh-TW": "夢之碎片增量週vol.3",
+    "ja": "ゆめのかけらGETウィーク vol.3",
+    "en": "Dream Shard Week Vol. 3"
+  },
+  "大餐周满足包 S vol.1": {
+    "zh": "大餐周满足包 S vol.1",
+    "zh-TW": "大餐週滿足包S vol.1",
+    "ja": "ごちそうウィークパックS vol.1",
+    "en": "Banquet Week Bundle Vol. 1 S"
+  },
+  "大餐周满足包 M vol.1": {
+    "zh": "大餐周满足包 M vol.1",
+    "zh-TW": "大餐週滿足包M vol.1",
+    "ja": "ごちそうウィークパックM vol.1",
+    "en": "Banquet Week Bundle Vol. 1 M"
+  },
+  "大餐周满足包 L vol.1": {
+    "zh": "大餐周满足包 L vol.1",
+    "zh-TW": "大餐週滿足包L vol.1",
+    "ja": "ごちそうウィークパックL vol.1",
+    "en": "Banquet Week Bundle Vol. 1 L"
+  },
+  "宝可梦培育包（木棉球）vol.1": {
+    "zh": "宝可梦培育包（木棉球）vol.1",
+    "zh-TW": "寶可夢培育包（木棉球）vol.1",
+    "ja": "ポケモン育成パック(モンメン) vol.1",
+    "en": "Pokémon Raising Bundle (Cottonee) Vol. 1"
+  },
+  "木棉球的薰香": {
+    "zh": "木棉球的薰香",
+    "zh-TW": "木棉球的薰香",
+    "ja": "モンメンのおこう",
+    "en": "Cottonee Incense"
+  },
+  "木棉球的糖果": {
+    "zh": "木棉球的糖果",
+    "zh-TW": "木棉球的糖果",
+    "ja": "モンメンのアメ",
+    "en": "Cottonee Candy"
+  },
+  "主技能种子（木棉球）": {
+    "zh": "主技能种子（木棉球）",
+    "zh-TW": "主技能種子（木棉球）",
+    "ja": "メインスキルのたね(モンメン)",
+    "en": "Main Skill Seed (Cottonee)"
+  },
+  "日之石": {
+    "zh": "日之石",
+    "zh-TW": "日之石",
+    "ja": "たいようのいし",
+    "en": "Sun Stone"
   }
 }

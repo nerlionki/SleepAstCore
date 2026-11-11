@@ -100,8 +100,9 @@ await copyImages(path.join(root, 'src/assets/imgs'), 'images/')
 await copyImages(path.join(root, 'public/items'), 'items/')
 await copyImages(path.join(root, 'public/sprites'), 'sprites/')
 validateIdImages(data, assets)
-validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], assets, bundleItems)
-if (api === '2') validateBundleArtwork(data['meta.json'].archivedEventBundles, data['pokedex.json'], assets, [])
+const announcedPokemon = data['meta.json'].announcedContent?.pokemon ?? []
+validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], assets, bundleItems, announcedPokemon)
+if (api === '2') validateBundleArtwork(data['meta.json'].archivedEventBundles, data['pokedex.json'], assets, [], announcedPokemon)
 if (api === '2') for (const rows of Object.values(data['meta.json'].announcedContent ?? {})) {
   if (!Array.isArray(rows)) continue
   for (const row of rows) if (row?.imageFile && !assets['images/' + row.imageFile]) throw new Error('Missing announced image: ' + row.imageFile)
