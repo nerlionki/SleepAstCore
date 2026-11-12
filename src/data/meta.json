@@ -33,8 +33,9 @@
         "availableFrom": "2026-11-16T04:00:00",
         "timeBasis": "game-local",
         "runtimeId": null,
-        "baseEnergy": null,
-        "unknownFields": ["runtimeId", "baseEnergy"],
+        "baseEnergy": 112,
+        "unknownFields": ["runtimeId"],
+        "numericSource": "用户确认能量 112。RAENONX 2026-11-12 食谱图用该能量复核 Lv.1 料理能量。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 20,
         "imageSource": "assigned-display-id",
@@ -109,14 +110,15 @@
         "timeBasis": "game-local",
         "name": null,
         "runtimeId": null,
-        "ingredientQuantities": null,
-        "baseEnergy": null,
-        "unknownFields": [
-          "name",
-          "runtimeId",
-          "ingredientQuantities",
-          "baseEnergy"
-        ],
+        "ingredientQuantities": {
+          "萌绿玉米": 12,
+          "沉甸甸南瓜": 12,
+          "一口坚果": 15
+        },
+        "baseEnergy": 7950,
+        "bonus": 0.25,
+        "unknownFields": ["name", "runtimeId"],
+        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 能量 7950，Lv.70 为 28461。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 1026,
         "imageFile": "meal/1026.webp"
@@ -131,14 +133,16 @@
         "timeBasis": "game-local",
         "name": null,
         "runtimeId": null,
-        "ingredientQuantities": null,
-        "baseEnergy": null,
-        "unknownFields": [
-          "name",
-          "runtimeId",
-          "ingredientQuantities",
-          "baseEnergy"
-        ],
+        "ingredientQuantities": {
+          "暖暖姜": 36,
+          "好眠番茄": 33,
+          "嫩亮酪梨": 22,
+          "一口坚果": 30
+        },
+        "baseEnergy": 26350,
+        "bonus": 0.82,
+        "unknownFields": ["name", "runtimeId"],
+        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 能量 26350，Lv.70 为 94333。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 2027,
         "imageFile": "meal/2027.webp"
@@ -153,14 +157,16 @@
         "timeBasis": "game-local",
         "name": null,
         "runtimeId": null,
-        "ingredientQuantities": null,
-        "baseEnergy": null,
-        "unknownFields": [
-          "name",
-          "runtimeId",
-          "ingredientQuantities",
-          "baseEnergy"
-        ],
+        "ingredientQuantities": {
+          "特选蛋": 33,
+          "美味尾巴": 10,
+          "萌绿大豆": 22,
+          "一口坚果": 26
+        },
+        "baseEnergy": 19846,
+        "bonus": 0.61,
+        "unknownFields": ["name", "runtimeId"],
+        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 能量 19846，Lv.70 为 71049。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 3028,
         "imageFile": "meal/3028.webp"

@@ -563,9 +563,7 @@
       "source": "https://web.archive.org/web/20250725141956/https://www.pokemonsleep.net/en/news/3539373335323736333330363830333231/",
       "bonusGroups": [
         {
-          "area": [
-            "greengrass"
-          ],
+          "area": ["greengrass"],
           "groups": [
             {
               "id": "research",
@@ -614,15 +612,11 @@
         "items": [
           {
             "island": "greengrass",
-            "berries": [
-              14
-            ]
+            "berries": [14]
           },
           {
             "island": "greenex",
-            "berries": [
-              14
-            ]
+            "berries": [14]
           }
         ]
       },
@@ -920,9 +914,7 @@
       "source": "https://web.archive.org/web/20240914152739/https://www.pokemonsleep.net/en/news/3736313136353239363434353638353737/",
       "bonusGroups": [
         {
-          "area": [
-            "greengrass"
-          ],
+          "area": ["greengrass"],
           "groups": [
             {
               "id": "research",
@@ -1412,9 +1404,7 @@
       "bonusSections": [
         {
           "title": "Slightly Greater Appearance Rate",
-          "lines": [
-            "Dratini, Ralts, and Stufful"
-          ]
+          "lines": ["Dratini, Ralts, and Stufful"]
         }
       ],
       "bonusSource": "https://web.archive.org/web/20240720191920/https://www.pokemonsleep.net/en/news/3932303039353430313639343938363235/"
@@ -1649,10 +1639,7 @@
       "source": "https://web.archive.org/web/20240722221901/https://www.pokemonsleep.net/en/news/313037313831343637353934393135383431/",
       "bonusGroups": [
         {
-          "area": [
-            "greengrass",
-            "greenex"
-          ],
+          "area": ["greengrass", "greenex"],
           "groups": [
             {
               "id": "helper",
@@ -1975,10 +1962,7 @@
       "source": "https://web.archive.org/web/20240721141237/https://www.pokemonsleep.net/en/news/313232383933353733333030343230363039/",
       "bonusGroups": [
         {
-          "area": [
-            "greengrass",
-            "greenex"
-          ],
+          "area": ["greengrass", "greenex"],
           "groups": [
             {
               "id": "helper",
@@ -2252,10 +2236,7 @@
       "source": "https://web.archive.org/web/20250623004328/https://www.pokemonsleep.net/en/news/313238333136353339363937383839323831/",
       "bonusGroups": [
         {
-          "area": [
-            "greengrass",
-            "greenex"
-          ],
+          "area": ["greengrass", "greenex"],
           "groups": [
             {
               "id": "helper",
@@ -2596,10 +2577,7 @@
       "source": "https://web.archive.org/web/20250707193138/https://www.pokemonsleep.net/en/news/313433303634323230393931323235383537/",
       "bonusGroups": [
         {
-          "area": [
-            "greengrass",
-            "greenex"
-          ],
+          "area": ["greengrass", "greenex"],
           "groups": [
             {
               "id": "helper",
@@ -3009,9 +2987,7 @@
       "bonusSections": [
         {
           "title": "Bonuses",
-          "lines": [
-            "ボーナス 期間中、開催フィールドで以下の効果が発生します。"
-          ]
+          "lines": ["ボーナス 期間中、開催フィールドで以下の効果が発生します。"]
         },
         {
           "title": "全日程 (7/15～7/28)",
@@ -3903,9 +3879,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -4107,10 +4081,7 @@
       "source": "https://web.archive.org/web/20241230050121/https://www.pokemonsleep.net/en/news/313931363234363437343432313639383537/",
       "bonusGroups": [
         {
-          "area": [
-            "greengrass",
-            "greenex"
-          ],
+          "area": ["greengrass", "greenex"],
           "groups": [
             {
               "id": "research",
@@ -4159,15 +4130,11 @@
         "items": [
           {
             "island": "greengrass",
-            "berries": [
-              14
-            ]
+            "berries": [14]
           },
           {
             "island": "greenex",
-            "berries": [
-              14
-            ]
+            "berries": [14]
           }
         ]
       },
@@ -4221,9 +4188,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -4472,9 +4437,7 @@
         },
         {
           "title": "Eevee Day (11/21)",
-          "lines": [
-            "+1,121 bonus sleep points."
-          ]
+          "lines": ["+1,121 bonus sleep points."]
         }
       ],
       "bonusSource": "https://web.archive.org/web/20250115050629/https://www.pokemonsleep.net/en/news/313936383432303133383535383432333035/"
@@ -4664,9 +4627,7 @@
       "bonusSections": [
         {
           "title": "所有日子（12/14～12/16）",
-          "lines": [
-            "睡眠研究時， 尚未發現的寶可夢睡姿出現機率提升 。"
-          ]
+          "lines": ["睡眠研究時， 尚未發現的寶可夢睡姿出現機率提升 。"]
         },
         {
           "title": "滿月之日（12/15）",
@@ -4707,9 +4668,7 @@
         },
         {
           "title": "12/24",
-          "lines": [
-            "睡眠研究后的梦之碎片获得量变成2倍。"
-          ]
+          "lines": ["睡眠研究后的梦之碎片获得量变成2倍。"]
         },
         {
           "title": "12/25",
@@ -4720,15 +4679,11 @@
         },
         {
           "title": "最后一天（12/29）",
-          "lines": [
-            "睡眠研究后的梦之碎片获得量变成3倍。"
-          ]
+          "lines": ["睡眠研究后的梦之碎片获得量变成3倍。"]
         },
         {
           "title": "其他日子（12/23、12/26～12/28）",
-          "lines": [
-            "睡眠研究后的梦之碎片获得量变成2倍。"
-          ]
+          "lines": ["睡眠研究后的梦之碎片获得量变成2倍。"]
         }
       ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/323039303336363938383838313735363137/",
@@ -4998,15 +4953,11 @@
         },
         {
           "title": "1/1",
-          "lines": [
-            "睡意之力3倍。"
-          ]
+          "lines": ["睡意之力3倍。"]
         },
         {
           "title": "1/2～1/3",
-          "lines": [
-            "睡意之力1.5倍。"
-          ]
+          "lines": ["睡意之力1.5倍。"]
         }
       ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/323135353933333136383332353039393533/",
@@ -5211,9 +5162,7 @@
       "bonusSections": [
         {
           "title": "所有日子（1/13～1/15）",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "满月之日（1/14）",
@@ -5656,9 +5605,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -5923,9 +5870,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -6223,9 +6168,7 @@
         },
         {
           "title": "第1周 (3/31～4/6)",
-          "lines": [
-            "超能力属性帮手宝可梦发动主技能时，主技能等级+1。"
-          ]
+          "lines": ["超能力属性帮手宝可梦发动主技能时，主技能等级+1。"]
         },
         {
           "title": "第2周 (4/7～4/13)",
@@ -6257,9 +6200,7 @@
                   "scope": [
                     {
                       "kind": "team",
-                      "ids": [
-                        488
-                      ]
+                      "ids": [488]
                     }
                   ]
                 }
@@ -6392,9 +6333,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -6812,9 +6751,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天(满月之日)",
@@ -7131,9 +7068,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -7388,9 +7323,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -7757,9 +7690,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -7881,9 +7812,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -8358,9 +8287,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -8379,9 +8306,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -8734,9 +8659,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -8841,9 +8764,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -9066,9 +8987,7 @@
         },
         {
           "title": "第2周、周日（9/21）",
-          "lines": [
-            "睡意之力：1.5倍"
-          ]
+          "lines": ["睡意之力：1.5倍"]
         },
         {
           "title": "EX营地奖励",
@@ -9316,9 +9235,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -9610,9 +9527,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -9893,9 +9808,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -9925,15 +9838,11 @@
         },
         {
           "title": "万圣节（10/31）＆活动最后一天（11/2）",
-          "lines": [
-            "第1次睡眠研究后的糖果获得量变成3倍。"
-          ]
+          "lines": ["第1次睡眠研究后的糖果获得量变成3倍。"]
         },
         {
           "title": "其他日子（10/27～10/30、11/1）",
-          "lines": [
-            "第1次睡眠研究后的糖果获得量变成2倍。"
-          ]
+          "lines": ["第1次睡眠研究后的糖果获得量变成2倍。"]
         },
         {
           "title": "EX营地奖励",
@@ -10134,9 +10043,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -10446,9 +10353,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -10703,9 +10608,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -10966,9 +10869,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -11001,27 +10902,19 @@
         },
         {
           "title": "12/24",
-          "lines": [
-            "睡眠研究后的梦之碎片获得量变成2倍。"
-          ]
+          "lines": ["睡眠研究后的梦之碎片获得量变成2倍。"]
         },
         {
           "title": "12/25",
-          "lines": [
-            "睡眠研究后的梦之碎片获得量变成3倍。"
-          ]
+          "lines": ["睡眠研究后的梦之碎片获得量变成3倍。"]
         },
         {
           "title": "最后一天(12/28)",
-          "lines": [
-            "睡眠研究后的梦之碎片获得量变成3倍。"
-          ]
+          "lines": ["睡眠研究后的梦之碎片获得量变成3倍。"]
         },
         {
           "title": "其他日子",
-          "lines": [
-            "睡眠研究后的梦之碎片获得量变成2倍。"
-          ]
+          "lines": ["睡眠研究后的梦之碎片获得量变成2倍。"]
         },
         {
           "title": "EX营地奖励",
@@ -11286,9 +11179,7 @@
         },
         {
           "title": "1/1",
-          "lines": [
-            "睡意之力：3倍"
-          ]
+          "lines": ["睡意之力：3倍"]
         }
       ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/333435333139353737393034373432343032/",
@@ -11479,9 +11370,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -11742,9 +11631,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -11879,9 +11766,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -12295,9 +12180,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -12325,9 +12208,7 @@
         },
         {
           "title": "奇跡快照的條件",
-          "lines": [
-            "有夢幻入鏡的睡姿照片稱為「奇跡快照」。"
-          ]
+          "lines": ["有夢幻入鏡的睡姿照片稱為「奇跡快照」。"]
         }
       ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/333731343130383939323833343736343931/",
@@ -12579,9 +12460,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -12951,9 +12830,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -13058,9 +12935,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -13285,9 +13160,7 @@
         },
         {
           "title": "第2周、周日（4/19）",
-          "lines": [
-            "睡意之力：1.5倍"
-          ]
+          "lines": ["睡意之力：1.5倍"]
         }
       ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/333738363536323735393239343937363031/",
@@ -13557,9 +13430,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -13707,9 +13578,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -14106,9 +13975,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -14213,9 +14080,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -14427,9 +14292,7 @@
         },
         {
           "title": "第1周（6/8～6/14）",
-          "lines": [
-            "龙属性帮手宝可梦发动主技能时，主技能等级+2。"
-          ]
+          "lines": ["龙属性帮手宝可梦发动主技能时，主技能等级+2。"]
         },
         {
           "title": "第2周（6/15～6/21）",
@@ -14473,10 +14336,7 @@
                   "scope": [
                     {
                       "kind": "team",
-                      "ids": [
-                        380,
-                        381
-                      ]
+                      "ids": [380, 381]
                     }
                   ]
                 },
@@ -14494,9 +14354,7 @@
                   "scope": [
                     {
                       "kind": "team",
-                      "ids": [
-                        380
-                      ]
+                      "ids": [380]
                     }
                   ]
                 },
@@ -14699,9 +14557,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -14720,9 +14576,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -15291,9 +15145,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -15312,9 +15164,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -15698,9 +15548,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -15730,9 +15578,7 @@
         },
         {
           "title": "8/21 (周五)～8/23 (周日)",
-          "lines": [
-            "睡意之力：1.3倍"
-          ]
+          "lines": ["睡意之力：1.3倍"]
         }
       ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/343238373030393436303937323432313138/",
@@ -15897,9 +15743,7 @@
       "bonusSections": [
         {
           "title": "所有日子",
-          "lines": [
-            "睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"
-          ]
+          "lines": ["睡眠研究时，尚未发现的宝可梦睡姿出现概率提升。"]
         },
         {
           "title": "第2天（满月之日）",
@@ -16116,9 +15960,7 @@
         },
         {
           "title": "奇跡快照的條件",
-          "lines": [
-            "有夢幻入鏡的睡姿照片稱為「奇跡快照」。"
-          ]
+          "lines": ["有夢幻入鏡的睡姿照片稱為「奇跡快照」。"]
         }
       ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/343239373432303836333334343437363238/",
@@ -16326,9 +16168,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -16399,10 +16239,7 @@
                   "scope": [
                     {
                       "kind": "team",
-                      "ids": [
-                        151,
-                        150
-                      ]
+                      "ids": [151, 150]
                     }
                   ]
                 },
@@ -16420,9 +16257,7 @@
                   "scope": [
                     {
                       "kind": "team",
-                      "ids": [
-                        150
-                      ]
+                      "ids": [150]
                     }
                   ],
                   "startsOn": "2026-09-21",
@@ -17086,9 +16921,7 @@
           ]
         }
       ],
-      "notes": [
-        "在当天第1次的点心时间，宝可梦会变得不容易吃饱。"
-      ],
+      "notes": ["在当天第1次的点心时间，宝可梦会变得不容易吃饱。"],
       "sources": [
         {
           "kind": "official",
@@ -17406,15 +17239,11 @@
         },
         {
           "title": "万圣节（10/31）＆活动最后一天（11/1）",
-          "lines": [
-            "当天第1次睡眠研究后的糖果获得量变成3倍。"
-          ]
+          "lines": ["当天第1次睡眠研究后的糖果获得量变成3倍。"]
         },
         {
           "title": "其他日子（10/26～10/30）",
-          "lines": [
-            "当天第1次睡眠研究后的糖果获得量变成2倍。"
-          ]
+          "lines": ["当天第1次睡眠研究后的糖果获得量变成2倍。"]
         },
         {
           "title": "EX营地奖励",
@@ -17426,10 +17255,7 @@
       "bonusSource": "https://www.pokemonsleep.net/zh/news/343433383634343334323138313036383834/",
       "bonusGroups": [
         {
-          "area": [
-            "greengrass",
-            "greenex"
-          ],
+          "area": ["greengrass", "greenex"],
           "groups": [
             {
               "id": "research",
@@ -17584,9 +17410,7 @@
         "items": [
           {
             "island": "greengrass",
-            "berries": [
-              14
-            ],
+            "berries": [14],
             "scope": [
               {
                 "kind": "text",
@@ -17596,9 +17420,7 @@
           },
           {
             "island": "greenex",
-            "berries": [
-              14
-            ],
+            "berries": [14],
             "scope": [
               {
                 "kind": "text",
@@ -18058,6 +17880,52 @@
           "url": "https://www.pokemonsleep.net/zh/news/343537363333323535313433373638303639/",
           "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
         }
+      ],
+      "bonusGroups": [
+        {
+          "area": [],
+          "groups": [
+            {
+              "id": "candy",
+              "items": [
+                {
+                  "ref": { "kind": "text", "value": "迷你糖果增强" },
+                  "parts": [
+                    { "kind": "multiply", "value": 2, "text": "经验" },
+                    { "kind": "multiply", "value": 4, "text": "梦碎" },
+                    { "kind": "limit", "value": 50, "text": "每日" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "research",
+              "items": [
+                {
+                  "ref": { "kind": "field", "id": "dreamShardsMultiplier" },
+                  "parts": [{ "kind": "multiply", "value": 1.5 }]
+                }
+              ]
+            },
+            {
+              "id": "helper",
+              "items": [
+                {
+                  "ref": {
+                    "kind": "field",
+                    "id": "skillDreamShardsMultiplier"
+                  },
+                  "parts": [{ "kind": "multiply", "value": 1.5 }],
+                  "scope": [{ "kind": "text", "value": "效果量" }]
+                },
+                {
+                  "ref": { "kind": "field", "id": "skillRateMultiplier" },
+                  "parts": [{ "kind": "multiply", "value": 1.25 }]
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ],
@@ -18065,46 +17933,24 @@
     "good-sleep-day-17": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "满月之日（12/15）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "其他日子（12/14、12/16）"
       }
     ],
     "announcement-323039303336363938383838313735363137": [
       {
         "tier": "large",
-        "pokemonIds": [
-          9004,
-          9002
-        ]
+        "pokemonIds": [9004, 9002]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          7006,
-          7007,
-          225,
-          363,
-          364,
-          365,
-          459,
-          460,
-          471,
-          921,
-          922,
-          923
+          7006, 7007, 225, 363, 364, 365, 459, 460, 471, 921, 922, 923
         ]
       }
     ],
@@ -18112,51 +17958,15 @@
       {
         "tier": "small",
         "pokemonIds": [
-          37,
-          38,
-          147,
-          148,
-          149,
-          280,
-          281,
-          282,
-          475,
-          702,
-          759,
-          760,
-          764,
-          845
+          37, 38, 147, 148, 149, 280, 281, 282, 475, 702, 759, 760, 764, 845
         ],
         "label": "第1周"
       },
       {
         "tier": "small",
         "pokemonIds": [
-          194,
-          195,
-          215,
-          304,
-          305,
-          306,
-          403,
-          404,
-          405,
-          425,
-          426,
-          461,
-          736,
-          737,
-          738,
-          778,
-          906,
-          907,
-          908,
-          909,
-          910,
-          911,
-          912,
-          913,
-          914
+          194, 195, 215, 304, 305, 306, 403, 404, 405, 425, 426, 461, 736, 737,
+          738, 778, 906, 907, 908, 909, 910, 911, 912, 913, 914
         ],
         "label": "第2周"
       }
@@ -18164,1252 +17974,542 @@
     "good-sleep-day-18": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "满月之日（1/14）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "其他日子（1/13、1/15）"
       }
     ],
     "announcement-323233353831383735313439343731373435": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          627,
-          628
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [627, 628],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          627,
-          628
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [627, 628],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          627,
-          628
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [627, 628],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          52,
-          54,
-          58,
-          79,
-          81,
-          133,
-          174,
-          175,
-          179,
-          214,
-          316,
-          360,
-          425,
-          438,
-          447,
-          702,
-          778,
-          921
+          52, 54, 58, 79, 81, 133, 174, 175, 179, 214, 316, 360, 425, 438, 447,
+          702, 778, 921
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          54,
-          58,
-          79,
-          133,
-          174,
-          214,
-          316,
-          438
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [54, 58, 79, 133, 174, 214, 316, 438],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          58,
-          133,
-          174,
-          175,
-          302,
-          316,
-          360,
-          447
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [58, 133, 174, 175, 302, 316, 360, 447],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          54,
-          79,
-          133,
-          175,
-          179,
-          316,
-          360,
-          447,
-          921
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [54, 79, 133, 175, 179, 316, 360, 447, 921],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          52,
-          54,
-          79,
-          133,
-          174,
-          175,
-          360,
-          447,
-          280,
-          702
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [52, 54, 79, 133, 174, 175, 360, 447, 280, 702],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          81,
-          133,
-          179,
-          425,
-          702,
-          778,
-          921
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [81, 133, 179, 425, 702, 778, 921],
+        "islands": ["powerplant"]
       }
     ],
     "announcement-323239343339343138373233373239343039": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          7054,
-          980
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [7054, 980],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          7054,
-          980
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [7054, 980],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          54,
-          127,
-          172,
-          359,
-          778,
-          909
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [54, 127, 172, 359, 778, 909],
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          54,
-          127,
-          909
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [54, 127, 909],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          909
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [909],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          54,
-          359
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [54, 359],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          54,
-          172,
-          280
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [54, 172, 280],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          172,
-          304,
-          736,
-          778,
-          909
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [172, 304, 736, 778, 909],
+        "islands": ["powerplant"]
       }
     ],
     "good-sleep-day-19": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-20": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-323430393532383930303939373631313533": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          517,
-          518
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [517, 518],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          517,
-          518
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [517, 518],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          517,
-          518
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [517, 518],
+        "islands": ["powerplant"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          196,
-          202,
-          360
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [196, 202, 360],
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          122,
-          439
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [122, 439],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          196,
-          202,
-          360
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [196, 202, 360],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          202,
-          360
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [202, 360],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          196,
-          202,
-          280,
-          281,
-          282,
-          360
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [196, 202, 280, 281, 282, 360],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          122,
-          439
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [122, 439],
+        "islands": ["powerplant"]
       }
     ],
     "announcement-323436343635363930323437313032343635": [
       {
         "tier": "small",
-        "pokemonIds": [
-          488,
-          196,
-          202,
-          360,
-          517,
-          518
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [488, 196, 202, 360, 517, 518],
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          488,
-          122,
-          439
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [488, 122, 439],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          488,
-          196,
-          202,
-          360
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [488, 196, 202, 360],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          488,
-          202,
-          360
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [488, 202, 360],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          488,
-          196,
-          202,
-          280,
-          281,
-          282,
-          360,
-          517,
-          518
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [488, 196, 202, 280, 281, 282, 360, 517, 518],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          488,
-          122,
-          439,
-          517,
-          518
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [488, 122, 439, 517, 518],
+        "islands": ["powerplant"]
       }
     ],
     "good-sleep-day-21": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-323539313133313932323830353535353231": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          440,
-          113,
-          242
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [440, 113, 242],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          440,
-          113,
-          242
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [440, 113, 242],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          440,
-          113,
-          242
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [440, 113, 242],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          81,
-          132,
-          175,
-          225,
-          333,
-          353,
-          363,
-          447,
-          453,
-          845
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [81, 132, 175, 225, 333, 353, 363, 447, 453, 845],
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          132,
-          363,
-          453,
-          845
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [132, 363, 453, 845],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          132,
-          175,
-          302,
-          353,
-          447,
-          453
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [132, 175, 302, 353, 447, 453],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          132,
-          175,
-          225,
-          333,
-          363,
-          447,
-          453,
-          845
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [132, 175, 225, 333, 363, 447, 453, 845],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          132,
-          175,
-          333,
-          447
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [132, 175, 333, 447],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          81,
-          132,
-          353
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [81, 132, 353],
+        "islands": ["powerplant"]
       }
     ],
     "good-sleep-day-22": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "new-moon-day-1": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          198,
-          430
-        ],
+        "pokemonIds": [198, 430],
         "label": "所有日子"
       }
     ],
     "announcement-323731383335323433303637393938323039": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          303
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [303],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          303
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [303],
+        "islands": ["taupe"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          303
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [303],
+        "islands": ["powerplant"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          1,
-          4,
-          7,
-          92,
-          127,
-          133,
-          194,
-          198,
-          214,
-          225,
-          440,
-          906,
-          909
+          1, 4, 7, 92, 127, 133, 194, 198, 214, 225, 440, 906, 909
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          7,
-          127,
-          133,
-          194,
-          214,
-          440,
-          909
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [7, 127, 133, 194, 214, 440, 909],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          4,
-          92,
-          133,
-          194,
-          909
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [4, 92, 133, 194, 909],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          92,
-          133,
-          198,
-          225,
-          440
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [92, 133, 198, 225, 440],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          1,
-          7,
-          133,
-          147,
-          906
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [1, 7, 133, 147, 906],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          92,
-          133,
-          194,
-          198,
-          304,
-          906,
-          909
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [92, 133, 194, 198, 304, 906, 909],
+        "islands": ["powerplant"]
       }
     ],
     "good-sleep-day-23": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-323736383532313034303633303930363839": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          83
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [83],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          83
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [83],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          83
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [83],
+        "islands": ["powerplant"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          7,
-          10,
-          54,
-          79,
-          84,
-          127,
-          158,
-          194,
-          214,
-          225,
-          333,
-          627,
-          845,
-          912
+          7, 10, 54, 79, 84, 127, 158, 194, 214, 225, 333, 627, 845, 912
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          7,
-          10,
-          54,
-          79,
-          127,
-          158,
-          194,
-          214,
-          627,
-          845,
-          912
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [7, 10, 54, 79, 127, 158, 194, 214, 627, 845, 912],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          54,
-          79,
-          225,
-          333,
-          627,
-          845
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [54, 79, 225, 333, 627, 845],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          7,
-          54,
-          79,
-          84,
-          333,
-          912
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [7, 54, 79, 84, 333, 912],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          10,
-          194,
-          736,
-          912
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [10, 194, 736, 912],
+        "islands": ["powerplant"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          194
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [194],
+        "islands": ["taupe"]
       }
     ],
     "new-moon-day-2": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
     "announcement-323834313039333536333138383531303733": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          906,
-          907,
-          908,
-          909,
-          912
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [906, 907, 908, 909, 912],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          906,
-          907,
-          908,
-          912,
-          913,
-          914
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [906, 907, 908, 912, 913, 914],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          906,
-          907,
-          908,
-          909,
-          910,
-          911,
-          912,
-          913,
-          914
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [906, 907, 908, 909, 910, 911, 912, 913, 914],
+        "islands": ["powerplant"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          909,
-          910,
-          911,
-          912,
-          913,
-          914
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [909, 910, 911, 912, 913, 914],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          909,
-          910,
-          911
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [909, 910, 911],
+        "islands": ["taupe"]
       }
     ],
     "good-sleep-day-24": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-323836353834353335313337363438363431": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          252,
-          255,
-          258,
-          311,
-          312
-        ],
+        "pokemonIds": [252, 255, 258, 311, 312],
         "label": "第1周"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          252,
-          253,
-          254,
-          255,
-          256,
-          257,
-          258,
-          259,
-          260,
-          311,
-          312
-        ],
+        "pokemonIds": [252, 253, 254, 255, 256, 257, 258, 259, 260, 311, 312],
         "label": "第2周"
       }
     ],
     "new-moon-day-3": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
     "good-sleep-day-25": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-323934363038393532313033303130333035": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          848,
-          849,
-          8001
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [848, 849, 8001],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          848,
-          849,
-          8001
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [848, 849, 8001],
+        "islands": ["powerplant"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          848,
-          849,
-          8001
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [848, 849, 8001],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          52,
-          54,
-          58,
-          79,
-          81,
-          133,
-          174,
-          175,
-          179,
-          198,
-          214,
-          252,
-          311,
-          312,
-          316,
-          360,
-          425,
-          438,
-          447,
-          627,
-          702,
-          778,
-          921
+          52, 54, 58, 79, 81, 133, 174, 175, 179, 198, 214, 252, 311, 312, 316,
+          360, 425, 438, 447, 627, 702, 778, 921
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [54, 58, 79, 133, 174, 214, 252, 316, 438, 627],
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [58, 133, 174, 175, 302, 316, 360, 447],
+        "islands": ["taupe"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [54, 79, 133, 175, 179, 198, 316, 360, 447, 627, 921],
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [52, 54, 79, 133, 174, 175, 252, 280, 360, 447, 702],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          54,
-          58,
-          79,
-          133,
-          174,
-          214,
-          252,
-          316,
-          438,
-          627
+          52, 58, 81, 133, 179, 198, 214, 252, 280, 302, 311, 312, 425, 438,
+          627, 702, 778, 921
         ],
-        "islands": [
-          "cyan"
-        ]
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          58,
-          133,
-          174,
-          175,
-          302,
-          316,
-          360,
-          447
-        ],
-        "islands": [
-          "taupe"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          54,
-          79,
-          133,
-          175,
-          179,
-          198,
-          316,
-          360,
-          447,
-          627,
-          921
-        ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          52,
-          54,
-          79,
-          133,
-          174,
-          175,
-          252,
-          280,
-          360,
-          447,
-          702
-        ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          52,
-          58,
-          81,
-          133,
-          179,
-          198,
-          214,
-          252,
-          280,
-          302,
-          311,
-          312,
-          425,
-          438,
-          627,
-          702,
-          778,
-          921
-        ],
-        "islands": [
-          "greenex"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          81,
-          133,
-          179,
-          198,
-          252,
-          311,
-          312,
-          425,
-          702,
-          778,
-          921
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [81, 133, 179, 198, 252, 311, 312, 425, 702, 778, 921],
+        "islands": ["powerplant"]
       }
     ],
     "new-moon-day-4": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
@@ -19417,1011 +18517,364 @@
       {
         "tier": "medium",
         "pokemonIds": [
-          25,
-          26,
-          135,
-          172,
-          179,
-          180,
-          311,
-          312,
-          702,
-          921,
-          4,
-          5,
-          6,
-          37,
-          38,
-          58,
-          136,
-          155,
-          156,
-          157,
-          255,
-          909,
-          7,
-          8,
-          9,
-          54,
-          79,
-          80,
-          134,
-          158,
-          159,
-          160,
-          194,
-          195,
-          258,
-          912
+          25, 26, 135, 172, 179, 180, 311, 312, 702, 921, 4, 5, 6, 37, 38, 58,
+          136, 155, 156, 157, 255, 909, 7, 8, 9, 54, 79, 80, 134, 158, 159, 160,
+          194, 195, 258, 912
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          25,
-          58,
-          909,
-          910,
-          7,
-          8,
-          9,
-          54,
-          55,
-          79,
-          80,
-          134,
-          158,
-          159,
-          160,
-          194,
-          195,
-          199,
-          258,
-          912,
-          913
+          25, 58, 909, 910, 7, 8, 9, 54, 55, 79, 80, 134, 158, 159, 160, 194,
+          195, 199, 258, 912, 913
         ],
-        "islands": [
-          "cyan"
-        ]
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [25, 172, 702, 255, 7, 8, 9, 54, 79, 80, 912, 913],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          25,
-          172,
-          702,
-          255,
-          7,
-          8,
-          9,
-          54,
-          79,
-          80,
-          912,
-          913
+          25, 26, 135, 172, 179, 180, 181, 311, 312, 403, 404, 405, 702, 921,
+          922, 923, 909, 910, 194, 195, 912, 913
         ],
-        "islands": [
-          "lapis"
-        ]
+        "islands": ["powerplant"]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          25,
-          26,
-          135,
-          172,
-          179,
-          180,
-          181,
-          311,
-          312,
-          403,
-          404,
-          405,
-          702,
-          921,
-          922,
-          923,
-          909,
-          910,
-          194,
-          195,
-          912,
-          913
+          25, 26, 135, 172, 179, 180, 181, 311, 312, 702, 921, 922, 923, 4, 5,
+          6, 37, 38, 58, 59, 136, 155, 156, 157, 255, 909, 910, 7, 8, 9, 134,
+          158, 159, 160, 258, 912, 913
         ],
-        "islands": [
-          "powerplant"
-        ]
+        "islands": ["greenex"]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [179, 180, 181, 921, 922, 923, 54, 79, 80],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          25,
-          26,
-          135,
-          172,
-          179,
-          180,
-          181,
-          311,
-          312,
-          702,
-          921,
-          922,
-          923,
-          4,
-          5,
-          6,
-          37,
-          38,
-          58,
-          59,
-          136,
-          155,
-          156,
-          157,
-          255,
-          909,
-          910,
-          7,
-          8,
-          9,
-          134,
-          158,
-          159,
-          160,
-          258,
-          912,
-          913
-        ],
-        "islands": [
-          "greenex"
-        ]
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          179,
-          180,
-          181,
-          921,
-          922,
-          923,
-          54,
-          79,
-          80
-        ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          4,
-          5,
-          6,
-          37,
-          38,
-          58,
-          59,
-          136,
-          155,
-          156,
-          157,
-          255,
-          909,
-          910,
-          194,
-          195,
+          4, 5, 6, 37, 38, 58, 59, 136, 155, 156, 157, 255, 909, 910, 194, 195,
           258
         ],
-        "islands": [
-          "taupe"
-        ]
+        "islands": ["taupe"]
       }
     ],
     "good-sleep-day-26": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-333032323532323137353634333937353639": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          243,
-          244,
-          245
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [243, 244, 245],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          245
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [245],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          244
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [244],
+        "islands": ["taupe"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          243
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [243],
+        "islands": ["powerplant"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          243,
-          244,
-          245
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [243, 244, 245],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          25,
-          26,
-          37,
-          38,
-          54,
-          58,
-          79,
-          80,
-          134,
-          135,
-          136,
-          155,
-          156,
-          157,
-          158,
-          159,
-          160,
-          172,
-          179,
-          180,
-          194,
-          195,
-          255,
-          258,
-          311,
-          312,
-          702,
-          909,
-          912,
-          921
+          4, 5, 6, 7, 8, 9, 25, 26, 37, 38, 54, 58, 79, 80, 134, 135, 136, 155,
+          156, 157, 158, 159, 160, 172, 179, 180, 194, 195, 255, 258, 311, 312,
+          702, 909, 912, 921
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          7,
-          8,
-          9,
-          25,
-          54,
-          55,
-          58,
-          79,
-          80,
-          134,
-          158,
-          159,
-          160,
-          194,
-          195,
-          199,
-          258,
-          909,
-          910,
-          912,
-          913
+          7, 8, 9, 25, 54, 55, 58, 79, 80, 134, 158, 159, 160, 194, 195, 199,
+          258, 909, 910, 912, 913
         ],
-        "islands": [
-          "cyan"
-        ]
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          4,
-          5,
-          6,
-          37,
-          38,
-          58,
-          59,
-          136,
-          155,
-          156,
-          157,
-          194,
-          195,
-          255,
-          258,
-          909,
+          4, 5, 6, 37, 38, 58, 59, 136, 155, 156, 157, 194, 195, 255, 258, 909,
           910
         ],
-        "islands": [
-          "taupe"
-        ]
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          25,
-          26,
-          37,
-          38,
-          58,
-          59,
-          134,
-          135,
-          136,
-          155,
-          156,
-          157,
-          158,
-          159,
-          160,
-          172,
-          179,
-          180,
-          181,
-          255,
-          258,
-          311,
-          312,
-          702,
-          909,
-          910,
-          912,
-          913,
-          921,
-          922,
-          923
+          4, 5, 6, 7, 8, 9, 25, 26, 37, 38, 58, 59, 134, 135, 136, 155, 156,
+          157, 158, 159, 160, 172, 179, 180, 181, 255, 258, 311, 312, 702, 909,
+          910, 912, 913, 921, 922, 923
         ],
-        "islands": [
-          "greenex"
-        ]
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          25,
-          26,
-          135,
-          172,
-          179,
-          180,
-          181,
-          194,
-          195,
-          311,
-          312,
-          403,
-          404,
-          405,
-          702,
-          909,
-          910,
-          912,
-          913,
-          921,
-          922,
-          923
+          25, 26, 135, 172, 179, 180, 181, 194, 195, 311, 312, 403, 404, 405,
+          702, 909, 910, 912, 913, 921, 922, 923
         ],
-        "islands": [
-          "powerplant"
-        ]
+        "islands": ["powerplant"]
       }
     ],
     "new-moon-day-5": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
     "announcement-333130353935313939363135313037303733": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          177,
-          178
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [177, 178],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          177,
-          178
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [177, 178],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          177,
-          178
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [177, 178],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          10,
-          19,
-          23,
-          37,
-          56,
-          84,
-          104,
-          152,
-          155,
-          158,
-          172,
-          173,
-          215,
-          228,
-          252,
-          255,
-          258,
-          287,
-          333,
-          353,
-          363,
-          517,
-          627,
-          778
+          10, 19, 23, 37, 56, 84, 104, 152, 155, 158, 172, 173, 215, 228, 252,
+          255, 258, 287, 333, 353, 363, 517, 627, 778
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [10, 19, 23, 56, 152, 158, 173, 252, 258, 363, 627],
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [19, 23, 37, 95, 104, 155, 173, 228, 255, 258, 353],
+        "islands": ["taupe"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [19, 7006, 56, 104, 173, 215, 287, 333, 363, 627],
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [23, 56, 84, 152, 172, 173, 252, 255, 333, 517],
+        "islands": ["lapis"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [10, 23, 172, 173, 252, 353, 517, 778],
+        "islands": ["powerplant"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          10,
-          19,
-          23,
-          56,
-          152,
-          158,
-          173,
-          252,
-          258,
-          363,
-          627
+          10, 37, 7006, 84, 95, 104, 152, 155, 158, 172, 173, 215, 228, 252,
+          255, 258, 287, 333, 353, 363, 517, 627, 778
         ],
-        "islands": [
-          "cyan"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          19,
-          23,
-          37,
-          95,
-          104,
-          155,
-          173,
-          228,
-          255,
-          258,
-          353
-        ],
-        "islands": [
-          "taupe"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          19,
-          7006,
-          56,
-          104,
-          173,
-          215,
-          287,
-          333,
-          363,
-          627
-        ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          23,
-          56,
-          84,
-          152,
-          172,
-          173,
-          252,
-          255,
-          333,
-          517
-        ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          10,
-          23,
-          172,
-          173,
-          252,
-          353,
-          517,
-          778
-        ],
-        "islands": [
-          "powerplant"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          10,
-          37,
-          7006,
-          84,
-          95,
-          104,
-          152,
-          155,
-          158,
-          172,
-          173,
-          215,
-          228,
-          252,
-          255,
-          258,
-          287,
-          333,
-          353,
-          363,
-          517,
-          627,
-          778
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "islands": ["greenex"]
       }
     ],
     "good-sleep-day-27": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "new-moon-day-6": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
     "announcement-333234393733393633373438383335333239": [
       {
         "tier": "large",
-        "pokemonIds": [
-          9005,
-          710,
-          71002,
-          71003,
-          71004,
-          711,
-          71102,
-          71103,
-          71104
-        ]
+        "pokemonIds": [9005, 710, 71002, 71003, 71004, 711, 71102, 71103, 71104]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9001,
-          92,
-          93,
-          94,
-          353,
-          354,
-          425,
-          426,
-          778,
-          911
-        ]
+        "pokemonIds": [9001, 92, 93, 94, 353, 354, 425, 426, 778, 911]
       }
     ],
     "good-sleep-day-28": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-333237353138353233343831393135333933": [
       {
         "tier": "small",
-        "pokemonIds": [
-          328,
-          371,
-          557
-        ]
+        "pokemonIds": [328, 371, 557]
       }
     ],
     "new-moon-day-7": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
     "announcement-333335323431333932313634393632333035": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          442
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [442],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          442
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [442],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          442
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [442],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          442
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [442],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          442
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [442],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          50,
-          69,
-          74,
-          83,
-          115,
-          132,
-          194,
-          7054,
-          246,
-          303,
-          359,
-          453,
-          710,
-          71002,
-          71003,
-          71004,
-          764,
-          845,
+          50, 69, 74, 83, 115, 132, 194, 7054, 246, 303, 359, 453, 710, 71002,
+          71003, 71004, 764, 845, 912
+        ],
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [50, 69, 83, 115, 132, 194, 439, 453, 764, 845, 912],
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [50, 74, 132, 194, 7054, 246, 303, 453],
+        "islands": ["taupe"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [69, 74, 132, 359, 453, 459, 845],
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [69, 132, 759, 764, 912],
+        "islands": ["lapis"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          50, 74, 83, 132, 194, 303, 403, 439, 710, 71002, 71003, 71004, 736,
           912
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["powerplant"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          50,
-          69,
-          83,
-          115,
-          132,
-          194,
-          439,
-          453,
-          764,
-          845,
-          912
+          83, 115, 132, 7054, 246, 303, 359, 459, 710, 71002, 71003, 71004, 764,
+          845, 912
         ],
-        "islands": [
-          "cyan"
-        ]
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          50,
-          74,
-          132,
-          194,
-          7054,
-          246,
-          303,
-          453
-        ],
-        "islands": [
-          "taupe"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          69,
-          74,
-          132,
-          359,
-          453,
-          459,
-          845
-        ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          69,
-          132,
-          759,
-          764,
-          912
-        ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          50,
-          74,
-          83,
-          132,
-          194,
-          303,
-          403,
-          439,
-          710,
-          71002,
-          71003,
-          71004,
-          736,
-          912
-        ],
-        "islands": [
-          "powerplant"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          83,
-          115,
-          132,
-          7054,
-          246,
-          303,
-          359,
-          459,
-          710,
-          71002,
-          71003,
-          71004,
-          764,
-          845,
-          912
-        ],
-        "islands": [
-          "greenex"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          115,
-          132,
-          7054,
-          246,
-          303,
-          710,
-          71002,
-          71003,
-          71004
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [115, 132, 7054, 246, 303, 710, 71002, 71003, 71004],
+        "islands": ["canyon"]
       }
     ],
     "good-sleep-day-29": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "new-moon-day-8": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
     "announcement-333432383533383734343936383331343930": [
       {
         "tier": "large",
-        "pokemonIds": [
-          9006,
-          777,
-          974,
-          975
-        ]
+        "pokemonIds": [9006, 777, 974, 975]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9002,
-          9004
-        ]
+        "pokemonIds": [9002, 9004]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          7006,
-          7007,
-          225,
-          363,
-          364,
-          365,
-          459,
-          460,
-          471,
-          921,
-          922,
-          923
+          7006, 7007, 225, 363, 364, 365, 459, 460, 471, 921, 922, 923
         ]
       }
     ],
@@ -20429,58 +18882,16 @@
       {
         "tier": "small",
         "pokemonIds": [
-          83,
-          113,
-          7054,
-          198,
-          242,
-          252,
-          253,
-          254,
-          255,
-          256,
-          257,
-          258,
-          259,
-          260,
-          303,
-          430,
-          440,
-          517,
-          518,
-          627,
-          628,
-          980
+          83, 113, 7054, 198, 242, 252, 253, 254, 255, 256, 257, 258, 259, 260,
+          303, 430, 440, 517, 518, 627, 628, 980
         ],
         "label": "第1周"
       },
       {
         "tier": "small",
         "pokemonIds": [
-          177,
-          178,
-          311,
-          312,
-          328,
-          329,
-          330,
-          371,
-          372,
-          373,
-          442,
-          557,
-          558,
-          710,
-          71002,
-          71003,
-          71004,
-          711,
-          71102,
-          71103,
-          71104,
-          848,
-          849,
-          8001
+          177, 178, 311, 312, 328, 329, 330, 371, 372, 373, 442, 557, 558, 710,
+          71002, 71003, 71004, 711, 71102, 71103, 71104, 848, 849, 8001
         ],
         "label": "第2周"
       }
@@ -20488,432 +18899,182 @@
     "good-sleep-day-30": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "new-moon-day-9": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
     "announcement-333532393033333230353235383634393631": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          213
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [213],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          213
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [213],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          213
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [213],
+        "islands": ["taupe"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          213
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [213],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          213
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [213],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          52,
-          54,
-          58,
-          79,
-          81,
-          133,
-          174,
-          175,
-          179,
-          198,
-          214,
-          252,
-          311,
-          312,
-          316,
-          360,
-          425,
-          438,
-          447,
-          627,
-          702,
-          777,
-          778,
-          848,
-          921
+          52, 54, 58, 79, 81, 133, 174, 175, 179, 198, 214, 252, 311, 312, 316,
+          360, 425, 438, 447, 627, 702, 777, 778, 848, 921
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [54, 58, 79, 133, 174, 214, 252, 316, 438, 627],
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [58, 133, 174, 175, 302, 316, 360, 447],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          54,
-          58,
-          79,
-          133,
-          174,
-          214,
-          252,
-          316,
-          438,
-          627
+          54, 79, 133, 175, 179, 198, 316, 360, 447, 627, 777, 921
         ],
-        "islands": [
-          "cyan"
-        ]
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [52, 54, 79, 133, 174, 175, 252, 280, 360, 447, 702],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          58,
-          133,
-          174,
-          175,
-          302,
-          316,
-          360,
-          447
+          52, 58, 81, 133, 179, 198, 214, 252, 280, 302, 311, 312, 425, 438,
+          627, 702, 777, 778, 848, 921
         ],
-        "islands": [
-          "taupe"
-        ]
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          54,
-          79,
-          133,
-          175,
-          179,
-          198,
-          316,
-          360,
-          447,
-          627,
-          777,
-          921
+          81, 133, 179, 198, 252, 311, 312, 425, 702, 777, 778, 848, 921
         ],
-        "islands": [
-          "snowdrop"
-        ]
+        "islands": ["powerplant"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          52,
-          54,
-          79,
-          133,
-          174,
-          175,
-          252,
-          280,
-          360,
-          447,
-          702
-        ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          52,
-          58,
-          81,
-          133,
-          179,
-          198,
-          214,
-          252,
-          280,
-          302,
-          311,
-          312,
-          425,
-          438,
-          627,
-          702,
-          777,
-          778,
-          848,
-          921
-        ],
-        "islands": [
-          "greenex"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          81,
-          133,
-          179,
-          198,
-          252,
-          311,
-          312,
-          425,
-          702,
-          777,
-          778,
-          848,
-          921
-        ],
-        "islands": [
-          "powerplant"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          133,
-          214,
-          311,
-          312,
-          557,
-          627,
-          777,
-          848
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [133, 214, 311, 312, 557, 627, 777, 848],
+        "islands": ["canyon"]
       }
     ],
     "good-sleep-day-31": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-333630353432383839393136323335373832": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          742,
-          743
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [742, 743],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          742,
-          743
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [742, 743],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          742,
-          743
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [742, 743],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          742,
-          743
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [742, 743],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          742,
-          743
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [742, 743],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          1,
-          127,
-          132,
-          7054,
-          303,
-          359,
-          453,
-          764,
-          845
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [1, 127, 132, 7054, 303, 359, 453, 764, 845],
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          127,
-          132,
-          453,
-          764,
-          845
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [127, 132, 453, 764, 845],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          132,
-          7054,
-          303,
-          453
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [132, 7054, 303, 453],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          132,
-          359,
-          453,
-          845
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [132, 359, 453, 845],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          1,
-          132,
-          759,
-          764
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [1, 132, 759, 764],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          132,
-          303
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [132, 303],
+        "islands": ["powerplant"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          127,
-          132,
-          7054,
-          303
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [127, 132, 7054, 303],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          1,
-          127,
-          132,
-          7054,
-          303,
-          359,
-          764,
-          845
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [1, 127, 132, 7054, 303, 359, 764, 845],
+        "islands": ["greenex"]
       }
     ],
     "new-moon-day-10": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
@@ -20921,2734 +19082,1082 @@
       {
         "tier": "medium",
         "pokemonIds": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          152,
-          153,
-          154,
-          155,
-          156,
-          157,
-          158,
-          159,
-          160,
-          252,
-          253,
-          254,
-          255,
-          256,
-          257,
-          258,
-          259,
-          260,
-          906,
-          907,
-          908,
-          909,
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 152, 153, 154, 155, 156, 157, 158, 159,
+          160, 252, 253, 254, 255, 256, 257, 258, 259, 260, 906, 907, 908, 909,
           912
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          7,
-          8,
-          9,
-          152,
-          158,
-          159,
-          160,
-          252,
-          253,
-          254,
-          258,
-          259,
-          260,
-          909,
-          910,
-          911,
-          912,
-          913,
-          914
+          7, 8, 9, 152, 158, 159, 160, 252, 253, 254, 258, 259, 260, 909, 910,
+          911, 912, 913, 914
         ],
-        "islands": [
-          "cyan"
-        ]
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          4,
-          5,
-          6,
-          155,
-          156,
-          157,
-          255,
-          256,
-          257,
-          258,
-          259,
-          260,
-          909,
-          910,
-          911
+          4, 5, 6, 155, 156, 157, 255, 256, 257, 258, 259, 260, 909, 910, 911
         ],
-        "islands": [
-          "taupe"
-        ]
+        "islands": ["taupe"]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          1,
-          2,
-          3,
-          7,
-          8,
-          9,
-          152,
-          153,
-          154,
-          252,
-          253,
-          254,
-          255,
-          256,
-          257,
-          906,
-          907,
-          908,
-          912,
-          913,
-          914
+          1, 2, 3, 7, 8, 9, 152, 153, 154, 252, 253, 254, 255, 256, 257, 906,
+          907, 908, 912, 913, 914
         ],
-        "islands": [
-          "lapis"
-        ]
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          252,
-          253,
-          254,
-          906,
-          907,
-          908,
-          909,
-          910,
-          911,
-          912,
-          913,
-          914
+          252, 253, 254, 906, 907, 908, 909, 910, 911, 912, 913, 914
         ],
-        "islands": [
-          "powerplant"
-        ]
+        "islands": ["powerplant"]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [4, 5, 6, 255, 256, 257, 258, 259, 260],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
         "pokemonIds": [
-          4,
-          5,
-          6,
-          255,
-          256,
-          257,
-          258,
-          259,
-          260
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 152, 153, 154, 155, 156, 157, 158, 159,
+          160, 252, 253, 254, 255, 256, 257, 258, 259, 260, 906, 907, 908, 909,
+          910, 911, 912, 913, 914
         ],
-        "islands": [
-          "canyon"
-        ]
-      },
-      {
-        "tier": "medium",
-        "pokemonIds": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          152,
-          153,
-          154,
-          155,
-          156,
-          157,
-          158,
-          159,
-          160,
-          252,
-          253,
-          254,
-          255,
-          256,
-          257,
-          258,
-          259,
-          260,
-          906,
-          907,
-          908,
-          909,
-          910,
-          911,
-          912,
-          913,
-          914
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "islands": ["greenex"]
       }
     ],
     "good-sleep-day-32": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "new-moon-day-11": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ],
+        "pokemonIds": [491],
         "label": "所有日子"
       }
     ],
     "announcement-333736343238363738393233343139363534": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          714,
-          715
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [714, 715],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          714,
-          715
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [714, 715],
+        "islands": ["taupe"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          714,
-          715
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [714, 715],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          714,
-          715
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [714, 715],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          52,
-          54,
-          58,
-          79,
-          81,
-          133,
-          174,
-          175,
-          179,
-          198,
-          213,
-          214,
-          252,
-          311,
-          312,
-          316,
-          360,
-          425,
-          438,
-          447,
-          627,
-          702,
-          777,
-          778,
-          848,
-          921
+          52, 54, 58, 79, 81, 133, 174, 175, 179, 198, 213, 214, 252, 311, 312,
+          316, 360, 425, 438, 447, 627, 702, 777, 778, 848, 921
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [54, 58, 79, 133, 174, 213, 214, 252, 316, 438, 627],
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [58, 133, 174, 175, 213, 302, 316, 360, 447],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          54,
-          58,
-          79,
-          133,
-          174,
-          213,
-          214,
-          252,
-          316,
-          438,
-          627
+          54, 79, 133, 175, 179, 198, 316, 360, 447, 627, 777, 921
         ],
-        "islands": [
-          "cyan"
-        ]
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [52, 54, 79, 133, 174, 175, 252, 280, 360, 447, 702],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          58,
-          133,
-          174,
-          175,
-          213,
-          302,
-          316,
-          360,
-          447
+          81, 133, 179, 198, 252, 311, 312, 425, 702, 777, 778, 848, 921
         ],
-        "islands": [
-          "taupe"
-        ]
+        "islands": ["powerplant"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [133, 213, 214, 311, 312, 557, 627, 777, 848],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          54,
-          79,
-          133,
-          175,
-          179,
-          198,
-          316,
-          360,
-          447,
-          627,
-          777,
-          921
+          52, 58, 81, 133, 179, 198, 213, 214, 252, 280, 302, 311, 312, 425,
+          438, 627, 702, 777, 778, 848, 921
         ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          52,
-          54,
-          79,
-          133,
-          174,
-          175,
-          252,
-          280,
-          360,
-          447,
-          702
-        ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          81,
-          133,
-          179,
-          198,
-          252,
-          311,
-          312,
-          425,
-          702,
-          777,
-          778,
-          848,
-          921
-        ],
-        "islands": [
-          "powerplant"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          133,
-          213,
-          214,
-          311,
-          312,
-          557,
-          627,
-          777,
-          848
-        ],
-        "islands": [
-          "canyon"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          52,
-          58,
-          81,
-          133,
-          179,
-          198,
-          213,
-          214,
-          252,
-          280,
-          302,
-          311,
-          312,
-          425,
-          438,
-          627,
-          702,
-          777,
-          778,
-          848,
-          921
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "islands": ["greenex"]
       }
     ],
     "good-sleep-day-33": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-333738363536323735393239343937363031": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          380
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [380],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          380
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [380],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          380
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [380],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          380
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [380],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          52,
-          54,
-          58,
-          79,
-          81,
-          133,
-          174,
-          175,
-          179,
-          198,
-          213,
-          214,
-          252,
-          311,
-          312,
-          316,
-          360,
-          425,
-          438,
-          447,
-          627,
-          702,
-          714,
-          777,
-          778,
-          848,
-          921
+          52, 54, 58, 79, 81, 133, 174, 175, 179, 198, 213, 214, 252, 311, 312,
+          316, 360, 425, 438, 447, 627, 702, 714, 777, 778, 848, 921
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [52, 54, 79, 133, 174, 175, 252, 280, 360, 447, 702],
+        "islands": ["lapis"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [133, 213, 214, 311, 312, 557, 627, 714, 777, 848],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          52,
-          54,
-          79,
-          133,
-          174,
-          175,
-          252,
-          280,
-          360,
-          447,
-          702
+          52, 58, 81, 133, 179, 198, 213, 214, 252, 280, 302, 311, 312, 425,
+          438, 627, 702, 714, 777, 778, 848, 921
         ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          133,
-          213,
-          214,
-          311,
-          312,
-          557,
-          627,
-          714,
-          777,
-          848
-        ],
-        "islands": [
-          "canyon"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          52,
-          58,
-          81,
-          133,
-          179,
-          198,
-          213,
-          214,
-          252,
-          280,
-          302,
-          311,
-          312,
-          425,
-          438,
-          627,
-          702,
-          714,
-          777,
-          778,
-          848,
-          921
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "islands": ["greenex"]
       }
     ],
     "new-moon-day-12": [
       {
         "tier": "special",
-        "pokemonIds": [
-          151,
-          491
-        ]
+        "pokemonIds": [151, 491]
       }
     ],
     "announcement-333838303837343130373734323435333737": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          27,
-          28
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [27, 28],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          27,
-          28
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [27, 28],
+        "islands": ["taupe"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          27,
-          28
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [27, 28],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          27,
-          28
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [27, 28],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          194,
-          255,
-          258,
-          425,
-          442,
-          710,
-          71002,
-          71003,
-          71004,
-          764,
-          906,
-          974
+          194, 255, 258, 425, 442, 710, 71002, 71003, 71004, 764, 906, 974
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [194, 258, 764],
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [194, 255, 258],
+        "islands": ["taupe"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [442, 974],
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [255, 442, 759, 764, 906],
+        "islands": ["lapis"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [194, 425, 710, 71002, 71003, 71004, 906],
+        "islands": ["powerplant"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [255, 258, 371, 442, 710, 71002, 71003, 71004],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          194,
-          258,
-          764
+          255, 258, 425, 442, 710, 71002, 71003, 71004, 764, 906, 974
         ],
-        "islands": [
-          "cyan"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          194,
-          255,
-          258
-        ],
-        "islands": [
-          "taupe"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          442,
-          974
-        ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          255,
-          442,
-          759,
-          764,
-          906
-        ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          194,
-          425,
-          710,
-          71002,
-          71003,
-          71004,
-          906
-        ],
-        "islands": [
-          "powerplant"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          255,
-          258,
-          371,
-          442,
-          710,
-          71002,
-          71003,
-          71004
-        ],
-        "islands": [
-          "canyon"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          255,
-          258,
-          425,
-          442,
-          710,
-          71002,
-          71003,
-          71004,
-          764,
-          906,
-          974
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "islands": ["greenex"]
       }
     ],
     "good-sleep-day-34": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-333933313532393833363139303736313030": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          696,
-          697
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [696, 697],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          696,
-          697
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [696, 697],
+        "islands": ["taupe"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          696,
-          697
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [696, 697],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          696,
-          697
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [696, 697],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          10,
-          19,
-          23,
-          37,
-          56,
-          84,
-          104,
-          152,
-          155,
-          158,
-          172,
-          173,
-          177,
-          215,
-          228,
-          252,
-          255,
-          258,
-          287,
-          333,
-          353,
-          363,
-          517,
-          627,
-          778
+          10, 19, 23, 37, 56, 84, 104, 152, 155, 158, 172, 173, 177, 215, 228,
+          252, 255, 258, 287, 333, 353, 363, 517, 627, 778
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [10, 19, 23, 56, 152, 158, 173, 252, 258, 363, 627],
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [19, 23, 37, 95, 104, 155, 173, 228, 255, 258, 353],
+        "islands": ["taupe"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [19, 7006, 56, 104, 173, 215, 287, 333, 363, 627],
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [23, 56, 84, 152, 172, 173, 177, 252, 255, 333, 517],
+        "islands": ["lapis"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [10, 23, 172, 173, 252, 353, 517, 778],
+        "islands": ["powerplant"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [10, 23, 37, 173, 177, 255, 258, 333, 371, 517, 627],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          10,
-          19,
-          23,
-          56,
-          152,
-          158,
-          173,
-          252,
-          258,
-          363,
-          627
+          10, 37, 7006, 84, 95, 104, 152, 155, 158, 172, 173, 177, 215, 228,
+          252, 255, 258, 287, 333, 353, 363, 517, 627, 778
         ],
-        "islands": [
-          "cyan"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          19,
-          23,
-          37,
-          95,
-          104,
-          155,
-          173,
-          228,
-          255,
-          258,
-          353
-        ],
-        "islands": [
-          "taupe"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          19,
-          7006,
-          56,
-          104,
-          173,
-          215,
-          287,
-          333,
-          363,
-          627
-        ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          23,
-          56,
-          84,
-          152,
-          172,
-          173,
-          177,
-          252,
-          255,
-          333,
-          517
-        ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          10,
-          23,
-          172,
-          173,
-          252,
-          353,
-          517,
-          778
-        ],
-        "islands": [
-          "powerplant"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          10,
-          23,
-          37,
-          173,
-          177,
-          255,
-          258,
-          333,
-          371,
-          517,
-          627
-        ],
-        "islands": [
-          "canyon"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          10,
-          37,
-          7006,
-          84,
-          95,
-          104,
-          152,
-          155,
-          158,
-          172,
-          173,
-          177,
-          215,
-          228,
-          252,
-          255,
-          258,
-          287,
-          333,
-          353,
-          363,
-          517,
-          627,
-          778
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "islands": ["greenex"]
       }
     ],
     "new-moon-day-13": [
       {
         "tier": "special",
-        "pokemonIds": [
-          151,
-          491
-        ]
+        "pokemonIds": [151, 491]
       }
     ],
     "announcement-333938393539333531343033393035303236": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          780
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [780],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          780
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [780],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          780
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [780],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          780
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [780],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          147,
-          371,
-          714,
-          715
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [147, 371, 714, 715],
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          714,
-          715
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [714, 715],
+        "islands": ["taupe"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          334
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [334],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          147,
-          148,
-          149,
-          334
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [147, 148, 149, 334],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          334,
-          371,
-          372,
-          373,
-          714,
-          715
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [334, 371, 372, 373, 714, 715],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          147,
-          334,
-          371,
-          714,
-          715
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [147, 334, 371, 714, 715],
+        "islands": ["greenex"]
       }
     ],
     "good-sleep-day-35": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-343031343632313536343838333433353533": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          381
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [381],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          381
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [381],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          381
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [381],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          381
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [381],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          147,
-          371,
-          380,
-          714,
-          715,
-          780
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [147, 371, 380, 714, 715, 780],
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          147,
-          148,
-          149,
-          334,
-          380,
-          780
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [147, 148, 149, 334, 380, 780],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          334,
-          371,
-          372,
-          373,
-          380,
-          714,
-          715,
-          780
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [334, 371, 372, 373, 380, 714, 715, 780],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          147,
-          334,
-          371,
-          380,
-          714,
-          715,
-          780
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [147, 334, 371, 380, 714, 715, 780],
+        "islands": ["greenex"]
       }
     ],
     "new-moon-day-14": [
       {
         "tier": "special",
-        "pokemonIds": [
-          151,
-          491
-        ]
+        "pokemonIds": [151, 491]
       }
     ],
     "good-sleep-day-36": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-343136333639393638323834363936353833": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          252,
-          253,
-          254,
-          255,
-          256,
-          257,
-          258,
-          259,
-          260,
-          311,
-          312
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [252, 253, 254, 255, 256, 257, 258, 259, 260, 311, 312],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          252,
-          253,
-          254
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [252, 253, 254],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          258,
-          259,
-          260
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [258, 259, 260],
+        "islands": ["taupe"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          252,
-          253,
-          254,
-          255,
-          256,
-          257
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [252, 253, 254, 255, 256, 257],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          311,
-          312
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [311, 312],
+        "islands": ["powerplant"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          311,
-          312
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [311, 312],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          252,
-          253,
-          254,
-          255,
-          256,
-          257,
-          258,
-          259,
-          260,
-          311,
-          312
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [252, 253, 254, 255, 256, 257, 258, 259, 260, 311, 312],
+        "islands": ["greenex"]
       }
     ],
     "announcement-343138383632323539383937333638353830": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          387,
-          390,
-          393
-        ],
+        "pokemonIds": [387, 390, 393],
         "label": "第1周"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          387,
-          388,
-          389,
-          390,
-          391,
-          392,
-          393,
-          394,
-          395
-        ],
+        "pokemonIds": [387, 388, 389, 390, 391, 392, 393, 394, 395],
         "label": "第2周"
       }
     ],
     "new-moon-day-15": [
       {
         "tier": "special",
-        "pokemonIds": [
-          151,
-          491
-        ]
+        "pokemonIds": [151, 491]
       }
     ],
     "good-sleep-day-37": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-343233393938313932373939393733333835": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          701
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [701],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          701
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [701],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          701
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [701],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          701
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [701],
+        "islands": ["greenex"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          701
-        ],
-        "islands": [
-          "cyanex"
-        ]
+        "pokemonIds": [701],
+        "islands": ["cyanex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          7,
-          10,
-          54,
-          79,
-          83,
-          84,
-          127,
-          158,
-          194,
-          213,
-          214,
-          225,
-          258,
-          333,
-          393,
-          627,
-          845,
-          912
+          7, 10, 54, 79, 83, 84, 127, 158, 194, 213, 214, 225, 258, 333, 393,
+          627, 845, 912
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          7,
-          10,
-          54,
-          79,
-          83,
-          127,
-          158,
-          194,
-          213,
-          214,
-          393,
-          627,
-          845
+          7, 10, 54, 79, 83, 127, 158, 194, 213, 214, 393, 627, 845
         ],
-        "islands": [
-          "cyan"
-        ]
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [213, 258],
+        "islands": ["taupe"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [225, 333, 393, 845],
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [84, 912],
+        "islands": ["lapis"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [10, 83, 736],
+        "islands": ["powerplant"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [127, 214, 557, 627],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          213,
-          258
+          7, 10, 83, 84, 127, 158, 213, 214, 225, 258, 333, 393, 627, 845, 912
         ],
-        "islands": [
-          "taupe"
-        ]
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          225,
-          333,
-          393,
-          845
-        ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          84,
-          912
-        ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          10,
-          83,
-          736
-        ],
-        "islands": [
-          "powerplant"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          127,
-          214,
-          557,
-          627
-        ],
-        "islands": [
-          "canyon"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          7,
-          10,
-          83,
-          84,
-          127,
-          158,
-          213,
-          214,
-          225,
-          258,
-          333,
-          393,
-          627,
-          845,
-          912
-        ],
-        "islands": [
-          "greenex"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          7,
-          54,
-          83,
-          127,
-          158,
-          213,
-          214,
-          258,
-          393,
-          627,
-          736,
-          845
-        ],
-        "islands": [
-          "cyanex"
-        ]
+        "pokemonIds": [7, 54, 83, 127, 158, 213, 214, 258, 393, 627, 736, 845],
+        "islands": ["cyanex"]
       }
     ],
     "new-moon-day-16": [
       {
         "tier": "special",
-        "pokemonIds": [
-          151,
-          491
-        ]
+        "pokemonIds": [151, 491]
       }
     ],
     "announcement-343238373030393436303937323432313138": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          9007,
-          957,
-          958,
-          959
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [9007, 957, 958, 959],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9007,
-          957,
-          958,
-          959
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [9007, 957, 958, 959],
+        "islands": ["cyan"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9007
-        ],
-        "islands": [
-          "taupe"
-        ]
+        "pokemonIds": [9007],
+        "islands": ["taupe"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9007
-        ],
-        "islands": [
-          "snowdrop"
-        ]
+        "pokemonIds": [9007],
+        "islands": ["snowdrop"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9007
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [9007],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9007,
-          957,
-          958,
-          959
-        ],
-        "islands": [
-          "powerplant"
-        ]
+        "pokemonIds": [9007, 957, 958, 959],
+        "islands": ["powerplant"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9007
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [9007],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9007,
-          957,
-          958,
-          959
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [9007, 957, 958, 959],
+        "islands": ["greenex"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9007,
-          957,
-          958,
-          959
-        ],
-        "islands": [
-          "cyanex"
-        ]
+        "pokemonIds": [9007, 957, 958, 959],
+        "islands": ["cyanex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          4,
-          5,
-          6,
-          113,
-          194,
-          195,
-          242,
-          440,
-          447,
-          906,
-          907,
-          908,
-          909,
-          912
+          4, 5, 6, 113, 194, 195, 242, 440, 447, 906, 907, 908, 909, 912
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [194, 195, 909, 910, 911],
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [4, 5, 6, 302, 447, 909, 910, 911],
+        "islands": ["taupe"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [113, 242, 440, 447, 448],
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [147, 148, 149, 906, 907, 908, 912, 913, 914],
+        "islands": ["lapis"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [113, 242, 440],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          194,
-          195,
-          909,
-          910,
-          911
-        ],
-        "islands": [
-          "cyan"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          4,
-          5,
-          6,
-          302,
-          447,
-          909,
-          910,
-          911
-        ],
-        "islands": [
-          "taupe"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          113,
-          242,
-          440,
-          447,
-          448
-        ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          147,
-          148,
-          149,
-          906,
-          907,
-          908,
-          912,
-          913,
+          4, 5, 6, 113, 242, 302, 440, 906, 907, 908, 909, 910, 911, 912, 913,
           914
         ],
-        "islands": [
-          "lapis"
-        ]
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          113,
-          242,
-          440
-        ],
-        "islands": [
-          "canyon"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          4,
-          5,
-          6,
-          113,
-          242,
-          302,
-          440,
-          906,
-          907,
-          908,
-          909,
-          910,
-          911,
-          912,
-          913,
-          914
-        ],
-        "islands": [
-          "greenex"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          113,
-          147,
-          148,
-          149,
-          242,
-          440
-        ],
-        "islands": [
-          "cyanex"
-        ]
+        "pokemonIds": [113, 147, 148, 149, 242, 440],
+        "islands": ["cyanex"]
       }
     ],
     "good-sleep-day-38": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-343239373432303836333334343437363238": [
       {
         "tier": "small",
-        "pokemonIds": [
-          177,
-          178,
-          196,
-          202,
-          360,
-          517,
-          518
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [177, 178, 196, 202, 360, 517, 518],
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          122,
-          439
-        ],
-        "islands": [
-          "cyan"
-        ]
+        "pokemonIds": [122, 439],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          177,
-          196,
-          202,
-          280,
-          281,
-          282,
-          360,
-          517,
-          518
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [177, 196, 202, 280, 281, 282, 360, 517, 518],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          177,
-          178
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [177, 178],
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          177,
-          178,
-          196,
-          280,
-          281,
-          282,
-          517,
-          518
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [177, 178, 196, 280, 281, 282, 517, 518],
+        "islands": ["greenex"]
       }
     ],
     "new-moon-day-17": [
       {
         "tier": "special",
-        "pokemonIds": [
-          151,
-          491
-        ]
+        "pokemonIds": [151, 491]
       }
     ],
     "announcement-343239383235333132353739313235323439": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          150
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [150],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          150
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [150],
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          177,
-          178,
-          196,
-          202,
-          360,
-          517,
-          518
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [177, 178, 196, 202, 360, 517, 518],
+        "islands": ["greengrass"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          177,
-          178,
-          196,
-          280,
-          281,
-          282,
-          517,
-          518
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [177, 178, 196, 280, 281, 282, 517, 518],
+        "islands": ["greenex"]
       }
     ],
     "good-sleep-day-39": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-343430323735323935393936343737343435": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          590,
-          591
-        ],
-        "islands": [
-          "greengrass"
-        ]
+        "pokemonIds": [590, 591],
+        "islands": ["greengrass"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          590,
-          591
-        ],
-        "islands": [
-          "lapis"
-        ]
+        "pokemonIds": [590, 591],
+        "islands": ["lapis"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          590,
-          591
-        ],
-        "islands": [
-          "canyon"
-        ]
+        "pokemonIds": [590, 591],
+        "islands": ["canyon"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          590,
-          591
-        ],
-        "islands": [
-          "greenex"
-        ]
+        "pokemonIds": [590, 591],
+        "islands": ["greenex"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          590,
-          591
-        ],
-        "islands": [
-          "cyanex"
-        ]
+        "pokemonIds": [590, 591],
+        "islands": ["cyanex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          1,
-          4,
-          7,
-          83,
-          92,
-          127,
-          132,
-          194,
-          225,
-          303,
-          440,
-          442,
-          453,
-          742,
-          845,
-          906,
-          909,
+          1, 4, 7, 83, 92, 127, 132, 194, 225, 303, 440, 442, 453, 742, 845,
+          906, 909, 974
+        ],
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [7, 83, 127, 132, 194, 453, 742, 845, 909],
+        "islands": ["cyan"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [4, 92, 132, 909],
+        "islands": ["taupe"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [132, 225, 440, 442, 845, 974],
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [1, 132, 147, 906],
+        "islands": ["lapis"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [83, 92, 132, 303, 304],
+        "islands": ["powerplant"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [127, 132, 303, 440, 442],
+        "islands": ["canyon"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          1, 4, 7, 83, 127, 132, 225, 303, 304, 440, 442, 742, 845, 906, 909,
           974
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          7,
-          83,
-          127,
-          132,
-          194,
-          453,
-          742,
-          845,
-          909
-        ],
-        "islands": [
-          "cyan"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          4,
-          92,
-          132,
-          909
-        ],
-        "islands": [
-          "taupe"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          132,
-          225,
-          440,
-          442,
-          845,
-          974
-        ],
-        "islands": [
-          "snowdrop"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          1,
-          132,
-          147,
-          906
-        ],
-        "islands": [
-          "lapis"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          83,
-          92,
-          132,
-          303,
-          304
-        ],
-        "islands": [
-          "powerplant"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          127,
-          132,
-          303,
-          440,
-          442
-        ],
-        "islands": [
-          "canyon"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          1,
-          4,
-          7,
-          83,
-          127,
-          132,
-          225,
-          303,
-          304,
-          440,
-          442,
-          742,
-          845,
-          906,
-          909,
-          974
-        ],
-        "islands": [
-          "greenex"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          7,
-          83,
-          127,
-          132,
-          147,
-          440,
-          453,
-          742,
-          845
-        ],
-        "islands": [
-          "cyanex"
-        ]
+        "pokemonIds": [7, 83, 127, 132, 147, 440, 453, 742, 845],
+        "islands": ["cyanex"]
       }
     ],
     "new-moon-day-18": [
       {
         "tier": "special",
-        "pokemonIds": [
-          151,
-          491
-        ]
+        "pokemonIds": [151, 491]
       }
     ],
     "good-sleep-day-40": [
       {
         "tier": "special",
-        "pokemonIds": [
-          151
-        ],
+        "pokemonIds": [151],
         "label": "所有日子"
       },
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "announcement-343433383634343334323138313036383834": [
       {
         "tier": "large",
-        "pokemonIds": [
-          9005,
-          200,
-          429
-        ],
-        "islands": [
-          "greengrass",
-          "greenex"
-        ]
+        "pokemonIds": [9005, 200, 429],
+        "islands": ["greengrass", "greenex"]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          9001
-        ],
-        "islands": [
-          "greengrass",
-          "greenex"
-        ]
+        "pokemonIds": [9001],
+        "islands": ["greengrass", "greenex"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          92,
-          93,
-          94,
-          353,
-          354,
-          425,
-          426,
-          710,
-          71002,
-          71003,
-          71004,
-          711,
-          71102,
-          71103,
-          71104,
-          778,
-          911
+          92, 93, 94, 353, 354, 425, 426, 710, 71002, 71003, 71004, 711, 71102,
+          71103, 71104, 778, 911
         ],
-        "islands": [
-          "greengrass",
-          "greenex"
-        ]
+        "islands": ["greengrass", "greenex"]
       }
     ],
     "meal-prep-vol1-2026": [
       {
         "tier": "small",
         "pokemonIds": [
-          27,
-          28,
-          50,
-          51,
-          69,
-          70,
-          71,
-          74,
-          75,
-          113,
-          115,
-          132,
-          198,
-          225,
-          242,
-          246,
-          303,
-          328,
-          403,
-          430,
-          439,
-          440,
-          459,
-          557,
-          701,
-          710,
-          71002,
-          71003,
-          71004,
-          711,
-          71102,
-          71103,
-          71104,
-          742,
-          743,
-          759,
-          764,
-          780,
-          912
+          27, 28, 50, 51, 69, 70, 71, 74, 75, 113, 115, 132, 198, 225, 242, 246,
+          303, 328, 403, 430, 439, 440, 459, 557, 701, 710, 71002, 71003, 71004,
+          711, 71102, 71103, 71104, 742, 743, 759, 764, 780, 912
         ],
-        "islands": [
-          "greengrass"
-        ]
+        "islands": ["greengrass"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [69, 115, 122, 132, 439, 701, 742, 743, 764],
+        "islands": ["cyan"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          69,
-          115,
-          122,
-          132,
-          439,
-          701,
-          742,
-          743,
-          764
+          27, 28, 50, 51, 74, 75, 76, 132, 246, 247, 248, 328, 329, 330
         ],
-        "islands": [
-          "cyan"
-        ]
+        "islands": ["taupe"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [113, 132, 198, 225, 242, 430, 440, 459, 460],
+        "islands": ["snowdrop"]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [69, 70, 71, 132, 701, 759, 760, 780, 912, 913, 914],
+        "islands": ["lapis"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          27,
-          28,
-          50,
-          51,
-          74,
-          75,
-          76,
-          132,
-          246,
-          247,
-          248,
-          328,
-          329,
-          330
+          132, 198, 303, 403, 404, 405, 430, 710, 71002, 71003, 71004, 711,
+          71102, 71103, 71104
         ],
-        "islands": [
-          "taupe"
-        ]
+        "islands": ["powerplant"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          113,
-          132,
-          198,
-          225,
-          242,
-          430,
-          440,
-          459,
-          460
+          27, 28, 113, 132, 242, 246, 303, 328, 329, 330, 440, 557, 558, 780
         ],
-        "islands": [
-          "snowdrop"
-        ]
+        "islands": ["canyon"]
       },
       {
         "tier": "small",
         "pokemonIds": [
-          69,
-          70,
-          71,
-          132,
-          701,
-          759,
-          760,
-          780,
-          912,
-          913,
-          914
+          27, 28, 50, 69, 74, 113, 115, 132, 198, 225, 242, 246, 247, 248, 303,
+          328, 403, 430, 439, 440, 459, 460, 557, 701, 710, 71002, 71003, 71004,
+          711, 71102, 71103, 71104, 742, 743, 759, 764, 780, 912, 913, 914
         ],
-        "islands": [
-          "lapis"
-        ]
+        "islands": ["greenex"]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          132,
-          198,
-          303,
-          403,
-          404,
-          405,
-          430,
-          710,
-          71002,
-          71003,
-          71004,
-          711,
-          71102,
-          71103,
-          71104
-        ],
-        "islands": [
-          "powerplant"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          27,
-          28,
-          113,
-          132,
-          242,
-          246,
-          303,
-          328,
-          329,
-          330,
-          440,
-          557,
-          558,
-          780
-        ],
-        "islands": [
-          "canyon"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          27,
-          28,
-          50,
-          69,
-          74,
-          113,
-          115,
-          132,
-          198,
-          225,
-          242,
-          246,
-          247,
-          248,
-          303,
-          328,
-          403,
-          430,
-          439,
-          440,
-          459,
-          460,
-          557,
-          701,
-          710,
-          71002,
-          71003,
-          71004,
-          711,
-          71102,
-          71103,
-          71104,
-          742,
-          743,
-          759,
-          764,
-          780,
-          912,
-          913,
-          914
-        ],
-        "islands": [
-          "greenex"
-        ]
-      },
-      {
-        "tier": "small",
-        "pokemonIds": [
-          113,
-          132,
-          242,
-          440,
-          701,
-          742,
-          743,
-          764,
-          780
-        ],
-        "islands": [
-          "cyanex"
-        ]
+        "pokemonIds": [113, 132, 242, 440, 701, 742, 743, 764, 780],
+        "islands": ["cyanex"]
       }
     ],
     "new-moon-day-19": [
       {
         "tier": "special",
-        "pokemonIds": [
-          491
-        ]
+        "pokemonIds": [491]
       }
     ],
     "all-you-can-eat-vol1-2026": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          546,
-          547
-        ],
-        "islands": [
-          "greengrass",
-          "cyan",
-          "canyon",
-          "greenex",
-          "cyanex"
-        ]
+        "pokemonIds": [546, 547],
+        "islands": ["greengrass", "cyan", "canyon", "greenex", "cyanex"]
       }
     ],
     "halloween-2023": [
       {
         "tier": "large",
-        "pokemonIds": [
-          9001,
-          92,
-          93,
-          94
-        ]
+        "pokemonIds": [9001, 92, 93, 94]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          52,
-          104
-        ]
+        "pokemonIds": [52, 104]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          353,
-          354
-        ]
+        "pokemonIds": [353, 354]
       }
     ],
     "eevee-week-2023": [
       {
         "tier": "large",
-        "pokemonIds": [
-          133
-        ]
+        "pokemonIds": [133]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          134,
-          135,
-          136,
-          196,
-          197,
-          470,
-          471,
-          700
-        ]
+        "pokemonIds": [134, 135, 136, 196, 197, 470, 471, 700]
       }
     ],
     "holiday-2023": [
       {
         "tier": "large",
-        "pokemonIds": [
-          9002
-        ]
+        "pokemonIds": [9002]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          225,
-          471,
-          363
-        ]
+        "pokemonIds": [225, 471, 363]
       },
       {
         "tier": "small",
-        "pokemonIds": [
-          459,
-          460
-        ]
+        "pokemonIds": [459, 460]
       }
     ],
     "new-year-2024": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          1,
-          4,
-          7,
-          25,
-          459,
-          460
-        ]
+        "pokemonIds": [1, 4, 7, 25, 459, 460]
       }
     ],
     "valentines-2024": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          1,
-          39,
-          79,
-          127,
-          152,
-          359
-        ]
+        "pokemonIds": [1, 39, 79, 127, 152, 359]
       }
     ],
     "electric-type-week": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          25,
-          26,
-          135,
-          172,
-          179,
-          180,
-          181,
-          702
-        ]
+        "pokemonIds": [25, 26, 135, 172, 179, 180, 181, 702]
       }
     ],
     "raikou-research": [
       {
         "tier": "small",
-        "pokemonIds": [
-          25,
-          26,
-          135,
-          243,
-          172,
-          179,
-          180,
-          702
-        ]
+        "pokemonIds": [25, 26, 135, 243, 172, 179, 180, 702]
       }
     ],
     "entei-research": [
       {
         "tier": "small",
-        "pokemonIds": [
-          4,
-          5,
-          6,
-          37,
-          38,
-          58,
-          136,
-          155,
-          156,
-          157,
-          244
-        ]
+        "pokemonIds": [4, 5, 6, 37, 38, 58, 136, 155, 156, 157, 244]
       }
     ],
     "water-type-week": [
       {
         "tier": "medium",
         "pokemonIds": [
-          7,
-          8,
-          9,
-          54,
-          55,
-          79,
-          80,
-          134,
-          158,
-          159,
-          160,
-          194,
-          195,
-          199,
-          912,
-          913
+          7, 8, 9, 54, 55, 79, 80, 134, 158, 159, 160, 194, 195, 199, 912, 913
         ]
       }
     ],
@@ -23656,22 +20165,7 @@
       {
         "tier": "small",
         "pokemonIds": [
-          7,
-          8,
-          9,
-          54,
-          55,
-          79,
-          80,
-          134,
-          158,
-          159,
-          160,
-          194,
-          195,
-          199,
-          245,
-          912,
+          7, 8, 9, 54, 55, 79, 80, 134, 158, 159, 160, 194, 195, 199, 245, 912,
           913
         ]
       }
@@ -23679,465 +20173,246 @@
     "old-gold-power-plant-debut": [
       {
         "tier": "small",
-        "pokemonIds": [
-          304,
-          403,
-          736,
-          425
-        ]
+        "pokemonIds": [304, 403, 736, 425]
       }
     ],
     "halloween-2024": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          92,
-          93,
-          94,
-          353,
-          354,
-          425,
-          426,
-          911
-        ]
+        "pokemonIds": [92, 93, 94, 353, 354, 425, 426, 911]
       },
       {
         "tier": "large",
-        "pokemonIds": [
-          9001,
-          778
-        ]
+        "pokemonIds": [9001, 778]
       }
     ],
     "eevee-week-2024": [
       {
         "tier": "large",
-        "pokemonIds": [
-          133
-        ]
+        "pokemonIds": [133]
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          134,
-          135,
-          136,
-          196,
-          197,
-          470,
-          471,
-          700
-        ]
+        "pokemonIds": [134, 135, 136, 196, 197, 470, 471, 700]
       }
     ],
     "lapis-lakeside-opening": [
       {
         "tier": "small",
-        "pokemonIds": [
-          147,
-          280,
-          759
-        ]
+        "pokemonIds": [147, 280, 759]
       }
     ],
     "good-sleep-day-2": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-3": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-4": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-5": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-6": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-7": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-8": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-9": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-10": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-11": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-12": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-13": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-14": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-15": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "good-sleep-day-16": [
       {
         "tier": "large",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第2天（满月之日）"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          35,
-          36,
-          173
-        ],
+        "pokemonIds": [35, 36, 173],
         "label": "第1天、第3天"
       }
     ],
     "flower-festival-2024": [
       {
         "pokemonIds": [
-          1,
-          2,
-          3,
-          69,
-          70,
-          71,
-          152,
-          153,
-          154,
-          470,
-          35,
-          36,
-          39,
-          40,
-          173,
-          174,
-          175,
-          176,
-          468,
-          700,
-          764
+          1, 2, 3, 69, 70, 71, 152, 153, 154, 470, 35, 36, 39, 40, 173, 174,
+          175, 176, 468, 700, 764
         ]
       }
     ],
     "fire-type-week": [
       {
-        "pokemonIds": [
-          4,
-          5,
-          6,
-          37,
-          38,
-          58,
-          59,
-          136,
-          155,
-          156,
-          157
-        ]
+        "pokemonIds": [4, 5, 6, 37, 38, 58, 59, 136, 155, 156, 157]
       }
     ],
     "summer-festival-2024": [
       {
         "pokemonIds": [
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          54,
-          55,
-          79,
-          80,
-          84,
-          85,
-          127,
-          134,
-          158,
-          159,
-          160,
-          199,
-          214,
-          225,
-          333,
-          845
+          7, 8, 9, 10, 11, 12, 54, 55, 79, 80, 84, 85, 127, 134, 158, 159, 160,
+          199, 214, 225, 333, 845
         ]
       }
     ],
     "first-anniversary-fest": [
       {
         "tier": "medium",
-        "pokemonIds": [
-          906,
-          909,
-          912
-        ],
-        "islands": [
-          "greengrass"
-        ],
+        "pokemonIds": [906, 909, 912],
+        "islands": ["greengrass"],
         "label": "第1周"
       },
       {
         "tier": "medium",
-        "pokemonIds": [
-          906,
-          907,
-          908,
-          909,
-          910,
-          911,
-          912,
-          913,
-          914
-        ],
+        "pokemonIds": [906, 907, 908, 909, 910, 911, 912, 913, 914],
         "label": "第2周"
       }
     ]

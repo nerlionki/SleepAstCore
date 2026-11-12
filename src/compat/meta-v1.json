@@ -34,11 +34,7 @@
         "timeBasis": "game-local",
         "islands": "all",
         "effects": {
-          "availableRecipeCategories": [
-            "咖喱",
-            "沙拉",
-            "甜品"
-          ],
+          "availableRecipeCategories": ["咖喱", "沙拉", "甜品"],
           "ingredientSpecialists": {
             "specialty": "食材型",
             "ingredientCountBonus": 1,
@@ -69,17 +65,8 @@
           "crossSleepTypeEncounters": true,
           "encounters": [
             {
-              "pokemonNames": [
-                "木棉球",
-                "风妖精"
-              ],
-              "islands": [
-                "greengrass",
-                "cyan",
-                "canyon",
-                "greenex",
-                "cyanex"
-              ],
+              "pokemonNames": ["木棉球", "风妖精"],
+              "islands": ["greengrass", "cyan", "canyon", "greenex", "cyanex"],
               "boost": "medium",
               "weightMultiplier": null
             }
@@ -101,11 +88,9 @@
         "availableFrom": "2026-11-16T04:00:00",
         "timeBasis": "game-local",
         "runtimeId": null,
-        "baseEnergy": null,
-        "unknownFields": [
-          "runtimeId",
-          "baseEnergy"
-        ],
+        "baseEnergy": 112,
+        "unknownFields": ["runtimeId"],
+        "numericSource": "用户确认能量 112。RAENONX 2026-11-12 食谱图用该能量复核 Lv.1 料理能量。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 0,
         "imageSource": "local-question-mark-placeholder",
@@ -121,13 +106,7 @@
         "availableFrom": "2026-11-16T15:00:00",
         "timeBasis": "game-local",
         "incenseAvailableFrom": "2026-11-16T15:00:00",
-        "islands": [
-          "greengrass",
-          "cyan",
-          "canyon",
-          "greenex",
-          "cyanex"
-        ],
+        "islands": ["greengrass", "cyan", "canyon", "greenex", "cyanex"],
         "higherEncounterRateIsland": "cyanex",
         "canGatherIngredientKey": "bite-size-nut",
         "runtimeId": null,
@@ -153,13 +132,7 @@
         "availableFrom": "2026-11-16T15:00:00",
         "timeBasis": "game-local",
         "incenseAvailableFrom": "2026-11-16T15:00:00",
-        "islands": [
-          "greengrass",
-          "cyan",
-          "canyon",
-          "greenex",
-          "cyanex"
-        ],
+        "islands": ["greengrass", "cyan", "canyon", "greenex", "cyanex"],
         "higherEncounterRateIsland": "cyanex",
         "canGatherIngredientKey": "bite-size-nut",
         "runtimeId": null,
@@ -183,74 +156,65 @@
         "key": "all-you-can-eat-vol1-2026-curry",
         "category": "咖喱",
         "totalIngredientCount": 39,
-        "ingredients": [
-          "萌绿玉米",
-          "沉甸甸南瓜",
-          "一口坚果"
-        ],
+        "ingredients": ["萌绿玉米", "沉甸甸南瓜", "一口坚果"],
         "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
         "availableFrom": "2026-11-16T04:00:00",
         "timeBasis": "game-local",
         "name": null,
         "runtimeId": null,
-        "ingredientQuantities": null,
-        "baseEnergy": null,
-        "unknownFields": [
-          "name",
-          "runtimeId",
-          "ingredientQuantities",
-          "baseEnergy"
-        ],
+        "ingredientQuantities": {
+          "萌绿玉米": 12,
+          "沉甸甸南瓜": 12,
+          "一口坚果": 15
+        },
+        "baseEnergy": 7950,
+        "bonus": 0.25,
+        "unknownFields": ["name", "runtimeId"],
+        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 能量 7950，Lv.70 为 28461。非官方公布值。",
         "status": "partial-official-announcement"
       },
       {
         "key": "all-you-can-eat-vol1-2026-salad",
         "category": "沙拉",
         "totalIngredientCount": 121,
-        "ingredients": [
-          "暖暖姜",
-          "好眠番茄",
-          "嫩亮酪梨",
-          "一口坚果"
-        ],
+        "ingredients": ["暖暖姜", "好眠番茄", "嫩亮酪梨", "一口坚果"],
         "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
         "availableFrom": "2026-11-16T04:00:00",
         "timeBasis": "game-local",
         "name": null,
         "runtimeId": null,
-        "ingredientQuantities": null,
-        "baseEnergy": null,
-        "unknownFields": [
-          "name",
-          "runtimeId",
-          "ingredientQuantities",
-          "baseEnergy"
-        ],
+        "ingredientQuantities": {
+          "暖暖姜": 36,
+          "好眠番茄": 33,
+          "嫩亮酪梨": 22,
+          "一口坚果": 30
+        },
+        "baseEnergy": 26350,
+        "bonus": 0.82,
+        "unknownFields": ["name", "runtimeId"],
+        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 能量 26350，Lv.70 为 94333。非官方公布值。",
         "status": "partial-official-announcement"
       },
       {
         "key": "all-you-can-eat-vol1-2026-dessert",
         "category": "甜品",
         "totalIngredientCount": 91,
-        "ingredients": [
-          "特选蛋",
-          "美味尾巴",
-          "萌绿大豆",
-          "一口坚果"
-        ],
+        "ingredients": ["特选蛋", "美味尾巴", "萌绿大豆", "一口坚果"],
         "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
         "availableFrom": "2026-11-16T04:00:00",
         "timeBasis": "game-local",
         "name": null,
         "runtimeId": null,
-        "ingredientQuantities": null,
-        "baseEnergy": null,
-        "unknownFields": [
-          "name",
-          "runtimeId",
-          "ingredientQuantities",
-          "baseEnergy"
-        ],
+        "ingredientQuantities": {
+          "特选蛋": 33,
+          "美味尾巴": 10,
+          "萌绿大豆": 22,
+          "一口坚果": 26
+        },
+        "baseEnergy": 19846,
+        "bonus": 0.61,
+        "unknownFields": ["name", "runtimeId"],
+        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 能量 19846，Lv.70 为 71049。非官方公布值。",
         "status": "partial-official-announcement"
       }
     ]

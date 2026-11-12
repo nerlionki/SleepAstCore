@@ -40,12 +40,7 @@
       "officialDisplayedAvailableFrom": "2026-10-26 15:00",
       "type": "幽灵",
       "sleepType": "淺淺入夢",
-      "islands": [
-        "greengrass",
-        "snowdrop",
-        "powerplant",
-        "greenex"
-      ],
+      "islands": ["greengrass", "snowdrop", "powerplant", "greenex"],
       "baseCarry": 13,
       "friendshipPoints": 16,
       "evolvesTo": 429,
@@ -65,12 +60,7 @@
       "officialDisplayedAvailableFrom": "2026-10-26 15:00",
       "type": "幽灵",
       "sleepType": "淺淺入夢",
-      "islands": [
-        "greengrass",
-        "snowdrop",
-        "powerplant",
-        "greenex"
-      ],
+      "islands": ["greengrass", "snowdrop", "powerplant", "greenex"],
       "baseCarry": 17,
       "friendshipPoints": 20,
       "evolvesFrom": 200,
@@ -102,19 +92,15 @@
     {
       "name": "一口坚果与使用它的3道料理",
       "officialDisplayedAvailableFrom": "2026-11-15 19:00",
-      "policy": "RAE当前食材页仅19种；未取得可核实的数值，不写入正式食材与料理表"
+      "policy": "运行编号和料理名未公布，仍不写入正式食材表与食谱表。公告资料已记入 RAENONX 2026-11-12 食谱图的食材数量、料理加成和 Lv.1 能量；一口坚果能量 112 由用户确认。"
     }
   ],
   "audit": {
     "existingPokemonChecked": 249,
     "fetchErrors": 0,
-    "settledRateDifferences": [
-      94
-    ],
+    "settledRateDifferences": [94],
     "staticMetadataDifferences": "仅RAE中颗南瓜精、南瓜怪人的进化引用从710-1/711-1改为710/711；项目本就使用710/711，无需改动。其余既有基础字段对比无差异。",
-    "unsettledExistingRateIds": [
-      "9001"
-    ],
+    "unsettledExistingRateIds": ["9001"],
     "unsettledPolicy": "保留项目既有已核验数值，不覆盖为20%食材率、0%技能率等占位值；不将未核实值当作更新。",
     "pikachuPurple": "RAE 9001-2 的帮速、食材池、食材率21.8%、技能率2.8%与项目万圣节皮卡丘一致；不重复创建独立产量条目。"
   }
