@@ -21,3 +21,18 @@ export function installItemCatalog(data) {
   params.scoreSimulation.simulateScore.values.p011 = juice.useEffect.amount
   params.scoreSimulation.simulateScore.values.p012 = juice.useEffect.energyCap
 }
+
+/** Materialize historical asset paths from their single maintained source. */
+export function itemImageAliases(data) {
+  const catalog = data['calc-tables.json'].modules.items.catalog
+  const byId = new Map(catalog.map(row => [row.id, row]))
+  return new Map(catalog.flatMap(row => {
+    if (row.sharedImageId === undefined) return []
+    const source = byId.get(row.sharedImageId)
+    if (!source || source.sharedImageId !== undefined || source.id === row.id
+      || source.imageFile !== `items/${source.id}.webp` || row.imageFile !== `items/${row.id}.webp`) {
+      throw Error(`Invalid shared item image for ${row.id}`)
+    }
+    return [[row.imageFile, source.imageFile]]
+  }))
+}

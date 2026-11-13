@@ -1,4 +1,5 @@
 import { validateOcrNameCatalog } from './ocr-names.mjs'
+import { itemImageAliases } from './item-catalog.mjs'
 import fs from 'node:fs/promises'
 import path from 'node:path'
 import { createHash } from 'node:crypto'
@@ -24,6 +25,11 @@ let reused = { files: [] }
 try { reused = JSON.parse(await fs.readFile(path.join(root, context, `resources/v${api}/reused-assets.json`), 'utf8')) }
 catch (error) { if (error.code !== 'ENOENT') throw error }
 if (reused.files.length && (reused.schemaVersion !== 1 || reused.context !== context || reused.version !== manifest.version)) throw Error('Invalid image reuse contract')
+if (!manifest.data.path.startsWith(prefix) || manifest.data.path.includes('..') || manifest.data.path.includes('\\')) throw Error('Invalid data path')
+const payload = await fs.readFile(path.join(root, manifest.data.path.slice(1)))
+if (payload.length !== manifest.data.bytes || createHash('sha256').update(payload).digest('hex') !== manifest.data.sha256) throw Error('Invalid resource data')
+const data = JSON.parse(payload)
+const aliases = itemImageAliases(data)
 const reusedByPath = new Map()
 for (const item of reused.files) {
   const asset = manifest.assets[item.asset]
@@ -34,11 +40,11 @@ for (const item of reused.files) {
   const roots = [['images/', 'src/assets/imgs/'], ['items/', 'public/items/'], ['sprites/', 'public/sprites/']]
   const mapping = roots.find(([key]) => item.asset.startsWith(key))
   if (!mapping || item.asset.split('/').includes('..') || /[\\?#%]/.test(item.asset)) throw Error('Invalid image source')
-  const local = path.resolve(sourceRoot, mapping[1], item.asset.slice(mapping[0].length))
+  const local = path.resolve(sourceRoot, mapping[1], (aliases.get(item.asset) ?? item.asset).slice(mapping[0].length))
   if (!local.startsWith(path.resolve(sourceRoot, mapping[1]) + path.sep)) throw Error('Invalid image source')
   reusedByPath.set(item.path, local)
 }
-for (const item of [manifest.data, ...Object.values(manifest.assets)]) {
+for (const item of Object.values(manifest.assets)) {
   if (!item.path.startsWith(prefix) || item.path.includes('..') || item.path.includes('\\')) throw new Error('Invalid resource path')
   let bytes
   try { bytes = await fs.readFile(path.join(root, item.path.slice(1))) }
@@ -48,7 +54,7 @@ for (const item of [manifest.data, ...Object.values(manifest.assets)]) {
   }
   if (bytes.length !== item.bytes || createHash('sha256').update(bytes).digest('hex') !== item.sha256) throw new Error(`Invalid resource: ${item.path}`)
 }
-const data = JSON.parse(await fs.readFile(path.join(root, manifest.data.path.slice(1)), 'utf8'))
+
 validateSkillResources(data)
 validateIdImages(data, manifest.assets)
 if (manifest.files.length !== 43 || manifest.files.slice().sort().join() !== Object.keys(data).sort().join()) throw new Error('Incomplete data bundle')

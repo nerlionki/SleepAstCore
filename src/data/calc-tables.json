@@ -545,7 +545,8 @@
           "diamondPurchaseQuantity": 3,
           "name": "寶可沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/9.webp"
+          "imageFile": "items/9.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 10,
@@ -553,25 +554,29 @@
           "diamondPurchaseQuantity": 3,
           "name": "超級沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/10.webp"
+          "imageFile": "items/10.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 11,
           "name": "大師沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/11.webp"
+          "imageFile": "items/11.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 37,
           "name": "雷公沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/37.webp"
+          "imageFile": "items/37.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 92,
           "name": "炎帝沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/92.webp"
+          "imageFile": "items/92.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 94,
@@ -579,43 +584,50 @@
           "diamondPurchaseQuantity": 1,
           "name": "高級沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/94.webp"
+          "imageFile": "items/94.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 95,
           "name": "水君沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/95.webp"
+          "imageFile": "items/95.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 99,
           "name": "克雷色利亞沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/99.webp"
+          "imageFile": "items/99.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 106,
           "name": "紀念沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/106.webp"
+          "imageFile": "items/106.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 110,
           "name": "拉帝亞斯沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/110.webp"
+          "imageFile": "items/110.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 112,
           "name": "拉帝亞斯／拉帝歐斯沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/112.webp"
+          "imageFile": "items/112.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 117,
           "name": "超夢沙布蕾",
           "category": "沙布蕾",
-          "imageFile": "items/117.webp"
+          "imageFile": "items/117.webp",
+          "usage": "在点心时间喂给宝可梦，提高友情点数。"
         },
         {
           "id": 21,
@@ -623,7 +635,8 @@
           "category": "进化道具",
           "imageFile": "items/21.webp",
           "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
-          "additionalAcquisition": "成就：累计使用 140 个薰香；10 只宝可梦升至 15 级；以队伍 SP 25,000 进行睡眠研究。"
+          "additionalAcquisition": "成就：累计使用 140 个薰香；10 只宝可梦升至 15 级；以队伍 SP 25,000 进行睡眠研究。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 22,
@@ -631,7 +644,8 @@
           "category": "进化道具",
           "imageFile": "items/22.webp",
           "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
-          "additionalAcquisition": "成就：10 只宝可梦升至 25 级。"
+          "additionalAcquisition": "成就：10 只宝可梦升至 25 级。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 23,
@@ -639,7 +653,8 @@
           "category": "进化道具",
           "imageFile": "items/23.webp",
           "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
-          "additionalAcquisition": "成就：10 只宝可梦升至 35 级。"
+          "additionalAcquisition": "成就：10 只宝可梦升至 35 级。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 24,
@@ -647,7 +662,8 @@
           "category": "进化道具",
           "imageFile": "items/24.webp",
           "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
-          "additionalAcquisition": "成就：10 只宝可梦升至 45 级。"
+          "additionalAcquisition": "成就：10 只宝可梦升至 45 级。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 25,
@@ -655,7 +671,8 @@
           "category": "进化道具",
           "imageFile": "items/25.webp",
           "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
-          "additionalAcquisition": "成就：以队伍 SP 1,900 进行睡眠研究。"
+          "additionalAcquisition": "成就：以队伍 SP 1,900 进行睡眠研究。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 26,
@@ -663,7 +680,8 @@
           "category": "进化道具",
           "imageFile": "items/26.webp",
           "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
-          "additionalAcquisition": "成就：10 只宝可梦升至 5 级。"
+          "additionalAcquisition": "成就：10 只宝可梦升至 5 级。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 27,
@@ -671,56 +689,72 @@
           "category": "进化道具",
           "imageFile": "items/27.webp",
           "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
-          "additionalAcquisition": "成就：以队伍 SP 4,700 进行睡眠研究。"
+          "additionalAcquisition": "成就：以队伍 SP 4,700 进行睡眠研究。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 28,
           "name": "光之石",
           "category": "进化道具",
           "imageFile": "items/28.webp",
-          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 29,
           "name": "金屬膜",
           "category": "进化道具",
           "imageFile": "items/29.webp",
-          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 30,
           "name": "渾圓之石",
           "category": "进化道具",
           "imageFile": "items/30.webp",
-          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 31,
           "name": "王者之證",
           "category": "进化道具",
           "imageFile": "items/31.webp",
-          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 35,
           "name": "覺醒之石",
           "category": "进化道具",
           "imageFile": "items/35.webp",
-          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 97,
           "name": "銳利之爪",
           "category": "进化道具",
           "imageFile": "items/97.webp",
-          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 102,
           "name": "暗之石",
           "category": "进化道具",
           "imageFile": "items/102.webp",
-          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。"
+          "acquisition": "一般兑换处：1,400 睡眠点数（每月限购 5 个）。",
+          "usage": "用于满足指定宝可梦的进化条件。"
+        },
+        {
+          "id": 123,
+          "name": "日之石",
+          "category": "进化道具",
+          "imageFile": "items/123.webp",
+          "source": "https://pks.raenonx.cc/zh/item/source/123",
+          "usage": "用于满足指定宝可梦的进化条件。"
         },
         {
           "id": 1,
@@ -728,16 +762,20 @@
           "diamondPurchaseQuantity": 1,
           "name": "專注薰香",
           "category": "功能型薰香",
-          "imageFile": "items/1.webp"
+          "imageFile": "items/1.webp",
+          "usage": "使下次睡眠研究获得的研究经验翻倍。"
         },
         {
           "id": 2,
           "diamondPrice": 150,
           "diamondPurchaseQuantity": 1,
           "name": "幸運薰香",
-          "aliases": ["幸运薰香"],
+          "aliases": [
+            "幸运薰香"
+          ],
           "category": "功能型薰香",
-          "imageFile": "items/2.webp"
+          "imageFile": "items/2.webp",
+          "usage": "使下次睡眠研究获得的梦之碎片翻倍。"
         },
         {
           "id": 3,
@@ -745,13 +783,15 @@
           "diamondPurchaseQuantity": 1,
           "name": "成長薰香",
           "category": "功能型薰香",
-          "imageFile": "items/3.webp"
+          "imageFile": "items/3.webp",
+          "usage": "使下次睡眠获得的帮手宝可梦睡眠经验翻倍。"
         },
         {
           "id": 4,
           "name": "回復薰香",
           "category": "功能型薰香",
-          "imageFile": "items/4.webp"
+          "imageFile": "items/4.webp",
+          "usage": "使下次睡眠恢复的活力翻倍。"
         },
         {
           "id": 34,
@@ -759,427 +799,505 @@
           "diamondPurchaseQuantity": 1,
           "name": "友好薰香",
           "category": "功能型薰香",
-          "imageFile": "items/34.webp"
+          "imageFile": "items/34.webp",
+          "usage": "让下次睡眠研究至少出现一只饥饿的宝可梦。"
         },
         {
           "id": 12,
           "name": "萬能糖果S",
           "category": "糖果",
-          "imageFile": "items/12.webp"
+          "imageFile": "items/12.webp",
+          "usage": "兑换成宝可梦糖果，用于升级或进化。"
         },
         {
           "id": 13,
           "name": "萬能糖果M",
           "category": "糖果",
-          "imageFile": "items/13.webp"
+          "imageFile": "items/13.webp",
+          "usage": "兑换成宝可梦糖果，用于升级或进化。"
         },
         {
           "id": 14,
           "name": "萬能糖果L",
           "category": "糖果",
-          "imageFile": "items/14.webp"
+          "imageFile": "items/14.webp",
+          "usage": "兑换成宝可梦糖果，用于升级或进化。"
         },
         {
           "id": 38,
           "name": "一般屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/38.webp"
+          "imageFile": "items/38.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 39,
           "name": "火屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/39.webp"
+          "imageFile": "items/39.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 40,
           "name": "水屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/40.webp"
+          "imageFile": "items/40.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 41,
           "name": "電屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/41.webp"
+          "imageFile": "items/41.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 42,
           "name": "草屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/42.webp"
+          "imageFile": "items/42.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 43,
           "name": "冰屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/43.webp"
+          "imageFile": "items/43.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 44,
           "name": "格鬥屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/44.webp"
+          "imageFile": "items/44.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 45,
           "name": "毒屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/45.webp"
+          "imageFile": "items/45.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 46,
           "name": "地面屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/46.webp"
+          "imageFile": "items/46.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 47,
           "name": "飛行屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/47.webp"
+          "imageFile": "items/47.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 48,
           "name": "超能力屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/48.webp"
+          "imageFile": "items/48.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 49,
           "name": "蟲屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/49.webp"
+          "imageFile": "items/49.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 50,
           "name": "岩石屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/50.webp"
+          "imageFile": "items/50.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 51,
           "name": "幽靈屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/51.webp"
+          "imageFile": "items/51.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 52,
           "name": "龍屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/52.webp"
+          "imageFile": "items/52.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 53,
           "name": "惡屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/53.webp"
+          "imageFile": "items/53.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 54,
           "name": "鋼屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/54.webp"
+          "imageFile": "items/54.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 55,
           "name": "妖精屬性的糖果S",
           "category": "糖果",
-          "imageFile": "items/55.webp"
+          "imageFile": "items/55.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 56,
           "name": "一般屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/56.webp"
+          "imageFile": "items/56.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 57,
           "name": "火屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/57.webp"
+          "imageFile": "items/57.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 58,
           "name": "水屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/58.webp"
+          "imageFile": "items/58.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 59,
           "name": "電屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/59.webp"
+          "imageFile": "items/59.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 60,
           "name": "草屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/60.webp"
+          "imageFile": "items/60.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 61,
           "name": "冰屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/61.webp"
+          "imageFile": "items/61.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 62,
           "name": "格鬥屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/62.webp"
+          "imageFile": "items/62.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 63,
           "name": "毒屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/63.webp"
+          "imageFile": "items/63.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 64,
           "name": "地面屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/64.webp"
+          "imageFile": "items/64.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 65,
           "name": "飛行屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/65.webp"
+          "imageFile": "items/65.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 66,
           "name": "超能力屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/66.webp"
+          "imageFile": "items/66.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 67,
           "name": "蟲屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/67.webp"
+          "imageFile": "items/67.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 68,
           "name": "岩石屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/68.webp"
+          "imageFile": "items/68.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 69,
           "name": "幽靈屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/69.webp"
+          "imageFile": "items/69.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 70,
           "name": "龍屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/70.webp"
+          "imageFile": "items/70.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 71,
           "name": "惡屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/71.webp"
+          "imageFile": "items/71.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 72,
           "name": "鋼屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/72.webp"
+          "imageFile": "items/72.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 73,
           "name": "妖精屬性的糖果M",
           "category": "糖果",
-          "imageFile": "items/73.webp"
+          "imageFile": "items/73.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 74,
           "name": "一般屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/74.webp"
+          "imageFile": "items/74.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 75,
           "name": "火屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/75.webp"
+          "imageFile": "items/75.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 76,
           "name": "水屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/76.webp"
+          "imageFile": "items/76.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 77,
           "name": "電屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/77.webp"
+          "imageFile": "items/77.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 78,
           "name": "草屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/78.webp"
+          "imageFile": "items/78.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 79,
           "name": "冰屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/79.webp"
+          "imageFile": "items/79.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 80,
           "name": "格鬥屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/80.webp"
+          "imageFile": "items/80.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 81,
           "name": "毒屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/81.webp"
+          "imageFile": "items/81.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 82,
           "name": "地面屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/82.webp"
+          "imageFile": "items/82.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 83,
           "name": "飛行屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/83.webp"
+          "imageFile": "items/83.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 84,
           "name": "超能力屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/84.webp"
+          "imageFile": "items/84.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 85,
           "name": "蟲屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/85.webp"
+          "imageFile": "items/85.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 86,
           "name": "岩石屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/86.webp"
+          "imageFile": "items/86.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 87,
           "name": "幽靈屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/87.webp"
+          "imageFile": "items/87.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 88,
           "name": "龍屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/88.webp"
+          "imageFile": "items/88.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 89,
           "name": "惡屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/89.webp"
+          "imageFile": "items/89.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 90,
           "name": "鋼屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/90.webp"
+          "imageFile": "items/90.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 91,
           "name": "妖精屬性的糖果L",
           "category": "糖果",
-          "imageFile": "items/91.webp"
+          "imageFile": "items/91.webp",
+          "usage": "兑换成对应属性的宝可梦糖果。"
         },
         {
           "id": 36,
           "name": "雷公的鬃毛",
           "category": "活动研究物品",
-          "imageFile": "items/36.webp"
+          "imageFile": "items/36.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 93,
           "name": "炎帝的鬃毛",
           "category": "活动研究物品",
-          "imageFile": "items/93.webp"
+          "imageFile": "items/93.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 96,
           "name": "水君的鬃毛",
           "category": "活动研究物品",
-          "imageFile": "items/96.webp"
+          "imageFile": "items/96.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 98,
           "name": "美夢幣",
           "category": "活动研究物品",
-          "imageFile": "items/98.webp"
+          "imageFile": "items/98.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 100,
           "name": "克雷色利亞的羽絨",
           "category": "活动研究物品",
-          "imageFile": "items/100.webp"
+          "imageFile": "items/100.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 105,
           "name": "寶可夢的掉落物",
           "category": "活动研究物品",
-          "imageFile": "items/105.webp"
+          "imageFile": "items/105.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 107,
           "name": "美夢幣",
           "category": "活动研究物品",
-          "imageFile": "items/107.webp"
+          "imageFile": "items/107.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 111,
           "name": "拉帝亞斯的羽絨",
           "category": "活动研究物品",
-          "imageFile": "items/111.webp"
+          "imageFile": "items/111.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 113,
           "name": "拉帝歐斯的羽絨",
           "category": "活动研究物品",
-          "imageFile": "items/113.webp"
+          "imageFile": "items/113.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 118,
           "name": "超夢的基因",
           "category": "活动研究物品",
-          "imageFile": "items/118.webp"
+          "imageFile": "items/118.webp",
+          "usage": "用于在对应活动的兑换处换取奖励。"
         },
         {
           "id": 103,
           "name": "淨白薄荷",
           "category": "薄荷",
-          "imageFile": "items/103.webp"
+          "imageFile": "items/103.webp",
+          "usage": "消除性格对帮忙能力的增减效果。"
         },
         {
           "id": 101,
           "name": "靈感種子（寶可夢專屬）",
           "category": "灵感种子",
-          "imageFile": "items/101.webp"
+          "imageFile": "items/101.webp",
+          "usage": "用于解锁对应宝可梦的副技能或食材；梦幻也可用它解锁或切换主技能。",
+          "compatiblePokemonIds": [
+            491
+          ]
         },
         {
           "id": 109,
           "name": "靈感種子（寶可夢專屬）",
           "category": "灵感种子",
-          "imageFile": "items/109.webp"
+          "imageFile": "items/109.webp",
+          "usage": "用于解锁对应宝可梦的副技能或食材；梦幻也可用它解锁或切换主技能。",
+          "compatiblePokemonIds": [
+            151
+          ],
+          "sharedImageId": 101
         },
         {
           "id": 5,
@@ -1187,7 +1305,8 @@
           "diamondPurchaseQuantity": 1,
           "name": "活力枕頭",
           "category": "其他",
-          "imageFile": "items/5.webp"
+          "imageFile": "items/5.webp",
+          "usage": "恢复一只帮手宝可梦的活力。"
         },
         {
           "id": 6,
@@ -1195,7 +1314,8 @@
           "diamondPurchaseQuantity": 1,
           "name": "幫手哨子",
           "category": "其他",
-          "imageFile": "items/6.webp"
+          "imageFile": "items/6.webp",
+          "usage": "立即获得帮手队伍一段时间的帮忙成果。"
         },
         {
           "id": 7,
@@ -1203,7 +1323,8 @@
           "diamondPurchaseQuantity": 1,
           "name": "營地移動券",
           "category": "其他",
-          "imageFile": "items/7.webp"
+          "imageFile": "items/7.webp",
+          "usage": "用于变更当前研究营地。"
         },
         {
           "id": 8,
@@ -1211,43 +1332,50 @@
           "diamondPurchaseQuantity": 1,
           "name": "好露營券",
           "category": "其他",
-          "imageFile": "items/8.webp"
+          "imageFile": "items/8.webp",
+          "usage": "开启为期七天的好露营效果。"
         },
         {
           "id": 15,
           "name": "食材券S",
           "category": "其他",
-          "imageFile": "items/15.webp"
+          "imageFile": "items/15.webp",
+          "usage": "使用后获得随机食材。"
         },
         {
           "id": 16,
           "name": "食材券M",
           "category": "其他",
-          "imageFile": "items/16.webp"
+          "imageFile": "items/16.webp",
+          "usage": "使用后获得随机食材。"
         },
         {
           "id": 17,
           "name": "食材券L",
           "category": "其他",
-          "imageFile": "items/17.webp"
+          "imageFile": "items/17.webp",
+          "usage": "使用后获得随机食材。"
         },
         {
           "id": 18,
           "name": "夢之塊S",
           "category": "其他",
-          "imageFile": "items/18.webp"
+          "imageFile": "items/18.webp",
+          "usage": "使用后兑换为梦之碎片。"
         },
         {
           "id": 19,
           "name": "夢之塊M",
           "category": "其他",
-          "imageFile": "items/19.webp"
+          "imageFile": "items/19.webp",
+          "usage": "使用后兑换为梦之碎片。"
         },
         {
           "id": 20,
           "name": "夢之塊L",
           "category": "其他",
-          "imageFile": "items/20.webp"
+          "imageFile": "items/20.webp",
+          "usage": "使用后兑换为梦之碎片。"
         },
         {
           "id": 32,
@@ -1255,19 +1383,22 @@
           "diamondPurchaseQuantity": 1,
           "name": "主技能種子",
           "category": "其他",
-          "imageFile": "items/32.webp"
+          "imageFile": "items/32.webp",
+          "usage": "使帮手宝可梦的主技能提升一级。"
         },
         {
           "id": 33,
           "name": "副技能種子",
           "category": "其他",
-          "imageFile": "items/33.webp"
+          "imageFile": "items/33.webp",
+          "usage": "使一项已解锁且可提升的副技能提升一级。"
         },
         {
           "id": 104,
           "name": "EX券",
           "category": "其他",
-          "imageFile": "items/104.webp"
+          "imageFile": "items/104.webp",
+          "usage": "用于前往 EX 营地。"
         },
         {
           "id": 108,
@@ -1281,7 +1412,8 @@
             "energyCap": 123,
             "ignoreNegativeNature": true
           },
-          "legacyRewardKey": "berryJuice"
+          "legacyRewardKey": "berryJuice",
+          "usage": "恢复一只帮手宝可梦的活力。"
         },
         {
           "id": 114,
@@ -1289,31 +1421,41 @@
           "diamondPurchaseQuantity": 1,
           "name": "午睡放鬆券",
           "category": "其他",
-          "imageFile": "items/114.webp"
+          "imageFile": "items/114.webp",
+          "usage": "用于开启午睡放松功能。"
         },
         {
           "id": 115,
           "name": "主技能種子（寶可夢專屬）",
           "category": "其他",
-          "imageFile": "items/115.webp"
+          "imageFile": "items/115.webp",
+          "usage": "使指定宝可梦的主技能提升一级。",
+          "sharedImageId": 32,
+          "compatiblePokemonIds": [701, 957, 958, 959, 150, 590, 591, 200, 429, 546, 547]
         },
         {
           "id": 116,
           "name": "主技能種子（寶可夢專屬）",
           "category": "其他",
-          "imageFile": "items/116.webp"
+          "imageFile": "items/116.webp",
+          "usage": "使指定宝可梦的主技能提升一级。",
+          "sharedImageId": 32
         },
         {
           "id": 119,
           "name": "主技能種子（寶可夢專屬）",
           "category": "其他",
-          "imageFile": "items/119.webp"
+          "imageFile": "items/119.webp",
+          "usage": "使指定宝可梦的主技能提升一级。",
+          "sharedImageId": 32
         },
         {
           "id": 120,
           "name": "主技能種子（寶可夢專屬）",
           "category": "其他",
-          "imageFile": "items/120.webp"
+          "imageFile": "items/120.webp",
+          "usage": "使指定宝可梦的主技能提升一级。",
+          "sharedImageId": 32
         }
       ],
       "pokemonCatalog": [
@@ -1322,798 +1464,1259 @@
           "name": "梦妖的薰香",
           "category": "宝可梦薰香",
           "imageFile": "items/Incense-200.webp",
-          "pokemonItem": {"kind": "incense", "pokemonId": 200, "typeId": 14}
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 200,
+            "typeId": 14
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-328",
           "name": "大颚蚁的薰香",
           "category": "宝可梦薰香",
           "imageFile": "items/Incense-328.webp",
-          "pokemonItem": {"kind": "incense", "pokemonId": 328, "typeId": 9}
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 328,
+            "typeId": 9
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-403",
           "name": "小猫怪的薰香",
           "category": "宝可梦薰香",
           "imageFile": "items/Incense-403.webp",
-          "pokemonItem": {"kind": "incense", "pokemonId": 403, "typeId": 4}
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 403,
+            "typeId": 4
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-557",
           "name": "石居蟹的薰香",
           "category": "宝可梦薰香",
           "imageFile": "items/Incense-557.webp",
-          "pokemonItem": {"kind": "incense", "pokemonId": 557, "typeId": 12}
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 557,
+            "typeId": 12
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-710",
           "name": "南瓜精的薰香",
           "category": "宝可梦薰香",
           "imageFile": "items/Incense-710.webp",
-          "pokemonItem": {"kind": "incense", "pokemonId": 710, "typeId": 14}
+          "pokemonItem": {
+            "kind": "incense",
+            "pokemonId": 710,
+            "typeId": 14
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Candy-1",
           "name": "妙蛙種子的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-1.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 1}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 1
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-4",
           "name": "小火龍的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-4.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 4}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 4
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-7",
           "name": "傑尼龜的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-7.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 7}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 7
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-10",
           "name": "綠毛蟲的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-10.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 10}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 10
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-19",
           "name": "小拉達的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-19.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 19}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 19
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-23",
           "name": "阿柏蛇的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-23.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 23}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 23
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-25",
           "name": "皮卡丘的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-25.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 25}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 25
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-27",
           "name": "穿山鼠的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-27.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 27}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 27
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-35",
           "name": "皮皮的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-35.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 35}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 35
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-37",
           "name": "六尾的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-37.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 37}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 37
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-39",
           "name": "胖丁的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-39.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 39}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 39
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-50",
           "name": "地鼠的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-50.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 50}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 50
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-52",
           "name": "喵喵的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-52.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 52}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 52
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-54",
           "name": "可達鴨的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-54.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 54}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 54
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-56",
           "name": "猴怪的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-56.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 56}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 56
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-58",
           "name": "卡蒂狗的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-58.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 58}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 58
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-69",
           "name": "喇叭芽的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-69.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 69}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 69
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-74",
           "name": "小拳石的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-74.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 74}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 74
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-79",
           "name": "呆呆獸的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-79.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 79}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 79
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-81",
           "name": "小磁怪的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-81.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 81}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 81
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-83",
           "name": "大蔥鴨的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-83.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 83}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 83
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-84",
           "name": "嘟嘟的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-84.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 84}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 84
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-92",
           "name": "鬼斯的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-92.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 92}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 92
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-95",
           "name": "大岩蛇的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-95.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 95}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 95
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-104",
           "name": "卡拉卡拉的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-104.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 104}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 104
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-113",
           "name": "吉利蛋的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-113.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 113}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 113
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-115",
           "name": "袋獸的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-115.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 115}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 115
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-122",
           "name": "魔牆人偶的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-122.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 122}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 122
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-127",
           "name": "凱羅斯的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-127.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 127}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 127
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-132",
           "name": "百變怪的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-132.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 132}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 132
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-133",
           "name": "伊布的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-133.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 133}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 133
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-147",
           "name": "迷你龍的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-147.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 147}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 147
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-150",
           "name": "超夢的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-150.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 150}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 150
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-151",
           "name": "夢幻的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-151.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 151}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 151
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-152",
           "name": "菊草葉的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-152.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 152}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 152
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-155",
           "name": "火球鼠的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-155.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 155}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 155
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-158",
           "name": "小鋸鱷的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-158.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 158}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 158
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-175",
           "name": "波克比的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-175.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 175}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 175
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-177",
           "name": "天然雀的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-177.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 177}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 177
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-179",
           "name": "咩利羊的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-179.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 179}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 179
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-185",
           "name": "樹才怪的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-185.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 185}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 185
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-194",
           "name": "烏波的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-194.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 194}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 194
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-198",
           "name": "黑暗鴉的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-198.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 198}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 198
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-200",
           "name": "梦妖的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-200.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 200}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 200
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-546",
           "name": "木棉球的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-546.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 546}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 546
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-202",
           "name": "果然翁的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-202.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 202}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 202
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-213",
           "name": "壺壺的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-213.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 213}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 213
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-214",
           "name": "赫拉克羅斯的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-214.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 214}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 214
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-215",
           "name": "狃拉的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-215.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 215}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 215
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-225",
           "name": "信使鳥的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-225.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 225}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 225
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-228",
           "name": "戴魯比的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-228.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 228}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 228
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-243",
           "name": "雷公的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-243.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 243}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 243
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-244",
           "name": "炎帝的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-244.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 244}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 244
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-245",
           "name": "水君的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-245.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 245}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 245
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-246",
           "name": "幼基拉斯的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-246.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 246}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 246
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-252",
           "name": "木守宮的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-252.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 252}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 252
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-255",
           "name": "火稚雞的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-255.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 255}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 255
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-258",
           "name": "水躍魚的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-258.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 258}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 258
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-280",
           "name": "拉魯拉絲的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-280.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 280}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 280
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-287",
           "name": "懶人獺的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-287.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 287}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 287
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-302",
           "name": "勾魂眼的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-302.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 302}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 302
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-303",
           "name": "大嘴娃的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-303.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 303}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 303
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-304",
           "name": "可可多拉的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-304.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 304}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 304
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-311",
           "name": "正電拍拍的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-311.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 311}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 311
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-312",
           "name": "負電拍拍的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-312.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 312}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 312
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-316",
           "name": "溶食獸的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-316.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 316}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 316
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-328",
           "name": "大顎蟻的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-328.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 328}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 328
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-333",
           "name": "青綿鳥的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-333.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 333}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 333
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-353",
           "name": "怨影娃娃的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-353.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 353}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 353
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-359",
           "name": "阿勃梭魯的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-359.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 359}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 359
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-363",
           "name": "海豹球的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-363.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 363}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 363
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-371",
           "name": "寶貝龍的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-371.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 371}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 371
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-380",
           "name": "拉帝亞斯的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-380.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 380}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 380
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-381",
           "name": "拉帝歐斯的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-381.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 381}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 381
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-387",
           "name": "草苗龜的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-387.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 387}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 387
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-390",
           "name": "小火焰猴的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-390.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 390}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 390
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-393",
           "name": "波加曼的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-393.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 393}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 393
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-403",
           "name": "小貓怪的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-403.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 403}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 403
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-425",
           "name": "飄飄球的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-425.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 425}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 425
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-442",
           "name": "花岩怪的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-442.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 442}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 442
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-448",
           "name": "路卡利歐的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-448.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 448}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 448
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-453",
           "name": "不良蛙的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-453.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 453}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 453
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-459",
           "name": "雪笠怪的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-459.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 459}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 459
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-488",
           "name": "克雷色利亞的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-488.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 488}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 488
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-491",
           "name": "達克萊伊的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-491.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 491}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 491
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-517",
           "name": "食夢夢的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-517.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 517}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 517
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-557",
           "name": "石居蟹的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-557.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 557}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 557
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-590",
           "name": "哎呀球菇的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-590.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 590}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 590
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-627",
           "name": "毛頭小鷹的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-627.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 627}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 627
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-696",
           "name": "寶寶暴龍的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-696.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 696}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 696
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-701",
           "name": "摔角鷹人的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-701.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 701}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 701
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-702",
           "name": "咚咚鼠的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-702.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 702}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 702
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-710",
           "name": "南瓜精的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-710.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 710}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 710
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-714",
           "name": "嗡蝠的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-714.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 714}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 714
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-736",
           "name": "強顎雞母蟲的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-736.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 736}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 736
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-742",
           "name": "萌虻的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-742.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 742}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 742
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-759",
           "name": "童偶熊的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-759.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 759}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 759
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-764",
           "name": "花療環環的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-764.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 764}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 764
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-777",
           "name": "托戈德瑪爾的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-777.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 777}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 777
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-778",
           "name": "謎擬Ｑ的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-778.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 778}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 778
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-780",
           "name": "老翁龍的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-780.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 780}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 780
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-845",
           "name": "古月鳥的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-845.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 845}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 845
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-848",
           "name": "毒電嬰的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-848.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 848}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 848
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-906",
           "name": "新葉喵的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-906.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 906}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 906
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-909",
           "name": "呆火鱷的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-909.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 909}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 909
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-912",
           "name": "潤水鴨的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-912.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 912}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 912
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-921",
           "name": "布撥的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-921.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 921}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 921
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-957",
           "name": "小鍛匠的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-957.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 957}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 957
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Candy-974",
           "name": "走鯨的糖果",
           "category": "糖果",
           "imageFile": "items/Candy-974.webp",
-          "pokemonItem": {"kind": "candy", "pokemonId": 974}
+          "pokemonItem": {
+            "kind": "candy",
+            "pokemonId": 974
+          },
+          "usage": "用来提升对应宝可梦的等级或满足进化条件。"
         },
         {
           "id": "Incense-133",
@@ -2124,7 +2727,8 @@
             "kind": "incense",
             "pokemonId": 133,
             "typeId": 1
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-1",
@@ -2135,7 +2739,8 @@
             "kind": "incense",
             "pokemonId": 1,
             "typeId": 5
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-4",
@@ -2146,7 +2751,8 @@
             "kind": "incense",
             "pokemonId": 4,
             "typeId": 2
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-7",
@@ -2157,7 +2763,8 @@
             "kind": "incense",
             "pokemonId": 7,
             "typeId": 3
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-147",
@@ -2168,7 +2775,8 @@
             "kind": "incense",
             "pokemonId": 147,
             "typeId": 15
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-280",
@@ -2179,7 +2787,8 @@
             "kind": "incense",
             "pokemonId": 280,
             "typeId": 11
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-759",
@@ -2190,7 +2799,8 @@
             "kind": "incense",
             "pokemonId": 759,
             "typeId": 7
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-359",
@@ -2201,7 +2811,8 @@
             "kind": "incense",
             "pokemonId": 359,
             "typeId": 16
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-79",
@@ -2212,7 +2823,8 @@
             "kind": "incense",
             "pokemonId": 79,
             "typeId": 3
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-152",
@@ -2223,7 +2835,8 @@
             "kind": "incense",
             "pokemonId": 152,
             "typeId": 5
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-127",
@@ -2234,7 +2847,8 @@
             "kind": "incense",
             "pokemonId": 127,
             "typeId": 12
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-39",
@@ -2245,7 +2859,8 @@
             "kind": "incense",
             "pokemonId": 39,
             "typeId": 18
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-172",
@@ -2256,7 +2871,8 @@
             "kind": "incense",
             "pokemonId": 172,
             "typeId": 4
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-702",
@@ -2267,7 +2883,8 @@
             "kind": "incense",
             "pokemonId": 702,
             "typeId": 4
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-179",
@@ -2278,7 +2895,8 @@
             "kind": "incense",
             "pokemonId": 179,
             "typeId": 4
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-764",
@@ -2289,7 +2907,8 @@
             "kind": "incense",
             "pokemonId": 764,
             "typeId": 18
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-155",
@@ -2300,7 +2919,8 @@
             "kind": "incense",
             "pokemonId": 155,
             "typeId": 2
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-37",
@@ -2311,7 +2931,8 @@
             "kind": "incense",
             "pokemonId": 37,
             "typeId": 2
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-58",
@@ -2322,7 +2943,8 @@
             "kind": "incense",
             "pokemonId": 58,
             "typeId": 2
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-845",
@@ -2333,7 +2955,8 @@
             "kind": "incense",
             "pokemonId": 845,
             "typeId": 10
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-214",
@@ -2344,7 +2967,8 @@
             "kind": "incense",
             "pokemonId": 214,
             "typeId": 12
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-158",
@@ -2355,7 +2979,8 @@
             "kind": "incense",
             "pokemonId": 158,
             "typeId": 3
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-906",
@@ -2366,7 +2991,8 @@
             "kind": "incense",
             "pokemonId": 906,
             "typeId": 5
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-909",
@@ -2377,7 +3003,8 @@
             "kind": "incense",
             "pokemonId": 909,
             "typeId": 2
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-912",
@@ -2388,7 +3015,8 @@
             "kind": "incense",
             "pokemonId": 912,
             "typeId": 3
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-194",
@@ -2399,7 +3027,8 @@
             "kind": "incense",
             "pokemonId": 194,
             "typeId": 3
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-304",
@@ -2410,7 +3039,8 @@
             "kind": "incense",
             "pokemonId": 304,
             "typeId": 17
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-736",
@@ -2421,7 +3051,8 @@
             "kind": "incense",
             "pokemonId": 736,
             "typeId": 12
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-425",
@@ -2432,7 +3063,8 @@
             "kind": "incense",
             "pokemonId": 425,
             "typeId": 14
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-92",
@@ -2443,7 +3075,8 @@
             "kind": "incense",
             "pokemonId": 92,
             "typeId": 14
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-353",
@@ -2454,7 +3087,8 @@
             "kind": "incense",
             "pokemonId": 353,
             "typeId": 14
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-778",
@@ -2465,7 +3099,8 @@
             "kind": "incense",
             "pokemonId": 778,
             "typeId": 14
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-921",
@@ -2476,7 +3111,8 @@
             "kind": "incense",
             "pokemonId": 921,
             "typeId": 4
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-7006",
@@ -2487,7 +3123,8 @@
             "kind": "incense",
             "pokemonId": 7006,
             "typeId": 6
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-9004",
@@ -2498,7 +3135,8 @@
             "kind": "incense",
             "pokemonId": 9004,
             "typeId": 1
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-9002",
@@ -2509,7 +3147,8 @@
             "kind": "incense",
             "pokemonId": 9002,
             "typeId": 4
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-215",
@@ -2520,7 +3159,8 @@
             "kind": "incense",
             "pokemonId": 215,
             "typeId": 16
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-627",
@@ -2531,7 +3171,8 @@
             "kind": "incense",
             "pokemonId": 627,
             "typeId": 10
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-7054",
@@ -2542,7 +3183,8 @@
             "kind": "incense",
             "pokemonId": 7054,
             "typeId": 8
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-517",
@@ -2553,7 +3195,8 @@
             "kind": "incense",
             "pokemonId": 517,
             "typeId": 11
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-439",
@@ -2564,7 +3207,8 @@
             "kind": "incense",
             "pokemonId": 439,
             "typeId": 11
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-360",
@@ -2575,7 +3219,8 @@
             "kind": "incense",
             "pokemonId": 360,
             "typeId": 11
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-440",
@@ -2586,7 +3231,8 @@
             "kind": "incense",
             "pokemonId": 440,
             "typeId": 1
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-303",
@@ -2597,7 +3243,8 @@
             "kind": "incense",
             "pokemonId": 303,
             "typeId": 17
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-83",
@@ -2608,7 +3255,8 @@
             "kind": "incense",
             "pokemonId": 83,
             "typeId": 10
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-252",
@@ -2619,7 +3267,8 @@
             "kind": "incense",
             "pokemonId": 252,
             "typeId": 5
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-255",
@@ -2630,7 +3279,8 @@
             "kind": "incense",
             "pokemonId": 255,
             "typeId": 2
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-258",
@@ -2641,7 +3291,8 @@
             "kind": "incense",
             "pokemonId": 258,
             "typeId": 3
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-311",
@@ -2652,7 +3303,8 @@
             "kind": "incense",
             "pokemonId": 311,
             "typeId": 4
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-312",
@@ -2663,7 +3315,8 @@
             "kind": "incense",
             "pokemonId": 312,
             "typeId": 4
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-848",
@@ -2674,7 +3327,8 @@
             "kind": "incense",
             "pokemonId": 848,
             "typeId": 8
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-177",
@@ -2685,7 +3339,8 @@
             "kind": "incense",
             "pokemonId": 177,
             "typeId": 11
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-132",
@@ -2696,7 +3351,8 @@
             "kind": "incense",
             "pokemonId": 132,
             "typeId": 1
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-371",
@@ -2707,7 +3363,8 @@
             "kind": "incense",
             "pokemonId": 371,
             "typeId": 15
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-442",
@@ -2718,7 +3375,8 @@
             "kind": "incense",
             "pokemonId": 442,
             "typeId": 16
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-974",
@@ -2729,7 +3387,8 @@
             "kind": "incense",
             "pokemonId": 974,
             "typeId": 6
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-777",
@@ -2740,7 +3399,8 @@
             "kind": "incense",
             "pokemonId": 777,
             "typeId": 17
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-9006",
@@ -2751,7 +3411,8 @@
             "kind": "incense",
             "pokemonId": 9006,
             "typeId": 6
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-198",
@@ -2762,7 +3423,8 @@
             "kind": "incense",
             "pokemonId": 198,
             "typeId": 16
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-213",
@@ -2773,7 +3435,8 @@
             "kind": "incense",
             "pokemonId": 213,
             "typeId": 12
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-742",
@@ -2784,7 +3447,8 @@
             "kind": "incense",
             "pokemonId": 742,
             "typeId": 18
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-714",
@@ -2795,7 +3459,8 @@
             "kind": "incense",
             "pokemonId": 714,
             "typeId": 15
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-27",
@@ -2806,7 +3471,8 @@
             "kind": "incense",
             "pokemonId": 27,
             "typeId": 9
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-696",
@@ -2817,7 +3483,8 @@
             "kind": "incense",
             "pokemonId": 696,
             "typeId": 13
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-780",
@@ -2828,7 +3495,8 @@
             "kind": "incense",
             "pokemonId": 780,
             "typeId": 15
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-387",
@@ -2839,7 +3507,8 @@
             "kind": "incense",
             "pokemonId": 387,
             "typeId": 5
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-390",
@@ -2850,7 +3519,8 @@
             "kind": "incense",
             "pokemonId": 390,
             "typeId": 2
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-393",
@@ -2861,7 +3531,8 @@
             "kind": "incense",
             "pokemonId": 393,
             "typeId": 3
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-701",
@@ -2872,7 +3543,8 @@
             "kind": "incense",
             "pokemonId": 701,
             "typeId": 10
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-9007",
@@ -2883,7 +3555,8 @@
             "kind": "incense",
             "pokemonId": 9007,
             "typeId": 4
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-957",
@@ -2894,7 +3567,8 @@
             "kind": "incense",
             "pokemonId": 957,
             "typeId": 18
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-590",
@@ -2905,7 +3579,8 @@
             "kind": "incense",
             "pokemonId": 590,
             "typeId": 8
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         },
         {
           "id": "Incense-546",
@@ -2916,7 +3591,8 @@
             "kind": "incense",
             "pokemonId": 546,
             "typeId": 18
-          }
+          },
+          "usage": "让对应宝可梦在睡眠研究中出现。"
         }
       ],
       "roles": {

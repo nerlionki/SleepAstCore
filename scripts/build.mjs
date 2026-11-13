@@ -11,7 +11,7 @@ import { validateActivityArchive } from './activity-archive.mjs'
 import { validateShinyStacking } from './shiny-stacking.mjs'
 import { validateSkillResources } from './validate-skill-resources.mjs'
 import { validateIdImages } from './id-images.mjs'
-import { installItemCatalog } from './item-catalog.mjs'
+import { installItemCatalog, itemImageAliases } from './item-catalog.mjs'
 const root = path.resolve(import.meta.dirname, '..')
 const pkg = JSON.parse(await fs.readFile(path.join(root, 'package.json'), 'utf8'))
 const version = (process.env.RESOURCE_VERSION || pkg.version).replace(/^v/, '')
@@ -87,26 +87,32 @@ async function copyImages(source, prefix) {
     if (item.isDirectory()) await copyImages(file, `${relative}/`)
     else if (/\.(webp|png|jpe?g|svg)$/i.test(item.name)) {
       const bytes = await fs.readFile(file)
-      const target = `${directory}/${relative}`
-      if (assets[relative]) throw Error(`Duplicate asset: ${relative}`)
-      const item = { path: '/' + target, bytes: bytes.length, sha256: sha256(bytes) }
-      const previous = baseline?.assets[relative]
-      const previousPrefix = '/' + context + '/resources/v' + api + '/releases/' + baseline?.version + '/'
-      if (previous && previous.path?.startsWith(previousPrefix) && !/[\\?#%]/.test(previous.path)
-        && !previous.path.split('/').includes('..') && previous.bytes === item.bytes && previous.sha256 === item.sha256
-        && previous.path !== item.path) {
-        reused.files.push({ asset: relative, ...item, source: previous.path })
-      } else {
-        await fs.mkdir(path.dirname(path.join(dist, target)), { recursive: true })
-        await fs.writeFile(path.join(dist, target), bytes)
-      }
-      assets[relative] = item
+      await writeImage(relative, bytes)
     }
   }
+}
+async function writeImage(relative, bytes) {
+  const target = `${directory}/${relative}`
+  if (assets[relative]) throw Error(`Duplicate asset: ${relative}`)
+  const item = { path: '/' + target, bytes: bytes.length, sha256: sha256(bytes) }
+  const previous = baseline?.assets[relative]
+  const previousPrefix = '/' + context + '/resources/v' + api + '/releases/' + baseline?.version + '/'
+  if (previous && previous.path?.startsWith(previousPrefix) && !/[\\?#%]/.test(previous.path)
+    && !previous.path.split('/').includes('..') && previous.bytes === item.bytes && previous.sha256 === item.sha256
+    && previous.path !== item.path) {
+    reused.files.push({ asset: relative, ...item, source: previous.path })
+  } else {
+    await fs.mkdir(path.dirname(path.join(dist, target)), { recursive: true })
+    await fs.writeFile(path.join(dist, target), bytes)
+  }
+  assets[relative] = item
 }
 await copyImages(path.join(root, 'src/assets/imgs'), 'images/')
 await copyImages(path.join(root, 'public/items'), 'items/')
 await copyImages(path.join(root, 'public/sprites'), 'sprites/')
+for (const [alias, source] of itemImageAliases(data)) {
+  await writeImage(alias, await fs.readFile(path.join(root, 'public', source)))
+}
 validateIdImages(data, assets)
 const announcedPokemon = data['meta.json'].announcedContent?.pokemon ?? []
 validateBundleArtwork(data['meta.json'].eventBundles, data['pokedex.json'], assets, bundleItems, announcedPokemon)
