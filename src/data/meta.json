@@ -1,10 +1,10 @@
 {
   "version": "2026-10-26",
   "source": "Sleep游戏资料.md",
-  "pokedex": 252,
+  "pokedex": 253,
   "recipes": 81,
   "islands": 9,
-  "sleepStyles": 2789,
+  "sleepStyles": 2822,
   "mushroomSleepSource": "RAE 普通岛睡姿，2026-10-06 核验",
   "sleepDprSource": "RAE 各地图参考值；EX2 缺项按 EX1 ×1.0351 估算；5 条普通睡姿保留未核验旧估算；梦妖一家普通岛确定值、萌绿EX用户授权预估参考值于2026-10-26接入",
   "balanceUpdateSource": "RAE 2026-10-23 核验：耿鬼食材率16.6%；锅容量84/87按用户要求提前用于规划；梦妖一家生产数据经连续3次确认加入计算，普通岛DPR已确定、萌绿EX按用户授权预估，见 rae-misdreavus-source.json",
@@ -38,7 +38,7 @@
         "numericSource": "用户确认能量 112。RAENONX 2026-11-12 食谱图用该能量复核 Lv.1 料理能量。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 20,
-        "imageSource": "assigned-display-id",
+        "imageSource": "https://cdn.raenonx.cc/api/content/pks?src=/images/ingredient/20.png",
         "imageUsage": "id-mapped",
         "imageFile": "ingredient/20.webp"
       }
@@ -58,17 +58,17 @@
         "runtimeId": null,
         "specialty": null,
         "production": null,
+        "berry": "桃桃果",
+        "carry": 10,
+        "friendship": 5,
+        "medalGroup": 1,
+        "evolution": { "candy": 80, "next": "风妖精", "itemId": 123 },
         "sleepStyles": null,
-        "unknownFields": [
-          "runtimeId",
-          "specialty",
-          "production",
-          "sleepStyles"
-        ],
+        "unknownFields": ["runtimeId", "specialty", "production"],
         "status": "partial-official-announcement",
         "imageId": 546,
-        "imageSource": "https://www.pokemon.cn/play/pokedex/0546",
-        "imageUsage": "official-placeholder",
+        "imageSource": "https://pks.raenonx.cc/zh/pokedex/546",
+        "imageUsage": "id-mapped",
         "nationalDex": 546
       },
       {
@@ -85,6 +85,11 @@
         "runtimeId": null,
         "specialty": null,
         "production": null,
+        "berry": "桃桃果",
+        "carry": 17,
+        "friendship": 20,
+        "medalGroup": 4,
+        "evolution": { "previous": "木棉球" },
         "sleepStyles": null,
         "unknownFields": [
           "runtimeId",
@@ -94,8 +99,8 @@
         ],
         "status": "partial-official-announcement",
         "imageId": 547,
-        "imageSource": "https://www.pokemon.cn/play/pokedex/0547",
-        "imageUsage": "official-placeholder",
+        "imageSource": "https://pks.raenonx.cc/zh/pokedex/547",
+        "imageUsage": "id-mapped",
         "nationalDex": 547
       }
     ],
@@ -116,11 +121,23 @@
           "一口坚果": 15
         },
         "baseEnergy": 7950,
+        "levelEnergy": {
+          "1": 7950,
+          "10": 9381,
+          "20": 10733,
+          "30": 12799,
+          "40": 15582,
+          "50": 19239,
+          "60": 24089,
+          "70": 28461
+        },
         "bonus": 0.25,
         "unknownFields": ["name", "runtimeId"],
-        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 能量 7950，Lv.70 为 28461。非官方公布值。",
+        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 为基础能量，其余等级按既有食谱等级加成计算。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 1026,
+        "imageSource": "https://pks.raenonx.cc/zh/meal/1026",
+        "imageUsage": "id-mapped",
         "imageFile": "meal/1026.webp"
       },
       {
@@ -140,11 +157,23 @@
           "一口坚果": 30
         },
         "baseEnergy": 26350,
+        "levelEnergy": {
+          "1": 26350,
+          "10": 31093,
+          "20": 35573,
+          "30": 42424,
+          "40": 51646,
+          "50": 63767,
+          "60": 79841,
+          "70": 94333
+        },
         "bonus": 0.82,
         "unknownFields": ["name", "runtimeId"],
-        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 能量 26350，Lv.70 为 94333。非官方公布值。",
+        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 为基础能量，其余等级按既有食谱等级加成计算。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 2027,
+        "imageSource": "https://pks.raenonx.cc/zh/meal/2027",
+        "imageUsage": "id-mapped",
         "imageFile": "meal/2027.webp"
       },
       {
@@ -164,11 +193,23 @@
           "一口坚果": 26
         },
         "baseEnergy": 19846,
+        "levelEnergy": {
+          "1": 19846,
+          "10": 23418,
+          "20": 26792,
+          "30": 31952,
+          "40": 38898,
+          "50": 48027,
+          "60": 60133,
+          "70": 71049
+        },
         "bonus": 0.61,
         "unknownFields": ["name", "runtimeId"],
-        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 能量 19846，Lv.70 为 71049。非官方公布值。",
+        "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 为基础能量，其余等级按既有食谱等级加成计算。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 3028,
+        "imageSource": "https://pks.raenonx.cc/zh/meal/3028",
+        "imageUsage": "id-mapped",
         "imageFile": "meal/3028.webp"
       }
     ]

@@ -10765,7 +10765,27 @@
             ]
           },
           "effects": {
-            "researchCandyMultiplier": 1.5,
+            "dreamShardsMultiplier": 1.5
+          }
+        },
+        {
+          "target": {
+            "specialties": [
+              "食材型"
+            ]
+          },
+          "effects": {
+            "researchCandyMultiplier": 1.5
+          },
+          "firstResearchOnly": true
+        },
+        {
+          "target": {
+            "skillFamilies": [
+              "食材精选S"
+            ]
+          },
+          "effects": {
             "dreamShardsMultiplier": 1.5
           }
         },
@@ -10776,9 +10796,9 @@
             ]
           },
           "effects": {
-            "researchCandyMultiplier": 1.5,
-            "dreamShardsMultiplier": 1.5
-          }
+            "researchCandyMultiplier": 1.5
+          },
+          "firstResearchOnly": true
         }
       ],
       "miniCandyBoost": {
@@ -11628,6 +11648,154 @@
         "shards": 4,
         "dailyLimit": 50
       }
+    },
+    {
+      "id": "good-sleep-day-41",
+      "name": "第41次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/343537373035343036333435353130393133/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-11-23",
+      "endsOn": "2026-11-26",
+      "rules": [],
+      "phases": [
+        {
+          "startsOn": "2026-11-23",
+          "endsOn": "2026-11-24",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            },
+            {
+              "target": {
+                "pokemonIds": [
+                  35,
+                  36,
+                  173
+                ]
+              },
+              "effects": {
+                "encounterWeightMultiplier": 6
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-11-24",
+          "endsOn": "2026-11-25",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 3,
+                "sleepExpMultiplier": 3
+              }
+            },
+            {
+              "target": {
+                "pokemonIds": [
+                  35,
+                  36,
+                  173
+                ]
+              },
+              "effects": {
+                "encounterWeightMultiplier": 9
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-11-25",
+          "endsOn": "2026-11-26",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            },
+            {
+              "target": {
+                "pokemonIds": [
+                  35,
+                  36,
+                  173
+                ]
+              },
+              "effects": {
+                "encounterWeightMultiplier": 6
+              }
+            }
+          ]
+        }
+      ],
+      "tutorialEligible": false,
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537373035343036333435353130393133/",
+          "note": "2026-11-13 核验。中幅/大幅采用项目既有模拟权重，官方未公布精确倍率。"
+        }
+      ],
+      "features": [
+        {
+          "id": "special-encounter",
+          "name": "梦幻特别出没",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "仅每日首次研究可能遇见，未遇见会逐渐提高概率，出现时额外增加1只；首次点心时间不容易吃饱，遇见时友情点数+3。精确概率未公布。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537373035343036333435353130393133/",
+          "parameters": {
+            "pokemon": "梦幻",
+            "firstResearchOnly": true,
+            "probability": null,
+            "extraEncounterSlots": 1,
+            "friendshipPoints": 3
+          }
+        },
+        {
+          "id": "undiscovered-sleep-styles",
+          "name": "未发现睡姿出现概率提升",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "官方仅公布定性提升。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537373035343036333435353130393133/"
+        },
+        {
+          "id": "bonus-sleep-points",
+          "name": "红利睡眠点数",
+          "status": "informational",
+          "domains": [
+            "research"
+          ],
+          "description": "每天仅首次睡眠。满月日+1000，前后两日各+500。",
+          "source": "https://www.pokemonsleep.net/zh/news/343537373035343036333435353130393133/",
+          "parameters": {
+            "firstResearchOnly": true,
+            "sections": [
+              {
+                "title": "第2天（满月之日）",
+                "lines": [
+                  "红利睡眠点数 +1000pt"
+                ]
+              },
+              {
+                "title": "第1天、第3天",
+                "lines": [
+                  "红利睡眠点数 +500pt"
+                ]
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

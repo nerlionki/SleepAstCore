@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedOn": "2026-11-06",
+  "checkedOn": "2026-11-13",
   "sourceNotes": "官方公告优先。RAE 页面本次未能读取，未标记为交叉核验。销售时间按玩家本地时间；展示到关联活动结束日结束。",
   "bundles": [
     {
@@ -530,6 +530,49 @@
         {
           "kind": "official",
           "url": "https://www.pokemonsleep.net/zh/news/343537363333323535313634373339353930/"
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-vol41",
+      "name": "好眠日限定包vol.41",
+      "eventId": "good-sleep-day-41",
+      "eventName": "第41次好眠日",
+      "announcedOn": "2026-11-13",
+      "eventEndsOn": "2026-11-26",
+      "saleStartsAt": "2026-11-22T04:00:00",
+      "saleEndsAt": "2026-11-27T03:59:00",
+      "price": {
+        "amount": 1500,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "name": "超级沙布蕾",
+          "itemId": 10,
+          "quantity": 9
+        },
+        {
+          "name": "幸运薰香",
+          "itemId": 2,
+          "quantity": 2
+        },
+        {
+          "name": "成长薰香",
+          "itemId": 3,
+          "quantity": 2
+        },
+        {
+          "name": "专注薰香",
+          "itemId": 1,
+          "quantity": 2
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537373035343036393234333234383738/"
         }
       ]
     }

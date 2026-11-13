@@ -697,9 +697,112 @@
             ]
           },
           "effects": {
-            "researchCandyMultiplier": 1.5,
             "dreamShardsMultiplier": 1.5
           }
+        },
+        {
+          "target": {
+            "pokemonIds": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              27,
+              28,
+              50,
+              51,
+              69,
+              70,
+              71,
+              74,
+              75,
+              76,
+              83,
+              92,
+              93,
+              94,
+              113,
+              115,
+              122,
+              127,
+              132,
+              147,
+              148,
+              149,
+              194,
+              195,
+              198,
+              225,
+              242,
+              246,
+              247,
+              248,
+              303,
+              304,
+              305,
+              306,
+              328,
+              329,
+              330,
+              359,
+              403,
+              404,
+              405,
+              430,
+              439,
+              440,
+              442,
+              453,
+              454,
+              459,
+              460,
+              557,
+              558,
+              701,
+              710,
+              71002,
+              71003,
+              71004,
+              711,
+              71102,
+              71103,
+              71104,
+              736,
+              737,
+              738,
+              742,
+              743,
+              759,
+              760,
+              764,
+              780,
+              845,
+              906,
+              907,
+              908,
+              909,
+              910,
+              911,
+              912,
+              913,
+              914,
+              974,
+              975,
+              980,
+              7054,
+              590,
+              591
+            ]
+          },
+          "effects": {
+            "researchCandyMultiplier": 1.5
+          },
+          "firstResearchOnly": true
         },
         {
           "target": {
@@ -1731,6 +1834,90 @@
           "effects": {
             "ingredientCountBonus": 1
           }
+        }
+      ]
+    },
+    {
+      "id": "good-sleep-day-41",
+      "name": "第41次好眠日",
+      "source": "https://www.pokemonsleep.net/zh/news/343537373035343036333435353130393133/",
+      "priority": 10,
+      "stacking": "max",
+      "startsOn": "2026-11-23",
+      "endsOn": "2026-11-26",
+      "rules": [],
+      "phases": [
+        {
+          "startsOn": "2026-11-23",
+          "endsOn": "2026-11-24",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            },
+            {
+              "target": {
+                "pokemonIds": [
+                  35,
+                  36,
+                  173
+                ]
+              },
+              "effects": {
+                "encounterWeightMultiplier": 6
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-11-24",
+          "endsOn": "2026-11-25",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 3,
+                "sleepExpMultiplier": 3
+              }
+            },
+            {
+              "target": {
+                "pokemonIds": [
+                  35,
+                  36,
+                  173
+                ]
+              },
+              "effects": {
+                "encounterWeightMultiplier": 9
+              }
+            }
+          ]
+        },
+        {
+          "startsOn": "2026-11-25",
+          "endsOn": "2026-11-26",
+          "rules": [
+            {
+              "effects": {
+                "drowsyPowerMultiplier": 1.5,
+                "sleepExpMultiplier": 2
+              }
+            },
+            {
+              "target": {
+                "pokemonIds": [
+                  35,
+                  36,
+                  173
+                ]
+              },
+              "effects": {
+                "encounterWeightMultiplier": 6
+              }
+            }
+          ]
         }
       ]
     }

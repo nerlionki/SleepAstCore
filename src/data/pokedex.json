@@ -17,28 +17,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "妙蛙種子"
@@ -61,28 +50,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "妙蛙草"
@@ -105,28 +83,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "妙蛙花"
@@ -149,28 +116,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "小火龍"
@@ -193,28 +149,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "火恐龍"
@@ -237,28 +182,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "噴火龍"
@@ -281,28 +215,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "傑尼龜"
@@ -325,28 +248,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "卡咪龜"
@@ -369,28 +281,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "水箭龜"
@@ -413,28 +314,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "綠毛蟲"
@@ -457,28 +347,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "鐵甲蛹"
@@ -501,28 +380,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "巴大蝶"
@@ -545,28 +413,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "小拉達"
@@ -589,28 +446,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "拉達"
@@ -633,28 +479,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "阿柏蛇"
@@ -677,28 +512,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "阿柏怪"
@@ -721,28 +545,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "皮卡丘"
@@ -765,28 +578,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "雷丘"
@@ -809,28 +611,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "穿山鼠"
@@ -853,28 +644,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "穿山王"
@@ -897,28 +677,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "皮皮"
@@ -941,28 +710,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "皮可西"
@@ -985,28 +743,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "六尾"
@@ -1029,28 +776,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "九尾"
@@ -1073,28 +809,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "胖丁"
@@ -1117,28 +842,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "胖可丁"
@@ -1161,28 +875,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "地鼠"
@@ -1205,28 +908,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "三地鼠"
@@ -1249,19 +941,12 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "喵喵"
@@ -1284,19 +969,12 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "貓老大"
@@ -1319,28 +997,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "可達鴨"
@@ -1363,28 +1030,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "哥達鴨"
@@ -1407,28 +1063,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "猴怪"
@@ -1451,28 +1096,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "火爆猴"
@@ -1495,28 +1129,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "卡蒂狗"
@@ -1539,28 +1162,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "風速狗"
@@ -1583,28 +1195,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "喇叭芽"
@@ -1627,28 +1228,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "口呆花"
@@ -1671,28 +1261,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "大食花"
@@ -1715,28 +1294,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "小拳石"
@@ -1759,28 +1327,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "隆隆石"
@@ -1803,28 +1360,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "隆隆岩"
@@ -1847,28 +1393,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 14,
         "name": "美味尾巴",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "呆呆獸"
@@ -1891,28 +1426,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 14,
         "name": "美味尾巴",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "呆殼獸"
@@ -1935,19 +1459,12 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "小磁怪"
@@ -1970,19 +1487,12 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "三合一磁怪"
@@ -2005,28 +1515,17 @@
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          8,
-          13
-        ]
+        "amounts": [8, 13]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          12,
-          12,
-          12
-        ]
+        "amounts": [12, 12, 12]
       }
     ],
     "formKey": "大蔥鴨"
@@ -2049,28 +1548,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "嘟嘟"
@@ -2093,28 +1581,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "嘟嘟利"
@@ -2137,28 +1614,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "鬼斯"
@@ -2181,28 +1647,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "鬼斯通"
@@ -2225,28 +1680,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "耿鬼"
@@ -2269,28 +1713,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "大岩蛇"
@@ -2313,19 +1746,12 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "卡拉卡拉"
@@ -2348,19 +1774,12 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "嘎啦嘎啦"
@@ -2383,28 +1802,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "吉利蛋"
@@ -2427,28 +1835,17 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "袋獸"
@@ -2471,28 +1868,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "魔牆人偶"
@@ -2515,28 +1901,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          5,
-          8
-        ]
+        "amounts": [5, 8]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "凱羅斯"
@@ -2559,28 +1934,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 14,
         "name": "美味尾巴",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "百變怪"
@@ -2603,28 +1967,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "伊布"
@@ -2647,28 +2000,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "水伊布"
@@ -2691,28 +2033,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "雷伊布"
@@ -2735,28 +2066,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "火伊布"
@@ -2779,28 +2099,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "迷你龍"
@@ -2823,28 +2132,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "哈克龍"
@@ -2867,28 +2165,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "快龍"
@@ -2911,28 +2198,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "超夢"
@@ -2955,74 +2231,42 @@
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          3,
-          4
-        ]
+        "amounts": [2, 3, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          4,
-          6
-        ]
+        "amounts": [2, 4, 6]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          4,
-          5
-        ]
+        "amounts": [2, 4, 5]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          4,
-          7
-        ]
+        "amounts": [2, 4, 7]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          4,
-          6
-        ]
+        "amounts": [2, 4, 6]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 19,
         "name": "嫩亮酪梨",
-        "amounts": [
-          2,
-          3,
-          4
-        ]
+        "amounts": [2, 3, 4]
       },
       {
         "id": 14,
         "name": "美味尾巴",
-        "amounts": [
-          0,
-          0,
-          2
-        ]
+        "amounts": [0, 0, 2]
       }
     ],
     "formKey": "夢幻"
@@ -3045,28 +2289,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "菊草葉"
@@ -3089,28 +2322,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "月桂葉"
@@ -3133,28 +2355,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "大竺葵"
@@ -3177,28 +2388,17 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "火球鼠"
@@ -3221,28 +2421,17 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "火岩鼠"
@@ -3265,28 +2454,17 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "火爆獸"
@@ -3309,19 +2487,12 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "小鋸鱷"
@@ -3344,19 +2515,12 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "藍鱷"
@@ -3379,19 +2543,12 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "大力鱷"
@@ -3414,28 +2571,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "皮丘"
@@ -3458,28 +2604,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "皮寶寶"
@@ -3502,28 +2637,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "寶寶丁"
@@ -3546,28 +2670,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "波克比"
@@ -3590,28 +2703,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "波克基古"
@@ -3634,28 +2736,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "天然雀"
@@ -3678,28 +2769,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "天然鳥"
@@ -3722,19 +2802,12 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       }
     ],
     "formKey": "咩利羊"
@@ -3757,19 +2830,12 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       }
     ],
     "formKey": "茸茸羊"
@@ -3792,19 +2858,12 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       }
     ],
     "formKey": "電龍"
@@ -3827,28 +2886,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "樹才怪"
@@ -3871,28 +2919,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          6,
-          10
-        ]
+        "amounts": [6, 10]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          12,
-          12,
-          12
-        ]
+        "amounts": [12, 12, 12]
       }
     ],
     "formKey": "烏波"
@@ -3915,28 +2952,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          6,
-          10
-        ]
+        "amounts": [6, 10]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          12,
-          12,
-          12
-        ]
+        "amounts": [12, 12, 12]
       }
     ],
     "formKey": "沼王"
@@ -3959,28 +2985,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "太陽伊布"
@@ -4003,28 +3018,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "月亮伊布"
@@ -4047,28 +3051,17 @@
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          3,
-          6
-        ]
+        "amounts": [3, 6]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "黑暗鴉"
@@ -4091,28 +3084,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 14,
         "name": "美味尾巴",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "呆呆王"
@@ -4135,28 +3117,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "果然翁"
@@ -4179,28 +3150,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "大鋼蛇"
@@ -4223,28 +3183,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "壺壺"
@@ -4267,28 +3216,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "赫拉克羅斯"
@@ -4311,28 +3249,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "狃拉"
@@ -4355,28 +3282,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          6,
-          9
-        ]
+        "amounts": [6, 9]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "信使鳥"
@@ -4399,28 +3315,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "戴魯比"
@@ -4443,28 +3348,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "黑魯加"
@@ -4487,28 +3381,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "幸福蛋"
@@ -4531,28 +3414,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "雷公"
@@ -4575,28 +3447,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "炎帝"
@@ -4619,28 +3480,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "水君"
@@ -4663,28 +3513,17 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          5,
-          8
-        ]
+        "amounts": [5, 8]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "幼基拉斯"
@@ -4707,28 +3546,17 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          5,
-          8
-        ]
+        "amounts": [5, 8]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "沙基拉斯"
@@ -4751,28 +3579,17 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          5,
-          8
-        ]
+        "amounts": [5, 8]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "班基拉斯"
@@ -4795,28 +3612,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "木守宮"
@@ -4839,28 +3645,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "森林蜥蜴"
@@ -4883,28 +3678,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "蜥蜴王"
@@ -4927,28 +3711,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "火稚雞"
@@ -4971,28 +3744,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "力壯雞"
@@ -5015,28 +3777,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "火焰雞"
@@ -5059,28 +3810,17 @@
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "水躍魚"
@@ -5103,28 +3843,17 @@
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "沼躍魚"
@@ -5147,28 +3876,17 @@
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "巨沼怪"
@@ -5191,28 +3909,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "拉魯拉絲"
@@ -5235,28 +3942,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "奇魯莉安"
@@ -5279,28 +3975,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "沙奈朵"
@@ -5323,28 +4008,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "懶人獺"
@@ -5367,28 +4041,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "過動猿"
@@ -5411,28 +4074,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "請假王"
@@ -5455,28 +4107,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "勾魂眼"
@@ -5499,28 +4140,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "大嘴娃"
@@ -5543,28 +4173,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "可可多拉"
@@ -5587,28 +4206,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "可多拉"
@@ -5631,28 +4239,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "波士可多拉"
@@ -5675,28 +4272,17 @@
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "正電拍拍"
@@ -5719,28 +4305,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "負電拍拍"
@@ -5763,28 +4338,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "溶食獸"
@@ -5807,28 +4371,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "吞食獸"
@@ -5851,28 +4404,17 @@
       {
         "id": 19,
         "name": "嫩亮酪梨",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          6,
-          9
-        ]
+        "amounts": [6, 9]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          12,
-          12,
-          12
-        ]
+        "amounts": [12, 12, 12]
       }
     ],
     "formKey": "大顎蟻"
@@ -5895,28 +4437,17 @@
       {
         "id": 19,
         "name": "嫩亮酪梨",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          6,
-          9
-        ]
+        "amounts": [6, 9]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          12,
-          12,
-          12
-        ]
+        "amounts": [12, 12, 12]
       }
     ],
     "formKey": "超音波幼蟲"
@@ -5939,28 +4470,17 @@
       {
         "id": 19,
         "name": "嫩亮酪梨",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          6,
-          9
-        ]
+        "amounts": [6, 9]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          12,
-          12,
-          12
-        ]
+        "amounts": [12, 12, 12]
       }
     ],
     "formKey": "沙漠蜻蜓"
@@ -5983,28 +4503,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "青綿鳥"
@@ -6027,28 +4536,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "七夕青鳥"
@@ -6071,28 +4569,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "怨影娃娃"
@@ -6115,28 +4602,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "詛咒娃娃"
@@ -6159,28 +4635,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          8,
-          12
-        ]
+        "amounts": [8, 12]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "阿勃梭魯"
@@ -6203,28 +4668,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "小果然"
@@ -6247,28 +4701,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "海豹球"
@@ -6291,28 +4734,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "海魔獅"
@@ -6335,28 +4767,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "帝牙海獅"
@@ -6379,28 +4800,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "寶貝龍"
@@ -6423,28 +4833,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "甲殼龍"
@@ -6467,28 +4866,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "暴飛龍"
@@ -6511,28 +4899,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "拉帝亞斯"
@@ -6555,28 +4932,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "拉帝歐斯"
@@ -6599,28 +4965,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "草苗龜"
@@ -6643,28 +4998,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "樹林龜"
@@ -6687,28 +5031,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "土台龜"
@@ -6731,28 +5064,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "小火焰猴"
@@ -6775,28 +5097,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "猛火猴"
@@ -6819,28 +5130,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "烈焰猴"
@@ -6863,28 +5163,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "波加曼"
@@ -6907,28 +5196,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "波皇子"
@@ -6951,28 +5229,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "帝王拿波"
@@ -6995,28 +5262,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "小貓怪"
@@ -7039,28 +5295,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "勒克貓"
@@ -7083,28 +5328,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "倫琴貓"
@@ -7127,28 +5361,17 @@
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "飄飄球"
@@ -7171,28 +5394,17 @@
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "隨風球"
@@ -7215,28 +5427,17 @@
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          3,
-          6
-        ]
+        "amounts": [3, 6]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "烏鴉頭頭"
@@ -7259,28 +5460,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "盆才怪"
@@ -7303,28 +5493,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "魔尼尼"
@@ -7347,28 +5526,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "小福蛋"
@@ -7391,28 +5559,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "花岩怪"
@@ -7435,28 +5592,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "利歐路"
@@ -7479,28 +5625,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "路卡利歐"
@@ -7523,19 +5658,12 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          5,
-          8
-        ]
+        "amounts": [5, 8]
       }
     ],
     "formKey": "不良蛙"
@@ -7558,19 +5686,12 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          5,
-          8
-        ]
+        "amounts": [5, 8]
       }
     ],
     "formKey": "毒骷蛙"
@@ -7593,28 +5714,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "雪笠怪"
@@ -7637,28 +5747,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "暴雪王"
@@ -7681,28 +5780,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "瑪狃拉"
@@ -7725,19 +5813,12 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       }
     ],
     "formKey": "自爆磁怪"
@@ -7760,28 +5841,17 @@
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "波克基斯"
@@ -7804,28 +5874,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "葉伊布"
@@ -7848,28 +5907,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "冰伊布"
@@ -7892,28 +5940,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "艾路雷朵"
@@ -7936,28 +5973,17 @@
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "克雷色利亞"
@@ -7980,74 +6006,42 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          2,
-          4,
-          6
-        ]
+        "amounts": [2, 4, 6]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          3,
-          4
-        ]
+        "amounts": [2, 3, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          2,
-          3,
-          5
-        ]
+        "amounts": [2, 3, 5]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          2,
-          4,
-          6
-        ]
+        "amounts": [2, 4, 6]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          4,
-          6
-        ]
+        "amounts": [2, 4, 6]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          4,
-          6
-        ]
+        "amounts": [2, 4, 6]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          3,
-          4
-        ]
+        "amounts": [2, 3, 4]
       }
     ],
     "formKey": "達克萊伊"
@@ -8070,28 +6064,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "食夢夢"
@@ -8114,28 +6097,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "夢夢蝕"
@@ -8158,28 +6130,17 @@
       {
         "id": 19,
         "name": "嫩亮酪梨",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "石居蟹"
@@ -8202,28 +6163,17 @@
       {
         "id": 19,
         "name": "嫩亮酪梨",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          5
-        ]
+        "amounts": [3, 5]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "岩殿居蟹"
@@ -8246,28 +6196,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "毛頭小鷹"
@@ -8290,28 +6229,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "勇士雄鷹"
@@ -8334,28 +6262,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "寶寶暴龍"
@@ -8378,28 +6295,17 @@
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "怪顎龍"
@@ -8422,28 +6328,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "仙子伊布"
@@ -8466,28 +6361,17 @@
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "摔角鷹人"
@@ -8510,28 +6394,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "咚咚鼠"
@@ -8554,28 +6427,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          11,
-          18
-        ]
+        "amounts": [11, 18]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          15,
-          15,
-          15
-        ]
+        "amounts": [15, 15, 15]
       }
     ],
     "formKey": "南瓜精中顆種"
@@ -8598,28 +6460,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          11,
-          18
-        ]
+        "amounts": [11, 18]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          15,
-          15,
-          15
-        ]
+        "amounts": [15, 15, 15]
       }
     ],
     "formKey": "南瓜精小顆種"
@@ -8642,28 +6493,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          11,
-          18
-        ]
+        "amounts": [11, 18]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          15,
-          15,
-          15
-        ]
+        "amounts": [15, 15, 15]
       }
     ],
     "formKey": "南瓜精大顆種"
@@ -8686,28 +6526,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          11,
-          18
-        ]
+        "amounts": [11, 18]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          15,
-          15,
-          15
-        ]
+        "amounts": [15, 15, 15]
       }
     ],
     "formKey": "南瓜精巨顆種"
@@ -8730,28 +6559,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          11,
-          18
-        ]
+        "amounts": [11, 18]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          15,
-          15,
-          15
-        ]
+        "amounts": [15, 15, 15]
       }
     ],
     "formKey": "南瓜怪人中顆種"
@@ -8774,28 +6592,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          11,
-          18
-        ]
+        "amounts": [11, 18]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          15,
-          15,
-          15
-        ]
+        "amounts": [15, 15, 15]
       }
     ],
     "formKey": "南瓜怪人小顆種"
@@ -8818,28 +6625,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          11,
-          18
-        ]
+        "amounts": [11, 18]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          15,
-          15,
-          15
-        ]
+        "amounts": [15, 15, 15]
       }
     ],
     "formKey": "南瓜怪人大顆種"
@@ -8862,28 +6658,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          11,
-          18
-        ]
+        "amounts": [11, 18]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          15,
-          15,
-          15
-        ]
+        "amounts": [15, 15, 15]
       }
     ],
     "formKey": "南瓜怪人巨顆種"
@@ -8906,28 +6691,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "嗡蝠"
@@ -8950,28 +6724,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "音波龍"
@@ -8994,28 +6757,17 @@
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          11,
-          11,
-          11
-        ]
+        "amounts": [11, 11, 11]
       }
     ],
     "formKey": "強顎雞母蟲"
@@ -9038,28 +6790,17 @@
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          11,
-          11,
-          11
-        ]
+        "amounts": [11, 11, 11]
       }
     ],
     "formKey": "蟲電寶"
@@ -9082,28 +6823,17 @@
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          11,
-          11,
-          11
-        ]
+        "amounts": [11, 11, 11]
       }
     ],
     "formKey": "鍬農炮蟲"
@@ -9126,28 +6856,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "萌虻"
@@ -9170,28 +6889,17 @@
       {
         "id": 9,
         "name": "甜甜蜜",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "蝶結萌虻"
@@ -9214,28 +6922,17 @@
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          6,
-          10
-        ]
+        "amounts": [6, 10]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          9,
-          9,
-          9
-        ]
+        "amounts": [9, 9, 9]
       }
     ],
     "formKey": "童偶熊"
@@ -9258,28 +6955,17 @@
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          6,
-          10
-        ]
+        "amounts": [6, 10]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          9,
-          9,
-          9
-        ]
+        "amounts": [9, 9, 9]
       }
     ],
     "formKey": "穿著熊"
@@ -9302,28 +6988,17 @@
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          6,
-          9
-        ]
+        "amounts": [6, 9]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "花療環環"
@@ -9346,28 +7021,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 19,
         "name": "嫩亮酪梨",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "托戈德瑪爾"
@@ -9390,28 +7054,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "謎擬Ｑ"
@@ -9434,28 +7087,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 19,
         "name": "嫩亮酪梨",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          7,
-          7,
-          7
-        ]
+        "amounts": [7, 7, 7]
       }
     ],
     "formKey": "老翁龍"
@@ -9478,28 +7120,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "古月鳥"
@@ -9522,28 +7153,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "毒電嬰"
@@ -9566,28 +7186,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "顫弦蠑螈高調"
@@ -9610,28 +7219,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          6,
-          9
-        ]
+        "amounts": [6, 9]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "新葉喵"
@@ -9654,28 +7252,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          6,
-          9
-        ]
+        "amounts": [6, 9]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "蒂蕾喵"
@@ -9698,28 +7285,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          6,
-          9
-        ]
+        "amounts": [6, 9]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          8,
-          8,
-          8
-        ]
+        "amounts": [8, 8, 8]
       }
     ],
     "formKey": "魔幻假面喵"
@@ -9742,28 +7318,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "呆火鱷"
@@ -9786,28 +7351,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "炙燙鱷"
@@ -9830,28 +7384,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 6,
         "name": "火辣香草",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "骨紋巨聲鱷"
@@ -9874,28 +7417,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "潤水鴨"
@@ -9918,28 +7450,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "湧躍鴨"
@@ -9962,28 +7483,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          6,
-          6,
-          6
-        ]
+        "amounts": [6, 6, 6]
       }
     ],
     "formKey": "狂歡浪舞鴨"
@@ -10006,28 +7516,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          3,
-          6
-        ]
+        "amounts": [3, 6]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "布撥"
@@ -10050,28 +7549,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          3,
-          6
-        ]
+        "amounts": [3, 6]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "布土撥"
@@ -10094,28 +7582,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          3,
-          6
-        ]
+        "amounts": [3, 6]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          5,
-          5,
-          5
-        ]
+        "amounts": [5, 5, 5]
       }
     ],
     "formKey": "巴布土撥"
@@ -10138,28 +7615,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "小鍛匠"
@@ -10182,28 +7648,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "巧鍛匠"
@@ -10226,28 +7681,17 @@
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "巨鍛匠"
@@ -10270,28 +7714,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          5,
-          9
-        ]
+        "amounts": [5, 9]
       },
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "走鯨"
@@ -10314,28 +7747,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          5,
-          9
-        ]
+        "amounts": [5, 9]
       },
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "浩大鯨"
@@ -10358,28 +7780,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          9,
-          9,
-          9
-        ]
+        "amounts": [9, 9, 9]
       }
     ],
     "formKey": "土王"
@@ -10402,28 +7813,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "六尾阿羅拉"
@@ -10446,28 +7846,17 @@
       {
         "id": 15,
         "name": "萌绿大豆",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 16,
         "name": "萌绿玉米",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "九尾阿羅拉"
@@ -10490,28 +7879,17 @@
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          4,
-          7
-        ]
+        "amounts": [4, 7]
       },
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          9,
-          9,
-          9
-        ]
+        "amounts": [9, 9, 9]
       }
     ],
     "formKey": "烏波帕底亞"
@@ -10534,28 +7912,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          2,
-          4
-        ]
+        "amounts": [2, 4]
       },
       {
         "id": 1,
         "name": "粗枝大葱",
-        "amounts": [
-          2,
-          2,
-          2
-        ]
+        "amounts": [2, 2, 2]
       }
     ],
     "formKey": "顫弦蠑螈低調"
@@ -10578,28 +7945,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "皮卡丘萬聖節"
@@ -10622,28 +7978,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "皮卡丘佳節"
@@ -10666,28 +8011,17 @@
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          1,
-          2
-        ]
+        "amounts": [1, 2]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "伊布佳節"
@@ -10710,28 +8044,17 @@
       {
         "id": 18,
         "name": "沉甸甸南瓜",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 13,
         "name": "放松可可",
-        "amounts": [
-          4,
-          6
-        ]
+        "amounts": [4, 6]
       },
       {
         "id": 8,
         "name": "哞哞鲜奶",
-        "amounts": [
-          9,
-          9,
-          9
-        ]
+        "amounts": [9, 9, 9]
       }
     ],
     "formKey": "伊布萬聖節"
@@ -10754,28 +8077,17 @@
       {
         "id": 10,
         "name": "纯粹油",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 7,
         "name": "豆制肉",
-        "amounts": [
-          3,
-          4
-        ]
+        "amounts": [3, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          4,
-          4,
-          4
-        ]
+        "amounts": [4, 4, 4]
       }
     ],
     "formKey": "海豹球佳節"
@@ -10798,28 +8110,17 @@
       {
         "id": 5,
         "name": "特选苹果",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 11,
         "name": "暖暖姜",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          3,
-          3,
-          3
-        ]
+        "amounts": [3, 3, 3]
       }
     ],
     "formKey": "皮卡丘船長"
@@ -10842,26 +8143,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          7,
-          10
-        ]
+        "amounts": [7, 10]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          11
-        ]
+        "amounts": [11]
       }
     ],
     "formKey": "哎呀球菇"
@@ -10884,26 +8176,17 @@
       {
         "id": 2,
         "name": "品鲜蘑菇",
-        "amounts": [
-          2,
-          5,
-          7
-        ]
+        "amounts": [2, 5, 7]
       },
       {
         "id": 3,
         "name": "特选蛋",
-        "amounts": [
-          7,
-          10
-        ]
+        "amounts": [7, 10]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          11
-        ]
+        "amounts": [11]
       }
     ],
     "formKey": "敗露球菇"
@@ -10926,26 +8209,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          4
-        ]
+        "amounts": [4]
       }
     ],
     "formKey": "夢妖"
@@ -10968,26 +8242,17 @@
       {
         "id": 4,
         "name": "窝心洋芋",
-        "amounts": [
-          1,
-          2,
-          4
-        ]
+        "amounts": [1, 2, 4]
       },
       {
         "id": 17,
         "name": "醒脑咖啡豆",
-        "amounts": [
-          2,
-          3
-        ]
+        "amounts": [2, 3]
       },
       {
         "id": 12,
         "name": "好眠番茄",
-        "amounts": [
-          4
-        ]
+        "amounts": [4]
       }
     ],
     "formKey": "夢妖魔"
@@ -10996,7 +8261,16 @@
     "id": 546,
     "name": "木棉球",
     "sleepType": "安然入睡",
+    "berry": "桃桃果",
     "berryType": "妖精",
     "formKey": "木棉球"
+  },
+  {
+    "id": 547,
+    "name": "风妖精",
+    "sleepType": "安然入睡",
+    "berry": "桃桃果",
+    "berryType": "妖精",
+    "formKey": "风妖精"
   }
 ]
