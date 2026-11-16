@@ -102,7 +102,8 @@
     {
       "name": "一口坚果与使用它的3道料理",
       "officialDisplayedAvailableFrom": "2026-11-15 19:00",
-      "policy": "运行编号和料理名未公布，仍不写入正式食材表与食谱表。公告资料已记入 RAENONX 2026-11-12 食谱图的食材数量、料理加成和 Lv.1 基础能量；Lv.10、20、30、40、50、60、70 按既有食谱等级加成计算。一口坚果能量 112 由用户确认。图片取自 RAENONX 食谱页 meal/1026、meal/2027、meal/3028 及其引用的 ingredient/20.png，按既有图标尺寸转为 WebP。"
+      "policy": "公告食谱资料采用 RAENONX 2026-11-12 食谱图的食材数量、料理加成和 Lv.1 基础能量；Lv.10、20、30、40、50、60、70 按既有食谱等级加成计算。图片取自 RAENONX 食谱页 meal/1026、meal/2027、meal/3028 及其引用的 ingredient/20.png，按既有图标尺寸转为 WebP。",
+      "recipeNameSource": "2026-11-16 核对 RAENONX 的 zh、ja、en 食谱页（meal/1026、meal/2027、meal/3028），按食材数量、配方及基础能量匹配公告条目。简体名称沿用项目用词，由繁中名称转换。"
     },
     {
       "name": "木棉球与风妖精",
@@ -110,9 +111,24 @@
         "https://pks.raenonx.cc/zh/pokedex/546",
         "https://pks.raenonx.cc/zh/pokedex/547"
       ],
-      "policy": "2026-11-13 从 RAENONX CDN 重新下载 546、547 的普通及异色图标和立绘，按 128／256 像素宽转为无损 WebP。547 图标保留源图底色，避免按底色抠图误删头部。树果为桃桃果。木棉球携带上限 10、友情点数 5、进化需 80 糖果和道具 123；风妖精携带上限 17、友情点数 20。帮忙间隔、专长、食材和主技能仍未公布，不写入产量。已公布睡姿档的睡意之力沿用同岛屿同 spo 的既有参考值。风妖精四星睡姿 spo 83 没有已核验睡意之力，不沿用其他宝可梦的旧估算。"
+      "policy": "2026-11-13 从 RAENONX CDN 重新下载 546、547 的普通及异色图标和立绘，按 128／256 像素宽转为无损 WebP。547 图标保留源图底色，避免按底色抠图误删头部。树果为桃桃果。木棉球携带上限 10、友情点数 5、进化需 80 糖果和道具 123；风妖精携带上限 17、友情点数 20。生产数据的后续接入见 cottoneeProductionUpdate。已公布睡姿档的睡意之力沿用同岛屿同 spo 的既有参考值。风妖精四星睡姿 spo 83 没有已核验睡意之力，不沿用其他宝可梦的旧估算。"
     }
   ],
+  "cottoneeProductionUpdate": {
+    "capturedAt": "2026-11-16T10:03:43+08:00",
+    "sources": [
+      "https://pks.raenonx.cc/zh/pokedex/546",
+      "https://pks.raenonx.cc/zh/pokedex/547",
+      "https://pks.raenonx.cc/zh/ingredient/info/20"
+    ],
+    "policy": "用户要求先接入 10:03 补查结果。两只的帮速、主技能和食材槽已达到连续三轮一致；概率采用当时 RAE 标为已确认的社区实测值。木棉球食材率 20.0% 与原占位数值相同，来源确认状态已变化。睡姿 DPR 仍按定时检查核实。",
+    "pokemon": [
+      { "id": 546, "ingredientRate": 0.2, "skillRate": 0.035, "raeSampleCount": 12 },
+      { "id": 547, "ingredientRate": 0.199, "skillRate": 0.038, "raeSampleCount": 10 }
+    ],
+    "ingredient": { "id": 20, "energy": 112, "shards": 4 },
+    "ingredientRankings": "使用 SleepAstCore 当前资料和客户端现有食材 Top 3 算法重算。采用 Lv.70、五层帮忙奖励和 2000 小时勋章，关闭活动加成，不计主技能直接发放的食材。prod/test 的一口坚果与嫩亮酪梨榜单随生产资料同步更新。"
+  },
   "audit": {
     "existingPokemonChecked": 249,
     "fetchErrors": 0,

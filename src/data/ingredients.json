@@ -112,5 +112,11 @@
     "name": "嫩亮酪梨",
     "energy": 162,
     "shards": 6
+  },
+  {
+    "id": 20,
+    "name": "一口坚果",
+    "energy": 112,
+    "shards": 4
   }
 ]

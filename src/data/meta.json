@@ -113,7 +113,7 @@
         "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
         "availableFrom": "2026-11-16T04:00:00",
         "timeBasis": "game-local",
-        "name": null,
+        "name": "种子炸弹烤饼咖喱",
         "runtimeId": null,
         "ingredientQuantities": {
           "萌绿玉米": 12,
@@ -132,7 +132,7 @@
           "70": 28461
         },
         "bonus": 0.25,
-        "unknownFields": ["name", "runtimeId"],
+        "unknownFields": ["runtimeId"],
         "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 为基础能量，其余等级按既有食谱等级加成计算。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 1026,
@@ -148,7 +148,7 @@
         "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
         "availableFrom": "2026-11-16T04:00:00",
         "timeBasis": "game-local",
-        "name": null,
+        "name": "打草结沙拉卷",
         "runtimeId": null,
         "ingredientQuantities": {
           "暖暖姜": 36,
@@ -168,7 +168,7 @@
           "70": 94333
         },
         "bonus": 0.82,
-        "unknownFields": ["name", "runtimeId"],
+        "unknownFields": ["runtimeId"],
         "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 为基础能量，其余等级按既有食谱等级加成计算。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 2027,
@@ -184,7 +184,7 @@
         "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
         "availableFrom": "2026-11-16T04:00:00",
         "timeBasis": "game-local",
-        "name": null,
+        "name": "美味尾巴蛋糕卷",
         "runtimeId": null,
         "ingredientQuantities": {
           "特选蛋": 33,
@@ -204,7 +204,7 @@
           "70": 71049
         },
         "bonus": 0.61,
-        "unknownFields": ["name", "runtimeId"],
+        "unknownFields": ["runtimeId"],
         "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 为基础能量，其余等级按既有食谱等级加成计算。非官方公布值。",
         "status": "partial-official-announcement",
         "imageId": 3028,

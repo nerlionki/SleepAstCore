@@ -8260,17 +8260,43 @@
   {
     "id": 546,
     "name": "木棉球",
+    "specialty": "食材型",
     "sleepType": "安然入睡",
     "berry": "桃桃果",
     "berryType": "妖精",
+    "interval": 4600,
+    "carry": 10,
+    "ingredientRate": 0.2,
+    "skillRate": 0.035,
+    "mainSkill": "活力填充S",
+    "friendship": 5,
+    "medalGroup": 1,
+    "ingredients": [
+      { "id": 20, "name": "一口坚果", "amounts": [2, 5, 7] },
+      { "id": 19, "name": "嫩亮酪梨", "amounts": [3, 5] },
+      { "id": 12, "name": "好眠番茄", "amounts": [7] }
+    ],
     "formKey": "木棉球"
   },
   {
     "id": 547,
     "name": "风妖精",
+    "specialty": "食材型",
     "sleepType": "安然入睡",
     "berry": "桃桃果",
     "berryType": "妖精",
+    "interval": 2400,
+    "carry": 17,
+    "ingredientRate": 0.199,
+    "skillRate": 0.038,
+    "mainSkill": "活力填充S",
+    "friendship": 20,
+    "medalGroup": 4,
+    "ingredients": [
+      { "id": 20, "name": "一口坚果", "amounts": [2, 5, 7] },
+      { "id": 19, "name": "嫩亮酪梨", "amounts": [3, 5] },
+      { "id": 12, "name": "好眠番茄", "amounts": [7] }
+    ],
     "formKey": "风妖精"
   }
 ]
