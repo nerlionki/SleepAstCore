@@ -1834,6 +1834,24 @@
           "effects": {
             "ingredientCountBonus": 1
           }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "cyan",
+              "canyon",
+              "greenex",
+              "cyanex"
+            ],
+            "pokemonIds": [
+              546,
+              547
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 6
+          }
         }
       ]
     },

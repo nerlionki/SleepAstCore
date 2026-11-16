@@ -1761,9 +1761,9 @@
               "greenex",
               "cyanex"
             ],
-            "pokemonNames": [
-              "木棉球",
-              "风妖精"
+            "pokemonIds": [
+              546,
+              547
             ]
           },
           "effects": {

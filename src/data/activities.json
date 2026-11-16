@@ -11587,6 +11587,24 @@
             },
             "carryCapacityBonus": 10
           }
+        },
+        {
+          "target": {
+            "islands": [
+              "greengrass",
+              "cyan",
+              "canyon",
+              "greenex",
+              "cyanex"
+            ],
+            "pokemonIds": [
+              546,
+              547
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 6
+          }
         }
       ],
       "features": [
@@ -11597,7 +11615,7 @@
           "domains": [
             "research"
           ],
-          "description": "官方只公布定性中幅提升；精确遭遇权重未公开，不沿用项目模拟权重。",
+          "description": "官方仅公布中幅提升；数值6沿用项目 event-parameters.json 的 mid 模拟权重，并非官方概率。未有完整睡姿资料时不生成虚构睡姿。",
           "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
           "parameters": {
             "officialTier": "medium",
@@ -11609,7 +11627,7 @@
         {
           "kind": "official",
           "url": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
-          "note": "本次读取官方正文（含官方网页的 Wayback 副本）；计算数值仅采用官方。"
+          "note": "官方公告确认木棉球、风妖精在五个营地中幅提升。抽取倍率采用项目 event-parameters.json 的中 UP 模拟权重。"
         }
       ],
       "tutorialEligible": false

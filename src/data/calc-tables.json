@@ -1306,6 +1306,12 @@
           "name": "活力枕頭",
           "category": "其他",
           "imageFile": "items/5.webp",
+          "useEffect": {
+            "op": "heal",
+            "amount": 50,
+            "energyCap": 150,
+            "ignoreNegativeNature": true
+          },
           "usage": "恢复一只帮手宝可梦 50 点活力。"
         },
         {
@@ -1439,7 +1445,7 @@
           "useEffect": {
             "op": "heal",
             "amount": 20,
-            "energyCap": 123,
+            "energyCap": 150,
             "ignoreNegativeNature": true
           },
           "legacyRewardKey": "berryJuice",
@@ -3626,7 +3632,8 @@
         }
       ],
       "roles": {
-        "berryJuice": 108
+        "berryJuice": 108,
+        "energyPillow": 5
       },
       "catalogVersion": 1
     },

@@ -251,6 +251,12 @@
       }
     },
     "scoreSimulation": {
+      "skillDecay": {
+        "windowMinutes": 1440,
+        "normalThreshold": 30,
+        "boostedThreshold": 45,
+        "probabilityMultiplier": 0.5
+      },
       "simulateScore": {
         "findingS": 0.18,
         "findingM": 0.36,

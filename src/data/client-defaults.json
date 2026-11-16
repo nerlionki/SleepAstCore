@@ -191,10 +191,12 @@
     "components_data_PotPane": {
       "indexInitial": 0,
       "categoryInitial": "curry",
+      "categoryViewInitial": "all",
       "openedInitial": null
     },
     "components_data_RecipePane": {
       "categoryInitial": "curry",
+      "categoryViewInitial": "all",
       "levelInitial": 1,
       "sortInitial": "energy",
       "openedInitial": null
@@ -970,6 +972,8 @@
       "defaultScoreOptions_initialZone": 0,
       "defaultScoreOptions_initialJuice": 0,
       "defaultScoreOptions_useJuice": true,
+      "defaultScoreOptions_initialPillows": 0,
+      "defaultScoreOptions_usePillows": false,
       "defaultScoreOptions_splitSleep": false,
       "defaultScoreOptions_device": false,
       "defaultScoreOptions_dayStart": "08:00",
