@@ -645,6 +645,35 @@
     ]
   },
   {
+    "id": 1026,
+    "name": "种子炸弹烤饼咖喱",
+    "category": "curry",
+    "pot": 39,
+    "baseEnergy": 7950,
+    "bonus": 0.25,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 16,
+        "name": "萌绿玉米",
+        "count": 12
+      },
+      {
+        "id": 18,
+        "name": "沉甸甸南瓜",
+        "count": 12
+      },
+      {
+        "id": 20,
+        "name": "一口坚果",
+        "count": 15
+      }
+    ],
+    "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+    "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 为基础能量，其余等级按既有食谱等级加成计算。非官方公布值。",
+    "imageSource": "https://pks.raenonx.cc/zh/meal/1026"
+  },
+  {
     "id": 2000,
     "name": "拌拌沙拉",
     "category": "salad",
@@ -1319,6 +1348,40 @@
         "count": 27
       }
     ]
+  },
+  {
+    "id": 2027,
+    "name": "打草结沙拉卷",
+    "category": "salad",
+    "pot": 121,
+    "baseEnergy": 26350,
+    "bonus": 0.82,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 11,
+        "name": "暖暖姜",
+        "count": 36
+      },
+      {
+        "id": 12,
+        "name": "好眠番茄",
+        "count": 33
+      },
+      {
+        "id": 19,
+        "name": "嫩亮酪梨",
+        "count": 22
+      },
+      {
+        "id": 20,
+        "name": "一口坚果",
+        "count": 30
+      }
+    ],
+    "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+    "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 为基础能量，其余等级按既有食谱等级加成计算。非官方公布值。",
+    "imageSource": "https://pks.raenonx.cc/zh/meal/2027"
   },
   {
     "id": 3000,
@@ -2011,5 +2074,39 @@
         "count": 21
       }
     ]
+  },
+  {
+    "id": 3028,
+    "name": "美味尾巴蛋糕卷",
+    "category": "dessert",
+    "pot": 91,
+    "baseEnergy": 19846,
+    "bonus": 0.61,
+    "mix": false,
+    "ingredients": [
+      {
+        "id": 3,
+        "name": "特选蛋",
+        "count": 33
+      },
+      {
+        "id": 14,
+        "name": "美味尾巴",
+        "count": 10
+      },
+      {
+        "id": 15,
+        "name": "萌绿大豆",
+        "count": 22
+      },
+      {
+        "id": 20,
+        "name": "一口坚果",
+        "count": 26
+      }
+    ],
+    "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
+    "numericSource": "RAENONX 2026-11-12 食谱图，不含岛屿加成。Lv.1 为基础能量，其余等级按既有食谱等级加成计算。非官方公布值。",
+    "imageSource": "https://pks.raenonx.cc/zh/meal/3028"
   }
 ]
