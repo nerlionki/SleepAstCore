@@ -3,6 +3,9 @@
   "locales": {
     "zh-TW": {
       "messages": {
+        "活动礼包#dream-shard-week-vol3-2026-s": "夢之碎片增量週同樂包S vol.3",
+        "活动礼包#dream-shard-week-vol3-2026-m": "夢之碎片增量週同樂包M vol.3",
+        "活动礼包#dream-shard-week-vol3-2026-l": "夢之碎片增量週同樂包L vol.3",
         "已有活力枕头（个）": "已有活力枕頭（個）",
         "允许规划使用活力枕头": "允許規劃使用活力枕頭",
         "活力枕头库存须为非负整数": "活力枕頭庫存須為非負整數",
@@ -3646,6 +3649,9 @@
     },
     "ja": {
       "messages": {
+        "活动礼包#dream-shard-week-vol3-2026-s": "ゆめのかけらGETウィークパックS vol.3",
+        "活动礼包#dream-shard-week-vol3-2026-m": "ゆめのかけらGETウィークパックM vol.3",
+        "活动礼包#dream-shard-week-vol3-2026-l": "ゆめのかけらGETウィークパックL vol.3",
         "已有活力枕头（个）": "げんきマクラの所持数",
         "允许规划使用活力枕头": "計画でげんきマクラの使用を許可",
         "活力枕头库存须为非负整数": "げんきマクラの所持数は0以上の整数で入力してください",
@@ -7225,6 +7231,9 @@
     },
     "en": {
       "messages": {
+        "活动礼包#dream-shard-week-vol3-2026-s": "Dream Shard Week Bundle Vol. 3 S",
+        "活动礼包#dream-shard-week-vol3-2026-m": "Dream Shard Week Bundle Vol. 3 M",
+        "活动礼包#dream-shard-week-vol3-2026-l": "Dream Shard Week Bundle Vol. 3 L",
         "已有活力枕头（个）": "Energy Pillows on hand",
         "允许规划使用活力枕头": "Allow Energy Pillows in this plan",
         "活力枕头库存须为非负整数": "Enter a nonnegative whole number of Energy Pillows",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedOn": "2026-11-13",
+  "checkedOn": "2026-11-18",
   "sourceNotes": "官方公告优先。RAE 页面本次未能读取，未标记为交叉核验。销售时间按玩家本地时间；展示到关联活动结束日结束。",
   "bundles": [
     {
@@ -574,6 +574,140 @@
         {
           "kind": "official",
           "url": "https://www.pokemonsleep.net/zh/news/343537373035343036393234333234383738/"
+        }
+      ]
+    },
+    {
+      "id": "dream-shard-week-vol3-2026-s",
+      "name": "梦之碎片增量周同乐包S vol.3",
+      "eventId": "announcement-343537363333323535313433373638303639",
+      "eventName": "梦之碎片增量周vol.3",
+      "announcedOn": "2026-11-18",
+      "eventEndsOn": "2026-11-30",
+      "saleStartsAt": "2026-11-22T04:00:00",
+      "saleEndsAt": "2026-12-01T03:59:00",
+      "price": {
+        "amount": 250,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 3,
+      "items": [
+        {
+          "itemId": 9,
+          "name": "宝可沙布蕾",
+          "quantity": 2
+        },
+        {
+          "itemId": 2,
+          "name": "幸运薰香",
+          "quantity": 1
+        },
+        {
+          "itemId": 18,
+          "name": "梦之块S",
+          "quantity": 4
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537373233373830373036333336373639/"
+        }
+      ]
+    },
+    {
+      "id": "dream-shard-week-vol3-2026-m",
+      "name": "梦之碎片增量周同乐包M vol.3",
+      "eventId": "announcement-343537363333323535313433373638303639",
+      "eventName": "梦之碎片增量周vol.3",
+      "announcedOn": "2026-11-18",
+      "eventEndsOn": "2026-11-30",
+      "saleStartsAt": "2026-11-22T04:00:00",
+      "saleEndsAt": "2026-12-01T03:59:00",
+      "price": {
+        "amount": 1200,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "itemId": 10,
+          "name": "超级沙布蕾",
+          "quantity": 4
+        },
+        {
+          "itemId": 9,
+          "name": "宝可沙布蕾",
+          "quantity": 10
+        },
+        {
+          "itemId": 2,
+          "name": "幸运薰香",
+          "quantity": 2
+        },
+        {
+          "itemId": 19,
+          "name": "梦之块M",
+          "quantity": 2
+        },
+        {
+          "itemId": 18,
+          "name": "梦之块S",
+          "quantity": 3
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537373233373830373036333336373639/"
+        }
+      ]
+    },
+    {
+      "id": "dream-shard-week-vol3-2026-l",
+      "name": "梦之碎片增量周同乐包L vol.3",
+      "eventId": "announcement-343537363333323535313433373638303639",
+      "eventName": "梦之碎片增量周vol.3",
+      "announcedOn": "2026-11-18",
+      "eventEndsOn": "2026-11-30",
+      "saleStartsAt": "2026-11-22T04:00:00",
+      "saleEndsAt": "2026-12-01T03:59:00",
+      "price": {
+        "amount": 3000,
+        "unit": "钻石"
+      },
+      "purchaseLimit": 1,
+      "items": [
+        {
+          "itemId": 94,
+          "name": "高级沙布蕾",
+          "quantity": 3
+        },
+        {
+          "itemId": 10,
+          "name": "超级沙布蕾",
+          "quantity": 14
+        },
+        {
+          "itemId": 2,
+          "name": "幸运薰香",
+          "quantity": 3
+        },
+        {
+          "itemId": 20,
+          "name": "梦之块L",
+          "quantity": 1
+        },
+        {
+          "itemId": 19,
+          "name": "梦之块M",
+          "quantity": 2
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537373233373830373036333336373639/"
         }
       ]
     }
