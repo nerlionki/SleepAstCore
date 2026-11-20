@@ -10407,8 +10407,8 @@
       "key": "taupe:330:4:",
       "internalId": 807,
       "spoId": 85,
-      "dpr": 2560000,
-      "source": "旧公式估算，RAE 参考值缺失，未核验",
+      "dpr": 250838000,
+      "source": "宝睡超级资料站社区参考（https://wiki.pokesleep.com/en/pokemon/flygon，2026-11-20）；RAE 未提供此 SPO 的精确参考值",
       "settled": false,
       "estimated": true
     },
@@ -17929,8 +17929,8 @@
       "key": "canyon:373:3:",
       "internalId": 794,
       "spoId": 85,
-      "dpr": 1800000,
-      "source": "旧公式估算，RAE 参考值缺失，未核验",
+      "dpr": 250838000,
+      "source": "宝睡超级资料站社区参考（https://wiki.pokesleep.com/en/pokemon/salamence，2026-11-20）；RAE 未提供此 SPO 的精确参考值",
       "settled": false,
       "estimated": true
     },
@@ -17938,8 +17938,8 @@
       "key": "canyon:373:4:",
       "internalId": 795,
       "spoId": 89,
-      "dpr": 3200000,
-      "source": "旧公式估算，RAE 参考值缺失，未核验",
+      "dpr": 302290000,
+      "source": "宝睡超级资料站社区参考（https://wiki.pokesleep.com/en/pokemon/salamence，2026-11-20）；RAE 未提供此 SPO 的精确参考值",
       "settled": false,
       "estimated": true
     },
@@ -19091,8 +19091,8 @@
       "key": "canyon:330:4:",
       "internalId": 807,
       "spoId": 85,
-      "dpr": 2560000,
-      "source": "旧公式估算，RAE 参考值缺失，未核验",
+      "dpr": 250838000,
+      "source": "宝睡超级资料站社区参考（https://wiki.pokesleep.com/en/pokemon/flygon，2026-11-20）；RAE 未提供此 SPO 的精确参考值",
       "settled": false,
       "estimated": true
     },
@@ -19485,8 +19485,8 @@
       "key": "canyon:558:4:",
       "internalId": 815,
       "spoId": 83,
-      "dpr": 1536000,
-      "source": "旧公式估算，RAE 参考值缺失，未核验",
+      "dpr": 236284000,
+      "source": "宝睡超级资料站社区参考（https://wiki.pokesleep.com/en/pokemon/crustle，2026-11-20）；RAE 未提供此 SPO 的精确参考值",
       "settled": false,
       "estimated": true
     },
@@ -29960,7 +29960,7 @@
       "settled": false,
       "estimated": false,
       "sourceMapId": 7,
-      "source": "RAE map/7 参考值 2026-10-09"
+      "source": "RAE map/7 参考值 2026-10-09；2026-11-20 复核 RAE pokedex/591 的 SPO 71 参考值 3545，验证中"
     },
     {
       "key": "greenex:591:1:",
@@ -30771,6 +30771,197 @@
       "sourceMapId": 7,
       "verifiedAt": "2026-11-13",
       "source": "RAE map/7 普通营地 SPO79 已确定，2026-11-13"
+    },
+    {
+      "key": "greenex:546:1:",
+      "internalId": 954,
+      "spoId": 10,
+      "dpr": 16112000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10001,
+      "source": "RAE pokedex/546 睡姿档，沿用同岛屿 spo 10 睡意之力，2026-11-12"
+    },
+    {
+      "key": "greenex:546:2:",
+      "internalId": 955,
+      "spoId": 28,
+      "dpr": 45980000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10001,
+      "source": "RAE pokedex/546 睡姿档，沿用同岛屿 spo 28 睡意之力，2026-11-12"
+    },
+    {
+      "key": "greenex:546:3:",
+      "internalId": 956,
+      "spoId": 51,
+      "dpr": 153824000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10001,
+      "source": "RAE pokedex/546 睡姿档，沿用同岛屿 spo 51 睡意之力，2026-11-12"
+    },
+    {
+      "key": "greenex:546:4:",
+      "internalId": 957,
+      "spoId": 56,
+      "dpr": 185858000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10001,
+      "source": "RAE pokedex/546 睡姿档，沿用同岛屿 spo 56 睡意之力，2026-11-12"
+    },
+    {
+      "key": "cyanex:546:1:",
+      "internalId": 954,
+      "spoId": 10,
+      "dpr": 15884000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10002,
+      "source": "RAE pokedex/546 睡姿档，沿用同岛屿 spo 10 睡意之力，2026-11-12"
+    },
+    {
+      "key": "cyanex:546:2:",
+      "internalId": 955,
+      "spoId": 28,
+      "dpr": 47593898,
+      "settled": false,
+      "estimated": true,
+      "sourceMapId": 10002,
+      "source": "RAE pokedex/546 睡姿档，沿用同岛屿 spo 28 睡意之力，2026-11-12"
+    },
+    {
+      "key": "cyanex:546:3:",
+      "internalId": 956,
+      "spoId": 51,
+      "dpr": 160892000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10002,
+      "source": "RAE pokedex/546 天青 EX SPO 51 参考值 4234 × 38000，2026-11-20，验证中",
+      "spo": 4234
+    },
+    {
+      "key": "cyanex:546:4:",
+      "internalId": 957,
+      "spoId": 56,
+      "dpr": 210102000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10002,
+      "source": "RAE pokedex/546 睡姿档，沿用同岛屿 spo 56 睡意之力，2026-11-12"
+    },
+    {
+      "key": "greenex:547:1:",
+      "internalId": 958,
+      "spoId": 42,
+      "dpr": 100130000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10001,
+      "source": "RAE pokedex/547 睡姿档，沿用同岛屿 spo 42 睡意之力，2026-11-12"
+    },
+    {
+      "key": "greenex:547:2:",
+      "internalId": 959,
+      "spoId": 61,
+      "dpr": 233320000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10001,
+      "source": "RAE pokedex/547 睡姿档，沿用同岛屿 spo 61 睡意之力，2026-11-12"
+    },
+    {
+      "key": "greenex:547:3:",
+      "internalId": 960,
+      "spoId": 79,
+      "dpr": 507984000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10001,
+      "source": "RAE pokedex/547 睡姿档，沿用同岛屿 spo 79 睡意之力，2026-11-12"
+    },
+    {
+      "key": "cyanex:547:1:",
+      "internalId": 958,
+      "spoId": 42,
+      "dpr": 119814000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10002,
+      "source": "RAE pokedex/547 睡姿档，沿用同岛屿 spo 42 睡意之力，2026-11-12"
+    },
+    {
+      "key": "cyanex:547:2:",
+      "internalId": 959,
+      "spoId": 61,
+      "dpr": 241509532,
+      "settled": false,
+      "estimated": true,
+      "sourceMapId": 10002,
+      "source": "RAE pokedex/547 睡姿档，沿用同岛屿 spo 61 睡意之力，2026-11-12"
+    },
+    {
+      "key": "cyanex:547:3:",
+      "internalId": 960,
+      "spoId": 79,
+      "dpr": 560652000,
+      "settled": false,
+      "estimated": false,
+      "sourceMapId": 10002,
+      "source": "RAE pokedex/547 睡姿档，沿用同岛屿 spo 79 睡意之力，2026-11-12"
+    },
+    {
+      "key": "greengrass:547:4:",
+      "internalId": 961,
+      "spoId": 83,
+      "dpr": 236210000,
+      "settled": false,
+      "estimated": true,
+      "sourceMapId": 7,
+      "source": "按用户指定暂用 RAE 溪谷风妖精 4★ 的约 236.21M 显示值（2026-11-18，验证中）"
+    },
+    {
+      "key": "cyan:547:4:",
+      "internalId": 961,
+      "spoId": 83,
+      "dpr": 236210000,
+      "settled": false,
+      "estimated": true,
+      "sourceMapId": 7,
+      "source": "按用户指定暂用 RAE 溪谷风妖精 4★ 的约 236.21M 显示值（2026-11-18，验证中）"
+    },
+    {
+      "key": "canyon:547:4:",
+      "internalId": 961,
+      "spoId": 83,
+      "dpr": 236210000,
+      "settled": false,
+      "estimated": true,
+      "sourceMapId": 7,
+      "source": "按用户指定暂用 RAE 溪谷风妖精 4★ 的约 236.21M 显示值（2026-11-18，验证中）"
+    },
+    {
+      "key": "greenex:547:4:",
+      "internalId": 961,
+      "spoId": 83,
+      "dpr": 236210000,
+      "settled": false,
+      "estimated": true,
+      "sourceMapId": 7,
+      "source": "按用户指定暂用 RAE 溪谷风妖精 4★ 的约 236.21M 显示值（2026-11-18，验证中）"
+    },
+    {
+      "key": "cyanex:547:4:",
+      "internalId": 961,
+      "spoId": 83,
+      "dpr": 236210000,
+      "settled": false,
+      "estimated": true,
+      "sourceMapId": 7,
+      "source": "按用户指定暂用 RAE 溪谷风妖精 4★ 的约 236.21M 显示值（2026-11-18，验证中）"
     }
   ],
   "incrementalUpdates": [
@@ -30788,6 +30979,80 @@
       "regularSettledRows": 16,
       "userApprovedExEstimates": 6,
       "policy": "Use RAE map-specific reference ×38000. Only actual spawn linkages; no new EX2 rows. Existing records retain their original verification dates."
+    },
+    {
+      "verifiedAt": "2026-11-20",
+      "pokemon": [
+        546,
+        547
+      ],
+      "sources": [
+        "https://pks.raenonx.cc/zh/pokedex/546",
+        "https://pks.raenonx.cc/zh/pokedex/547",
+        "https://pks.raenonx.cc/zh/map/1",
+        "https://pks.raenonx.cc/zh/map/2",
+        "https://pks.raenonx.cc/zh/map/7",
+        "https://pks.raenonx.cc/zh/map/10001",
+        "https://pks.raenonx.cc/zh/map/10002",
+        "https://pks.raenonx.cc/zh/pokedex/591"
+      ],
+      "rewardStyles": 8,
+      "existingMapRows": 33,
+      "confirmedUnlockRanks": 38,
+      "pendingDpr": [
+        {
+          "key": "greengrass:547:4:",
+          "internalId": 961,
+          "spoId": 83,
+          "sourceMapId": 1,
+          "unlockRank": 27,
+          "settled": false
+        },
+        {
+          "key": "cyan:547:4:",
+          "internalId": 961,
+          "spoId": 83,
+          "sourceMapId": 2,
+          "unlockRank": 24,
+          "settled": false
+        },
+        {
+          "key": "canyon:547:4:",
+          "internalId": 961,
+          "spoId": 83,
+          "sourceMapId": 7,
+          "unlockRank": 19,
+          "settled": false,
+          "approximateDpr": 236210000,
+          "displaySource": "https://pks.raenonx.cc/zh/sleepdex/lookup（2026-11-18 截图，验证中）"
+        },
+        {
+          "key": "greenex:547:4:",
+          "internalId": 961,
+          "spoId": 83,
+          "sourceMapId": 10001,
+          "unlockRank": 26,
+          "settled": false
+        },
+        {
+          "key": "cyanex:547:4:",
+          "internalId": 961,
+          "spoId": 83,
+          "sourceMapId": 10002,
+          "unlockRank": 24,
+          "settled": false
+        }
+      ],
+      "communityDprSources": [
+        "https://wiki.pokesleep.com/en/pokemon/flygon",
+        "https://wiki.pokesleep.com/en/pokemon/salamence",
+        "https://wiki.pokesleep.com/en/pokemon/crustle"
+      ],
+      "userApprovedDprEstimate": {
+        "value": 236210000,
+        "sourceMapId": 7,
+        "mapRows": 5
+      }
     }
   ]
 }

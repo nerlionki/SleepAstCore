@@ -904,6 +904,7 @@
         "period": "day",
         "eventMult": 1,
         "sleepEventMix": "some",
+        "defaultRecipeLevel": 1,
         "recipeLevels": {},
         "whistleHelps": 0,
         "shinyUp": false,

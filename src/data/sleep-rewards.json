@@ -7590,5 +7590,69 @@
     "researchExp": 10687,
     "shards": 19189,
     "candy": 13
+  },
+  {
+    "id": 954,
+    "pokeId": 546,
+    "stars": 1,
+    "researchExp": 94,
+    "shards": 147,
+    "candy": 4
+  },
+  {
+    "id": 955,
+    "pokeId": 546,
+    "stars": 2,
+    "researchExp": 529,
+    "shards": 829,
+    "candy": 6
+  },
+  {
+    "id": 956,
+    "pokeId": 546,
+    "stars": 3,
+    "researchExp": 2670,
+    "shards": 4181,
+    "candy": 9
+  },
+  {
+    "id": 957,
+    "pokeId": 546,
+    "stars": 4,
+    "researchExp": 3866,
+    "shards": 6054,
+    "candy": 10
+  },
+  {
+    "id": 958,
+    "pokeId": 547,
+    "stars": 1,
+    "researchExp": 1115,
+    "shards": 2202,
+    "candy": 8
+  },
+  {
+    "id": 959,
+    "pokeId": 547,
+    "stars": 2,
+    "researchExp": 3518,
+    "shards": 6947,
+    "candy": 10
+  },
+  {
+    "id": 960,
+    "pokeId": 547,
+    "stars": 3,
+    "researchExp": 9665,
+    "shards": 19087,
+    "candy": 13
+  },
+  {
+    "id": 961,
+    "pokeId": 547,
+    "stars": 4,
+    "researchExp": 12960,
+    "shards": 25593,
+    "candy": 14
   }
 ]
