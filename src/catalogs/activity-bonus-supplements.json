@@ -126,7 +126,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 9
+            "encounterWeightMultiplier": 60
           }
         },
         {
@@ -140,7 +140,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 6
+            "encounterWeightMultiplier": 39
           }
         },
         {
@@ -170,7 +170,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         }
       ],
@@ -757,7 +757,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         },
         {
@@ -778,7 +778,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         },
         {
@@ -804,7 +804,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         },
         {
@@ -825,7 +825,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         },
         {
@@ -848,7 +848,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         },
         {
@@ -875,7 +875,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         },
         {
@@ -901,7 +901,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         },
         {
@@ -953,7 +953,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         },
         {
@@ -974,7 +974,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 4
+            "encounterWeightMultiplier": 9
           }
         }
       ],
@@ -1767,7 +1767,7 @@
             ]
           },
           "effects": {
-            "encounterWeightMultiplier": 6
+            "encounterWeightMultiplier": 39
           }
         }
       ],
@@ -1779,7 +1779,7 @@
           "domains": [
             "research"
           ],
-          "description": "官方仅公布中幅提升；数值6沿用项目 event-parameters.json 的 mid 模拟权重，并非官方概率。未有完整睡姿资料时不生成虚构睡姿。",
+          "description": "官方仅公布中幅提升；采用 event-parameters.json 的 RAE 中幅模拟权重，并非官方概率。未有完整睡姿资料时不生成虚构睡姿。",
           "source": "https://www.pokemonsleep.net/zh/news/343537333535313639333033313031343531/",
           "parameters": {
             "officialTier": "medium",

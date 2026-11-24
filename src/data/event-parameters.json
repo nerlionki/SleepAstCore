@@ -53,10 +53,13 @@
     ],
     "sameTypeShare": 0.4,
     "upWeights": {
-      "small": 4,
-      "mid": 6,
-      "large": 9
+      "normal": 1,
+      "blocked": 0,
+      "small": 9,
+      "mid": 39,
+      "large": 60
     },
+    "raeRestrictedLeaderChance": 0.8,
     "moonPokemon": [
       173,
       35,
