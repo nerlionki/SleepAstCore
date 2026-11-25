@@ -1787,6 +1787,277 @@
           }
         }
       ]
+    },
+    {
+      "id": "super-skill-week-vol4-2026",
+      "name": "强化发动！技能周vol.4",
+      "source": "https://www.pokemonsleep.net/zh/news/343537393639393336363036363931333333/",
+      "priority": 20,
+      "stacking": "max",
+      "startsOn": "2026-12-07",
+      "endsOn": "2026-12-14",
+      "rules": [
+        {
+          "effects": {
+            "eventMix": "some"
+          }
+        },
+        {
+          "target": {
+            "specialties": [
+              "技能型"
+            ]
+          },
+          "effects": {
+            "skillRateMultiplier": 1.5,
+            "skillLevelBonus": 3
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "cyan"
+            ],
+            "pokemonIds": [
+              54,
+              79,
+              133,
+              174,
+              213,
+              214,
+              252,
+              316,
+              438,
+              627,
+              701
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "taupe"
+            ],
+            "pokemonIds": [
+              27,
+              58,
+              213,
+              302,
+              387,
+              390,
+              447,
+              714
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "snowdrop"
+            ],
+            "pokemonIds": [
+              179,
+              198,
+              200,
+              316,
+              447,
+              921
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "lapis"
+            ],
+            "pokemonIds": [
+              52,
+              175,
+              252,
+              280,
+              360,
+              387,
+              701,
+              702
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "powerplant"
+            ],
+            "pokemonIds": [
+              81,
+              198,
+              200,
+              311,
+              312,
+              425,
+              702,
+              777,
+              778,
+              848,
+              921
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "canyon"
+            ],
+            "pokemonIds": [
+              27,
+              133,
+              214,
+              311,
+              312,
+              390,
+              557,
+              627,
+              714,
+              777,
+              848
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "greenex"
+            ],
+            "pokemonIds": [
+              27,
+              52,
+              58,
+              81,
+              133,
+              179,
+              198,
+              200,
+              213,
+              214,
+              252,
+              280,
+              302,
+              311,
+              312,
+              387,
+              390,
+              425,
+              438,
+              627,
+              701,
+              702,
+              714,
+              777,
+              778,
+              848,
+              921
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        },
+        {
+          "target": {
+            "islands": [
+              "cyanex"
+            ],
+            "pokemonIds": [
+              54,
+              133,
+              174,
+              213,
+              214,
+              252,
+              627,
+              701
+            ]
+          },
+          "effects": {
+            "encounterWeightMultiplier": 9
+          }
+        }
+      ],
+      "miniCandyBoost": {
+        "exp": 2,
+        "shards": 4,
+        "dailyLimit": 50
+      },
+      "tutorialEligible": false,
+      "features": [
+        {
+          "id": "announced-encounter-tier",
+          "name": "洗翠卡蒂狗、洗翠风速狗中幅出没提升",
+          "status": "requires-input",
+          "domains": [
+            "research"
+          ],
+          "source": "https://www.pokemonsleep.net/zh/news/343537393639393336363036363931333333/",
+          "description": "官方公布中幅提升；已列出四个对应营地。新形态的正式编号、睡姿及门槛待核实；常规登场公告为12月7日15:00，活动从04:00开始，04:00至15:00的遭遇资格仍待核实。",
+          "islands": [
+            "taupe",
+            "snowdrop",
+            "greenex",
+            "cyanex"
+          ],
+          "parameters": {
+            "officialTier": "medium",
+            "simulationParameter": "sleep.upWeights.mid"
+          }
+        },
+        {
+          "id": "greengrass-encounter-scope",
+          "name": "普通萌绿之岛出没提升名单",
+          "status": "requires-input",
+          "domains": [
+            "research"
+          ],
+          "source": "https://www.pokemonsleep.net/zh/news/343537393639393336363036363931333333/",
+          "description": "官方列出全活动档位名单，但逐营地段落没有单列普通萌绿之岛；不能用普通遇见分布推断该营地的活动名单或门槛。",
+          "islands": [
+            "greengrass"
+          ]
+        },
+        {
+          "id": "hisuian-help-and-skill-bonus",
+          "name": "新主技能：立即帮忙与主技能发动奖励",
+          "status": "requires-input",
+          "domains": [
+            "production"
+          ],
+          "source": "https://www.pokemonsleep.net/zh/news/343537393738363838363133333834313937/",
+          "description": "让一只帮手立刻完成帮忙，并可能使其额外发动一次主技能。概率按目标而异；已获奖励者不可叠加，睡眠研究或移营后清除。官方未公布名称、运行编号和各目标的概率。"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537393639393336363036363931333333/",
+          "note": "2026-11-25核验活动、任务及提升档位。小幅计算权重采用此数据源基线的 sleep.upWeights.small（9），不是官方公布的出没倍率。以游戏当地时间04:00切日和睡眠测量开始时间判定。"
+        }
+      ]
     }
   ]
 }
