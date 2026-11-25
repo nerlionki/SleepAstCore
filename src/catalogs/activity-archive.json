@@ -18189,6 +18189,99 @@
           ]
         }
       ],
+      "bonusGroups": [
+        {
+          "area": [],
+          "groups": [
+            {
+              "id": "candy",
+              "items": [
+                {
+                  "ref": {
+                    "kind": "text",
+                    "value": "迷你糖果增强"
+                  },
+                  "parts": [
+                    {
+                      "kind": "multiply",
+                      "value": 2,
+                      "text": "经验"
+                    },
+                    {
+                      "kind": "multiply",
+                      "value": 4,
+                      "text": "梦碎"
+                    },
+                    {
+                      "kind": "limit",
+                      "value": 50,
+                      "text": "每日"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sleep",
+              "items": [
+                {
+                  "ref": {
+                    "kind": "field",
+                    "id": "eventMix"
+                  },
+                  "parts": [
+                    {
+                      "kind": "mix",
+                      "value": "some"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "helper",
+              "items": [
+                {
+                  "ref": {
+                    "kind": "field",
+                    "id": "skillRateMultiplier"
+                  },
+                  "parts": [
+                    {
+                      "kind": "multiply",
+                      "value": 1.5
+                    }
+                  ],
+                  "scope": [
+                    {
+                      "kind": "specialty",
+                      "id": "技能型"
+                    }
+                  ]
+                },
+                {
+                  "ref": {
+                    "kind": "field",
+                    "id": "skillLevelBonus"
+                  },
+                  "parts": [
+                    {
+                      "kind": "add",
+                      "value": 3
+                    }
+                  ],
+                  "scope": [
+                    {
+                      "kind": "specialty",
+                      "id": "技能型"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "bonusSource": "https://www.pokemonsleep.net/zh/news/343537393639393336363036363931333333/",
       "sources": [
         {
