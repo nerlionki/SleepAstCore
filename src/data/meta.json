@@ -10,7 +10,7 @@
   "balanceUpdateSource": "RAE 2026-10-23 核验：耿鬼食材率16.6%；锅容量84/87按用户要求提前用于规划；梦妖一家生产数据经连续3次确认加入计算，普通岛DPR已确定、萌绿EX按用户授权预估，见 rae-misdreavus-source.json",
   "announcedContent": {
     "schemaVersion": 1,
-    "checkedOn": "2026-11-04",
+    "checkedOn": "2026-11-25",
     "status": "partial-official-announcement",
     "description": "官方部分公布资料；活动计算规则维护于 activities.json v2。null 表示尚未公布，不代表0。",
     "sources": [
@@ -23,6 +23,11 @@
         "kind": "official",
         "url": "https://www.pokemonsleep.net/zh/news/343537333535313639323832313239393330/",
         "publishedOn": "2026-11-04"
+      },
+      {
+        "kind": "official",
+        "url": "https://www.pokemonsleep.net/zh/news/343537393738363838363133333834313937/",
+        "publishedOn": "2026-11-25"
       }
     ],
     "ingredients": [
@@ -102,6 +107,68 @@
         "imageSource": "https://pks.raenonx.cc/zh/pokedex/547",
         "imageUsage": "id-mapped",
         "nationalDex": 547
+      },
+      {
+        "name": "卡蒂狗（洗翠的样子）",
+        "source": "https://www.pokemonsleep.net/zh/news/343537393738363838363133333834313937/",
+        "type": "岩石",
+        "sleepType": "安然入睡",
+        "availableFrom": "2026-12-07T15:00:00",
+        "timeBasis": "game-local",
+        "islands": [
+          "greengrass",
+          "taupe",
+          "snowdrop",
+          "greenex",
+          "cyanex"
+        ],
+        "higherEncounterRateIsland": "cyanex",
+        "runtimeId": null,
+        "specialty": null,
+        "production": null,
+        "sleepStyles": null,
+        "unknownFields": [
+          "runtimeId",
+          "specialty",
+          "production",
+          "sleepStyles"
+        ],
+        "status": "partial-official-announcement",
+        "imageId": 58001,
+        "imageSource": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058_f2.png",
+        "imageUsage": "id-mapped",
+        "imageFile": "pokemon/portrait/58001.webp"
+      },
+      {
+        "name": "风速狗（洗翠的样子）",
+        "source": "https://www.pokemonsleep.net/zh/news/343537393738363838363133333834313937/",
+        "type": "岩石",
+        "sleepType": "安然入睡",
+        "availableFrom": "2026-12-07T15:00:00",
+        "timeBasis": "game-local",
+        "islands": [
+          "greengrass",
+          "taupe",
+          "snowdrop",
+          "greenex",
+          "cyanex"
+        ],
+        "higherEncounterRateIsland": "cyanex",
+        "runtimeId": null,
+        "specialty": null,
+        "production": null,
+        "sleepStyles": null,
+        "unknownFields": [
+          "runtimeId",
+          "specialty",
+          "production",
+          "sleepStyles"
+        ],
+        "status": "partial-official-announcement",
+        "imageId": 59001,
+        "imageSource": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059_f2.png",
+        "imageUsage": "id-mapped",
+        "imageFile": "pokemon/portrait/59001.webp"
       }
     ],
     "recipes": []
