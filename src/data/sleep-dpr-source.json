@@ -18,6 +18,25 @@
   "raeUiMultiplier": 100,
   "normalizedMultiplier": 1,
   "ex2FallbackFactor": 1.0351,
+  "additionalStyleIdsSource": "RAE /spawn/pokemon Worker 请求的 sleepStyleFlaggedBaseDataMap（万圣节活动睡姿）",
+  "additionalStyleIds": [
+    {
+      "key": "9001-1",
+      "internalId": 10001
+    },
+    {
+      "key": "9001-2",
+      "internalId": 10002
+    },
+    {
+      "key": "9005-1",
+      "internalId": 10007
+    },
+    {
+      "key": "9005-2",
+      "internalId": 10008
+    }
+  ],
   "entries": [
     {
       "key": "greengrass:24:1:",

@@ -43,7 +43,7 @@
     907,908,909,910,911,912,913,914,915,916,917,918,
     919,920,921,922,923,924,925,926,927,928,929,930,
     931,932,933,935,936,937,938,939,940,941,942,943,
-    944,945,946,947,960,961,10007,10008,10009,10010,10011
+    944,945,946,947,954,955,956,957,958,959,960,961,10007,10008,10009,10010,10011
   ],
   "verifiedAmendments": [
     {
@@ -52,6 +52,14 @@
       "sourceControl": "顯示非保底",
       "basis": "Whimsicott 3-star and 4-star were both marked 非保底 in the regular Cyan Beach Sleepdex. Historical snapshot counts above and below describe the original October capture.",
       "excludedInternalIds": [960, 961]
+    },
+    {
+      "verifiedAt": "2026-11-24",
+      "source": "https://pks.raenonx.cc/zh/spawn/pokemon",
+      "sourceControl": "Worker sleepStyleResolvedDataByMap flags.isLeaderExclusion",
+      "deployment": "63315b1-2026-11-23T18-54-43-05-00",
+      "basis": "All six IDs are true in the supplied Cyan Beach Ribombee capture; five are also present and true in the selected Greengrass Ditto pool. User approved updating the restricted leader exclusion list.",
+      "excludedInternalIds": [954, 955, 956, 957, 958, 959]
     }
   ],
   "affectedProjectRowsByIsland": {

@@ -18159,6 +18159,136 @@
           ]
         }
       ]
+    },
+    {
+      "id": "super-skill-week-vol4-2026",
+      "name": "强化发动！技能周vol.4",
+      "announcedOn": "2026-11-25",
+      "startsOn": "2026-12-07",
+      "endsOn": "2026-12-14",
+      "source": "https://www.pokemonsleep.net/zh/news/343537393639393336363036363931333333/",
+      "bonusSections": [
+        {
+          "title": "所有日子",
+          "lines": [
+            "技能型帮手的主技能触发率 ×1.5，触发时主技能等级 +3，最多到该技能等级上限。",
+            "睡眠研究中特定宝可梦出没概率提升，也可能遇见其他睡眠类型。"
+          ]
+        },
+        {
+          "title": "迷你糖果增强",
+          "lines": [
+            "糖果经验 ×2、梦之碎片消耗 ×4，每日最多 50 颗糖果，活动期间默认开启。"
+          ]
+        },
+        {
+          "title": "适用条件",
+          "lines": [
+            "所有营地。游戏当地时间 12月7日 04:00 至 12月14日 03:59；任务同期开放。以开始测量的时间判断，不适用于教学。",
+            "活动前已入队的宝可梦，在活动中首次发动主技能时可能不适用加成。"
+          ]
+        }
+      ],
+      "bonusGroups": [
+        {
+          "area": [],
+          "groups": [
+            {
+              "id": "candy",
+              "items": [
+                {
+                  "ref": {
+                    "kind": "text",
+                    "value": "迷你糖果增强"
+                  },
+                  "parts": [
+                    {
+                      "kind": "multiply",
+                      "value": 2,
+                      "text": "经验"
+                    },
+                    {
+                      "kind": "multiply",
+                      "value": 4,
+                      "text": "梦碎"
+                    },
+                    {
+                      "kind": "limit",
+                      "value": 50,
+                      "text": "每日"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "sleep",
+              "items": [
+                {
+                  "ref": {
+                    "kind": "field",
+                    "id": "eventMix"
+                  },
+                  "parts": [
+                    {
+                      "kind": "mix",
+                      "value": "some"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "helper",
+              "items": [
+                {
+                  "ref": {
+                    "kind": "field",
+                    "id": "skillRateMultiplier"
+                  },
+                  "parts": [
+                    {
+                      "kind": "multiply",
+                      "value": 1.5
+                    }
+                  ],
+                  "scope": [
+                    {
+                      "kind": "specialty",
+                      "id": "技能型"
+                    }
+                  ]
+                },
+                {
+                  "ref": {
+                    "kind": "field",
+                    "id": "skillLevelBonus"
+                  },
+                  "parts": [
+                    {
+                      "kind": "add",
+                      "value": 3
+                    }
+                  ],
+                  "scope": [
+                    {
+                      "kind": "specialty",
+                      "id": "技能型"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bonusSource": "https://www.pokemonsleep.net/zh/news/343537393639393336363036363931333333/",
+      "sources": [
+        {
+          "kind": "official",
+          "url": "https://www.pokemonsleep.net/zh/news/343537393639393336363036363931333333/"
+        }
+      ]
     }
   ],
   "encounterUps": {
@@ -20673,6 +20803,175 @@
         "tier": "medium",
         "pokemonIds": [906, 907, 908, 909, 910, 911, 912, 913, 914],
         "label": "第2周"
+      }
+    ],
+    "super-skill-week-vol4-2026": [
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          79,
+          133,
+          174,
+          213,
+          214,
+          252,
+          316,
+          438,
+          627,
+          701
+        ],
+        "islands": [
+          "cyan"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          27,
+          58,
+          213,
+          302,
+          387,
+          390,
+          447,
+          714
+        ],
+        "islands": [
+          "taupe"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          179,
+          198,
+          200,
+          316,
+          447,
+          921
+        ],
+        "islands": [
+          "snowdrop"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          52,
+          175,
+          252,
+          280,
+          360,
+          387,
+          701,
+          702
+        ],
+        "islands": [
+          "lapis"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          81,
+          198,
+          200,
+          311,
+          312,
+          425,
+          702,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "powerplant"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          27,
+          133,
+          214,
+          311,
+          312,
+          390,
+          557,
+          627,
+          714,
+          777,
+          848
+        ],
+        "islands": [
+          "canyon"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          27,
+          52,
+          58,
+          81,
+          133,
+          179,
+          198,
+          200,
+          213,
+          214,
+          252,
+          280,
+          302,
+          311,
+          312,
+          387,
+          390,
+          425,
+          438,
+          627,
+          701,
+          702,
+          714,
+          777,
+          778,
+          848,
+          921
+        ],
+        "islands": [
+          "greenex"
+        ]
+      },
+      {
+        "tier": "small",
+        "pokemonIds": [
+          54,
+          133,
+          174,
+          213,
+          214,
+          252,
+          627,
+          701
+        ],
+        "islands": [
+          "cyanex"
+        ]
+      },
+      {
+        "tier": "medium",
+        "pokemonIds": [
+          58001,
+          59001
+        ],
+        "islands": [
+          "taupe",
+          "snowdrop",
+          "greenex",
+          "cyanex"
+        ]
       }
     ]
   }

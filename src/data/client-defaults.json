@@ -245,7 +245,7 @@
       "expandedInitial": {}
     },
     "components_plan_SplitSleepPane": {
-      "kindInitial": "baby",
+      "kindInitial": "catch",
       "pokeIdInitial": 1,
       "faceInitial": "",
       "advancedInitial": false,
@@ -703,6 +703,7 @@
     "stores_plans": {
       "empty_snorlaxStrength": 0,
       "empty_sleepScore": 100,
+      "empty_sleepPrecision": "low",
       "empty_sleepType": "没有特征",
       "empty_campTicket": false,
       "empty_incense": false,
@@ -923,6 +924,7 @@
     },
     "factory_splitSleep": {
       "defaultSplitOptions": {
+        "precision": "low",
         "island": "greengrass",
         "strength": 0,
         "targets": [],
