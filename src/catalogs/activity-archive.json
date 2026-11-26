@@ -1926,6 +1926,24 @@
     },
     {
       "id": "raikou-research",
+      "exchange": {
+        "currencyItemId": 36,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%A9%E3%82%A4%E3%82%B3%E3%82%A6%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81",
+        "offers": [
+          {"itemId":"Incense-243","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-243","quantity":1,"cost":160,"limit":3,"week":1},
+          {"itemId":37,"quantity":1,"cost":60,"limit":2,"week":1},
+          {"itemId":37,"quantity":1,"cost":120,"limit":4,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":15,"week":1},
+          {"itemId":18,"quantity":1,"cost":12,"limit":15,"week":1},
+          {"itemId":32,"quantity":1,"cost":350,"limit":1,"week":1},
+          {"itemId":24,"quantity":1,"cost":120,"limit":1,"week":1},
+          {"itemId":"Candy-243","quantity":1,"cost":2,"limit":100,"week":1},
+          {"itemId":"Candy-243","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Incense-243","quantity":1,"cost":70,"limit":1,"week":2},
+          {"itemId":37,"quantity":1,"cost":50,"limit":2,"week":2}
+        ]
+      },
       "name": "雷公研究",
       "announcedOn": null,
       "startsOn": "2024-03-25",
@@ -2341,6 +2359,25 @@
     },
     {
       "id": "entei-research",
+      "exchange": {
+        "currencyItemId": 93,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A4%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81",
+        "offers": [
+          {"itemId":"Incense-244","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-244","quantity":1,"cost":160,"limit":7,"week":1},
+          {"itemId":92,"quantity":1,"cost":60,"limit":2,"week":1},
+          {"itemId":92,"quantity":1,"cost":120,"limit":10,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":39,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":18,"quantity":1,"cost":12,"limit":15,"week":1},
+          {"itemId":32,"quantity":1,"cost":350,"limit":1,"week":1},
+          {"itemId":22,"quantity":1,"cost":120,"limit":1,"week":1},
+          {"itemId":"Candy-244","quantity":1,"cost":2,"limit":100,"week":1},
+          {"itemId":"Candy-244","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Incense-244","quantity":1,"cost":70,"limit":1,"week":2},
+          {"itemId":92,"quantity":1,"cost":50,"limit":2,"week":2}
+        ]
+      },
       "name": "炎帝研究",
       "announcedOn": null,
       "startsOn": "2024-05-20",
@@ -3587,6 +3624,25 @@
     },
     {
       "id": "suicune-research",
+      "exchange": {
+        "currencyItemId": 96,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%82%B9%E3%82%A4%E3%82%AF%E3%83%B3%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81",
+        "offers": [
+          {"itemId":"Incense-245","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-245","quantity":1,"cost":160,"limit":7,"week":1},
+          {"itemId":95,"quantity":1,"cost":60,"limit":2,"week":1},
+          {"itemId":95,"quantity":1,"cost":120,"limit":10,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":40,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":18,"quantity":1,"cost":12,"limit":15,"week":1},
+          {"itemId":32,"quantity":1,"cost":350,"limit":1,"week":1},
+          {"itemId":23,"quantity":1,"cost":120,"limit":1,"week":1},
+          {"itemId":"Candy-245","quantity":1,"cost":2,"limit":100,"week":1},
+          {"itemId":"Candy-245","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Incense-245","quantity":1,"cost":70,"limit":2,"week":2},
+          {"itemId":95,"quantity":1,"cost":50,"limit":2,"week":2}
+        ]
+      },
       "name": "水君研究",
       "announcedOn": null,
       "startsOn": "2024-09-02",
@@ -4921,6 +4977,24 @@
     },
     {
       "id": "announcement-323135353933333136383332353039393533",
+      "exchange": {
+        "currencyItemId": 98,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC2025",
+        "offers": [
+          {"itemId":9,"quantity":1,"cost":20,"limit":10,"week":1},
+          {"itemId":10,"quantity":1,"cost":60,"limit":5,"week":1},
+          {"itemId":34,"quantity":1,"cost":45,"limit":3,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":18,"quantity":1,"cost":15,"limit":5,"week":1},
+          {"itemId":32,"quantity":1,"cost":300,"limit":1,"week":1},
+          {"itemId":15,"quantity":1,"cost":15,"limit":10,"week":1},
+          {"itemId":"Candy-906","quantity":1,"cost":5,"limit":999,"week":1},
+          {"itemId":"Candy-909","quantity":1,"cost":5,"limit":999,"week":1},
+          {"itemId":"Candy-912","quantity":1,"cost":5,"limit":999,"week":1},
+          {"itemId":9,"quantity":1,"cost":15,"limit":5,"week":2},
+          {"itemId":12,"quantity":1,"cost":10,"limit":5,"week":2}
+        ]
+      },
       "name": "新年2025",
       "announcedOn": "2024-12-27",
       "startsOn": "2024-12-30",
@@ -6146,6 +6220,27 @@
     },
     {
       "id": "announcement-323436343635363930323437313032343635",
+      "exchange": {
+        "currencyItemId": 100,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%AA%E3%82%A2VS%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A4",
+        "offers": [
+          {"itemId":"Incense-488","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-488","quantity":1,"cost":160,"limit":7,"week":1},
+          {"itemId":99,"quantity":1,"cost":60,"limit":2,"week":1},
+          {"itemId":99,"quantity":1,"cost":120,"limit":10,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":48,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":18,"quantity":1,"cost":12,"limit":15,"week":1},
+          {"itemId":32,"quantity":1,"cost":350,"limit":1,"week":1},
+          {"itemId":27,"quantity":1,"cost":120,"limit":1,"week":1},
+          {"itemId":5,"quantity":1,"cost":20,"limit":1,"week":1},
+          {"itemId":"Candy-488","quantity":1,"cost":2,"limit":100,"week":1},
+          {"itemId":"Candy-488","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Incense-488","quantity":1,"cost":70,"limit":2,"week":2},
+          {"itemId":99,"quantity":1,"cost":50,"limit":2,"week":2},
+          {"itemId":12,"quantity":1,"cost":10,"limit":10,"week":2}
+        ]
+      },
       "name": "克雷色利亞VS達克萊伊",
       "announcedOn": "2025-03-20",
       "startsOn": "2025-03-31",
@@ -8954,6 +9049,37 @@
     },
     {
       "id": "announcement-333032323532323137353634333937353639",
+      "exchange": {
+        "currencyItemId": 105,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%A9%E3%82%A4%E3%82%B3%E3%82%A6%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A4%E3%83%BB%E3%82%B9%E3%82%A4%E3%82%AF%E3%83%B3%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81",
+        "offers": [
+          {"itemId":"Incense-243","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-244","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-245","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-243","quantity":1,"cost":160,"limit":5,"week":1},
+          {"itemId":"Incense-244","quantity":1,"cost":160,"limit":5,"week":1},
+          {"itemId":"Incense-245","quantity":1,"cost":160,"limit":5,"week":1},
+          {"itemId":106,"quantity":1,"cost":60,"limit":2,"week":1},
+          {"itemId":106,"quantity":1,"cost":120,"limit":10,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":24,"quantity":1,"cost":120,"limit":1,"week":1},
+          {"itemId":22,"quantity":1,"cost":120,"limit":1,"week":1},
+          {"itemId":23,"quantity":1,"cost":120,"limit":1,"week":1},
+          {"itemId":18,"quantity":1,"cost":10,"limit":15,"week":1},
+          {"itemId":32,"quantity":1,"cost":350,"limit":1,"week":1},
+          {"itemId":"Candy-243","quantity":1,"cost":2,"limit":50,"week":1},
+          {"itemId":"Candy-244","quantity":1,"cost":2,"limit":50,"week":1},
+          {"itemId":"Candy-245","quantity":1,"cost":2,"limit":50,"week":1},
+          {"itemId":"Candy-243","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Candy-244","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Candy-245","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Incense-243","quantity":1,"cost":70,"limit":1,"week":2},
+          {"itemId":"Incense-244","quantity":1,"cost":70,"limit":1,"week":2},
+          {"itemId":"Incense-245","quantity":1,"cost":70,"limit":1,"week":2},
+          {"itemId":106,"quantity":1,"cost":50,"limit":2,"week":2},
+          {"itemId":12,"quantity":1,"cost":10,"limit":10,"week":2}
+        ]
+      },
       "name": "雷公＆炎帝＆水君研究",
       "announcedOn": "2025-08-20",
       "startsOn": "2025-09-08",
@@ -11146,6 +11272,24 @@
     },
     {
       "id": "announcement-333435333139353737393034373432343032",
+      "exchange": {
+        "currencyItemId": 107,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC2026",
+        "offers": [
+          {"itemId":9,"quantity":1,"cost":20,"limit":10,"week":1},
+          {"itemId":10,"quantity":1,"cost":60,"limit":5,"week":1},
+          {"itemId":34,"quantity":1,"cost":45,"limit":3,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":18,"quantity":1,"cost":10,"limit":5,"week":1},
+          {"itemId":32,"quantity":1,"cost":300,"limit":1,"week":1},
+          {"itemId":15,"quantity":1,"cost":15,"limit":10,"week":1},
+          {"itemId":"Candy-252","quantity":1,"cost":5,"limit":999,"week":1},
+          {"itemId":"Candy-255","quantity":1,"cost":5,"limit":999,"week":1},
+          {"itemId":"Candy-258","quantity":1,"cost":5,"limit":999,"week":1},
+          {"itemId":9,"quantity":1,"cost":15,"limit":5,"week":2},
+          {"itemId":12,"quantity":1,"cost":10,"limit":5,"week":2}
+        ]
+      },
       "name": "新年2026",
       "announcedOn": "2025-12-17",
       "startsOn": "2025-12-29",
@@ -13125,6 +13269,27 @@
     },
     {
       "id": "announcement-333738363536323735393239343937363031",
+      "exchange": {
+        "currencyItemId": 111,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A2%E3%82%B9%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81",
+        "offers": [
+          {"itemId":"Incense-380","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-380","quantity":1,"cost":160,"limit":7,"week":1},
+          {"itemId":110,"quantity":1,"cost":60,"limit":2,"week":1},
+          {"itemId":110,"quantity":1,"cost":120,"limit":10,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":52,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":18,"quantity":1,"cost":12,"limit":15,"week":1},
+          {"itemId":32,"quantity":1,"cost":350,"limit":1,"week":1},
+          {"itemId":34,"quantity":1,"cost":45,"limit":3,"week":1},
+          {"itemId":5,"quantity":1,"cost":20,"limit":1,"week":1},
+          {"itemId":"Candy-380","quantity":1,"cost":2,"limit":100,"week":1},
+          {"itemId":"Candy-380","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Incense-380","quantity":1,"cost":70,"limit":2,"week":2},
+          {"itemId":110,"quantity":1,"cost":50,"limit":2,"week":2},
+          {"itemId":12,"quantity":1,"cost":10,"limit":10,"week":2}
+        ]
+      },
       "name": "拉帝亞斯研究",
       "announcedOn": "2026-03-19",
       "startsOn": "2026-04-06",
@@ -14270,6 +14435,30 @@
     },
     {
       "id": "announcement-343031343632313536343838333433353533",
+      "exchange": {
+        "currencyItemId": 113,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E3%83%A9%E3%83%86%E3%82%A3%E3%82%AA%E3%82%B9%E3%81%A8%E3%81%93%E3%81%93%E3%82%8D%E3%81%AE%E3%81%97%E3%81%9A%E3%81%8F",
+        "offers": [
+          {"itemId":"Incense-381","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-380","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-381","quantity":1,"cost":160,"limit":7,"week":1},
+          {"itemId":"Incense-380","quantity":1,"cost":160,"limit":3,"week":1},
+          {"itemId":112,"quantity":1,"cost":60,"limit":2,"week":1},
+          {"itemId":112,"quantity":1,"cost":120,"limit":10,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":52,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":18,"quantity":1,"cost":10,"limit":15,"week":1},
+          {"itemId":32,"quantity":1,"cost":350,"limit":1,"week":1},
+          {"itemId":34,"quantity":1,"cost":45,"limit":3,"week":1},
+          {"itemId":"Candy-381","quantity":1,"cost":2,"limit":100,"week":1},
+          {"itemId":"Candy-381","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Candy-380","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Incense-381","quantity":1,"cost":70,"limit":2,"week":2},
+          {"itemId":"Incense-380","quantity":1,"cost":70,"limit":1,"week":2},
+          {"itemId":112,"quantity":1,"cost":50,"limit":2,"week":2},
+          {"itemId":12,"quantity":1,"cost":10,"limit":10,"week":2}
+        ]
+      },
       "name": "拉帝歐斯與心之水滴",
       "announcedOn": "2026-05-22",
       "startsOn": "2026-06-08",
@@ -16179,6 +16368,27 @@
     },
     {
       "id": "announcement-343239383235333132353739313235323439",
+      "exchange": {
+        "currencyItemId": 118,
+        "source": "https://wikiwiki.jp/poke_sleep/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E7%A7%98%E5%A2%83%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%EF%BC%81%E3%83%9F%E3%83%A5%E3%82%A6%E3%83%84%E3%83%BC%E3%82%92%E3%81%8A%E3%81%84%E3%81%8B%E3%81%91%E3%81%A6",
+        "offers": [
+          {"itemId":"Incense-150","quantity":1,"cost":80,"limit":2,"week":1},
+          {"itemId":"Incense-150","quantity":1,"cost":160,"limit":9,"week":1},
+          {"itemId":117,"quantity":1,"cost":60,"limit":2,"week":1},
+          {"itemId":117,"quantity":1,"cost":120,"limit":10,"week":1},
+          {"itemId":12,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":48,"quantity":1,"cost":12,"limit":10,"week":1},
+          {"itemId":18,"quantity":1,"cost":10,"limit":15,"week":1},
+          {"itemId":32,"quantity":1,"cost":350,"limit":1,"week":1},
+          {"itemId":115,"quantity":1,"cost":250,"limit":1,"week":1,"seedPokemonId":150},
+          {"itemId":34,"quantity":1,"cost":45,"limit":3,"week":1},
+          {"itemId":"Candy-150","quantity":1,"cost":2,"limit":150,"week":1},
+          {"itemId":"Candy-150","quantity":1,"cost":6,"limit":999,"week":1},
+          {"itemId":"Incense-150","quantity":1,"cost":70,"limit":2,"week":2},
+          {"itemId":117,"quantity":1,"cost":50,"limit":2,"week":2},
+          {"itemId":12,"quantity":1,"cost":10,"limit":10,"week":2}
+        ]
+      },
       "name": "秘境研究！追尋超夢吧",
       "announcedOn": "2026-09-03",
       "startsOn": "2026-09-14",
@@ -16419,7 +16629,7 @@
         {
           "kind": "official",
           "url": "https://www.pokemonsleep.net/zh/news/343239383235333132353739313235323439/",
-          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。"
+          "note": "本次活动正文核对；bonusSource 如指向 Wiki，保留其历史文案来源。 官方公告未列全价目；兑换价格和限额采用 exchange.source 的攻略验证 Wiki 表。Serebii 的部分价格和限额不同，例如梦之块S列为12，验证 Wiki 列为10。"
         }
       ]
     },

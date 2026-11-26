@@ -3,6 +3,11 @@
   "locales": {
     "zh-TW": {
       "messages": {
+        "兑换道具": "兌換道具",
+        "常规兑换": "常規兌換",
+        "第2周追加": "第2週追加",
+        "限兑 {count} 次": "限兌 {count} 次",
+        "{pokemon}的薰香": "{pokemon}的薰香",
         "RAE 睡姿抽选资料不完整": "RAE 睡姿抽選資料不完整",
         "RAE 睡姿抽选缺少符合限额的补位睡姿": "RAE 睡姿抽選缺少符合限額的補位睡姿",
         "RAE 睡姿抽选缺少可负担的末槽候选": "RAE 睡姿抽選缺少符合剩餘預算的末槽候選",
@@ -3737,6 +3742,11 @@
     },
     "ja": {
       "messages": {
+        "兑换道具": "交換できるどうぐ",
+        "常规兑换": "通常交換",
+        "第2周追加": "2週目追加",
+        "限兑 {count} 次": "交換上限 {count} 回",
+        "{pokemon}的薰香": "{pokemon}のおこう",
         "RAE 睡姿抽选资料不完整": "RAEの寝顔抽選データが不完全です",
         "RAE 睡姿抽选缺少符合限额的补位睡姿": "RAEの寝顔抽選に出現制限を満たす補充候補がありません",
         "RAE 睡姿抽选缺少可负担的末槽候选": "RAEの寝顔抽選に残り予算で選べる最終枠の候補がありません",
@@ -7407,6 +7417,11 @@
     },
     "en": {
       "messages": {
+        "兑换道具": "Exchange items",
+        "常规兑换": "Regular exchanges",
+        "第2周追加": "Week 2 additions",
+        "限兑 {count} 次": "Limit: {count}",
+        "{pokemon}的薰香": "{pokemon} Incense",
         "RAE 睡姿抽选资料不完整": "RAE sleep style draw data is incomplete.",
         "RAE 睡姿抽选缺少符合限额的补位睡姿": "The RAE draw has no filler sleep styles within the encounter limits.",
         "RAE 睡姿抽选缺少可负担的末槽候选": "The RAE draw has no affordable sleep style for the final slot.",
